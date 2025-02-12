@@ -1,0 +1,2 @@
+This folder stores extraction results for abstracts using extract_W2R_compare.py.
+set --repeat 5 will create sub-folder from run1 to run5.

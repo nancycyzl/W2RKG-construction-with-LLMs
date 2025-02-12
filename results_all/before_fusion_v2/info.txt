@@ -1,0 +1,1 @@
+This folder saves the combined results from abstract and fulltext results, obtained with merge_results_and_statics.py.

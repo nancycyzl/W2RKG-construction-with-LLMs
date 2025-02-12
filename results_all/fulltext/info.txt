@@ -1,0 +1,1 @@
+This folder stores extraction results from fulltext, obtained with extract_W2R_fulltext.py.

@@ -1,0 +1,4804 @@
+{
+    "0": [
+        "Tetratetracontane",
+        "HTC pellet"
+    ],
+    "1": [
+        "peptides",
+        "bioactive peptides",
+        "amino acids"
+    ],
+    "2": [
+        "bioaerogels",
+        "biomanure",
+        "bioaromas"
+    ],
+    "3": [
+        "porous ceramics",
+        "ceramic membranes"
+    ],
+    "4": [
+        "purified materials",
+        "clarified water"
+    ],
+    "5": [
+        "rehabilitated landscape"
+    ],
+    "6": [
+        "road construction materials",
+        "pavement materials",
+        "subgrade materials"
+    ],
+    "7": [
+        "sugar syrup",
+        "fructose syrup",
+        "glucose syrup"
+    ],
+    "8": [
+        "fiber reinforcement in construction materials",
+        "fiber-reinforced cement composites",
+        "fiber-reinforced soil"
+    ],
+    "9": [
+        "soil",
+        "peat",
+        "humus"
+    ],
+    "10": [
+        "phenolic compounds",
+        "total phenolic content",
+        "bioactive phenolic compounds"
+    ],
+    "11": [
+        "metal oxides"
+    ],
+    "12": [
+        "surface-bound electrochemical processes"
+    ],
+    "13": [
+        "concrete",
+        "high strength concrete",
+        "polymer concrete",
+        "reinforced concrete",
+        "ultra-high-performance concrete",
+        "pervious concrete",
+        "aerated concrete",
+        "geopolymer eco-cellular concrete"
+    ],
+    "14": [
+        "natural food colorants"
+    ],
+    "15": [
+        "reduced contamination",
+        "total elimination of arsenic",
+        "removed organic matter",
+        "removed pesticides",
+        "lowered inorganic elements"
+    ],
+    "16": [
+        "heavy fuel oil",
+        "crude oil",
+        "oil"
+    ],
+    "17": [
+        "phytochemicals",
+        "medicinal plants"
+    ],
+    "18": [
+        "thallium",
+        "titanium",
+        "indium tin oxide",
+        "titanium dioxide",
+        "indium oxide"
+    ],
+    "19": [
+        "nutraceutical ingredients",
+        "functional ingredients",
+        "novel food products",
+        "biofortified ingredients"
+    ],
+    "20": [
+        "levan",
+        "xanthan",
+        "beta-glucans",
+        "pullulan",
+        "curdlan gum"
+    ],
+    "21": [
+        "metastable complex"
+    ],
+    "22": [
+        "energy-dense product"
+    ],
+    "23": [
+        "multi-material soft robotic gripper"
+    ],
+    "24": [
+        "catalysts"
+    ],
+    "25": [
+        "polyurethane foam",
+        "shoe sole materials"
+    ],
+    "26": [
+        "additive materials",
+        "FDM filament"
+    ],
+    "27": [
+        "dioxins",
+        "de-brominated materials",
+        "dechlorinated materials",
+        "degraded hexachlorobenzene"
+    ],
+    "28": [
+        "carbon nanotubes"
+    ],
+    "29": [
+        "bread",
+        "flour",
+        "sourdough bread",
+        "bakery ingredients"
+    ],
+    "30": [
+        "water quality improvement",
+        "reduced water evaporation rate",
+        "improved dewaterability",
+        "reduced salinity"
+    ],
+    "31": [
+        "dihydropyrimidinone"
+    ],
+    "32": [
+        "asphalt",
+        "warm asphalt mixture",
+        "bio-modified rubberized asphalt",
+        "asphalt-like emulsion",
+        "asphalt additives",
+        "asphalt concrete",
+        "recycled asphalt mixtures",
+        "enhanced asphalt performance",
+        "polymer-bitumen binder",
+        "industrial bitumen",
+        "lignin bitumen composite",
+        "self-healing asphalt mixtures",
+        "bio-modifiers for asphalt binders"
+    ],
+    "33": [
+        "lithium",
+        "lithium-sulfur batteries",
+        "battery components"
+    ],
+    "34": [
+        "slag-based materials"
+    ],
+    "35": [
+        "hydrocarbon mixtures",
+        "volatile fatty acids",
+        "organic acids",
+        "POS mixtures",
+        "injection mixtures",
+        "oligogalacturonic acid mixtures"
+    ],
+    "36": [
+        "biomass",
+        "bioenergy"
+    ],
+    "37": [
+        "products"
+    ],
+    "38": [
+        "fraction"
+    ],
+    "39": [
+        "energy resource",
+        "energy savings",
+        "energy utilization",
+        "energy efficiency"
+    ],
+    "40": [
+        "geotextiles",
+        "geomaterials",
+        "geosynthetics"
+    ],
+    "41": [
+        "amylase",
+        "amylopectin"
+    ],
+    "42": [
+        "bio-alcohols",
+        "Bio-CNG",
+        "CO\u2082llageneer\u00aeBio",
+        "bio-MeOH"
+    ],
+    "43": [
+        "manganese"
+    ],
+    "44": [
+        "mixed metal oxides"
+    ],
+    "45": [
+        "wool"
+    ],
+    "46": [
+        "bioplastics",
+        "biodegradable plastics",
+        "biopolymers",
+        "biomass biopolyols",
+        "bioplastic compounds"
+    ],
+    "47": [
+        "synthetic fuel"
+    ],
+    "48": [
+        "soil mixed with construction and demolition waste",
+        "stabilized construction and demolition waste aggregates",
+        "sandalwood"
+    ],
+    "49": [
+        "reactive oxygen species",
+        "hydrogen peroxide",
+        "DPPH scavenging activity"
+    ],
+    "50": [
+        "organic matter",
+        "humic substances",
+        "dissolved organic carbon"
+    ],
+    "51": [
+        "ammonium compounds"
+    ],
+    "52": [
+        "zirconium",
+        "cadmium",
+        "rhenium",
+        "rubidium",
+        "tungsten",
+        "germanium",
+        "erbium",
+        "lead",
+        "molybdenum",
+        "tantalum",
+        "arsenic",
+        "niobium",
+        "cesium"
+    ],
+    "53": [
+        "cocoa butter",
+        "cocoa flour"
+    ],
+    "54": [
+        "antibiotic resistance genes",
+        "antibiotic-resistant bacteria",
+        "virulence factor genes"
+    ],
+    "55": [
+        "fuel"
+    ],
+    "56": [
+        "blends"
+    ],
+    "57": [
+        "electricity",
+        "energy generation",
+        "energy recovery",
+        "power generation"
+    ],
+    "58": [
+        "biological products",
+        "biobased chemicals",
+        "biomaterials",
+        "biopolymers",
+        "renewable chemicals"
+    ],
+    "59": [
+        "phase change material",
+        "composite materials"
+    ],
+    "60": [
+        "biomethane",
+        "biogas",
+        "gaseous biofuels"
+    ],
+    "61": [
+        "Fe-based alloys",
+        "low-carbon high-efficiency materials"
+    ],
+    "62": [
+        "heart valves",
+        "gums"
+    ],
+    "63": [
+        "opioid concentrations"
+    ],
+    "64": [
+        "dye removal"
+    ],
+    "65": [
+        "olive pomace",
+        "olive oil"
+    ],
+    "66": [
+        "calcium phosphate",
+        "struvite",
+        "apatite",
+        "hydroxyapatite",
+        "phosphate rock"
+    ],
+    "67": [
+        "FAME"
+    ],
+    "68": [
+        "quinones"
+    ],
+    "69": [
+        "carbon nanoparticles",
+        "carbon quantum dots",
+        "carbon nanomaterials"
+    ],
+    "70": [
+        "nitrogen-containing compounds"
+    ],
+    "71": [
+        "nutrition",
+        "dietary supplement",
+        "wellness"
+    ],
+    "72": [
+        "reduced graphene oxide"
+    ],
+    "73": [
+        "calcium carbonate",
+        "calcium phosphate",
+        "calcium"
+    ],
+    "74": [
+        "spinel crystal structure"
+    ],
+    "75": [
+        "bioactive compounds"
+    ],
+    "76": [
+        "poly gamma glutamic acid"
+    ],
+    "77": [
+        "treated water",
+        "wastewater treatment"
+    ],
+    "78": [
+        "energy storage"
+    ],
+    "79": [
+        "scandium",
+        "critical rare earth metal",
+        "critical metals"
+    ],
+    "80": [
+        "fly ash",
+        "bottom ash"
+    ],
+    "81": [
+        "colored fabric samples"
+    ],
+    "82": [
+        "bioactive pigments"
+    ],
+    "83": [
+        "biomass"
+    ],
+    "84": [
+        "crop yield"
+    ],
+    "85": [
+        "WCO-based products"
+    ],
+    "86": [
+        "benefits"
+    ],
+    "87": [
+        "biochemical oxygen demand",
+        "chemical oxygen demand"
+    ],
+    "88": [
+        "degradation products"
+    ],
+    "89": [
+        "reduction products"
+    ],
+    "90": [
+        "sensors"
+    ],
+    "91": [
+        "frass fertilizer",
+        "fertilizer alternatives"
+    ],
+    "92": [
+        "titanium dioxide"
+    ],
+    "93": [
+        "metal stabilization"
+    ],
+    "94": [
+        "polygalacturonase",
+        "bromelain",
+        "pectinase"
+    ],
+    "95": [
+        "biomaterials",
+        "biotechnological applications",
+        "biomedicine",
+        "tissue engineering"
+    ],
+    "96": [
+        "silver"
+    ],
+    "97": [
+        "clinker",
+        "calcium aluminate clinker"
+    ],
+    "98": [
+        "pesticides",
+        "environmental contaminant",
+        "less toxic compounds",
+        "non-toxic products"
+    ],
+    "99": [
+        "man-made fibers",
+        "biopolymer fibers",
+        "biodegradable fibers"
+    ],
+    "100": [
+        "meal"
+    ],
+    "101": [
+        "concrete samples",
+        "mortar formulations"
+    ],
+    "102": [
+        "hydroxide"
+    ],
+    "103": [
+        "biobased films"
+    ],
+    "104": [
+        "income"
+    ],
+    "105": [
+        "sterols",
+        "phytosterols"
+    ],
+    "106": [
+        "plant elicitor"
+    ],
+    "107": [
+        "biofuels",
+        "biodiesel",
+        "bioethanol",
+        "liquid biofuels",
+        "solid biofuels"
+    ],
+    "108": [
+        "plant-based protein",
+        "protein-rich biomass"
+    ],
+    "109": [
+        "fodder"
+    ],
+    "110": [
+        "minerals"
+    ],
+    "111": [
+        "culture medium",
+        "substrate"
+    ],
+    "112": [
+        "formaldehyde",
+        "butanol",
+        "ethanol",
+        "methanol",
+        "biobutanol",
+        "biomethanol",
+        "acetaldehyde",
+        "acetone"
+    ],
+    "113": [
+        "water retention"
+    ],
+    "114": [
+        "skin grafts"
+    ],
+    "115": [
+        "pellets",
+        "briquettes"
+    ],
+    "116": [
+        "nesquehonite",
+        "mayenite",
+        "mirabilite",
+        "ceramsite",
+        "barite"
+    ],
+    "117": [
+        "reusable materials",
+        "reused resources",
+        "repurposed materials"
+    ],
+    "118": [
+        "energy storage materials",
+        "sodium-ion batteries",
+        "zinc-ion batteries"
+    ],
+    "119": [
+        "membrane"
+    ],
+    "120": [
+        "superabsorbent hydrogel"
+    ],
+    "121": [
+        "gibbsite",
+        "kuzelite",
+        "ettringite",
+        "vivianite",
+        "non-magnetic lizardite concentrate",
+        "maghemite",
+        "brushite",
+        "straetlingite",
+        "Dypingite"
+    ],
+    "122": [
+        "cementitious materials",
+        "concrete composites",
+        "mortars"
+    ],
+    "123": [
+        "sodium silicate"
+    ],
+    "124": [
+        "lignocellulose",
+        "lignocellulosic biomass",
+        "laccase",
+        "lignocellulosic-based ethanol",
+        "lignocellulosic nanofibrils"
+    ],
+    "125": [
+        "fishmeal",
+        "canned tuna",
+        "fish-based products",
+        "cultured fish"
+    ],
+    "126": [
+        "sustainable food"
+    ],
+    "127": [
+        "cyclohexane"
+    ],
+    "128": [
+        "meat"
+    ],
+    "129": [
+        "RDF",
+        "uranium",
+        "cerium",
+        "nitrogen",
+        "formate",
+        "phosphorus",
+        "vanadium",
+        "bases"
+    ],
+    "130": [
+        "non-adverse compounds"
+    ],
+    "131": [
+        "therapeutic molecules"
+    ],
+    "132": [
+        "coatings for food protection"
+    ],
+    "133": [
+        "chemicals",
+        "chemical products"
+    ],
+    "134": [
+        "insect-based protein",
+        "black soldier fly biomass",
+        "mealworm"
+    ],
+    "135": [
+        "biodegradable personal protective equipment"
+    ],
+    "136": [
+        "organic acids"
+    ],
+    "137": [
+        "pyrolysis products",
+        "pyrolytic oils",
+        "pyrolytic gases",
+        "pyroligneous acid",
+        "pyrogenic gases"
+    ],
+    "138": [
+        "adsorbent for pharmaceuticals"
+    ],
+    "139": [
+        "enzymes"
+    ],
+    "140": [
+        "functional food",
+        "biopolymer",
+        "lyophilized fruit powder",
+        "innovative ingredient",
+        "blended juice ingredient",
+        "encapsulated fruit extract"
+    ],
+    "141": [
+        "antimicrobial agents",
+        "antibiotics"
+    ],
+    "142": [
+        "decontaminated food",
+        "detoxified agricultural food waste",
+        "bagged plant food product",
+        "detoxified seed meal"
+    ],
+    "143": [
+        "resveratrol",
+        "rebaudioside M"
+    ],
+    "144": [
+        "fatty acid methyl esters",
+        "asphaltene components"
+    ],
+    "145": [
+        "environmental credits"
+    ],
+    "146": [
+        "hemicellulose"
+    ],
+    "147": [
+        "platform chemicals",
+        "structured catalytic material M-CoC-450",
+        "tailored commodity chemicals"
+    ],
+    "148": [
+        "clean clothing",
+        "radioactive waste treatment",
+        "clean-up of contaminated sites"
+    ],
+    "149": [
+        "fertilizer"
+    ],
+    "150": [
+        "cedrol",
+        "sclareol",
+        "squalene"
+    ],
+    "151": [
+        "biopolymer granules"
+    ],
+    "152": [
+        "employment",
+        "information sharing",
+        "support",
+        "technology",
+        "data"
+    ],
+    "153": [
+        "salt",
+        "sodium chloride",
+        "potassium chloride",
+        "calcium chloride",
+        "magnesium chloride",
+        "chloride"
+    ],
+    "154": [
+        "photographic film"
+    ],
+    "155": [
+        "sugar alcohols"
+    ],
+    "156": [
+        "homogeneous material"
+    ],
+    "157": [
+        "fungal conidia",
+        "mycelium",
+        "Trichoderma harzianum"
+    ],
+    "158": [
+        "biological energy",
+        "bioelectricity",
+        "biopower"
+    ],
+    "159": [
+        "combustible gases",
+        "carbon monoxide",
+        "natural gas",
+        "cooking gas"
+    ],
+    "160": [
+        "organic resources",
+        "nutrient resources",
+        "valuable resources"
+    ],
+    "161": [
+        "hydrogarnets",
+        "DDGS"
+    ],
+    "162": [
+        "adsorbent for pollutant removal",
+        "adsorbent for heavy metals",
+        "adsorbent for wastewater treatment",
+        "adsorbent for nickel(II)",
+        "adsorbent for Methylene Blue removal",
+        "adsorbent for arsenic contaminated drinking water",
+        "adsorbent for metal ions",
+        "adsorbent for toxic metals from wastewater",
+        "adsorbent for Urolene Blue dye",
+        "low-cost adsorbent",
+        "advanced adsorptive materials",
+        "reliable adsorbent",
+        "recoverable adsorbent",
+        "high-performance adsorbent",
+        "adsorption materials",
+        "adsorption capacity",
+        "high specific surface area adsorbent",
+        "aluminum-based adsorbent",
+        "iron-based adsorbent",
+        "calcium-containing adsorbent",
+        "heavy metal adsorbent",
+        "high capacity H2S adsorbent",
+        "adsorbent for biogas upgrading"
+    ],
+    "163": [
+        "composite materials"
+    ],
+    "164": [
+        "separated cobalt",
+        "separated lithium",
+        "separated europium"
+    ],
+    "165": [
+        "organic amendment"
+    ],
+    "166": [
+        "water resource",
+        "livestock",
+        "bio-commodities",
+        "bioeconomy",
+        "environmental technology"
+    ],
+    "167": [
+        "agriculture",
+        "agricultural products",
+        "agricultural output",
+        "agri-food systems"
+    ],
+    "168": [
+        "mechanical strength"
+    ],
+    "169": [
+        "final oxide powder"
+    ],
+    "170": [
+        "food additives",
+        "feed additives",
+        "proteins"
+    ],
+    "171": [
+        "corn flakes",
+        "durian-based food products",
+        "nixtamalized products"
+    ],
+    "172": [
+        "gelling agents",
+        "cementing gels",
+        "bioethanol gel"
+    ],
+    "173": [
+        "natural additives",
+        "natural polymers"
+    ],
+    "174": [
+        "acetylglucosamine",
+        "hyaluronic acid",
+        "glucosamine",
+        "glycosaminoglycans"
+    ],
+    "175": [
+        "hydrochar",
+        "hydrotreatment products",
+        "hydrocracking products"
+    ],
+    "176": [
+        "limonoids",
+        "limonene",
+        "p-coumaric acid",
+        "coumaric acid",
+        "d-limonene",
+        "Coumarins"
+    ],
+    "177": [
+        "aquatic ecosystem"
+    ],
+    "178": [
+        "mineral compounds",
+        "inorganic salts",
+        "organic minerals"
+    ],
+    "179": [
+        "thermal materials",
+        "thermal stability"
+    ],
+    "180": [
+        "glycolipids",
+        "biosurfactants"
+    ],
+    "181": [
+        "lactose",
+        "carbonized milk powder",
+        "Lipolyzed Milk Fat"
+    ],
+    "182": [
+        "coal"
+    ],
+    "183": [
+        "mature product",
+        "fortification",
+        "higher strengths",
+        "metal"
+    ],
+    "184": [
+        "ye'elimite"
+    ],
+    "185": [
+        "punicalagins",
+        "Punicalin A",
+        "Punicalin B"
+    ],
+    "186": [
+        "sustainable resources",
+        "clean production resources"
+    ],
+    "187": [
+        "plant growth"
+    ],
+    "188": [
+        "sustainable innovation",
+        "sustainable production",
+        "economic sustainability",
+        "sustainable employment"
+    ],
+    "189": [
+        "waste valorization",
+        "biomass valorization",
+        "valorized organic solid waste",
+        "valorized agro-food waste",
+        "valorized manure",
+        "valorized marine and coastal resources",
+        "valorized agroindustrial residues",
+        "biowaste valorization"
+    ],
+    "190": [
+        "plant-based foods",
+        "plant-based beverages"
+    ],
+    "191": [
+        "nanomaterials",
+        "advanced materials"
+    ],
+    "192": [
+        "drinking water",
+        "purified water",
+        "effluent"
+    ],
+    "193": [
+        "nitrogen removal"
+    ],
+    "194": [
+        "animal feed",
+        "protein feed"
+    ],
+    "195": [
+        "yeast extracts"
+    ],
+    "196": [
+        "solid products"
+    ],
+    "197": [
+        "iron"
+    ],
+    "198": [
+        "metals",
+        "precious metals",
+        "alloys",
+        "minerals"
+    ],
+    "199": [
+        "activated carbon"
+    ],
+    "200": [
+        "soap",
+        "surfactants",
+        "sponge",
+        "Lauric acid",
+        "surfactin"
+    ],
+    "201": [
+        "biopolymer composites"
+    ],
+    "202": [
+        "polymers"
+    ],
+    "203": [
+        "active packaging",
+        "sustainable food package design",
+        "rigid food packaging"
+    ],
+    "204": [
+        "microbial protein",
+        "insect protein"
+    ],
+    "205": [
+        "cadmium carbonate",
+        "sulfonated polyphenylene oxide"
+    ],
+    "206": [
+        "phosphorus",
+        "phosphate fertilizer"
+    ],
+    "207": [
+        "carbon-based nanocomposite materials"
+    ],
+    "208": [
+        "crystallisation",
+        "crystals"
+    ],
+    "209": [
+        "silver nanoparticles",
+        "silver phosphate",
+        "silver chloride",
+        "silver oxide"
+    ],
+    "210": [
+        "wood"
+    ],
+    "211": [
+        "sustainable urban development"
+    ],
+    "212": [
+        "antioxidant extracts",
+        "antioxidant-rich extracts",
+        "antioxidant products"
+    ],
+    "213": [
+        "plant growth enhancement",
+        "seed germination improvement",
+        "root elongation improvement"
+    ],
+    "214": [
+        "functional genes"
+    ],
+    "215": [
+        "hydrogen",
+        "biohydrogen"
+    ],
+    "216": [
+        "low strength materials"
+    ],
+    "217": [
+        "iron complexes"
+    ],
+    "218": [
+        "architectural project"
+    ],
+    "219": [
+        "lactic acid"
+    ],
+    "220": [
+        "thermosetting materials",
+        "thermoplastic materials",
+        "polymers",
+        "resins",
+        "plastics",
+        "polyethylene",
+        "polypropylene",
+        "polyethylene terephthalate",
+        "polystyrene",
+        "styrene",
+        "bioethylene"
+    ],
+    "221": [
+        "filler materials"
+    ],
+    "222": [
+        "PET"
+    ],
+    "223": [
+        "beverages",
+        "carbonated products"
+    ],
+    "224": [
+        "scaffolds",
+        "bone implants",
+        "biofabrics"
+    ],
+    "225": [
+        "aerogels",
+        "hydrogels"
+    ],
+    "226": [
+        "reclaimed water",
+        "purified water"
+    ],
+    "227": [
+        "wood plastic composites",
+        "wood adhesives"
+    ],
+    "228": [
+        "lithium-ion batteries",
+        "battery electrodes",
+        "anode materials"
+    ],
+    "229": [
+        "animal feed"
+    ],
+    "230": [
+        "rayon"
+    ],
+    "231": [
+        "fatty acids",
+        "aromatic acids",
+        "alpha-hydroxy acids",
+        "dicarboxylic acids"
+    ],
+    "232": [
+        "scientific research database"
+    ],
+    "233": [
+        "waste-derived fuels",
+        "energy from waste",
+        "waste-based cement",
+        "waste-derived materials"
+    ],
+    "234": [
+        "canned fruit",
+        "kiwifruit chips",
+        "yellow kiwifruit snacks",
+        "jellies",
+        "strawberry",
+        "enriched smoothies",
+        "gummy candy",
+        "snacks"
+    ],
+    "235": [
+        "wall materials"
+    ],
+    "236": [
+        "natural antimicrobial agents"
+    ],
+    "237": [
+        "acetate",
+        "butyric acid",
+        "butanedioic acid",
+        "palmitoleic acid",
+        "propionic acid",
+        "butyl propionate",
+        "propionate",
+        "b-ketoadipate",
+        "butyrate"
+    ],
+    "238": [
+        "aggregates",
+        "artificial aggregates",
+        "natural aggregates",
+        "lightweight aggregates",
+        "fine aggregates",
+        "coarse aggregates"
+    ],
+    "239": [
+        "cement"
+    ],
+    "240": [
+        "intracellular polysaccharides"
+    ],
+    "241": [
+        "constructed wetlands",
+        "biosolids",
+        "biosolid-amended soils"
+    ],
+    "242": [
+        "carbon materials",
+        "carbon fibers",
+        "carbon composites",
+        "hard carbon",
+        "high-performance carbon"
+    ],
+    "243": [
+        "crop productivity",
+        "maize productivity"
+    ],
+    "244": [
+        "barium",
+        "calcium bdc complex",
+        "strontium",
+        "ammonium scandium fluoride"
+    ],
+    "245": [
+        "recovered carbon dioxide",
+        "recovered inorganic compounds",
+        "recovered ammonium",
+        "recovered superabsorbent polymer",
+        "recovered collagen",
+        "recovered proteins",
+        "recovered atrazine",
+        "recovered shell membrane",
+        "recovered nitrogen",
+        "recovered organic compounds"
+    ],
+    "246": [
+        "tiles",
+        "roof tiles",
+        "ceramic tiles"
+    ],
+    "247": [
+        "collagen",
+        "collagen type I",
+        "collagen type II",
+        "collagen type IX",
+        "collagen type XI",
+        "collagen type IV",
+        "collagen peptides"
+    ],
+    "248": [
+        "biocompatible materials"
+    ],
+    "249": [
+        "catalysts"
+    ],
+    "250": [
+        "value-added products",
+        "value-added materials"
+    ],
+    "251": [
+        "water treatment technology",
+        "water purifiers",
+        "water purification agents"
+    ],
+    "252": [
+        "cellulose",
+        "cellulose nanocrystals",
+        "nanocellulose",
+        "bacterial cellulose",
+        "cellulose fibers",
+        "cellulosic fibers",
+        "cellulose-based composites",
+        "cellulose nanofibers",
+        "cellulosic nanomaterials"
+    ],
+    "253": [
+        "chlorophyll",
+        "carotenoids",
+        "zeaxanthin",
+        "astaxanthin",
+        "lycopene",
+        "lutein"
+    ],
+    "254": [
+        "metal matrix composites",
+        "iron-carbon composites",
+        "metal-ceramic composites"
+    ],
+    "255": [
+        "essential oil"
+    ],
+    "256": [
+        "metallic nanoparticles",
+        "titanium dioxide nanoparticles",
+        "silver nanoparticles",
+        "gold nanoparticles",
+        "copper nanoparticles",
+        "tin dioxide nanoparticles",
+        "palladium nanoparticles"
+    ],
+    "257": [
+        "electrochemical capacitors"
+    ],
+    "258": [
+        "upcycled carbon products",
+        "upcycled plastic"
+    ],
+    "259": [
+        "sustainable development",
+        "clean environment",
+        "reduced pollution",
+        "reduced waste",
+        "environmental sustainability",
+        "positive socio-environmental impacts"
+    ],
+    "260": [
+        "pectin",
+        "pectic oligosaccharides"
+    ],
+    "261": [
+        "CO2 mineralization"
+    ],
+    "262": [
+        "flocculants"
+    ],
+    "263": [
+        "ceramics",
+        "ceramic pigments",
+        "ceramic materials"
+    ],
+    "264": [
+        "circular economy",
+        "bio-based economy"
+    ],
+    "265": [
+        "noble metal-containing samples",
+        "bimetallic samples",
+        "in-situ gold grades"
+    ],
+    "266": [
+        "vermicompost"
+    ],
+    "267": [
+        "engineered backfill material",
+        "gangue-based cemented backfill material",
+        "functional cemented paste backfill material",
+        "rammed earth",
+        "backfill material"
+    ],
+    "268": [
+        "extracts"
+    ],
+    "269": [
+        "compost",
+        "vermicompost"
+    ],
+    "270": [
+        "construction materials"
+    ],
+    "271": [
+        "catechins",
+        "quercetin",
+        "cyanidin-3-glucoside",
+        "ellagitannins"
+    ],
+    "272": [
+        "endotoxin"
+    ],
+    "273": [
+        "hythane"
+    ],
+    "274": [
+        "sulfur"
+    ],
+    "275": [
+        "magnesium oxide",
+        "magnesium nitrate",
+        "magnesium-based nanoparticles"
+    ],
+    "276": [
+        "lysine",
+        "taurine",
+        "tryptophan",
+        "aspartic acid",
+        "ornithine",
+        "vitamin C",
+        "glutamic acid",
+        "citrulline",
+        "glycine",
+        "tyrosine",
+        "proline"
+    ],
+    "277": [
+        "Co-Bet-Tf2N",
+        "HMF"
+    ],
+    "278": [
+        "leather"
+    ],
+    "279": [
+        "metal oxides"
+    ],
+    "280": [
+        "biochemicals",
+        "recombinant proteins",
+        "enzymes",
+        "biomolecules"
+    ],
+    "281": [
+        "cooking oil",
+        "canola oil",
+        "corn oil",
+        "avocado oil",
+        "margarine",
+        "peanut oil",
+        "olive oil"
+    ],
+    "282": [
+        "chromium"
+    ],
+    "283": [
+        "polylactic acid",
+        "PLA biocomposites",
+        "polycaprolactone"
+    ],
+    "284": [
+        "alkaline solution"
+    ],
+    "285": [
+        "mechanical performance improvements",
+        "improved volume and texture"
+    ],
+    "286": [
+        "commercial grade CB",
+        "renewable CB"
+    ],
+    "287": [
+        "polyhydroxyalkanoate"
+    ],
+    "288": [
+        "fruit yield"
+    ],
+    "289": [
+        "Z-scheme MoSe2/CdSe",
+        "S-AB-ZnCl2"
+    ],
+    "290": [
+        "phenolic extracts",
+        "polyphenols-rich extracts",
+        "antidiabetic extracts",
+        "antiviral extracts",
+        "antihyperglycemic extracts",
+        "anti-proliferative extracts"
+    ],
+    "291": [
+        "plasticizer resin",
+        "organic priming agents"
+    ],
+    "292": [
+        "concrete blocks"
+    ],
+    "293": [
+        "succinic acid"
+    ],
+    "294": [
+        "flour"
+    ],
+    "295": [
+        "keratin",
+        "keratinase"
+    ],
+    "296": [
+        "biomass-derived carbon",
+        "biowaste-derived carbon",
+        "biomass waste-based bricks",
+        "biomass waste-derived chemicals"
+    ],
+    "297": [
+        "biostimulant"
+    ],
+    "298": [
+        "porcelain stoneware",
+        "glazes"
+    ],
+    "299": [
+        "net energy yield"
+    ],
+    "300": [
+        "nanofibers",
+        "biocomposite fibers"
+    ],
+    "301": [
+        "Protocatechuic acid",
+        "chlorogenic acid",
+        "caffeic acid",
+        "neochlorogenic acid",
+        "Gallic acid",
+        "Ferulic acid"
+    ],
+    "302": [
+        "self-build solutions"
+    ],
+    "303": [
+        "PVA films"
+    ],
+    "304": [
+        "composites"
+    ],
+    "305": [
+        "magnetic adsorbent",
+        "beaded adsorbents",
+        "composite adsorbent"
+    ],
+    "306": [
+        "silica"
+    ],
+    "307": [
+        "solvents"
+    ],
+    "308": [
+        "supply chains"
+    ],
+    "309": [
+        "oxygen"
+    ],
+    "310": [
+        "2-phenylethanol",
+        "1-phenylethanol",
+        "1,3-propanediol",
+        "2,3-butanediol",
+        "campesterol"
+    ],
+    "311": [
+        "fish protein resources"
+    ],
+    "312": [
+        "fucoidan"
+    ],
+    "313": [
+        "functional food ingredient",
+        "value-added food"
+    ],
+    "314": [
+        "resource availability",
+        "resource security",
+        "resource-sharing opportunities"
+    ],
+    "315": [
+        "sorbent",
+        "biosorbent",
+        "bioadsorbent",
+        "adsorbent",
+        "adsorption"
+    ],
+    "316": [
+        "building panels",
+        "fa\u00e7ade cladding panels"
+    ],
+    "317": [
+        "sugar"
+    ],
+    "318": [
+        "fluvic substances"
+    ],
+    "319": [
+        "electrode"
+    ],
+    "320": [
+        "PTC composite"
+    ],
+    "321": [
+        "bio-fiber reinforced mortar",
+        "photocatalytic mortars",
+        "green concrete",
+        "lime mortars",
+        "green cementitious grout mixtures",
+        "natural hydraulic lime mortars",
+        "algae mortar",
+        "bio-composite mortars",
+        "green mortar"
+    ],
+    "322": [
+        "methylmuconates",
+        "substituted products of tyrosine"
+    ],
+    "323": [
+        "amino acids",
+        "azepines",
+        "imines"
+    ],
+    "324": [
+        "functional components"
+    ],
+    "325": [
+        "syngas",
+        "synthetic natural gas"
+    ],
+    "326": [
+        "insect larvae"
+    ],
+    "327": [
+        "green composite"
+    ],
+    "328": [
+        "bamboo",
+        "corn",
+        "tempeh"
+    ],
+    "329": [
+        "calcium silicate hydrate",
+        "sodium aluminosilicate hydrate",
+        "hydrated silica",
+        "cement hydrates"
+    ],
+    "330": [
+        "radiation shielding materials"
+    ],
+    "331": [
+        "chemical process engineering methods"
+    ],
+    "332": [
+        "C5 fraction"
+    ],
+    "333": [
+        "leachability of elements"
+    ],
+    "334": [
+        "resource optimization"
+    ],
+    "335": [
+        "potassium",
+        "cation exchange capacity",
+        "ion-exchange resins"
+    ],
+    "336": [
+        "materials"
+    ],
+    "337": [
+        "thickeners"
+    ],
+    "338": [
+        "microbial communities"
+    ],
+    "339": [
+        "benzaldehyde",
+        "aldehydes",
+        "alcohol dehydrogenase"
+    ],
+    "340": [
+        "oligosaccharides",
+        "prebiotic oligosaccharides"
+    ],
+    "341": [
+        "lipid"
+    ],
+    "342": [
+        "reaction products"
+    ],
+    "343": [
+        "permeate"
+    ],
+    "344": [
+        "waste reutilization",
+        "construction waste recycling",
+        "recycled solid waste",
+        "food waste reuse",
+        "reused domestic waste"
+    ],
+    "345": [
+        "inCu/t-SCOBY",
+        "supernatant"
+    ],
+    "346": [
+        "functional cookies",
+        "healthier cookie products",
+        "functional peanut butter"
+    ],
+    "347": [
+        "alcohol",
+        "wine",
+        "liqueurs"
+    ],
+    "348": [
+        "insulin",
+        "renin",
+        "inulin"
+    ],
+    "349": [
+        "hydrated products"
+    ],
+    "350": [
+        "simmondsin-hydrolyzed extract",
+        "sinapaldehyde"
+    ],
+    "351": [
+        "greenhouse gas emissions reduction",
+        "carbon emissions reduction",
+        "methane emissions reduction"
+    ],
+    "352": [
+        "residue"
+    ],
+    "353": [
+        "recovered gold",
+        "restored commodities",
+        "repaired items",
+        "valuables",
+        "restored products",
+        "recovered value"
+    ],
+    "354": [
+        "clothing",
+        "material culture"
+    ],
+    "355": [
+        "aluminium"
+    ],
+    "356": [
+        "liquid",
+        "solid-liquid-mix"
+    ],
+    "357": [
+        "agricultural inputs",
+        "industrial inputs",
+        "animal feed inputs",
+        "food industry inputs"
+    ],
+    "358": [
+        "economic growth",
+        "economic value",
+        "economic performance",
+        "economic development"
+    ],
+    "359": [
+        "composite materials for construction"
+    ],
+    "360": [
+        "press cake"
+    ],
+    "361": [
+        "Data Processing Center"
+    ],
+    "362": [
+        "paving blocks",
+        "concrete paving bricks",
+        "eco-paving blocks"
+    ],
+    "363": [
+        "water-soluble organic compounds",
+        "water-soluble extracts",
+        "water-soluble chitin hydrolysate",
+        "water-soluble oligomeric products",
+        "water-soluble minerals",
+        "water-soluble products",
+        "water-soluble lignocellulosic products"
+    ],
+    "364": [
+        "iron nanoparticles"
+    ],
+    "365": [
+        "dissolved nutrients"
+    ],
+    "366": [
+        "chiral compounds"
+    ],
+    "367": [
+        "nickel"
+    ],
+    "368": [
+        "nitrogen"
+    ],
+    "369": [
+        "cosmetics",
+        "personal care products"
+    ],
+    "370": [
+        "foam glass",
+        "carbon foam"
+    ],
+    "371": [
+        "eggshell"
+    ],
+    "372": [
+        "zeolite-based materials",
+        "lithium orthosilicate-based adsorbents",
+        "carbon dots-confining zeolite composites"
+    ],
+    "373": [
+        "cadmium"
+    ],
+    "374": [
+        "stabilized soil",
+        "improved soil properties"
+    ],
+    "375": [
+        "carbon anode",
+        "cathode material",
+        "carbon cathode"
+    ],
+    "376": [
+        "mechanical properties",
+        "water resistance",
+        "workability",
+        "texture",
+        "durability",
+        "hardness",
+        "toughness"
+    ],
+    "377": [
+        "native plant growth"
+    ],
+    "378": [
+        "nucleic acids"
+    ],
+    "379": [
+        "depolymerization products"
+    ],
+    "380": [
+        "plastic waste"
+    ],
+    "381": [
+        "high-purity nitrogen"
+    ],
+    "382": [
+        "protective coating material"
+    ],
+    "383": [
+        "forecasting models"
+    ],
+    "384": [
+        "bioderived carbon",
+        "biosorbent"
+    ],
+    "385": [
+        "volatile fatty acids"
+    ],
+    "386": [
+        "manganese"
+    ],
+    "387": [
+        "extract"
+    ],
+    "388": [
+        "sparteine",
+        "nootkatone"
+    ],
+    "389": [
+        "macro nutrients",
+        "micronutrients",
+        "vitamins"
+    ],
+    "390": [
+        "microalgae",
+        "algal biomass",
+        "algae-derived metabolites"
+    ],
+    "391": [
+        "prenylated benzophenones"
+    ],
+    "392": [
+        "protein"
+    ],
+    "393": [
+        "biobased products"
+    ],
+    "394": [
+        "kaempferol",
+        "rutin",
+        "naringin",
+        "luteolin"
+    ],
+    "395": [
+        "polyethylene composites"
+    ],
+    "396": [
+        "petroleum coke",
+        "petroleum sludge"
+    ],
+    "397": [
+        "tires",
+        "ground tire rubber"
+    ],
+    "398": [
+        "amines"
+    ],
+    "399": [
+        "pigment",
+        "melanin",
+        "bleaching agent"
+    ],
+    "400": [
+        "phycocyanin",
+        "procyanidins",
+        "anthocyanins",
+        "pyocyanin"
+    ],
+    "401": [
+        "vanillin"
+    ],
+    "402": [
+        "rare earth elements"
+    ],
+    "403": [
+        "recycled materials from vehicles",
+        "recycled phosphogypsum",
+        "material weight recovery",
+        "recycled sand from biomass combustion",
+        "recycled lead-laden slag",
+        "recycled stone",
+        "recycled steel"
+    ],
+    "404": [
+        "cost-sharing"
+    ],
+    "405": [
+        "monomers"
+    ],
+    "406": [
+        "insulating mats",
+        "insulating foams"
+    ],
+    "407": [
+        "manufacturing centres",
+        "well consolidated parts",
+        "total plant"
+    ],
+    "408": [
+        "concrete",
+        "cementitious materials",
+        "supplementary cementitious materials",
+        "cement additives"
+    ],
+    "409": [
+        "cobalt"
+    ],
+    "410": [
+        "cement substitute",
+        "construction material substitute"
+    ],
+    "411": [
+        "hydrocarbons",
+        "light hydrocarbons",
+        "gasoline-range hydrocarbons",
+        "diesel-range hydrocarbons",
+        "paraffinic hydrocarbons"
+    ],
+    "412": [
+        "profit",
+        "productivity",
+        "competitive advantage"
+    ],
+    "413": [
+        "nanopaper",
+        "biopaper"
+    ],
+    "414": [
+        "polyhydroxyalkanoates",
+        "poly(3-hydroxybutyrate)",
+        "poly(3-hydroxybutyrate-co-3-hydroxyvalerate)"
+    ],
+    "415": [
+        "binders"
+    ],
+    "416": [
+        "waste management solutions",
+        "waste-derived supply chain",
+        "waste-to-energy",
+        "processed waste"
+    ],
+    "417": [
+        "heating"
+    ],
+    "418": [
+        "rubber",
+        "rubber tires",
+        "rubber compounds",
+        "rubber additives"
+    ],
+    "419": [
+        "mortar",
+        "construction mortars"
+    ],
+    "420": [
+        "mushroom substrates"
+    ],
+    "421": [
+        "ceramic pastes"
+    ],
+    "422": [
+        "alternative materials"
+    ],
+    "423": [
+        "binder"
+    ],
+    "424": [
+        "enzymes",
+        "biocatalysts"
+    ],
+    "425": [
+        "metal-organic frameworks"
+    ],
+    "426": [
+        "syringaldehyde",
+        "syringic acid",
+        "\u03b1-pinene",
+        "\u03b1-myrcene",
+        "thujopsene"
+    ],
+    "427": [
+        "copper"
+    ],
+    "428": [
+        "zeolites"
+    ],
+    "429": [
+        "gamma-valerolactone"
+    ],
+    "430": [
+        "hydroxybenzoic acid",
+        "hydroxycinnamic acid"
+    ],
+    "431": [
+        "oil"
+    ],
+    "432": [
+        "insulation panels"
+    ],
+    "433": [
+        "medium-chain fatty acids",
+        "short-chain fatty acids",
+        "carboxylic acids",
+        "longer-chain fatty acids",
+        "monocarboxylic acids",
+        "dicarboxylic acids"
+    ],
+    "434": [
+        "carbon electrodes",
+        "supercapacitors",
+        "carbon materials for energy storage"
+    ],
+    "435": [
+        "wheat flour protein"
+    ],
+    "436": [
+        "polysaccharides"
+    ],
+    "437": [
+        "C3 and C4 compounds",
+        "C5\u2212C11 hydrocarbons",
+        "C2-C5 hydrocarbons",
+        "alcohols C4-C5"
+    ],
+    "438": [
+        "chromium"
+    ],
+    "439": [
+        "CoO",
+        "POS",
+        "EHS"
+    ],
+    "440": [
+        "safe discharge limits"
+    ],
+    "441": [
+        "honey"
+    ],
+    "442": [
+        "metal fractions"
+    ],
+    "443": [
+        "calcium hydroxide"
+    ],
+    "444": [
+        "valuable products"
+    ],
+    "445": [
+        "glycerol",
+        "glycolate",
+        "glycerol carbonate",
+        "glyoxal",
+        "glyceraldehyde",
+        "ethylene glycol"
+    ],
+    "446": [
+        "energy vector"
+    ],
+    "447": [
+        "carbon black",
+        "recovered carbon black",
+        "carbon negative concrete blocks"
+    ],
+    "448": [
+        "oil"
+    ],
+    "449": [
+        "sugar beet pulp extrudates",
+        "beet leaves extracts"
+    ],
+    "450": [
+        "hydroxyapatite"
+    ],
+    "451": [
+        "conversion efficiency",
+        "functional filler"
+    ],
+    "452": [
+        "reused materials",
+        "recycled glass",
+        "reused goods",
+        "reprocessed materials"
+    ],
+    "453": [
+        "soil fertility"
+    ],
+    "454": [
+        "carbon dioxide sequestration",
+        "carbon capture",
+        "CO2 utilization"
+    ],
+    "455": [
+        "carbonate minerals"
+    ],
+    "456": [
+        "caffeine"
+    ],
+    "457": [
+        "supply chain management"
+    ],
+    "458": [
+        "reduced levels"
+    ],
+    "459": [
+        "metals",
+        "steel",
+        "alloys"
+    ],
+    "460": [
+        "biphenyls"
+    ],
+    "461": [
+        "natural alternatives"
+    ],
+    "462": [
+        "nanosilica",
+        "silica nanoparticles"
+    ],
+    "463": [
+        "textiles"
+    ],
+    "464": [
+        "food ingredients",
+        "flavors",
+        "preserved food",
+        "novel foods",
+        "organics"
+    ],
+    "465": [
+        "thermal energy"
+    ],
+    "466": [
+        "calcium silicate hydrates"
+    ],
+    "467": [
+        "crumb rubber"
+    ],
+    "468": [
+        "bioproducts",
+        "bioresources"
+    ],
+    "469": [
+        "frass"
+    ],
+    "470": [
+        "dietary fiber"
+    ],
+    "471": [
+        "sustainable economy"
+    ],
+    "472": [
+        "conditioning",
+        "strength development"
+    ],
+    "473": [
+        "3-benzyl-5-methyleneoxazolidin-2-one",
+        "3-methylorcinaldehyde",
+        "\u03b1-ocimene"
+    ],
+    "474": [
+        "textiles",
+        "fibres"
+    ],
+    "475": [
+        "aminophenols"
+    ],
+    "476": [
+        "fish skin products"
+    ],
+    "477": [
+        "hydrothermal product"
+    ],
+    "478": [
+        "carbohydrates"
+    ],
+    "479": [
+        "aroma substances",
+        "fragrances",
+        "volatile oils"
+    ],
+    "480": [
+        "glucose fructose isomerization",
+        "bis-HHDP-glucoside isomers"
+    ],
+    "481": [
+        "platinum"
+    ],
+    "482": [
+        "aliphatic hydrocarbons",
+        "olefins"
+    ],
+    "483": [
+        "photocatalyst"
+    ],
+    "484": [
+        "phenazine"
+    ],
+    "485": [
+        "biomolecule generation"
+    ],
+    "486": [
+        "porous carbon",
+        "nitrogen-doped carbon",
+        "N-doped activated carbon"
+    ],
+    "487": [
+        "substitutes"
+    ],
+    "488": [
+        "nitrogen",
+        "potassium nitrate",
+        "urea",
+        "ammonia",
+        "ammonium nitrate"
+    ],
+    "489": [
+        "flavonoids",
+        "isoflavonoids"
+    ],
+    "490": [
+        "high-value organic compounds",
+        "valuable chemical compounds",
+        "high-added value molecules"
+    ],
+    "491": [
+        "recycled materials",
+        "recycled products",
+        "resource recovery",
+        "recovered materials",
+        "reused plastic",
+        "recycled packaging",
+        "recycled paper",
+        "recyclable parts"
+    ],
+    "492": [
+        "membrane separation"
+    ],
+    "493": [
+        "energy"
+    ],
+    "494": [
+        "building block chemicals",
+        "metal organic frameworks"
+    ],
+    "495": [
+        "lupinine",
+        "lupeol",
+        "lupanine"
+    ],
+    "496": [
+        "biodegradable materials"
+    ],
+    "497": [
+        "topical products"
+    ],
+    "498": [
+        "phthalic acids",
+        "terephthalic acid",
+        "terephthalamide"
+    ],
+    "499": [
+        "P. setaceum fibers"
+    ],
+    "500": [
+        "AA-DWF-PAM/GD",
+        "LW-CQDs",
+        "HB-Alg@WTR-CDs-A",
+        "HB-Alg@WTR-CDs-B",
+        "HB-Alg@WTR-CDs-C"
+    ],
+    "501": [
+        "detoxified water"
+    ],
+    "502": [
+        "environmental services"
+    ],
+    "503": [
+        "resilience"
+    ],
+    "504": [
+        "glucoamylase",
+        "\u03b2-glucosidase",
+        "holocelluloses",
+        "xylose",
+        "polyglucose",
+        "lactulose"
+    ],
+    "505": [
+        "electrons"
+    ],
+    "506": [
+        "biomass-derived materials",
+        "nanocomposites"
+    ],
+    "507": [
+        "silage",
+        "polished grains",
+        "Brewers' spent grains meal"
+    ],
+    "508": [
+        "xylene",
+        "dimethyl ether",
+        "toluene",
+        "\u03b2-farnesene",
+        "propylene",
+        "ethylbenzene",
+        "benzene",
+        "ethylene"
+    ],
+    "509": [
+        "bisphenol A"
+    ],
+    "510": [
+        "phytochemicals"
+    ],
+    "511": [
+        "cadmium removal"
+    ],
+    "512": [
+        "cholesterol-lowering agent",
+        "rosuvastatin",
+        "cholesterol"
+    ],
+    "513": [
+        "complex carbohydrates"
+    ],
+    "514": [
+        "microcapsules",
+        "microencapsulated phenolic compounds"
+    ],
+    "515": [
+        "fish farming inputs"
+    ],
+    "516": [
+        "land assets"
+    ],
+    "517": [
+        "clean single-material streams",
+        "complex stream"
+    ],
+    "518": [
+        "heavy metal removal"
+    ],
+    "519": [
+        "soluble carbohydrate",
+        "soluble sugar",
+        "soluble species",
+        "soluble solids"
+    ],
+    "520": [
+        "light-emitting electrochemical cells"
+    ],
+    "521": [
+        "recycled plastics",
+        "recovered polymers",
+        "recycled polyolefins",
+        "recycled GFRP by-products",
+        "recycled PET",
+        "recyclable PVC",
+        "recycled polypropylene",
+        "recyclable HDPE"
+    ],
+    "522": [
+        "immobilization of metals"
+    ],
+    "523": [
+        "lupin seeds",
+        "lupin peptides",
+        "lupin oil"
+    ],
+    "524": [
+        "biologically inspired design"
+    ],
+    "525": [
+        "pyro-oil",
+        "pyro-diesel"
+    ],
+    "526": [
+        "carbon"
+    ],
+    "527": [
+        "rural agriculture support"
+    ],
+    "528": [
+        "lithium",
+        "titanium",
+        "alite"
+    ],
+    "529": [
+        "metals recovery"
+    ],
+    "530": [
+        "precipitated extracts",
+        "precipitated protein",
+        "precipitated dyes",
+        "precipitated metals"
+    ],
+    "531": [
+        "calcium"
+    ],
+    "532": [
+        "mass"
+    ],
+    "533": [
+        "galacto-oligosaccharides"
+    ],
+    "534": [
+        "struvite",
+        "palygorskite",
+        "imogolite"
+    ],
+    "535": [
+        "activated materials"
+    ],
+    "536": [
+        "protein extracts"
+    ],
+    "537": [
+        "waste cooking oil"
+    ],
+    "538": [
+        "sulphuric acid",
+        "hydrogen sulfide",
+        "hydrochloric acid",
+        "baking soda",
+        "caustic"
+    ],
+    "539": [
+        "protein isolates"
+    ],
+    "540": [
+        "terpenoids",
+        "triterpenoids"
+    ],
+    "541": [
+        "degraded organic compounds"
+    ],
+    "542": [
+        "S-containing compounds",
+        "bicyclic compounds",
+        "heterocyclic compounds",
+        "B-containing compounds"
+    ],
+    "543": [
+        "carbon management"
+    ],
+    "544": [
+        "citrus by-products"
+    ],
+    "545": [
+        "caprylate",
+        "n-caproic acid",
+        "caproic acid",
+        "acrylic acid",
+        "methacrylic acid"
+    ],
+    "546": [
+        "mushrooms"
+    ],
+    "547": [
+        "black soldier fly larvae"
+    ],
+    "548": [
+        "carbon-based composites"
+    ],
+    "549": [
+        "thin films",
+        "plastic films"
+    ],
+    "550": [
+        "caprolactam",
+        "n-caproate",
+        "caproate",
+        "n-caprylate"
+    ],
+    "551": [
+        "ash"
+    ],
+    "552": [
+        "bioflocculant",
+        "bioinoculant"
+    ],
+    "553": [
+        "cost-effective materials"
+    ],
+    "554": [
+        "concentrated metal solutions"
+    ],
+    "555": [
+        "sheet"
+    ],
+    "556": [
+        "efficiency",
+        "immune response"
+    ],
+    "557": [
+        "landfill"
+    ],
+    "558": [
+        "pomegranate peel extract",
+        "leaf extract",
+        "walnut husk extract",
+        "plant extract",
+        "crude extract",
+        "oily extract",
+        "alkaline banana peel extract",
+        "grapefruit peel extract",
+        "hydroethanolic extract",
+        "essential oil extract",
+        "potato peel extract",
+        "pumpkin peel extract"
+    ],
+    "559": [
+        "halophyte Salicornia ramosissima"
+    ],
+    "560": [
+        "zinc"
+    ],
+    "561": [
+        "ecosystem services"
+    ],
+    "562": [
+        "BFAgNPs",
+        "novel PKLPs",
+        "BMNPs"
+    ],
+    "563": [
+        "therapeutic agents",
+        "active compounds"
+    ],
+    "564": [
+        "potassium tetrachloroplatinate",
+        "potassium hexachloroplatinate"
+    ],
+    "565": [
+        "biochemical outputs"
+    ],
+    "566": [
+        "filter media"
+    ],
+    "567": [
+        "financial resources"
+    ],
+    "568": [
+        "coagulant"
+    ],
+    "569": [
+        "copper nanomaterials"
+    ],
+    "570": [
+        "nanoparticles",
+        "microelements"
+    ],
+    "571": [
+        "gallium",
+        "calcium",
+        "lanthanum"
+    ],
+    "572": [
+        "prefabricated building components"
+    ],
+    "573": [
+        "glass",
+        "glass-ceramics"
+    ],
+    "574": [
+        "MXene"
+    ],
+    "575": [
+        "composite materials"
+    ],
+    "576": [
+        "biodiversity conservation"
+    ],
+    "577": [
+        "N-acylethanolamine"
+    ],
+    "578": [
+        "thermal properties"
+    ],
+    "579": [
+        "plant-based proteins"
+    ],
+    "580": [
+        "sustainable packaging materials",
+        "edible packaging",
+        "biodegradable packaging materials",
+        "packaging films",
+        "biodegradable antimicrobial active packaging film",
+        "single-use packaging",
+        "non-food packaging"
+    ],
+    "581": [
+        "gluconic acid",
+        "pyruvate",
+        "acetic acid",
+        "acetoin",
+        "malic acid",
+        "citric acid",
+        "glucose"
+    ],
+    "582": [
+        "hexamethylenediamine",
+        "hydroxyethylester",
+        "bis(hydroxyethyl) adipate",
+        "ethyl citrate",
+        "1,4-benzenedicarboxylate"
+    ],
+    "583": [
+        "hydrolysate",
+        "protein hydrolysate"
+    ],
+    "584": [
+        "ash"
+    ],
+    "585": [
+        "oxidation stability"
+    ],
+    "586": [
+        "fatty acid methyl esters"
+    ],
+    "587": [
+        "hydrogen-rich gas"
+    ],
+    "588": [
+        "industrial products"
+    ],
+    "589": [
+        "food preservatives"
+    ],
+    "590": [
+        "aroma compounds",
+        "essential oil components",
+        "flavor compounds"
+    ],
+    "591": [
+        "recycled fibers",
+        "reusable textiles"
+    ],
+    "592": [
+        "eco-friendly bricks"
+    ],
+    "593": [
+        "organic materials",
+        "bamboo biocomposite materials"
+    ],
+    "594": [
+        "cost optimization",
+        "cost savings"
+    ],
+    "595": [
+        "returned food"
+    ],
+    "596": [
+        "lead"
+    ],
+    "597": [
+        "concrete"
+    ],
+    "598": [
+        "steam"
+    ],
+    "599": [
+        "fibers"
+    ],
+    "600": [
+        "recyclable materials"
+    ],
+    "601": [
+        "Bacillus thuringiensis",
+        "Bacillus licheniformis"
+    ],
+    "602": [
+        "alkanes",
+        "alkenes"
+    ],
+    "603": [
+        "innovation"
+    ],
+    "604": [
+        "calcium arsenate"
+    ],
+    "605": [
+        "copper"
+    ],
+    "606": [
+        "composite concentration"
+    ],
+    "607": [
+        "tetracycline"
+    ],
+    "608": [
+        "insulating materials"
+    ],
+    "609": [
+        "copper",
+        "copper oxide",
+        "copper nanoparticles"
+    ],
+    "610": [
+        "aromatic compounds"
+    ],
+    "611": [
+        "adhesives",
+        "biowax"
+    ],
+    "612": [
+        "insoluble fibre"
+    ],
+    "613": [
+        "industrial waste",
+        "hazardous waste treatment"
+    ],
+    "614": [
+        "potato juice",
+        "fruit juice",
+        "vegetable juice"
+    ],
+    "615": [
+        "biochemical methane",
+        "predictive data for methane generation"
+    ],
+    "616": [
+        "nitrogen"
+    ],
+    "617": [
+        "classroom components"
+    ],
+    "618": [
+        "earthworms"
+    ],
+    "619": [
+        "cotton"
+    ],
+    "620": [
+        "mining tailings"
+    ],
+    "621": [
+        "germination rate"
+    ],
+    "622": [
+        "total petroleum hydrocarbon degradation"
+    ],
+    "623": [
+        "oleuropein aglycone",
+        "oleogels"
+    ],
+    "624": [
+        "zinc oxide nanoparticles"
+    ],
+    "625": [
+        "bio-colorant",
+        "methylene blue dye",
+        "rhodamine B dye"
+    ],
+    "626": [
+        "char materials"
+    ],
+    "627": [
+        "PVC"
+    ],
+    "628": [
+        "green tea"
+    ],
+    "629": [
+        "cost savings"
+    ],
+    "630": [
+        "bakery products",
+        "pasta products",
+        "cookies",
+        "rolls"
+    ],
+    "631": [
+        "secondary materials"
+    ],
+    "632": [
+        "diesel fuel",
+        "biodiesel",
+        "renewable diesel"
+    ],
+    "633": [
+        "vanadium redox flow battery electrolyte"
+    ],
+    "634": [
+        "devulcanized rubber"
+    ],
+    "635": [
+        "BFRGM",
+        "PGM",
+        "BBS-GC",
+        "PEG/BPC@M"
+    ],
+    "636": [
+        "biocomposites",
+        "natural fiber composites",
+        "biodegradable composites",
+        "hybrid composites",
+        "eco-composites"
+    ],
+    "637": [
+        "aqueous product"
+    ],
+    "638": [
+        "social value"
+    ],
+    "639": [
+        "alternative packaging methods"
+    ],
+    "640": [
+        "engineered slopes",
+        "embankments"
+    ],
+    "641": [
+        "AFm phase"
+    ],
+    "642": [
+        "energy from incineration"
+    ],
+    "643": [
+        "remediation agent",
+        "bioremediation"
+    ],
+    "644": [
+        "high-value compounds",
+        "functional chemicals"
+    ],
+    "645": [
+        "fuel efficiency",
+        "cost savings"
+    ],
+    "646": [
+        "substitute raw materials"
+    ],
+    "647": [
+        "gypsum"
+    ],
+    "648": [
+        "PSAC",
+        "MSAC"
+    ],
+    "649": [
+        "identification codes"
+    ],
+    "650": [
+        "food security",
+        "nutritional security"
+    ],
+    "651": [
+        "metal oxide nanoparticles",
+        "magnetic iron oxide",
+        "nickel oxide nanoparticles",
+        "manganese dioxide nanoparticles",
+        "biofunctionalized magnetite nanoparticles",
+        "metal/metal oxide nanoparticles",
+        "magnetite-incorporated chitosan nanopowders"
+    ],
+    "652": [
+        "powdered food products",
+        "fish powder",
+        "mushroom powder",
+        "calcium powder"
+    ],
+    "653": [
+        "water scarcity impact"
+    ],
+    "654": [
+        "phytate"
+    ],
+    "655": [
+        "peptides with antioxidant activities",
+        "anticoagulant peptides",
+        "peptides with antidiabetic activities",
+        "antihypertensive peptides"
+    ],
+    "656": [
+        "natural dye"
+    ],
+    "657": [
+        "hybrid assemblages"
+    ],
+    "658": [
+        "reproductive materials"
+    ],
+    "659": [
+        "energy access"
+    ],
+    "660": [
+        "biomolecules",
+        "peptides"
+    ],
+    "661": [
+        "insect oil"
+    ],
+    "662": [
+        "extended product lifespan"
+    ],
+    "663": [
+        "life cycle assessment"
+    ],
+    "664": [
+        "alkaloids"
+    ],
+    "665": [
+        "secoiridoids"
+    ],
+    "666": [
+        "non-condensable gas",
+        "condensable compound"
+    ],
+    "667": [
+        "sensory gardens"
+    ],
+    "668": [
+        "stronger flux"
+    ],
+    "669": [
+        "titanium concentrate"
+    ],
+    "670": [
+        "site suitability indices"
+    ],
+    "671": [
+        "refractory materials"
+    ],
+    "672": [
+        "fatty acid esters",
+        "biodiesel",
+        "used cooking oil esters"
+    ],
+    "673": [
+        "by-products"
+    ],
+    "674": [
+        "fluorescent nanoparticles"
+    ],
+    "675": [
+        "graphene nanosheets"
+    ],
+    "676": [
+        "alginate"
+    ],
+    "677": [
+        "vegetation amount"
+    ],
+    "678": [
+        "safety barriers"
+    ],
+    "679": [
+        "pet food",
+        "animal feed"
+    ],
+    "680": [
+        "neutralization products"
+    ],
+    "681": [
+        "non-toxic solvents",
+        "non-toxic colourants"
+    ],
+    "682": [
+        "metabolic products"
+    ],
+    "683": [
+        "volatile organic compounds"
+    ],
+    "684": [
+        "mangiferin"
+    ],
+    "685": [
+        "Rhodiasolv Polarclean",
+        "Technosols"
+    ],
+    "686": [
+        "oxygenated compounds"
+    ],
+    "687": [
+        "fatty acids",
+        "polyunsaturated fatty acids",
+        "saturated fatty acids",
+        "monounsaturated fatty acids"
+    ],
+    "688": [
+        "value creation in forest-based business models"
+    ],
+    "689": [
+        "SLG series",
+        "WPG series"
+    ],
+    "690": [
+        "recycled concrete aggregate",
+        "recycled aggregate",
+        "recycled plastic aggregate",
+        "ready mix concrete",
+        "recycled cementitious materials",
+        "single used polythene bag waste concrete paver blocks"
+    ],
+    "691": [
+        "cosmetic ingredients",
+        "bioactive substances for cosmetics",
+        "cosmetic-friendly preservatives",
+        "sustainable ingredients in cosmetics"
+    ],
+    "692": [
+        "decent livelihoods"
+    ],
+    "693": [
+        "government oversight"
+    ],
+    "694": [
+        "new materials",
+        "new polymer",
+        "new composite material",
+        "new plastic products",
+        "new polymer matrix composites",
+        "new synthetic materials"
+    ],
+    "695": [
+        "carbon sources"
+    ],
+    "696": [
+        "equality",
+        "lithium-ion batteries"
+    ],
+    "697": [
+        "formic acid",
+        "cobalt hydroxide"
+    ],
+    "698": [
+        "bioconverted CTC"
+    ],
+    "699": [
+        "artificial intelligence technologies"
+    ],
+    "700": [
+        "geographic indication"
+    ],
+    "701": [
+        "friction materials"
+    ],
+    "702": [
+        "steroids"
+    ],
+    "703": [
+        "superhydrophobic material"
+    ],
+    "704": [
+        "lycopene",
+        "tomatoes"
+    ],
+    "705": [
+        "lithium compounds"
+    ],
+    "706": [
+        "soil amendment",
+        "soil health",
+        "soil conditioner",
+        "reclaimed soil"
+    ],
+    "707": [
+        "removal of diclofenac"
+    ],
+    "708": [
+        "chemical compounds",
+        "inorganic compounds",
+        "organic compounds",
+        "hazardous materials"
+    ],
+    "709": [
+        "structuring agents"
+    ],
+    "710": [
+        "alumina",
+        "aluminum hydroxide",
+        "lanthanum hexaaluminate",
+        "hexaaluminate"
+    ],
+    "711": [
+        "water"
+    ],
+    "712": [
+        "vine pruning extract"
+    ],
+    "713": [
+        "silver nanoparticles"
+    ],
+    "714": [
+        "sustainable aviation fuel",
+        "biogas vehicle fuel"
+    ],
+    "715": [
+        "bacteriocin"
+    ],
+    "716": [
+        "inclusiveness"
+    ],
+    "717": [
+        "MCC particles"
+    ],
+    "718": [
+        "flame retardant materials",
+        "fire-extinguishing foam"
+    ],
+    "719": [
+        "wound healing"
+    ],
+    "720": [
+        "biodegradable polymer blends"
+    ],
+    "721": [
+        "insulation"
+    ],
+    "722": [
+        "carbon supported metal nanoparticles",
+        "N-doped metal encapsulated carbon nanotubes"
+    ],
+    "723": [
+        "calcite",
+        "vaterite",
+        "anhydrite",
+        "ground limestone"
+    ],
+    "724": [
+        "bio-based epoxy resin",
+        "epoxy composites",
+        "epoxy monomer"
+    ],
+    "725": [
+        "heat"
+    ],
+    "726": [
+        "tilapia feed"
+    ],
+    "727": [
+        "renewable natural gas",
+        "carbon-neutral energy resource",
+        "clean coal-alternative fuel"
+    ],
+    "728": [
+        "amino acids"
+    ],
+    "729": [
+        "mother liquor"
+    ],
+    "730": [
+        "bioavailability",
+        "drug solubilization",
+        "physicochemical properties",
+        "photoactivity"
+    ],
+    "731": [
+        "cell mass production"
+    ],
+    "732": [
+        "media supplements",
+        "films",
+        "reactions",
+        "novel feed",
+        "columns"
+    ],
+    "733": [
+        "proton-conductive materials"
+    ],
+    "734": [
+        "snack products",
+        "protein-rich extrudate"
+    ],
+    "735": [
+        "phosphite-buffered media solutions",
+        "pH indicator film"
+    ],
+    "736": [
+        "lipopeptide biosurfactant"
+    ],
+    "737": [
+        "liveweight"
+    ],
+    "738": [
+        "CRCA",
+        "FRCA"
+    ],
+    "739": [
+        "metal removal"
+    ],
+    "740": [
+        "humin"
+    ],
+    "741": [
+        "nanotechnology"
+    ],
+    "742": [
+        "energy density"
+    ],
+    "743": [
+        "urban development driver"
+    ],
+    "744": [
+        "anti-termite medications"
+    ],
+    "745": [
+        "salicylate hydroxylase"
+    ],
+    "746": [
+        "plastic derived oil"
+    ],
+    "747": [
+        "rope"
+    ],
+    "748": [
+        "air conditioning products"
+    ],
+    "749": [
+        "structural concrete"
+    ],
+    "750": [
+        "extraction"
+    ],
+    "751": [
+        "turbidity"
+    ],
+    "752": [
+        "whey protein emulgents"
+    ],
+    "753": [
+        "lubricants"
+    ],
+    "754": [
+        "lipids",
+        "lecithin",
+        "liposomes",
+        "phospholipid vesicles",
+        "phospholipids",
+        "lipid layer",
+        "membranes"
+    ],
+    "755": [
+        "cymenes"
+    ],
+    "756": [
+        "methane"
+    ],
+    "757": [
+        "plant oils",
+        "microbial oils",
+        "animal-derived oils"
+    ],
+    "758": [
+        "UV protection compounds"
+    ],
+    "759": [
+        "lightweight concrete",
+        "lightweight mortar",
+        "lightweight building materials",
+        "lightweight thermal insulation"
+    ],
+    "760": [
+        "yarn"
+    ],
+    "761": [
+        "cardboard-based packaging"
+    ],
+    "762": [
+        "sugar alcohol",
+        "monosaccharide",
+        "cyclodextrin",
+        "uronic acid"
+    ],
+    "763": [
+        "diapers"
+    ],
+    "764": [
+        "microplastics"
+    ],
+    "765": [
+        "considerable active sites for congo red"
+    ],
+    "766": [
+        "low molecular weight compounds"
+    ],
+    "767": [
+        "carotenoids"
+    ],
+    "768": [
+        "oligomers"
+    ],
+    "769": [
+        "pathogen control"
+    ],
+    "770": [
+        "gold"
+    ],
+    "771": [
+        "antifungal compounds"
+    ],
+    "772": [
+        "biocrude"
+    ],
+    "773": [
+        "cancer spheroids"
+    ],
+    "774": [
+        "CNSL"
+    ],
+    "775": [
+        "patchouli"
+    ],
+    "776": [
+        "corrosion inhibitors"
+    ],
+    "777": [
+        "single cell protein",
+        "bulk proteins",
+        "fungal proteins",
+        "crystal proteins"
+    ],
+    "778": [
+        "self-management of work"
+    ],
+    "779": [
+        "lime",
+        "olive paste"
+    ],
+    "780": [
+        "mine site reclamation"
+    ],
+    "781": [
+        "filtrate"
+    ],
+    "782": [
+        "shea butter"
+    ],
+    "783": [
+        "lactic acid",
+        "lactate",
+        "calcium lactate"
+    ],
+    "784": [
+        "sustainable materials",
+        "eco-friendly products",
+        "eco-design"
+    ],
+    "785": [
+        "graphene-based materials",
+        "graphene oxide",
+        "reduced graphene oxide",
+        "graphene-based nanomaterials"
+    ],
+    "786": [
+        "particleboard",
+        "medium-density fiberboard"
+    ],
+    "787": [
+        "LED lights"
+    ],
+    "788": [
+        "gas compositions"
+    ],
+    "789": [
+        "kapok",
+        "paneer"
+    ],
+    "790": [
+        "COSMOS",
+        "Natura"
+    ],
+    "791": [
+        "cryoprotective proteins"
+    ],
+    "792": [
+        "metallic ions"
+    ],
+    "793": [
+        "bandage"
+    ],
+    "794": [
+        "volatile fatty acids"
+    ],
+    "795": [
+        "alkali-activated materials",
+        "alkali-activated binders",
+        "alkali-activated mortars",
+        "alkali-activated concrete"
+    ],
+    "796": [
+        "shale stabilizer"
+    ],
+    "797": [
+        "chemical precursors"
+    ],
+    "798": [
+        "chrome recovery"
+    ],
+    "799": [
+        "Karanja oil methyl ester",
+        "okara oil"
+    ],
+    "800": [
+        "low-carbon construction products"
+    ],
+    "801": [
+        "pulp",
+        "cellulose pulp"
+    ],
+    "802": [
+        "gelatin",
+        "dextran",
+        "chitin",
+        "chitosan"
+    ],
+    "803": [
+        "functional materials"
+    ],
+    "804": [
+        "microspheres"
+    ],
+    "805": [
+        "synthetics"
+    ],
+    "806": [
+        "food waste"
+    ],
+    "807": [
+        "vegetable oils",
+        "citrus oils",
+        "antioxidant oils"
+    ],
+    "808": [
+        "repolyol",
+        "totarol"
+    ],
+    "809": [
+        "jasmine essential oil",
+        "pearl essence"
+    ],
+    "810": [
+        "fresh lettuce",
+        "fertilizer for Lactuca sativa"
+    ],
+    "811": [
+        "sustainable agriculture practices"
+    ],
+    "812": [
+        "mineral resource models"
+    ],
+    "813": [
+        "fuel cells",
+        "hydrogen production"
+    ],
+    "814": [
+        "hepatosomatic indices"
+    ],
+    "815": [
+        "community garden"
+    ],
+    "816": [
+        "electrocatalyst"
+    ],
+    "817": [
+        "chitin",
+        "chitin derivatives",
+        "chitin nanoparticles",
+        "chitin films",
+        "chitin degradation"
+    ],
+    "818": [
+        "magnesium",
+        "magnesium carbonate",
+        "brucite"
+    ],
+    "819": [
+        "interlayers"
+    ],
+    "820": [
+        "raw materials"
+    ],
+    "821": [
+        "polyhydroxybutyrate"
+    ],
+    "822": [
+        "final products"
+    ],
+    "823": [
+        "hydroxymethylfurfural",
+        "furfural",
+        "furfuryl alcohol"
+    ],
+    "824": [
+        "starting material"
+    ],
+    "825": [
+        "human health"
+    ],
+    "826": [
+        "silico-magnesian cement"
+    ],
+    "827": [
+        "handmade jewellery"
+    ],
+    "828": [
+        "residual metals"
+    ],
+    "829": [
+        "metal nanoparticles"
+    ],
+    "830": [
+        "sustainable concrete mixtures",
+        "eco-friendly building materials",
+        "sustainable construction materials",
+        "innovative building materials",
+        "viable construction materials",
+        "sustainable cement",
+        "durable alternative building materials"
+    ],
+    "831": [
+        "utensils",
+        "bicycles",
+        "packaging"
+    ],
+    "832": [
+        "Indole-3-acetic acid",
+        "l-DOPA",
+        "crotonic acid",
+        "methyl crotonate",
+        "catechol"
+    ],
+    "833": [
+        "Beauveria bassiana"
+    ],
+    "834": [
+        "absorptivity"
+    ],
+    "835": [
+        "protein products",
+        "protein powders",
+        "whey protein concentrate"
+    ],
+    "836": [
+        "mobile gene elements"
+    ],
+    "837": [
+        "compliant resources for new construction"
+    ],
+    "838": [
+        "educational supports"
+    ],
+    "839": [
+        "hollow concrete blocks"
+    ],
+    "840": [
+        "CPME",
+        "EPE"
+    ],
+    "841": [
+        "life cycle assessment results",
+        "life cycle cost results"
+    ],
+    "842": [
+        "specialty products",
+        "specialty chemicals",
+        "specialty polymers"
+    ],
+    "843": [
+        "mucilage"
+    ],
+    "844": [
+        "unsaturated cohesive soil"
+    ],
+    "845": [
+        "regenerated extractants"
+    ],
+    "846": [
+        "polybenzoxazine composites"
+    ],
+    "847": [
+        "human excreta as a resource"
+    ],
+    "848": [
+        "pomace extracts",
+        "pomace flour",
+        "pomace powder"
+    ],
+    "849": [
+        "sustainable mobility solutions"
+    ],
+    "850": [
+        "aromatic intermediates",
+        "pharmaceutical intermediates",
+        "soluble intermediates"
+    ],
+    "851": [
+        "13 times toughness"
+    ],
+    "852": [
+        "stiffness"
+    ],
+    "853": [
+        "improved nutrition"
+    ],
+    "854": [
+        "odour-free gases",
+        "odorless transparent viscous liquid"
+    ],
+    "855": [
+        "growing media"
+    ],
+    "856": [
+        "dimer products"
+    ],
+    "857": [
+        "construction materials"
+    ],
+    "858": [
+        "phloridzin"
+    ],
+    "859": [
+        "mercury sorbents"
+    ],
+    "860": [
+        "lead emissions"
+    ],
+    "861": [
+        "payback period"
+    ],
+    "862": [
+        "biocomposite materials"
+    ],
+    "863": [
+        "artificial stone"
+    ],
+    "864": [
+        "alcohols"
+    ],
+    "865": [
+        "degradation products of polyethylene glycol"
+    ],
+    "866": [
+        "humane society"
+    ],
+    "867": [
+        "emulsions",
+        "emulsifiers",
+        "protein extracts"
+    ],
+    "868": [
+        "probiotic beverages"
+    ],
+    "869": [
+        "nutritionally enhanced sunflower oil"
+    ],
+    "870": [
+        "sustainable development goals"
+    ],
+    "871": [
+        "nutrient recovery"
+    ],
+    "872": [
+        "iturin",
+        "tristearin"
+    ],
+    "873": [
+        "nutrient-rich manure"
+    ],
+    "874": [
+        "fertiliser"
+    ],
+    "875": [
+        "WTR granules"
+    ],
+    "876": [
+        "sludge"
+    ],
+    "877": [
+        "biopesticides",
+        "biocontrol agents"
+    ],
+    "878": [
+        "fried chicken sausages"
+    ],
+    "879": [
+        "scandium"
+    ],
+    "880": [
+        "albumin"
+    ],
+    "881": [
+        "Bergapten"
+    ],
+    "882": [
+        "paramylon"
+    ],
+    "883": [
+        "pyrochar"
+    ],
+    "884": [
+        "tannins"
+    ],
+    "885": [
+        "gluten",
+        "gluten-free products"
+    ],
+    "886": [
+        "real-time bin status updates"
+    ],
+    "887": [
+        "hydrocarbon services"
+    ],
+    "888": [
+        "pavement slabs"
+    ],
+    "889": [
+        "road construction"
+    ],
+    "890": [
+        "value-added substances",
+        "value-added hydrocarbons",
+        "value-added biofuels",
+        "value-added fuels",
+        "value-added oil",
+        "value-added derivatives",
+        "value-added liquid fuels"
+    ],
+    "891": [
+        "solubilized organic matter"
+    ],
+    "892": [
+        "polypropylene"
+    ],
+    "893": [
+        "feedstock"
+    ],
+    "894": [
+        "silicon carbide"
+    ],
+    "895": [
+        "polyhydroxybutyrate valerate composites"
+    ],
+    "896": [
+        "biorefinery"
+    ],
+    "897": [
+        "starch-based bioplastics"
+    ],
+    "898": [
+        "solid fuel"
+    ],
+    "899": [
+        "CFS"
+    ],
+    "900": [
+        "light olefins"
+    ],
+    "901": [
+        "isinglass"
+    ],
+    "902": [
+        "wine quality"
+    ],
+    "903": [
+        "coconut fibers",
+        "rice husk-based building materials"
+    ],
+    "904": [
+        "graphene",
+        "graphite",
+        "carbon nanoball",
+        "carbon layer",
+        "carbon spheres",
+        "amorphous carbon"
+    ],
+    "905": [
+        "date seed nanoparticles",
+        "carboxymethyl starch nanoparticles",
+        "xylan nanoparticles",
+        "starch nanocrystals",
+        "starch nanoparticles",
+        "nanocarrier of ibuprofen",
+        "pinh\u00e3o coat nanosuspension"
+    ],
+    "906": [
+        "pituitary gland"
+    ],
+    "907": [
+        "iron oxide nanocomposites",
+        "titanium dioxide nanocomposites",
+        "platinum titanium dioxide nanocomposites"
+    ],
+    "908": [
+        "banana fibers",
+        "cacao fibers",
+        "cupua\u00e7u fibers",
+        "durian shell fibers"
+    ],
+    "909": [
+        "cashew shell oil"
+    ],
+    "910": [
+        "omega-3 fatty acids",
+        "fish oils"
+    ],
+    "911": [
+        "levulinic acid"
+    ],
+    "912": [
+        "lactic acid bacteria"
+    ],
+    "913": [
+        "biofertilizer"
+    ],
+    "914": [
+        "outdoor environments"
+    ],
+    "915": [
+        "polymetric matrices"
+    ],
+    "916": [
+        "nutrient ratio"
+    ],
+    "917": [
+        "EH-P",
+        "EU-P",
+        "P-SCGB",
+        "P-loaded ES-OH"
+    ],
+    "918": [
+        "pig feed"
+    ],
+    "919": [
+        "waxes"
+    ],
+    "920": [
+        "lipase"
+    ],
+    "921": [
+        "BHET"
+    ],
+    "922": [
+        "peptones",
+        "dipeptides",
+        "dipeptidyl peptidase"
+    ],
+    "923": [
+        "alternative materials"
+    ],
+    "924": [
+        "metabolites"
+    ],
+    "925": [
+        "fluid dynamics"
+    ],
+    "926": [
+        "xylanase",
+        "cellulase",
+        "hydrolytic enzymes"
+    ],
+    "927": [
+        "Spinochrome"
+    ],
+    "928": [
+        "BTEX",
+        "CXE oil"
+    ],
+    "929": [
+        "compressive strength"
+    ],
+    "930": [
+        "CAZymes",
+        "lysozymes",
+        "zinc oxide nanozymes"
+    ],
+    "931": [
+        "second generation ethanol",
+        "second generation bioethanol",
+        "second generation synthetic biofuels"
+    ],
+    "932": [
+        "mesoporous material"
+    ],
+    "933": [
+        "microwave absorber",
+        "isolation material",
+        "electromagnetic interference shielding material"
+    ],
+    "934": [
+        "MBBS composite materials"
+    ],
+    "935": [
+        "conductive materials"
+    ],
+    "936": [
+        "data-driven models"
+    ],
+    "937": [
+        "gaseous products"
+    ],
+    "938": [
+        "color"
+    ],
+    "939": [
+        "treated incinerator bottom ash"
+    ],
+    "940": [
+        "copper-nickel carbonate battery material",
+        "nickel cobalt aluminum"
+    ],
+    "941": [
+        "ammonium magnesium phosphate",
+        "sodium magnesium phosphate",
+        "lead nitrate hydroxide"
+    ],
+    "942": [
+        "cyclic compounds"
+    ],
+    "943": [
+        "sugars",
+        "reducing sugars",
+        "monosaccharides",
+        "sucrose"
+    ],
+    "944": [
+        "solid samples"
+    ],
+    "945": [
+        "GABA",
+        "benzodiazepine"
+    ],
+    "946": [
+        "passivator"
+    ],
+    "947": [
+        "calcium oxide"
+    ],
+    "948": [
+        "digestibility",
+        "digestate",
+        "digestion efficiency"
+    ],
+    "949": [
+        "virgin materials"
+    ],
+    "950": [
+        "contaminated soil stabilization"
+    ],
+    "951": [
+        "production"
+    ],
+    "952": [
+        "fiber-rich hamburgers",
+        "antioxidant-rich hamburgers",
+        "improved cooking hamburgers"
+    ],
+    "953": [
+        "geopolymer mortar",
+        "geopolymer material",
+        "geopolymer cement",
+        "geopolymer concrete",
+        "geopolymer gel",
+        "geopolymer adsorbent",
+        "geopolymer-based materials"
+    ],
+    "954": [
+        "chemical oxygen demand"
+    ],
+    "955": [
+        "monolithic products",
+        "monolithic foams"
+    ],
+    "956": [
+        "sewage sludge derived products"
+    ],
+    "957": [
+        "azo compounds"
+    ],
+    "958": [
+        "biochar"
+    ],
+    "959": [
+        "artificial marine structures"
+    ],
+    "960": [
+        "services"
+    ],
+    "961": [
+        "\u03b1137\u2013141 peptide"
+    ],
+    "962": [
+        "galloylglucose"
+    ],
+    "963": [
+        "tobacco extracts"
+    ],
+    "964": [
+        "yield"
+    ],
+    "965": [
+        "OWLA"
+    ],
+    "966": [
+        "insight"
+    ],
+    "967": [
+        "edible films",
+        "biodegradable films",
+        "active films",
+        "biopolymeric films",
+        "biocomposite films"
+    ],
+    "968": [
+        "leachate"
+    ],
+    "969": [
+        "differentially expressed proteins"
+    ],
+    "970": [
+        "biological efficiency"
+    ],
+    "971": [
+        "anti-aging products"
+    ],
+    "972": [
+        "salcotonin",
+        "gallotannins",
+        "saponins"
+    ],
+    "973": [
+        "sulfate"
+    ],
+    "974": [
+        "fermented foods",
+        "fermented beverages"
+    ],
+    "975": [
+        "metakaolin",
+        "geopolymer concrete"
+    ],
+    "976": [
+        "dairy",
+        "yogurt"
+    ],
+    "977": [
+        "decontaminated sediments"
+    ],
+    "978": [
+        "butanediol"
+    ],
+    "979": [
+        "food safety"
+    ],
+    "980": [
+        "sustainable biopolymers"
+    ],
+    "981": [
+        "prebiotics",
+        "prebiotic fibres"
+    ],
+    "982": [
+        "sustainable treatment chains for electronics",
+        "biological end of life for technical components"
+    ],
+    "983": [
+        "pharmaceutical food development"
+    ],
+    "984": [
+        "vanadium"
+    ],
+    "985": [
+        "soluble protein"
+    ],
+    "986": [
+        "nonwoven fabric"
+    ],
+    "987": [
+        "gaseous energy carrier"
+    ],
+    "988": [
+        "bimetallic catalysts"
+    ],
+    "989": [
+        "fermentable products",
+        "fermentable sugars"
+    ],
+    "990": [
+        "magnetic material",
+        "magnetic nanocomposite material"
+    ],
+    "991": [
+        "lignin"
+    ],
+    "992": [
+        "sintered products",
+        "fly ash filter"
+    ],
+    "993": [
+        "amino acid derivatives",
+        "benzene derivatives",
+        "polymer derivatives"
+    ],
+    "994": [
+        "nutritional profile"
+    ],
+    "995": [
+        "PLA"
+    ],
+    "996": [
+        "irrigation water"
+    ],
+    "997": [
+        "ethylene scavenging paper"
+    ],
+    "998": [
+        "biocatalysts"
+    ],
+    "999": [
+        "Lablab purpureus"
+    ],
+    "1000": [
+        "chitinase"
+    ],
+    "1001": [
+        "octane rating"
+    ],
+    "1002": [
+        "gasoline",
+        "kerosene",
+        "paraffins"
+    ],
+    "1003": [
+        "digestate"
+    ],
+    "1004": [
+        "valorized products",
+        "valorized materials",
+        "valorized chemicals",
+        "valorized energy"
+    ],
+    "1005": [
+        "biosurfactant"
+    ],
+    "1006": [
+        "degrading MB"
+    ],
+    "1007": [
+        "donated items"
+    ],
+    "1008": [
+        "new anti-trypanosomatid drugs"
+    ],
+    "1009": [
+        "digital services"
+    ],
+    "1010": [
+        "investment climate indicators"
+    ],
+    "1011": [
+        "LC3 binder"
+    ],
+    "1012": [
+        "cobalt oxide"
+    ],
+    "1013": [
+        "3-hydroxy fatty acid",
+        "1-hydroxy ketone"
+    ],
+    "1014": [
+        "active compounds"
+    ],
+    "1015": [
+        "anti-Helicobacter pylori agents",
+        "urease inhibitors"
+    ],
+    "1016": [
+        "BCSA"
+    ],
+    "1017": [
+        "sand"
+    ],
+    "1018": [
+        "shrinkage control"
+    ],
+    "1019": [
+        "Cimidahurinine"
+    ],
+    "1020": [
+        "reduced COD liquid phase"
+    ],
+    "1021": [
+        "HTL products"
+    ],
+    "1022": [
+        "hydroxybenzoic acid",
+        "dimethoxy cinnamic acid",
+        "methoxypropylphenol"
+    ],
+    "1023": [
+        "manool"
+    ],
+    "1024": [
+        "bioenergy products"
+    ],
+    "1025": [
+        "Fenton reagents"
+    ],
+    "1026": [
+        "purified sulfuric acid"
+    ],
+    "1027": [
+        "defect-rich manganese oxide film"
+    ],
+    "1028": [
+        "jam"
+    ],
+    "1029": [
+        "pesticidal conditions"
+    ],
+    "1030": [
+        "biopackaging",
+        "biomolecules for packaging"
+    ],
+    "1031": [
+        "plant nutrients"
+    ],
+    "1032": [
+        "colostrum-based feed supplements"
+    ],
+    "1033": [
+        "phenylalanine"
+    ],
+    "1034": [
+        "casting sand"
+    ],
+    "1035": [
+        "selenium"
+    ],
+    "1036": [
+        "commodities"
+    ],
+    "1037": [
+        "serum biochemical parameters"
+    ],
+    "1038": [
+        "disposable plates"
+    ],
+    "1039": [
+        "forage plant",
+        "Trifolium campestre",
+        "alfalfa"
+    ],
+    "1040": [
+        "rare earth elements"
+    ],
+    "1041": [
+        "average daily gains"
+    ],
+    "1042": [
+        "AYE",
+        "NAG"
+    ],
+    "1043": [
+        "P(3HB-co-3HV) copolymer"
+    ],
+    "1044": [
+        "amorphous materials"
+    ],
+    "1045": [
+        "carbon dioxide"
+    ],
+    "1046": [
+        "bricks",
+        "masonry mortar"
+    ],
+    "1047": [
+        "plant growth-promoting microorganisms"
+    ],
+    "1048": [
+        "OER activity"
+    ],
+    "1049": [
+        "char"
+    ],
+    "1050": [
+        "plaster"
+    ],
+    "1051": [
+        "economic value"
+    ],
+    "1052": [
+        "international cooperation"
+    ],
+    "1053": [
+        "torrefied materials",
+        "torrefied solid fuel"
+    ],
+    "1054": [
+        "immune-stimulatory ingredients"
+    ],
+    "1055": [
+        "specific surface area",
+        "specific capacitance"
+    ],
+    "1056": [
+        "electronic devices",
+        "quality parameters",
+        "functional properties"
+    ],
+    "1057": [
+        "Environmental Declarations"
+    ],
+    "1058": [
+        "hesperidin"
+    ],
+    "1059": [
+        "biofilm"
+    ],
+    "1060": [
+        "value-added bioproducts"
+    ],
+    "1061": [
+        "BGT-RGM"
+    ],
+    "1062": [
+        "PET bottles"
+    ],
+    "1063": [
+        "effective crop protection"
+    ],
+    "1064": [
+        "chitosan"
+    ],
+    "1065": [
+        "furan compounds"
+    ],
+    "1066": [
+        "released nutrients"
+    ],
+    "1067": [
+        "ethers"
+    ],
+    "1068": [
+        "ammonia"
+    ],
+    "1069": [
+        "waste-to-energy products"
+    ],
+    "1070": [
+        "red ceramic"
+    ],
+    "1071": [
+        "black bean extract",
+        "pistachio hull extract"
+    ],
+    "1072": [
+        "carbon conversion efficiency"
+    ],
+    "1073": [
+        "setting retarder"
+    ],
+    "1074": [
+        "potassium"
+    ],
+    "1075": [
+        "belite cement"
+    ],
+    "1076": [
+        "recycling rates"
+    ],
+    "1077": [
+        "triacylglycerol",
+        "fat"
+    ],
+    "1078": [
+        "carbonated byproduct materials"
+    ],
+    "1079": [
+        "protocatechuate"
+    ],
+    "1080": [
+        "neodymium",
+        "europium",
+        "uranium",
+        "yttrium"
+    ],
+    "1081": [
+        "ice cream base"
+    ],
+    "1082": [
+        "sulfones",
+        "sulfoxides",
+        "organosulfur compounds"
+    ],
+    "1083": [
+        "sanitation"
+    ],
+    "1084": [
+        "cement mixtures",
+        "concrete mixtures",
+        "asphalt mixtures"
+    ],
+    "1085": [
+        "electricity"
+    ],
+    "1086": [
+        "microbial diversity",
+        "microbial communities",
+        "bacterial diversity"
+    ],
+    "1087": [
+        "cement replacement"
+    ],
+    "1088": [
+        "chitobiose",
+        "cellobiose"
+    ],
+    "1089": [
+        "methane"
+    ],
+    "1090": [
+        "AL-CTPP"
+    ],
+    "1091": [
+        "landfill liner"
+    ],
+    "1092": [
+        "self-cleaning coatings"
+    ],
+    "1093": [
+        "alkanes"
+    ],
+    "1094": [
+        "dietary fiber powders",
+        "functional powdered ingredients"
+    ],
+    "1095": [
+        "rare metal pricing"
+    ],
+    "1096": [
+        "anti-inflammatory agents"
+    ],
+    "1097": [
+        "PHNQ"
+    ],
+    "1098": [
+        "absorbent material"
+    ],
+    "1099": [
+        "antioxidant activity",
+        "antioxidant capacity",
+        "antioxidant compounds"
+    ],
+    "1100": [
+        "keratinolytic enzymatic cocktail"
+    ],
+    "1101": [
+        "bittering component for beer"
+    ],
+    "1102": [
+        "starch",
+        "cassava flour",
+        "tapioca"
+    ],
+    "1103": [
+        "coffee resources"
+    ],
+    "1104": [
+        "air purification"
+    ],
+    "1105": [
+        "reaction media"
+    ],
+    "1106": [
+        "Ok-P(AA-AAm)",
+        "AAM"
+    ],
+    "1107": [
+        "Kjeldahl nitrogen"
+    ],
+    "1108": [
+        "precipitation"
+    ],
+    "1109": [
+        "filter material"
+    ],
+    "1110": [
+        "catalyst"
+    ],
+    "1111": [
+        "PEL materials"
+    ],
+    "1112": [
+        "food"
+    ],
+    "1113": [
+        "stachyose"
+    ],
+    "1114": [
+        "energy harvested for small-scale electronic devices"
+    ],
+    "1115": [
+        "CBE"
+    ],
+    "1116": [
+        "animal feed supplements"
+    ],
+    "1117": [
+        "additive"
+    ],
+    "1118": [
+        "aloin"
+    ],
+    "1119": [
+        "acceptable soil conditions for growing jack beans"
+    ],
+    "1120": [
+        "microbeads"
+    ],
+    "1121": [
+        "naphthalene destruction",
+        "pyrolysis naphtha"
+    ],
+    "1122": [
+        "core-shell magnetic nanomaterials"
+    ],
+    "1123": [
+        "food additives",
+        "flavoring ingredients",
+        "sweeteners"
+    ],
+    "1124": [
+        "NaDES extracts"
+    ],
+    "1125": [
+        "biogas"
+    ],
+    "1126": [
+        "treatment capacity"
+    ],
+    "1127": [
+        "extracellular polymeric substances"
+    ],
+    "1128": [
+        "polyol"
+    ],
+    "1129": [
+        "nickel oxide"
+    ],
+    "1130": [
+        "ellagic acid"
+    ],
+    "1131": [
+        "lower valued end products"
+    ],
+    "1132": [
+        "haemato-immunological modulation"
+    ],
+    "1133": [
+        "adsorption"
+    ],
+    "1134": [
+        "resource efficiency for profile grinding"
+    ],
+    "1135": [
+        "aryl iodides"
+    ],
+    "1136": [
+        "nanoparticles"
+    ],
+    "1137": [
+        "luminescent calcium phosphate bioceramics"
+    ],
+    "1138": [
+        "recycled tire materials"
+    ],
+    "1139": [
+        "graphite"
+    ],
+    "1140": [
+        "three-dimensional objects"
+    ],
+    "1141": [
+        "hydroxytyrosol"
+    ],
+    "1142": [
+        "biopharmaceuticals",
+        "pharmaceuticals",
+        "drugs",
+        "active pharmaceutical ingredients",
+        "medications",
+        "therapeutic compounds"
+    ],
+    "1143": [
+        "volatile hydrocarbons",
+        "long-chain hydrocarbons"
+    ],
+    "1144": [
+        "local socioeconomic opportunities"
+    ],
+    "1145": [
+        "lipophilic compounds"
+    ],
+    "1146": [
+        "C. necator",
+        "C. vulgaris"
+    ],
+    "1147": [
+        "gas fuel carbon monoxide"
+    ],
+    "1148": [
+        "aromatics"
+    ],
+    "1149": [
+        "whisky"
+    ],
+    "1150": [
+        "microbial activity"
+    ],
+    "1151": [
+        "g-C3N4",
+        "iron oxide"
+    ],
+    "1152": [
+        "propylparaben"
+    ],
+    "1153": [
+        "nutritional compounds",
+        "nutrients",
+        "functional foods"
+    ],
+    "1154": [
+        "aloe emodin",
+        "aloeresin"
+    ],
+    "1155": [
+        "soil acidity regulators"
+    ],
+    "1156": [
+        "aquaculture feed",
+        "fish feed",
+        "salmon feed"
+    ],
+    "1157": [
+        "knowledge"
+    ],
+    "1158": [
+        "p\u00e2t\u00e9",
+        "fish sauce"
+    ],
+    "1159": [
+        "energy materials"
+    ],
+    "1160": [
+        "phosphate"
+    ],
+    "1161": [
+        "Acacia-TEMPO film"
+    ],
+    "1162": [
+        "acidity"
+    ],
+    "1163": [
+        "seashell powder"
+    ],
+    "1164": [
+        "New R principle"
+    ],
+    "1165": [
+        "circularity"
+    ],
+    "1166": [
+        "adiponitrile"
+    ],
+    "1167": [
+        "cleansing products"
+    ],
+    "1168": [
+        "matter"
+    ],
+    "1169": [
+        "arabinose",
+        "arabinoxylans"
+    ],
+    "1170": [
+        "bone char"
+    ],
+    "1171": [
+        "Natural Resource Justice"
+    ],
+    "1172": [
+        "essential nutrients"
+    ],
+    "1173": [
+        "functionalized PET"
+    ],
+    "1174": [
+        "eucalyptol",
+        "thymol"
+    ],
+    "1175": [
+        "Maraviroc"
+    ],
+    "1176": [
+        "biofuel precursors"
+    ],
+    "1177": [
+        "ground cover film"
+    ],
+    "1178": [
+        "decreased toxicity"
+    ],
+    "1179": [
+        "alkaline protease"
+    ],
+    "1180": [
+        "composite materials"
+    ],
+    "1181": [
+        "pasta"
+    ],
+    "1182": [
+        "ketones"
+    ],
+    "1183": [
+        "larvicides"
+    ],
+    "1184": [
+        "stable hardpan layer"
+    ],
+    "1185": [
+        "fluorosilicate"
+    ],
+    "1186": [
+        "solketal"
+    ],
+    "1187": [
+        "chlorine radicals",
+        "ester anion radicals"
+    ],
+    "1188": [
+        "biomass of cyanobacteria"
+    ],
+    "1189": [
+        "environmental solutions"
+    ],
+    "1190": [
+        "frozen brine"
+    ],
+    "1191": [
+        "tunnel panels"
+    ],
+    "1192": [
+        "cutin"
+    ],
+    "1193": [
+        "seed oil"
+    ],
+    "1194": [
+        "Moringa oil",
+        "Moringa biodiesel"
+    ],
+    "1195": [
+        "mortar"
+    ],
+    "1196": [
+        "furniture"
+    ],
+    "1197": [
+        "industrial enzymes"
+    ],
+    "1198": [
+        "sodium bentonite"
+    ],
+    "1199": [
+        "tocopherols"
+    ],
+    "1200": [
+        "liquid oils"
+    ],
+    "1201": [
+        "natural insect repellent oils"
+    ],
+    "1202": [
+        "carboxymethyl cellulose"
+    ],
+    "1203": [
+        "colorimetric indicator"
+    ],
+    "1204": [
+        "seeds"
+    ],
+    "1205": [
+        "critical resource for development"
+    ],
+    "1206": [
+        "Kota stone powder slurry"
+    ],
+    "1207": [
+        "biosurfactants"
+    ],
+    "1208": [
+        "magnesium hydroxide"
+    ],
+    "1209": [
+        "betalains"
+    ],
+    "1210": [
+        "biosorbent for nitrate removal"
+    ],
+    "1211": [
+        "carbon sinks"
+    ],
+    "1212": [
+        "additives"
+    ],
+    "1213": [
+        "NaOH modified biomass"
+    ],
+    "1214": [
+        "printing materials"
+    ],
+    "1215": [
+        "layered double hydroxide"
+    ],
+    "1216": [
+        "furanic platforms"
+    ],
+    "1217": [
+        "cork"
+    ],
+    "1218": [
+        "treated organic waste"
+    ],
+    "1219": [
+        "treasured material"
+    ],
+    "1220": [
+        "glucosinolates"
+    ],
+    "1221": [
+        "whey protein",
+        "whey-based food items"
+    ],
+    "1222": [
+        "cooling"
+    ],
+    "1223": [
+        "fermented BSG protein extract"
+    ],
+    "1224": [
+        "monomeric compounds"
+    ],
+    "1225": [
+        "valuable bioproducts",
+        "valuable nanomaterials",
+        "valuable bacteria",
+        "valuable biomolecules"
+    ],
+    "1226": [
+        "bio-oil"
+    ],
+    "1227": [
+        "nutrient uptake"
+    ],
+    "1228": [
+        "higher value decomposition products"
+    ],
+    "1229": [
+        "phosphate adsorbent"
+    ],
+    "1230": [
+        "technological advancements"
+    ],
+    "1231": [
+        "aluminum"
+    ],
+    "1232": [
+        "usable energy",
+        "exergy"
+    ]
+}

@@ -1,0 +1,1 @@
+This folder stores the full text papers obtained using download_full_text.py.

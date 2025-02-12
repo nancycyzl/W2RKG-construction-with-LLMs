@@ -1,0 +1,1 @@
+This folder stores processed full texts, obtained with full_text_processing.py.

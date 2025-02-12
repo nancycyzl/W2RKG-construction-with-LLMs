@@ -1,0 +1,22 @@
+Parameters:
+input_file=result_all/before_fusion_v2/all_w2r_list.json
+save_path=result_all/after_fusion_v2/thre09_complete
+waste_threshold=0.9
+resource_threshold=0.9
+model_unify_names=gpt-4o-mini
+model=llama3.1
+cluster_info_path=result_all/after_fusion_v2/thre09_complete
+fuse_method=entity_level
+log_file=fusion_triples2.log
+Number of unique wastes: 7488
+Number of unique resources: 8343
+Number of w2r triples: 43199
+Loading waste and resource cluster unified names from result_all/after_fusion_v2/thre09_complete...
+Total waste clusters: 5635
+Total waste unified names: 5698
+Total resource clusters: 6860
+Total resource unified names: 6895
+Use pytorch device_name: cuda
+Load pretrained SentenceTransformer: Alibaba-NLP/gte-large-en-v1.5
+Number of fused triples: 43199
+Number of fused triples after aggregation: 36700

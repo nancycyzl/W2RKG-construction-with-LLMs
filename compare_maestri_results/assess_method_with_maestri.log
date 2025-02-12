@@ -1,0 +1,1625 @@
+Start evaluating method with Maestri using gpt-4o-mini...
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Vapour and demineralised water. LLM output: 'Sector 4. Vapour and demineralised water may be generated during processes in electricity, gas, steam and air conditioning supply.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Electricity. LLM output: 'Sector 4. Electricity is generated in the electricity, gas, steam, and air conditioning supply sector through various energy production methods.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sea and well water, condensing vapour. LLM output: 'Sector 5. Sea and well water, along with condensing vapour, may be generated and managed in the water supply and waste management sector.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fuel gas. LLM output: 'Sector 4. Fuel gas is produced through processes in electricity, gas, steam, and air conditioning supply industries.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fuel oil. LLM output: 'Sector 4. Fuel oil is typically produced in the process of refining crude oil within the electricity, gas, steam, and air conditioning supply sector.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Demineralised water. LLM output: 'Sector 4. Demineralised water may be generated as a by-product in processes related to electricity, gas, steam and air conditioning supply for cooling or boiler feed.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Exhaust gas. LLM output: 'Sector 4. Exhaust gas is typically generated during energy production processes in the electricity, gas, steam, and air conditioning supply sector.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Steam. LLM output: 'Sector 4. Steam is produced as part of the process in electricity, gas, steam, and air conditioning supply sector.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Mill scales. LLM output: 'Sector 3. Mill scales are byproducts from the steel manufacturing process, resulting from the removal of impurities during steel production.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BF slag. LLM output: 'Sector 3. BF slag (blast furnace slag) is a byproduct of the iron and steel manufacturing process.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Coal fly ash. LLM output: 'Sector 5. Coal fly ash is a byproduct of coal combustion in power plants, making it relevant to waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Construction and demolition waste. LLM output: 'Sector 5. Construction and demolition waste is produced during the construction, renovation, and demolition of buildings and infrastructure, falling under waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Marc and dregs. LLM output: 'Sector 1. Marc and dregs are by-products from the processing of grapes in the agricultural sector, particularly in winemaking.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Oil mill waste water. LLM output: 'Sector 5. Oil mill wastewater may be generated during the processing of oil in the waste management and remediation activities sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste heat. LLM output: 'Sector 4. Waste heat is often generated from electricity, gas, and steam production processes in energy supply sectors.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste coolant. LLM output: 'Sector 5. Waste coolant may be generated during processes in manufacturing and maintenance, which are managed by waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Refractories. LLM output: 'Sector 3. Refractories may be generated by manufacturing processes, particularly in industries producing ceramics or metal products that require heat-resistant materials.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BFS/BOSF. LLM output: 'Sector 5. BFS (Blast Furnace Slag) and BOSF (Basic Oxygen Steelmaking Furnace) are by-products from waste management processes in the steel manufacturing industry.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BOSF. LLM output: 'Sector 3. BOSF (Bessemer Open Hearth Steelmaking Flux) is typically generated through the manufacturing processes of steel production.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BFS. LLM output: 'Sector 6. BFS (Blast Furnace Slag) is a by-product of the iron and steel industry, which involves construction activities and materials.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BFS/BOSF. LLM output: 'Sector 5. BFS (Blast Furnace Slag) and BOSF (Basic Oxygen Steelmaking Slag) are by-products from steel production, often managed in waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BFS. LLM output: 'Sector 6. BFS (Blast Furnace Slag) is a byproduct generated during the iron and steel manufacturing process, which is part of the construction sector for cement and concrete products.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Mill scales. LLM output: 'Sector 3. Mill scales are byproducts generated during the production of steel in the manufacturing sector.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BFS. LLM output: 'Sector 5. BFS (Blast Furnace Slag) is a byproduct of steel manufacturing, which falls under waste management and remediation activities for recycling and reuse.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BOFS as aggregate. LLM output: 'Sector 6. BOFS (Basic Oxygen Furnace Slag) can be used as an aggregate in construction activities.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BFS. LLM output: 'Sector 6. BFS (Blast Furnace Slag) is generated as a byproduct in the construction sector during the production of iron and steel.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BFS. LLM output: 'Sector 6. BFS (Blast Furnace Slag) is a byproduct generated during the production of iron and steel in the construction sector.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BFS. LLM output: 'Sector 6. BFS (Blast Furnace Slag) is a byproduct generated in the construction sector, often used as a material in concrete and road construction.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fly ash. LLM output: 'Sector 5. Fly ash is a byproduct generated from coal combustion in power plants, which falls under waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fly ash. LLM output: 'Sector 5. Fly ash is a byproduct of burning coal in power plants, relevant to waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fly ash. LLM output: 'Sector 5. Fly ash is a byproduct generated from the combustion of coal in electricity generation, often managed within waste management activities.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fly ash. LLM output: 'Sector 5. Fly ash is a byproduct generated from burning coal in power plants, related to waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste heat. LLM output: 'Sector 4. Waste heat is often generated as a byproduct in electricity, gas, steam, and air conditioning supply processes.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Calcium carbonate. LLM output: 'Sector 2. Calcium carbonate is commonly generated through mining activities, particularly from limestone quarries.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Chlorine dioxide. LLM output: 'Sector 3. Chlorine dioxide is commonly produced in the manufacturing sector, particularly in the production of chemicals and disinfectants for various industrial applications.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sodium hydroxide. LLM output: 'Sector 3. Sodium hydroxide is commonly produced in the manufacturing sector, particularly in the chemical manufacturing industry.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste water. LLM output: 'Sector 5. Waste water is generated from various activities and is handled within water supply and waste management sectors.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Chlorine. LLM output: 'Sector 3. Chlorine may be generated as a byproduct or used in the manufacturing processes within the chemical manufacturing industry.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Ash. LLM output: 'Sector 5. Ash may be generated as a byproduct in waste management and remediation activities, particularly from incineration processes.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Food waste. LLM output: 'Sector 5. Food waste may be generated during the water supply; sewerage, waste management and remediation activities sector through the disposal and processing of organic materials.'. Parsed: E
+Ground-truth sectors: A, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sludge. LLM output: 'Sector 5. Sludge may be generated from wastewater treatment processes in waste management activities.'. Parsed: E
+Ground-truth sectors: A, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Steam. LLM output: 'Sector 4. Steam is primarily generated in the electricity, gas, steam, and air conditioning supply sector through various heating processes.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste hot water. LLM output: 'Sector 4. Waste hot water may be generated from processes in electricity, gas, steam, and air conditioning supply systems.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sulfur. LLM output: 'Sector 2. Sulfur may be generated as a byproduct in the mining and quarrying activities, particularly from sulfur ore mining.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Scrubber sludge. LLM output: 'Sector 5. Scrubber sludge is a byproduct of air pollution control systems and is often managed in waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Cooling water. LLM output: 'Sector 4. Cooling water is typically generated during electricity production processes in power plants, which is part of the electricity, gas, steam, and air conditioning supply sector.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fly ash. LLM output: 'Sector 5. Fly ash may be generated as a byproduct in waste management activities during the disposal of materials from combustion processes in power plants.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Organic residues. LLM output: 'Sector 5. Organic residues may be generated through waste management activities where organic waste is collected and processed for recycling or composting.'. Parsed: E
+Ground-truth sectors: A, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Yeast slurry and sludge. LLM output: 'Sector 5. Yeast slurry and sludge may be generated as by-products in the waste management and remediation activities of the food and beverage industry.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste edible oils. LLM output: 'Sector 5. Waste edible oils may be generated from food processing and preparation activities in the waste management sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Refinery by-products. LLM output: 'Sector 4. Refinery by-products are generated during the processing of crude oil, which occurs in the electricity, gas, steam, and air conditioning supply sector.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Hydrogen. LLM output: 'Sector 4. Hydrogen may be generated as a byproduct in the production of electricity or in chemical processes related to gas and steam supply.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Gypsum. LLM output: 'Sector 2. Gypsum is typically generated through mining processes within the mining and quarrying sector, extracting minerals from the earth.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Dry organic pellets. LLM output: 'Sector 5. Dry organic pellets may be generated from organic waste processing in waste management activities.'. Parsed: E
+Ground-truth sectors: E, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Organic waste. LLM output: 'Sector 5. Organic waste may be generated through various processes in waste management and sewerage activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Dry organic pellets. LLM output: 'Sector 5. Dry organic pellets may be generated as a byproduct in waste management processes, particularly from composting organic waste.'. Parsed: E
+Ground-truth sectors: E, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Organic waste. LLM output: 'Sector 5. Organic waste may be generated through household waste and food processing activities, falling under waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Organic waste. LLM output: 'Sector 5. Organic waste may be generated from residential and commercial activities and is managed through waste management and remediation activities in this sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Polystyrene waste. LLM output: 'Sector 3. Polystyrene waste may be generated by the manufacturing of plastic products and packaging materials in the manufacturing industry.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Offal. LLM output: 'Sector 1. Offal may be generated as a byproduct in the meat processing segment of agriculture, specifically from livestock farming.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Steel slag. LLM output: 'Sector 5. Steel slag may be generated as a byproduct from the manufacturing processes in steel production and is often managed in waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Spent cell linings. LLM output: 'Sector 5. Spent cell linings may be generated from the waste management and remediation activities associated with battery recycling and disposal.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fly ash. LLM output: 'Sector 5. Fly ash is a byproduct generated from the combustion of coal in electricity production and can be involved in waste management activities.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fertiliser. LLM output: 'Sector 2. Fertiliser may be generated as a byproduct of mining activities, specifically through the extraction of phosphorus and other minerals used in fertiliser production.'. Parsed: B
+Ground-truth sectors: B, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Spent shale. LLM output: 'Sector 2. Spent shale may be generated through the mining and quarrying of shale deposits.'. Parsed: B
+Ground-truth sectors: B, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Spent shale. LLM output: 'Sector 2. Spent shale may be generated as a byproduct in the mining and quarrying sector during the extraction and processing of oil shale.'. Parsed: B
+Ground-truth sectors: B, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sour gas. LLM output: 'Sector 4. Sour gas is produced during the extraction and processing of natural gas in the electricity, gas, steam, and air conditioning supply sector.'. Parsed: D
+Ground-truth sectors: B, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sour gas. LLM output: 'Sector 4. Sour gas is typically produced during the extraction and processing of natural gas in the electricity, gas, steam, and air conditioning supply sector.'. Parsed: D
+Ground-truth sectors: B, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Red mud. LLM output: 'Sector 2. Red mud is a byproduct generated during the process of alumina extraction in bauxite mining.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Barren liquor. LLM output: 'Sector 5. Barren liquor, a waste byproduct from distillation processes, may be generated in waste management and remediation activities related to alcohol production.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Refractory materials. LLM output: 'Sector 3. Refractory materials are produced in the manufacturing sector, specifically for use in high-temperature industrial processes.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Metallurgical coke dust and fines. LLM output: 'Sector 2. Metallurgical coke dust and fines are byproducts of coal processing in the mining and quarrying sector.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Bottom ash. LLM output: 'Sector 5. Bottom ash is a byproduct from waste management activities in incineration processes.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sulphuric acid. LLM output: 'Sector 3. Sulphuric acid is commonly produced as a byproduct in the manufacturing industry, particularly in the production of fertilizers and chemicals.'. Parsed: C
+Ground-truth sectors: B, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Off-spec lime. LLM output: 'Sector 3. Off-spec lime may be generated as a byproduct in the manufacturing process, particularly in industries producing lime for construction or chemical applications.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Steel slag. LLM output: 'Sector 3. Steel slag is a byproduct produced during the manufacturing of steel in metallurgical processes.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Steel slag. LLM output: 'Sector 5. Steel slag is a byproduct of steel manufacturing processes and is often managed in waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Vinesse. LLM output: 'Sector 1. Vinesse may be generated from grapevines in the agriculture, forestry and fishing sector, particularly in winemaking.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Vinesse. LLM output: 'Sector 1. Vinesse is often generated from vine plants, which are cultivated in the agriculture sector for purposes such as wine production.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Residue. LLM output: 'Sector 5. Residue may be generated from waste management activities in the sector focused on water supply and remediation processes.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sludge. LLM output: 'Sector 5. Sludge may be generated as a byproduct in wastewater treatment and management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: White sludge. LLM output: 'Sector 5. White sludge is often generated in water treatment processes within waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Green mud. LLM output: 'Sector 5. Green mud is a byproduct from the water treatment process in waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Reclaimed water. LLM output: 'Sector 5. Reclaimed water is generated through waste management processes that treat and recycle wastewater for reuse.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste hot water. LLM output: 'Sector 4. Waste hot water may be generated as a byproduct in electricity and heat generation processes in the energy supply industry.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Wood chips. LLM output: 'Sector 1. Wood chips may be generated as a byproduct from the forestry sector, specifically during the harvesting and processing of timber.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Wood board. LLM output: 'Sector 1. Wood boards are typically produced from trees harvested in the agriculture, forestry, and fishing sector.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: White sludge. LLM output: 'Sector 5. White sludge may be generated as a byproduct in water treatment and waste management processes within the waste management sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fly ash. LLM output: 'Sector 5. Fly ash is a byproduct commonly generated in coal combustion at power plants, which is managed through waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Coal slag. LLM output: 'Sector 5. Coal slag may be generated as a byproduct from waste management activities involving coal combustion and remediation processes.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Condensed water. LLM output: 'Sector 4. Condensed water may be generated as a byproduct in electricity and steam generation processes, where cooling systems lead to water condensation.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Seaweed residues. LLM output: 'Sector 1. Seaweed residues may be generated in the agriculture and aquaculture sectors, specifically from seaweed farming activities.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste clay. LLM output: 'Sector 5. Waste clay may be generated from construction activities or manufacturing processes involving ceramics or pottery.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Clay-oil. LLM output: 'Sector 2. Clay-oil may be generated from the extraction processes in the mining and quarrying sector where natural resources are obtained.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Leftovers. LLM output: 'Sector 5. Leftovers may be generated by food processing and management activities within the waste management sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste molasses. LLM output: 'Sector 5. Waste molasses is a byproduct from sugar production, which falls under waste management activities in the water supply and sewerage sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Carbon dioxide. LLM output: 'Sector 4. Carbon dioxide may be generated during the production of electricity and thermal energy in power plants.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Scrap metal. LLM output: 'Sector 3. Scrap metal is typically generated as a byproduct from various manufacturing processes and metalworking industries.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Pure water. LLM output: 'Sector 5. Pure water may be generated and supplied through water supply and treatment processes in waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Zn recovery. LLM output: 'Sector 2. Zn recovery may be generated from the mining and quarrying sector through the extraction and processing of zinc ore.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Cu recovery. LLM output: 'Sector 2. Cu recovery is typically associated with mining processes that extract copper from ores.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Industrial waste. LLM output: 'Sector 5. Industrial waste is often generated during manufacturing processes, and its management falls under waste management and remediation activities in this sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Off-spec solvents. LLM output: 'Sector 3. Off-spec solvents may be generated as by-products in the chemical manufacturing process.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste water. LLM output: 'Sector 5. Waste water is generated through various processes, including domestic, industrial, and agricultural activities, and is managed in water supply and waste management sectors.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Molasses. LLM output: 'Sector 1. Molasses is a byproduct of sugarcane processing in the agriculture sector, particularly from sugar production.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Filter mud. LLM output: 'Sector 5. Filter mud is often a byproduct of waste management processes, particularly in water treatment and sugar production industries.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Used carbon dioxide. LLM output: 'Sector 5. Used carbon dioxide may be generated during processes in waste management and can be captured for remediation activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Bagasse. LLM output: 'Sector 1. Bagasse is a byproduct of sugarcane processing in the agriculture sector, specifically from sugar mills.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Bagasse. LLM output: 'Sector 1. Bagasse is the fibrous material left after extracting juice from sugarcane in the agriculture industry.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Bagasse. LLM output: 'Sector 1. Bagasse is a byproduct of sugarcane processing in the agriculture sector, particularly from sugar and ethanol production.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Alcohol residue. LLM output: 'Sector 3. Alcohol residue may be generated as a byproduct during the manufacturing of alcoholic beverages.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Heat. LLM output: 'Sector 4. Heat may be generated as a byproduct in the electricity, gas, steam, and air conditioning supply sector.'. Parsed: D
+Ground-truth sectors: B, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fruit pulp waste. LLM output: 'Sector 1. Fruit pulp waste is a byproduct of the agriculture sector, specifically from fruit cultivation and processing.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Pulper and sludges. LLM output: 'Sector 5. Pulper and sludges may be generated as waste in the water supply and waste management sector during processing and treatment of wastewater.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Electricity. LLM output: 'Sector 4. Electricity is generated in the electricity, gas, steam and air conditioning supply sector.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Cane. LLM output: 'Sector 1. Cane is produced in agriculture, specifically in the cultivation of sugarcane and other types of cane plants.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Molasses. LLM output: 'Sector 1. Molasses is a byproduct generated during the production of sugar from sugarcane or sugar beets in the agriculture sector.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Filter sludge. LLM output: 'Sector 5. Filter sludge may be generated through the water treatment processes in waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Bagasse pitch. LLM output: 'Sector 3. Bagasse pitch is produced as a byproduct in the manufacturing process of cane sugar from sugarcane.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste gas. LLM output: 'Sector 4. Waste gas may be generated during the production and distribution of electricity and gas in the energy supply sector.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Bleaching water. LLM output: 'Sector 5. Bleaching water may be generated as a byproduct in water treatment and waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Black liquid. LLM output: 'Sector 5. Black liquid may be generated as a byproduct in waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Alkali. LLM output: 'Sector 2. Alkali can be produced as a byproduct during the mining and processing of certain minerals, particularly in the extraction of soda ash.'. Parsed: B
+Ground-truth sectors: E, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Black liquid. LLM output: 'Sector 5. Black liquid may be generated as a byproduct in waste management and remediation activities, often from the treatment of wastewater or other waste materials.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: White water. LLM output: 'Sector 5. White water may be generated during wastewater treatment processes in the waste management sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Paddy husk. LLM output: 'Sector 1. Paddy husk is a byproduct of rice milling in the agriculture sector, specifically in rice cultivation and processing.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: CO2. LLM output: 'Sector 4. CO2 is typically generated as a byproduct in electricity generation processes, particularly from fossil fuel combustion.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Isopropyl alcohol. LLM output: 'Sector 3. Isopropyl alcohol is typically produced through chemical manufacturing processes in the industrial sector.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Bagasse. LLM output: 'Sector 1. Bagasse is the fibrous residue left after extracting juice from sugarcane, generated in the agricultural sector during the sugar production process.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Molasses. LLM output: 'Sector 1. Molasses is a byproduct of sugar production in the agriculture sector, specifically from sugarcane or sugar beet processing.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Paddy husk. LLM output: 'Sector 1. Paddy husk is a byproduct of rice cultivation in the agriculture sector.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Boiler and fly ashes. LLM output: 'Sector 5. Boiler and fly ashes are byproducts typically generated from waste management activities in industries like energy production.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: ETP sludge. LLM output: 'Sector 5. ETP sludge is generated from effluent treatment processes in water supply and waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Spent coffee grounds. LLM output: 'Sector 5. Spent coffee grounds may be generated from coffee production processes and are often managed in waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Biomass fuel. LLM output: 'Sector 1. Biomass fuel is often derived from agricultural waste and organic materials produced in the agriculture and forestry sector.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fly ash. LLM output: 'Sector 5. Fly ash is a byproduct from burning coal in power plants, categorized under waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Dessiccated coffee grounds. LLM output: 'Sector 1. Dessiccated coffee grounds may be generated from coffee production in the agriculture sector.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Residual coconut. LLM output: 'Sector 1. Residual coconut is generated from coconut processing in agriculture, particularly in the production of coconut oil or other coconut-based products.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sawdust. LLM output: 'Sector 1. Sawdust may be generated as a byproduct from wood processing in the forestry industry.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Boiler ash. LLM output: 'Sector 5. Boiler ash may be generated from waste management processes, particularly in the treatment of ash from incineration in waste management facilities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Heat. LLM output: 'Sector 4. Heat may be generated as a byproduct during the production of electricity and in other processes within the electricity, gas, steam and air conditioning supply sector.'. Parsed: D
+Ground-truth sectors: E, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Dusty organic materials. LLM output: 'Sector 5. Dusty organic materials may be generated as waste in waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: A, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: "Glue like" waste. LLM output: 'Sector 3. "Glue like" waste may be generated from the manufacturing processes involving adhesives or related products in the manufacturing industry.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Plastic pellets. LLM output: 'Sector 3. Plastic pellets are produced as outputs in the manufacturing sector, specifically in the production of plastic materials and products.'. Parsed: C
+Ground-truth sectors: E, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Glass waste. LLM output: 'Sector 5. Glass waste may be generated from the waste management and recycling activities in the waste management sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Glass waste. LLM output: 'Sector 3. Glass waste may be generated by glass manufacturing processes in the manufacturing industry.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste water. LLM output: 'Sector 5. Waste water is produced in household and industrial activities, and is managed by water supply and waste management sectors.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Ethanol. LLM output: 'Sector 1. Ethanol is commonly produced through fermentation in agricultural processes, particularly from crops like sugarcane and corn.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Organic waste. LLM output: 'Sector 5. Organic waste may be generated by various sources, including households and businesses, in the waste management and remediation activities sector.'. Parsed: E
+Ground-truth sectors: A, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste water. LLM output: 'Sector 5. Waste water is generated during various processes in industries and households, then managed in waste management and remediation activities sector.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Demineralised water. LLM output: 'Sector 4. Demineralised water is produced during processes in electricity generation and other industrial applications involving water treatment.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Boiler blow-down. LLM output: 'Sector 4. Boiler blow-down is a byproduct from steam production in power plants in the electricity and gas supply sector.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Bore water. LLM output: 'Sector 5. Bore water may be drawn from underground sources, managed in the water supply and waste management sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Potable water. LLM output: 'Sector 5. Potable water is generated through water supply and treatment processes in the water supply, sewerage, and waste management sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Air. LLM output: 'None. Air is a natural resource and not produced as output by any specific industrial sector.'. Parsed: None
+Ground-truth sectors: C, predicted sectors: None
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Reverse osmosis water. LLM output: 'Sector 4. Reverse osmosis water is produced through purification processes, commonly associated with the electricity, gas, steam, and air conditioning supply industry for water treatment.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Domestic organic waste. LLM output: 'Sector 5. Domestic organic waste is generated from household activities and is processed in waste management and remediation activities sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Bauxite residue. LLM output: 'Sector 2. Bauxite residue is a byproduct of the mining process when extracting aluminum from bauxite ore in the mining and quarrying sector.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Carbon dioxide. LLM output: 'Sector 4. Carbon dioxide may be generated as a byproduct in electricity generation processes, particularly from fossil fuel combustion in power plants.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Gypsum. LLM output: 'Sector 2. Gypsum is commonly extracted from mines and quarries, making it a product of the mining industry.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Silica fume. LLM output: 'Sector 6. Silica fume is a byproduct from the production of silicon metal or ferrosilicon, commonly used in construction materials.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Concrete wastes. LLM output: 'Sector 6. Concrete wastes may be generated during construction activities involving concrete as a primary material.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Cardboard. LLM output: 'Sector 3. Cardboard is typically generated from manufacturing processes involving the production of paper and packaging materials.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Blast furnace slag. LLM output: 'Sector 3. Blast furnace slag is a byproduct generated during the manufacturing of iron and steel in the manufacturing sector.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Hydrogen. LLM output: 'Sector 4. Hydrogen may be produced as a by-product in the electricity, gas, and steam production processes, especially with renewable energy methods.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Carbon dioxide. LLM output: 'Sector 4. Carbon dioxide is primarily generated in electricity production and industrial processes, particularly during the combustion of fossil fuels.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sulphur. LLM output: 'Sector 2. Sulphur is often generated as a byproduct in the mining and quarrying industry, especially through the extraction of minerals like pyrite and gypsum.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sulphur. LLM output: 'Sector 2. Sulphur may be generated as a byproduct in the mining and quarrying industry, particularly during the extraction of certain minerals.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Spent catalysts. LLM output: 'Sector 5. Spent catalysts may be generated as waste in chemical processing and materials remediation activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Ammonium chloride. LLM output: 'Sector 3. Ammonium chloride may be generated as a byproduct in the manufacturing of fertilizers and other chemical products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: 98% sulphuric acid. LLM output: 'Sector 3. 98% sulphuric acid may be generated as a byproduct in chemical manufacturing processes.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: 80% sulphuric acid. LLM output: 'Sector 3. 80% sulphuric acid may be generated as a byproduct in the manufacturing industry, particularly in chemical production processes.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Ammonium chloride solution. LLM output: 'Sector 3. Ammonium chloride solution may be generated as a byproduct in the chemical manufacturing processes.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Hydrochloric acid. LLM output: 'Sector 3. Hydrochloric acid is commonly produced as a byproduct in the chemical manufacturing industry.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Ammonium chloride solution. LLM output: 'Sector 5. Ammonium chloride solution may be generated as a byproduct in waste management and remediation activities, particularly when treating industrial effluents.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Hydrogen. LLM output: 'Sector 4. Hydrogen can be generated as a byproduct in processes of electricity, gas, steam, and air conditioning supply, particularly in fuel cells or electrolysis.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Hydrogen. LLM output: 'Sector 4. Hydrogen may be generated in the electricity, gas, steam and air conditioning supply sector through processes like electrolysis or steam reforming.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Ammonium sulphate. LLM output: 'Sector 2. Ammonium sulphate may be generated as a by-product in the mining industry, particularly from the processing of certain minerals.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Carbon dioxide. LLM output: 'Sector 4. Carbon dioxide may be generated as a byproduct in electricity and gas production processes.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Hydrogen. LLM output: 'Sector 4. Hydrogen may be generated as a byproduct in the electricity and gas supply industry through various processes, including electrolysis and natural gas reforming.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fly ash. LLM output: 'Sector 5. Fly ash may be generated as a byproduct from coal combustion in electricity generation, and is often utilized in construction and waste management processes.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Bio-sludge. LLM output: 'Sector 5. Bio-sludge may be generated as a byproduct in waste management and treatment processes.'. Parsed: E
+Ground-truth sectors: E, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Lime kiln dust. LLM output: 'Sector 5. Lime kiln dust may be a byproduct of waste management processes in the industry involving lime production and remediation activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Lime kiln dust. LLM output: 'Sector 5. Lime kiln dust can be generated from construction activities where lime is used in cement and building materials, and waste management may also handle it.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Coal mine overburden. LLM output: 'Sector 2. Coal mine overburden is generated as a waste product during the mining and quarrying process of coal extraction.'. Parsed: B
+Ground-truth sectors: B, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Process residue. LLM output: 'Sector 5. Process residue may be generated during waste management and remediation activities in treating various types of waste.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sulphur. LLM output: 'Sector 2. Sulphur may be extracted as a byproduct in the mining and quarrying industry, particularly during the processing of certain minerals.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Poultry dejections. LLM output: 'Sector 1. Poultry dejections are organic waste generated from poultry farming in the agriculture sector.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Hydrochloric acid. LLM output: 'Sector 3. Hydrochloric acid may be generated as a byproduct in various manufacturing processes, particularly in chemical production.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sodium silicate. LLM output: 'Sector 3. Sodium silicate may be generated as a byproduct in the manufacturing process, particularly in glass and ceramics production.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Silica. LLM output: 'Sector 2. Silica can be generated from the mining and quarrying industry, where it is extracted as a raw material for various applications.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Silica. LLM output: 'Sector 2. Silica may be generated from the mining and quarrying sector, as it is often extracted from sand and quartz deposits.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Silica. LLM output: 'Sector 2. Silica may be generated from mining activities, as it is often extracted from sand and quartz deposits.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Sodium hydroxide. LLM output: 'Sector 3. Sodium hydroxide is produced through chemical processes in the manufacturing sector, often used in various industrial applications.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Hydrochloric acid. LLM output: 'Sector 3. Hydrochloric acid may be generated as a byproduct in various chemical manufacturing processes.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Septic sludges. LLM output: 'Sector 5. Septic sludges are generated in waste management and remediation activities, as they result from the treatment of sewage and wastewater.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste plastics (AMP). LLM output: 'Sector 5. Waste plastics may be generated through waste management and recycling activities in the waste management sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: CO2. LLM output: 'Sector 4. CO2 may be generated as a byproduct in processes related to electricity generation, particularly in fossil fuel power plants.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Fruit pulp waste. LLM output: 'Sector 1. Fruit pulp waste may be generated by the processing of fruits in the agriculture industry.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Heat. LLM output: 'Sector 4. Heat can be generated as a byproduct in electricity and gas production processes in the energy supply industry.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Food production scraps. LLM output: 'Sector 1. Food production scraps are generated during the agricultural process of growing and harvesting crops.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Food production scraps. LLM output: 'Sector 1. Food production scraps are generated during the harvesting and processing of crops in the agriculture industry.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Food production scraps. LLM output: 'Sector 1. Food production scraps are generated from the agricultural sector during the harvesting and processing of crops.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Agricultural wastes, packaging and muds. LLM output: 'Sector 5. Agricultural wastes and packaging can be processed in waste management activities, while muds may be managed through sewerage systems in waste services.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Agricultural wastes, packaging and muds. LLM output: 'Sector 5. Agricultural wastes and packaging can be processed in waste management, and muds can also be part of remediation activities in this sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Agricultural wastes, packaging and muds. LLM output: 'Sector 5. Agricultural wastes and packaging may be processed in waste management activities, while muds can be a byproduct of water supply and sewerage management.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Packaging. LLM output: 'Sector 3. Packaging is commonly produced through the manufacturing sector, which includes the production of various packaging materials and containers.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Packaging. LLM output: 'Sector 3. Packaging is typically produced through manufacturing processes in the packaging industry, which includes materials like cardboard, plastic, and metal for product protection.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Muds. LLM output: 'Sector 5. Muds may be generated as a byproduct of water supply and waste management activities, particularly in sewage treatment processes.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Agricultural wastes. LLM output: 'Sector 5. Agricultural wastes may be generated in farming, which is managed through waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Packaging. LLM output: 'Sector 3. Packaging materials are typically produced in the manufacturing sector, which processes raw materials into various packaging products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Packaging and wood wastes. LLM output: 'Sector 5. Packaging and wood wastes may be generated during the waste management processes in the water supply and waste management sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Wood chips. LLM output: 'Sector 1. Wood chips are generated as by-products from the forestry industry during the process of cutting and processing trees.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Wood chips. LLM output: 'Sector 1. Wood chips may be generated as a byproduct from the forestry activities in agriculture sector.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Wood chips. LLM output: 'Sector 1. Wood chips may be generated as a byproduct of forestry and timber harvesting in the agricultural sector.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Distillers dried grains with solubles, thin stillage, impurities. LLM output: 'Sector 1. Distillers dried grains with solubles and thin stillage are byproducts from the ethanol production process in agriculture, specifically from processing grains.'. Parsed: A
+Ground-truth sectors: D, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Distillers dried grains with solubles, thin stillage, impurities. LLM output: 'Sector 1. Distillers dried grains with solubles are byproducts of the alcohol production process in agriculture and can also relate to animal feed production.'. Parsed: A
+Ground-truth sectors: D, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Thin stillage and filtered impurities. LLM output: 'Sector 5. Thin stillage and filtered impurities may be generated as by-products in waste management and remediation activities from the processing of agricultural products.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Digestate. LLM output: 'Sector 5. Digestate is a byproduct of anaerobic digestion, often processed in waste management activities.'. Parsed: E
+Ground-truth sectors: E, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Grains. LLM output: 'Sector 1. Grains are produced through the cultivation of crops in the agriculture, forestry, and fishing sector.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Pastry waste. LLM output: 'Sector 3. Pastry waste may be generated by bakeries and pastry manufacturing in the manufacturing industry.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: End of life semiconductors. LLM output: 'Sector 5. End of life semiconductors are typically processed in waste management and e-waste recycling activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Slag. LLM output: 'Sector 5. Slag is a byproduct generated during metal smelting and refining, which falls under waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Phosphorous slag. LLM output: 'Sector 5. Phosphorous slag may be generated during the process of waste management in the treatment of industrial by-products containing phosphorus.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Coal gangue. LLM output: 'Sector 2. Coal gangue is a byproduct generated during the mining of coal in the mining and quarrying sector.'. Parsed: B
+Ground-truth sectors: B, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Coal flying ash. LLM output: 'Sector 5. Coal flying ash is generated as a byproduct from the combustion of coal in power generation, falling under waste management activities.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: COG. LLM output: 'Sector 4. COG, or coke oven gas, is produced during the coking process in the steel manufacturing industry, which falls under electricity and gas supply.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Ammonium sulfate. LLM output: 'Sector 1. Ammonium sulfate can be produced as a fertilizer in the agriculture, forestry, and fishing sector.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BF slag. LLM output: 'Sector 3. BF slag is a byproduct from the manufacturing process of iron and steel production.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Steel slag. LLM output: 'Sector 3. Steel slag is a byproduct generated during the manufacturing of steel in steel production processes.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BFG (blast furnace gas). LLM output: 'Sector 4. BFG is a byproduct from the production of iron and steel in the industrial processes involving electricity, gas, steam, and air conditioning supply.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Red mud. LLM output: 'Sector 2. Red mud is a byproduct generated from the alumina extraction process in the mining and quarrying sector.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Gypsum. LLM output: 'Sector 2. Gypsum is commonly extracted from mines in the mining and quarrying industry.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Steel slag. LLM output: 'Sector 3. Steel slag is a byproduct generated during the manufacturing process of steel in the manufacturing industry.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Pruning. LLM output: 'Sector 1. Pruning involves the removal of excess plant material, typically generated in agricultural practices or forestry management.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Moist Pomace. LLM output: 'Sector 1. Moist pomace is a byproduct of fruit and vegetable processing in the agriculture and food industry.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Bio-char. LLM output: 'Sector 5. Bio-char can be produced from organic waste management in the waste management and remediation activities sector.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Condensate water. LLM output: 'Sector 4. Condensate water may be generated during the process of electricity and steam generation, where steam condenses back into liquid form.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Talcum powder contaminated with plastic. LLM output: 'Sector 5. Talcum powder contaminated with plastic may be generated through waste management activities, specifically from the disposal of contaminated cosmetic products.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: PVC waterproof tarpaulins. LLM output: 'Sector 3. PVC waterproof tarpaulins are produced through the manufacturing processes involving synthetic materials and polymers.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Spent grain. LLM output: 'Sector 1. Spent grain is a byproduct of brewing and is generated in the agriculture sector, specifically from malt production in barley farming.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Spent mushroom substrate. LLM output: 'Sector 5. Spent mushroom substrate is a byproduct of mushroom farming and may be processed in waste management activities.'. Parsed: E
+Ground-truth sectors: A, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste water. LLM output: 'Sector 5. Waste water is generated through various activities and is typically managed in waste management and remediation services.'. Parsed: E
+Ground-truth sectors: A, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Nutrient rich water. LLM output: 'Sector 5. Nutrient rich water may be generated from waste management processes, particularly in systems treating organic waste.'. Parsed: E
+Ground-truth sectors: E, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Nutrient rich water. LLM output: 'Sector 5. Nutrient rich water may be generated from waste water treatment and management processes in the waste management sector.'. Parsed: E
+Ground-truth sectors: A, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Nutrient rich water. LLM output: 'Sector 5. Nutrient rich water may be generated during the waste management and remediation activities in water supply facilities.'. Parsed: E
+Ground-truth sectors: A, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Acetone. LLM output: 'Sector 3. Acetone may be generated as a by-product in the manufacturing process, particularly in chemical and pharmaceutical industries.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Ethylene. LLM output: 'Sector 3. Ethylene is produced as a byproduct in the manufacturing of plastics and other chemicals in the manufacturing sector.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Ethylene. LLM output: 'Sector 3. Ethylene is typically produced as a byproduct of the petrochemical manufacturing processes in the chemical manufacturing industry.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Propylene. LLM output: 'Sector 3. Propylene is a byproduct of petroleum refining and is produced during the manufacturing of plastics and chemicals.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Hydrogen. LLM output: 'Sector 4. Hydrogen may be generated as a byproduct in the production processes within the electricity, gas, steam, and air conditioning supply industries.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: BF slag. LLM output: 'Sector 3. BF slag is a byproduct of the steel manufacturing process in the metal industry.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Stones separated during sugar beet washing. LLM output: 'Sector 5. Stones separated during sugar beet washing are considered waste, managed in the waste management and remediation activities sector.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Soil separated during sugar beet washing. LLM output: 'Sector 1. Soil separated during sugar beet washing may be generated from the agricultural practices of sugar beet cultivation.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Calcium carbonate. LLM output: 'Sector 2. Calcium carbonate can be generated through mining processes, particularly in the extraction of limestone.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Bagasse. LLM output: 'Sector 1. Bagasse is generated as a byproduct from sugarcane processing in the agriculture and forestry sector.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste residual resins from the sugar crystallization process. LLM output: 'Sector 5. Waste residual resins may be generated from the waste management and remediation activities in the sugar production industry.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: Waste sugar from resin separation. LLM output: 'Sector 3. Waste sugar from resin separation may be generated during the manufacturing process of resin products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: CO2. LLM output: 'Sector 4. CO2 may be generated as a byproduct in electricity and gas production processes, particularly from fossil fuel combustion.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Waste: CO2. LLM output: 'Sector 4. CO2 is often generated through the combustion of fossil fuels in electricity, gas, steam, and air conditioning supply.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+Waste sector prediction correct: 70, incorrect: 190, total: 260
+Waste sector accuracy: 0.2692307692307692
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process heat. LLM output: 'Sector 4. Process heat is essential for generating electricity and can be utilized in steam production for energy supply.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process energy. LLM output: 'Sector 3. Process energy is essential in manufacturing for powering production machinery and processes.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Water. LLM output: 'Sector 5. Water is essential for water supply, sewerage, and waste management activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for electricity generation, gas supply, and steam production in various industries.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for electricity production and powering machinery in various industrial processes.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Water. LLM output: 'Sector 5. Water is essential for water supply, sewerage management, and waste remediation activities.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process heat. LLM output: 'Sector 4. Process heat is utilized in electricity, gas, steam, and air conditioning supply for generating energy and heating.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process heat. LLM output: 'Sector 4. Process heat is essential for generating electricity and steam for various industrial applications.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement production. LLM output: 'Sector 6. Raw materials for cement are essential in construction for creating sturdy structures and infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement production. LLM output: 'Sector 6. Raw materials such as limestone and clay are essential inputs in the construction sector for producing cement.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Construction materials production. LLM output: 'Sector 6. Raw materials are essential for the construction industry to produce various building materials like cement, bricks, and aggregates.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Road construction. LLM output: 'Sector 6. Raw materials for road construction are essential in the construction sector for building infrastructure like highways and roads.'. Parsed: F
+Ground-truth sectors: F, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Distilleries. LLM output: 'Sector 3. Raw materials for distilleries are used in manufacturing alcoholic beverages.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fertilizer. LLM output: 'Sector 1. Fertilizer may be used in agriculture to improve the quality of soil.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw materials. LLM output: 'Sector 3. Raw materials serve as essential inputs in manufacturing processes for producing various goods and products across multiple industries.'. Parsed: C
+Ground-truth sectors: F, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Road foundations. LLM output: 'Sector 6. Road foundations are essential in construction for providing stability and support for roads and other infrastructure.'. Parsed: F
+Ground-truth sectors: F, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Paving. LLM output: 'Sector 6. Paving is essential in construction for creating roads, driveways, and other surfaces.'. Parsed: F
+Ground-truth sectors: F, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fertiliser. LLM output: 'Sector 1. Fertiliser is essential in agriculture to enhance soil fertility and promote healthy crop growth.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Marine embarkments. LLM output: 'Sector 6. Raw materials for marine embankments are used in construction projects, such as building and reinforcing coastal structures.'. Parsed: F
+Ground-truth sectors: F, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Steelworks. LLM output: 'Sector 3. Raw materials for steelworks are essential in manufacturing processes for producing steel and its alloys.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Production of refractories. LLM output: 'Sector 3. Refractories are manufactured materials used in high-temperature processes, particularly in manufacturing industries like steel and glass.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Production of concrete. LLM output: 'Sector 6. Raw materials for concrete are essential in construction for building structures and infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Production of bricks. LLM output: 'Sector 6. Raw materials for brick production are essential in the construction industry for building structures.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Rock wool production. LLM output: 'Sector 3. Rock wool is manufactured from raw materials like basalt and is used in insulation and construction.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Soil quality improvement and fertiliser. LLM output: 'Sector 1. Soil quality improvement and fertilizer are essential for enhancing crop yield in agriculture.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Road construction. LLM output: 'Sector 6. Raw materials for road construction are essential in the construction sector to build and maintain roads and infrastructure.'. Parsed: F
+Ground-truth sectors: F, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Production of bricks. LLM output: 'Sector 6. Raw materials for brick production are essential in the construction industry for building and infrastructure development.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process heat. LLM output: 'Sector 4. Process heat can be utilized in electricity generation and district heating systems within the energy supply framework.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Calcium carbonate plant. LLM output: 'Sector 3. Calcium carbonate is primarily used in manufacturing processes such as paper, plastics, and paint.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for generating electricity and powering gas or steam systems in energy production.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Power plant. LLM output: 'Sector 4. Raw materials for power plants are essential for producing electricity, such as coal, natural gas, or renewable resources.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Water purification plant. LLM output: 'Sector 5. Raw materials for water purification are essential for the water supply and waste management operations.'. Parsed: E
+Ground-truth sectors: E, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for power generation in electricity production, particularly in thermal power plants.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process energy. LLM output: 'Sector 3. Process energy is essential in manufacturing for powering machines and processes in production lines.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Fertilizer company. LLM output: 'Sector 1. Raw materials for fertilizers are essential in agriculture to enhance crop yield and soil health.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Fertilizer company. LLM output: 'Sector 1. Raw materials for fertilizers are essential in agriculture to boost soil fertility and crop yields.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Fertilizer company. LLM output: 'Sector 1. Raw materials for fertilizers are essential in agriculture to enhance soil health and crop yields.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Liquid fertiliser producer. LLM output: 'Sector 1. Raw materials for liquid fertilizer are essential for enhancing agricultural productivity and soil fertility in farming practices.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Wall-board plant. LLM output: 'Sector 6. Raw materials for wall-board are essential in construction for building interiors.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process cooling. LLM output: 'None. Process cooling is not a material but a method; it does not fit into any of the specified industrial sectors as a raw input.'. Parsed: None
+Ground-truth sectors: D, predicted sectors: None
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement manufacturing. LLM output: 'Sector 6. Raw materials for cement manufacturing are essential in construction for building structures and infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Animal feeding. LLM output: 'Sector 1. Animal feeding is vital for livestock in agriculture, ensuring healthy growth and productivity in food production.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Animal feeding. LLM output: 'Sector 1. Animal feeding is essential in agriculture for livestock, supporting meat and dairy production.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Refinery. LLM output: 'Sector 3. Raw materials for refiners are essential inputs for manufacturing processes in the petroleum industry.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel may be used in electricity production and heating, contributing to energy supply.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process material. LLM output: 'None. Process material is too vague to associate with a specific industrial sector directly.'. Parsed: None
+Ground-truth sectors: C, predicted sectors: None
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Plaster board manufacturer. LLM output: 'Sector 6. Plaster board is primarily used in construction for building interior walls and ceilings.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Gasifier. LLM output: 'Sector 5. Raw materials for gasifiers can be used in waste management to convert organic waste into usable energy.'. Parsed: E
+Ground-truth sectors: E, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Gasifier. LLM output: 'Sector 3. Raw materials for gasifiers are used in manufacturing processes to produce syngas for energy and chemical production.'. Parsed: C
+Ground-truth sectors: E, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Local farms. LLM output: 'Sector 1. Raw materials for local farms are essential for agricultural production, supporting crop growth and livestock during farming operations.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Local farms. LLM output: 'Sector 1. Raw materials for local farms are essential inputs for agriculture, supporting crop production and livestock feed.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process energy. LLM output: 'Sector 3. Process energy is essential in manufacturing for powering machinery and facilitating various industrial processes.'. Parsed: C
+Ground-truth sectors: A, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Pet food. LLM output: 'Sector 1. Raw materials for pet food are often sourced from agricultural products, supporting livestock and plant-based inputs for animal nutrition.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Interior decoration products. LLM output: 'Sector 3. Raw materials for interior decoration products are processed and transformed in the manufacturing sector to create finished goods for home and office use.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Protein extraction. LLM output: 'Sector 1. Protein extraction is essential in agriculture, particularly for animal feed and aquaculture, supporting food production.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement manufacturing. LLM output: 'Sector 6. Raw materials for cement manufacturing are essential in construction for creating concrete structures and infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Alternative fuel and raw material in clinker production. LLM output: 'Sector 3. Alternative fuel and raw material can be used in manufacturing for clinker production in cement.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Solvent-based fuels as AFR in clinker production. LLM output: 'Sector 3. Solvent-based fuels can be utilized in manufacturing, specifically in the clinker production process for cement.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Cement additive. LLM output: 'Sector 6. Cement additives are used in construction to enhance the properties of cement and improve the quality of concrete.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Water used in red mud washing operations. LLM output: 'Sector 5. Water is essential for waste management and remediation activities, such as in red mud washing operations for aluminum production.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Water used in red mud washing operations. LLM output: 'Sector 5. Water is essential in waste management, particularly in washing operations to treat and reduce red mud waste effectively.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fertiliser. LLM output: 'Sector 1. Fertiliser may be used in agriculture to improve the quality of soil and enhance crop yields.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Spent shale is used in the rehabilitation of red muds from alumina refinery.. LLM output: 'Sector 5. Spent shale can be utilized in waste management to rehabilitate and remediate red muds generated from alumina refining processes.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Alternative fuel and raw material in clinker production. LLM output: 'Sector 3. Alternative fuel and raw material are used in manufacturing, particularly in the cement industry for clinker production.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Processing of oil shale. LLM output: 'Sector 2. The processing of oil shale involves extracting hydrocarbons, which are essential in the mining and quarrying sector for energy production.'. Parsed: B
+Ground-truth sectors: B, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Ammonium nitrate and sodium cyanide production. LLM output: 'Sector 3. Raw materials for ammonium nitrate and sodium cyanide are essential inputs in manufacturing processes, particularly in chemical production.'. Parsed: C
+Ground-truth sectors: B, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Nickel/cobalt refinery. LLM output: 'Sector 2. Raw materials like nickel and cobalt are essential inputs in mining and quarrying activities for refining processes.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement production. LLM output: 'Sector 6. Raw materials for cement production are essential in construction for building structures and infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Alumina refinery. LLM output: 'Sector 2. Raw material for alumina refinery, such as bauxite, is extracted through mining processes.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Construction. LLM output: 'Sector 6. Raw materials like cement and aggregates are essential inputs for construction activities.'. Parsed: F
+Ground-truth sectors: F, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for generating electricity and heat in the power supply sector.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Bricks manufacturer. LLM output: 'Sector 6. Raw materials for brick manufacturing are essential in construction for building structures and infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Nickel/cobalt refinery. LLM output: 'Sector 2. Raw materials for nickel and cobalt refineries are primarily sourced from mining activities.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Soil additive. LLM output: 'Sector 1. Soil additives are used in agriculture to enhance soil fertility and crop growth.'. Parsed: A
+Ground-truth sectors: D, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement production. LLM output: 'Sector 6. Raw materials for cement production are essential in construction for building infrastructure and structures.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Road construction. LLM output: 'Sector 6. Raw materials for road construction are essential in building infrastructure and improving transportation networks.'. Parsed: F
+Ground-truth sectors: F, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Oil refinery. LLM output: 'Sector 2. Raw materials for oil refineries are sourced through mining and quarrying processes, including crude oil extraction.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Fertiliser company. LLM output: 'Sector 1. Raw materials for fertilizer production are essential in agriculture to enhance soil fertility and crop yield.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Feed mill. LLM output: 'Sector 1. Raw materials for feed mills are essential in agriculture to produce animal feed for livestock.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Feed mill. LLM output: 'Sector 1. Raw material for feed mills is essential in agriculture for livestock and poultry, supporting food production.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Fertiliser company. LLM output: 'Sector 1. Raw materials for fertilizer can be used in agriculture to enhance soil nutrients and promote crop growth.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Used instead of calcium carbonate. LLM output: 'Sector 3. This material can be utilized in manufacturing processes such as plastics and glass production, serving as a substitute for calcium carbonate.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Building material production. LLM output: 'Sector 6. Raw materials are essential for the construction sector to produce various building materials for infrastructure development.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process heat. LLM output: 'Sector 3. Process heat is utilized in manufacturing for various heating processes in production.'. Parsed: C
+Ground-truth sectors: A, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for electricity generation and heating in power plants.'. Parsed: D
+Ground-truth sectors: B, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Pulp and paper plant. LLM output: 'Sector 3. Raw materials for pulp and paper are essential in the manufacturing process to produce paper products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement production. LLM output: 'Sector 6. Raw materials for cement production are essential in the construction industry for creating durable structures.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement production. LLM output: 'Sector 6. Raw materials for cement production are essential in the construction sector for building infrastructure and structures.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Building material production. LLM output: 'Sector 6. Raw materials are essential in construction for producing various building materials used in infrastructure development.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Water. LLM output: 'Sector 5. Water is essential for water supply, sewerage, and waste management activities in industrial processes.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Fertiliser company. LLM output: 'Sector 1. Raw materials for fertilizer are essential in agriculture to enhance soil fertility and crop yield.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Fertiliser company. LLM output: 'Sector 1. Raw materials for fertilizers are essential in agriculture to enhance soil fertility and crop production.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Clay-oil production. LLM output: 'Sector 3. Raw material for clay-oil production is essential in manufacturing processes, particularly in creating various products within the ceramic and oil industries.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Toy factory. LLM output: 'Sector 3. Raw materials for a toy factory are essential for manufacturing various types of toys.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Used instead of manihot. LLM output: 'Sector 1. Manihot, or cassava, is primarily used in agriculture as a food source and for animal feed.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for electricity generation in power plants.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process heat. LLM output: 'Sector 4. Process heat is crucial for electricity generation and can be used in various industrial operations requiring thermal energy.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Zinc production. LLM output: 'Sector 2. Zinc production requires mined raw materials, primarily from the mining and quarrying sector.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Electrolytic refining. LLM output: 'Sector 2. Raw materials for electrolytic refining are primarily sourced from mining and quarrying processes to extract metals.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is used for electricity generation and in various energy supply processes.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Paint manufacture. LLM output: 'Sector 3. Raw materials for paint are essential in manufacturing processes to create various types of paints and coatings.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Substrate and fertiliser. LLM output: 'Sector 1. Substrate and fertilizer are essential for providing nutrients and improving soil conditions in agriculture.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Alcohol production. LLM output: 'Sector 3. Raw materials for alcohol production are used in manufacturing alcoholic beverages.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement mill. LLM output: 'Sector 6. Raw materials for cement mills are essential in construction for producing concrete and other building materials.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Calcium carbonate plant. LLM output: 'Sector 3. Calcium carbonate is often used in manufacturing processes for products like plastics, paints, and paper.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Compound fertilizer production. LLM output: 'Sector 1. Raw materials for compound fertilizer production are essential for enhancing soil fertility in agriculture.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement mill. LLM output: 'Sector 6. Raw materials for cement mills are essential in construction for creating concrete structures.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Compound fertilizer production. LLM output: 'Sector 1. Raw materials for compound fertilizer are essential in agriculture to enhance soil fertility and crop yield.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Calcium carbonate plant. LLM output: 'Sector 3. Raw materials for calcium carbonate production are often utilized in manufacturing processes, such as in the production of plastics, paints, and coatings.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process heat. LLM output: 'Sector 4. Process heat is often used in electricity generation and in heating processes across various industries.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for generating electricity and powering heating systems in gas, steam, and air conditioning supply.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Energy. LLM output: 'Sector 4. Energy is crucial for electricity production, powering various industries and residential needs.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Sugar production. LLM output: 'Sector 1. Raw materials for sugar production are primarily sourced from agriculture, specifically sugarcane or sugar beets grown in farming.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Compound fertilizer. LLM output: 'Sector 1. Compound fertilizer is used in agriculture to enhance soil fertility and improve crop yields.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Compound fertilizer production. LLM output: 'Sector 1. Raw materials for compound fertilizer production are essential for agriculture to enhance soil fertility and promote crop growth.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Blocks production. LLM output: 'Sector 6. Raw materials for blocks are essential in construction for building structures and infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Waste gas is used to fuel boilers where coal ash is obtained. LLM output: 'Sector 5. Waste gas can be utilized in waste management activities, particularly in the treatment of waste and energy recovery from waste disposal.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Blocks production. LLM output: 'Sector 6. Raw materials for block production are essential in the construction industry for building durable structures.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Alkali recovery. LLM output: 'Sector 3. Raw materials for alkali recovery are often used in manufacturing processes, particularly in the production of chemicals and materials.'. Parsed: C
+Ground-truth sectors: E, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process material. LLM output: 'None. Process material is too vague to be attributed to a specific industrial sector without additional context.'. Parsed: None
+Ground-truth sectors: C, predicted sectors: None
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement production. LLM output: 'Sector 6. Raw materials for cement are essential in construction for creating structures and infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process material. LLM output: 'None. Process material is too vague to determine a specific sector requirement.'. Parsed: None
+Ground-truth sectors: C, predicted sectors: None
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Sterilizer. LLM output: 'Sector 5. Sterilizers may be used in waste management to ensure proper sanitation and prevent contamination during the handling of waste materials.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Soil amendment. LLM output: 'Sector 1. Soil amendment is used in agriculture to enhance soil fertility and structure for better crop production.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Distillery. LLM output: 'Sector 3. Raw materials for distilleries, such as grains and fruits, are utilized in the manufacturing of alcoholic beverages.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process heat. LLM output: 'Sector 3. Process heat is utilized in manufacturing for various production processes and systems that require heating.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Soil amendment. LLM output: 'Sector 1. Soil amendments are used in agriculture to enhance soil fertility and improve crop production.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Fertilizer company. LLM output: 'Sector 1. Raw materials for fertilizer are essential in agriculture to enhance soil fertility and improve crop yields.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Oil extraction facility. LLM output: 'Sector 2. Raw materials are essential for mining and quarrying processes, including oil extraction facilities.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for generating electricity, including gas and steam production in energy supply.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Brick manufacturer. LLM output: 'Sector 6. Raw materials for brick manufacturing are essential in the construction industry for building structures.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cattle feed production. LLM output: 'Sector 1. Raw materials for cattle feed are essential in agriculture to enhance livestock nutrition and productivity.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process heat. LLM output: 'Sector 3. Process heat is utilized in manufacturing processes to facilitate various industrial operations, such as heating, drying, and chemical reactions.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Granite polishing facilities. LLM output: 'Sector 3. Raw materials are essential in manufacturing processes for polishing granite in stone processing industries.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Ingredient to bind the dusty organic material. LLM output: 'Sector 5. The binding ingredient can be used in waste management to stabilize and manage dusty organic materials efficiently.'. Parsed: E
+Ground-truth sectors: A, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Glass fiber production. LLM output: 'Sector 3. Raw materials for glass fiber production are essential in manufacturing processes for creating composite materials.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Construction industry. LLM output: 'Sector 6. Raw materials like cement, steel, and aggregates are essential inputs for construction activities, facilitating the building of infrastructure and structures.'. Parsed: F
+Ground-truth sectors: F, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Water used to replace quality drinking water in the wet scrubber removing VOCs from the flue gases. LLM output: 'Sector 5. Water is essential for waste management and remediation activities, including in processes like wet scrubbing to remove pollutants from flue gases.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Ethanol content of wastewater is increased after exchange 15,17,8 because the scrubber becomes more efficient and is used in the wastewater treatment . LLM output: 'Sector 5. Ethanol content from wastewater is relevant in waste management and remediation activities, particularly in water treatment processes.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for electricity production in power plants, providing energy for the grid.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process water. LLM output: 'Sector 5. Process water is often treated and managed in waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process water. LLM output: 'Sector 5. Process water is essential for water supply and waste management in various industrial processes.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Coal-fired power station. LLM output: 'Sector 4. Raw materials for coal-fired power stations are essential for generating electricity.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process water. LLM output: 'Sector 5. Process water is essential for water supply, managing wastewater, and certain remediation activities.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process water. LLM output: 'Sector 5. Process water is essential for waste management and remediation activities in various industrial processes.'. Parsed: E
+Ground-truth sectors: C, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Power plant. LLM output: 'Sector 4. Raw materials for power plants are essential for generating electricity and supporting energy production processes.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process water. LLM output: 'Sector 5. Process water is often used in water supply and waste management for treatment and remediation activities.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Worm farm. LLM output: 'Sector 1. Raw materials for worm farms are essential in agriculture to support composting and improve soil quality through vermiculture practices.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Water supply and treatment company. LLM output: 'Sector 5. Raw materials are essential for the infrastructure and processes involved in water supply and treatment activities.'. Parsed: E
+Ground-truth sectors: E, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Alumina refinery. LLM output: 'Sector 2. Raw materials for alumina refineries are typically extracted from bauxite mines in the mining and quarrying sector.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Alumina refinery. LLM output: 'Sector 2. Raw materials for alumina refining involve bauxite mining in the mining and quarrying sector.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement production. LLM output: 'Sector 6. Raw materials for cement production are essential in the construction industry for building structures and infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Blokpave producer. LLM output: 'Sector 3. Blokpave production involves manufacturing processes to create paving stones, utilizing raw materials like concrete and aggregates.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: ND. LLM output: 'None. ND (short for Not Determined) does not indicate a specific material relevant to any industrial sector.'. Parsed: None
+Ground-truth sectors: C, predicted sectors: None
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement mill. LLM output: 'Sector 6. Raw materials are essential for cement production, which is a key process in the construction industry.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Nickel refinery. LLM output: 'Sector 2. Raw material for Nickel refinery is needed in mining and quarrying for processing ores to extract nickel.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Industrial gas producer. LLM output: 'Sector 3. Raw materials are essential for manufacturing industrial gases used in various applications across industries.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Nickel refinery. LLM output: 'Sector 2. Nickel is sourced from mining and quarrying, and raw materials are essential for nickel refining processes.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Inorganic chemical producer. LLM output: 'Sector 3. Inorganic chemical producers are part of the manufacturing sector, transforming raw materials into various chemical products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement and lime producer. LLM output: 'Sector 6. Raw materials are essential for the construction industry to produce cement, which is a key component in building and infrastructure projects.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Synthetic rutile plant. LLM output: 'Sector 3. Synthetic rutile is used in manufacturing processes for titanium dioxide production, which is important for various industrial applications.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Chlor alkali plant. LLM output: 'Sector 3. The chlor-alkali process is used in manufacturing to produce chemicals like chlorine, caustic soda, and soda ash.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Inorganic chemical producer. LLM output: 'Sector 3. Inorganic chemicals are primarily used in manufacturing processes across various industries.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Inorganic chemical producer. LLM output: 'Sector 3. Inorganic chemicals are typically processed and transformed in manufacturing industries for various applications, including the production of fertilizers, plastics, and the chemical supply chain.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Inorganic chemical producer. LLM output: 'Sector 3. Raw materials are essential for manufacturing inorganic chemicals in the industrial sector.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Titanium dioxide producer. LLM output: 'Sector 3. Raw materials for titanium dioxide production are typically processed in the manufacturing sector for use in coatings, plastics, and other applications.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Industrial gas producer. LLM output: 'Sector 3. Raw materials are essential in manufacturing processes for producing industrial gases used in various applications.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Industrial chemical & ferilizer producer. LLM output: 'Sector 3. Raw materials are essential inputs for manufacturing chemicals and fertilizers in the industrial sector.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Industrial chemical & ferilizer producer. LLM output: 'Sector 3. Raw materials are essential in manufacturing industrial chemicals and fertilizers for various applications, including agriculture and production processes.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Coal-fired power station. LLM output: 'Sector 4. Raw materials for coal-fired power stations are essential for generating electricity.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Coal-fired power station. LLM output: 'Sector 4. Raw materials for coal-fired power stations are essential for producing electricity through the combustion of coal.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Construction company. LLM output: 'Sector 6. Raw materials are essential for construction companies to build infrastructure and various structures.'. Parsed: F
+Ground-truth sectors: F, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Turf farm. LLM output: 'Sector 1. Turf farms utilize raw materials such as soil and seeds for the cultivation of grass, serving agricultural purposes.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Pig iron plant. LLM output: 'Sector 3. The raw material for a pig iron plant is essential in the manufacturing of iron and steel products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Titanium dioxide producer. LLM output: 'Sector 3. Titanium dioxide is primarily used in manufacturing processes, especially in making pigments and coatings.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement and lime producer. LLM output: 'Sector 6. Raw materials for cement and lime are essential for construction projects and infrastructure development.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Nikel mine. LLM output: 'Sector 2. Raw materials for nickel mining are essential inputs in the mining and quarrying sector for extracting nickel ore.'. Parsed: B
+Ground-truth sectors: B, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Nikel mine. LLM output: 'Sector 2. Raw materials for nickel mining are essential for the extraction and processing of nickel in the mining and quarrying industry.'. Parsed: B
+Ground-truth sectors: B, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Tanning industry. LLM output: 'Sector 3. Raw materials for tanning, such as hides and skins, are processed in manufacturing to create leather products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Manufacturing of firewood from old whisky barrels. LLM output: 'Sector 3. Old whisky barrels can be repurposed into firewood, utilized in manufacturing processes for various applications, including fuel and artisanal woodcrafts.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Power plant. LLM output: 'Sector 4. Raw materials are essential for power generation in electricity production.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Micronized silica. LLM output: 'Sector 3. Micronized silica is used in manufacturing for applications like rubber, plastics, and coatings.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Basic chemicals. LLM output: 'Sector 3. Basic chemicals serve as fundamental inputs in manufacturing various products, including plastics, pharmaceuticals, and detergents.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Power plant. LLM output: 'Sector 4. Raw materials for power plants may include fuels or components essential for electricity generation.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Galvanic treatments. LLM output: 'Sector 3. Raw materials for Galvanic treatments are utilized in the manufacturing sector for processes like plating and coating metals.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Galvanic treatments. LLM output: 'Sector 3. Galvanic treatments are used in manufacturing processes for metal finishing and corrosion protection.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Galvanic treatments. LLM output: 'Sector 3. Raw materials for galvanic treatments are used in manufacturing for surface treatment processes to enhance corrosion resistance and appearance of products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Basic chemicals. LLM output: 'Sector 3. Basic chemicals are essential inputs in manufacturing processes across various industries, including pharmaceuticals, plastics, and agrochemicals.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Blast media production. LLM output: 'Sector 3. Raw materials for blast media production are often processed in manufacturing for applications like abrasive blasting and surface preparation.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Supports the growth of fruit and vegetables. LLM output: 'Sector 1. Supports the growth of fruit and vegetables is essential for agriculture in enhancing crop yield and health.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Methane production from anaerobic digestion. LLM output: 'Sector 5. Raw materials for methane production can be used in waste management for generating renewable energy from organic waste.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Space heat. LLM output: 'Sector 4. Space heat is essential in electricity and gas supply for residential and commercial heating needs.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Animal feed producer. LLM output: 'Sector 1. Raw materials for animal feed are essential in agricultural practices for raising livestock and optimizing food production.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Biofuel production. LLM output: 'Sector 1. Raw materials for biofuel can come from agriculture, forestry, and fishing, as they provide biomass for biofuel production.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Supports the growth of plants. LLM output: 'Sector 1. Such material is essential in agriculture for enhancing plant growth and crop yields.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Water. LLM output: 'Sector 5. Water is essential in water supply, sewerage, and waste management activities.'. Parsed: E
+Ground-truth sectors: A, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Methane production from anaerobic digestion. LLM output: 'Sector 5. Raw materials for methane production from anaerobic digestion are used in waste management and remediation activities to convert organic waste into energy.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Biogas production from biomass. LLM output: 'Sector 5. Raw materials for biogas production can be used in waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: E, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Methane production from anaerobic digestion. LLM output: 'Sector 5. Methane from anaerobic digestion can be utilized in waste management processes to generate energy and reduce environmental impact.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: ND. LLM output: 'None. ND is not a commonly recognized material that fits into any of the specified industrial sectors.'. Parsed: None
+Ground-truth sectors: C, predicted sectors: None
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Methane production from anaerobic digestion. LLM output: 'Sector 5. Raw materials for methane production from anaerobic digestion are utilized in waste management and remediation activities to convert organic waste into energy.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for generating electricity, gas, and steam in power plants and heating systems.'. Parsed: D
+Ground-truth sectors: E, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Biogas production from biomass. LLM output: 'Sector 5. Raw material for biogas production from biomass is utilized in waste management and remediation activities for energy recovery.'. Parsed: E
+Ground-truth sectors: E, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Plastic products production. LLM output: 'Sector 3. Raw materials are essential in manufacturing plastic products across various applications and industries.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Food packaging. LLM output: 'Sector 3. Raw materials for food packaging are essential in the manufacturing sector to produce containers and wrappers for food products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: ND. LLM output: 'None. ND (Nodular cast iron) is not specifically required by any of the listed sectors.'. Parsed: None
+Ground-truth sectors: C, predicted sectors: None
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: ND. LLM output: 'None. ND is not a known industrial material used by any specified sector.'. Parsed: None
+Ground-truth sectors: C, predicted sectors: None
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: ND. LLM output: 'None. ND (non-detect) does not represent a material that is utilized in any of the specified industrial sectors.'. Parsed: None
+Ground-truth sectors: C, predicted sectors: None
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for generating electricity and powering gas and steam facilities.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process heat. LLM output: 'Sector 4. Process heat is essential for generating electricity, steam, and heating in various industrial applications.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fertilizer. LLM output: 'Sector 1. Fertilizer may be used in agriculture to improve soil fertility and promote plant growth.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Biogas production from anaerobic digestion. LLM output: 'Sector 5. Raw materials for biogas production are used in waste management and remediation activities to convert organic waste into renewable energy.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fertilizer. LLM output: 'Sector 1. Fertilizer may be used in agriculture to improve the quality of soil and enhance crop yield.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for electricity generation in power plants and other energy-producing facilities.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Methane production from anaerobic digestion. LLM output: 'Sector 5. Raw materials for methane production are utilized in waste management and remediation activities through anaerobic digestion processes.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Photovoltaic modules production. LLM output: 'Sector 3. Raw materials for photovoltaic modules are essential in manufacturing solar panels and other components for renewable energy.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Photovoltaic modules production. LLM output: 'Sector 3. Raw materials for photovoltaic modules are essential in manufacturing solar panels for energy production.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Packaging factory. LLM output: 'Sector 3. Raw materials are essential inputs for manufacturing, specifically for producing packaging materials.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Compost. LLM output: 'Sector 1. Compost is used in agriculture to enhance soil fertility and promote plant growth.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Compost. LLM output: 'Sector 1. Compost improves soil fertility and structure, making it valuable for agriculture, forestry, and gardening.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Packaging factory. LLM output: 'Sector 3. Raw materials are essential in manufacturing processes, including the production of packaging materials for various industries.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Packaging factory. LLM output: 'Sector 3. Raw materials are essential in manufacturing packaging products for various industries, including food, consumer goods, and more.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Photovoltaic modules production. LLM output: 'Sector 3. Raw materials for photovoltaic modules are essential for the manufacturing of solar panels.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Iron and steel production. LLM output: 'Sector 3. Raw materials like iron ore are essential inputs in the manufacturing of iron and steel products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Iron and steel production. LLM output: 'Sector 3. Raw materials are essential in manufacturing, particularly in the production of iron and steel for various industrial applications.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement manufacturing. LLM output: 'Sector 6. Raw materials for cement manufacturing are essential in construction for building structures and infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement manufacturing. LLM output: 'Sector 6. Raw materials for cement manufacturing are essential in the construction industry for building infrastructure and structures.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for electricity generation in power plants, ensuring a reliable energy supply.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Cement additive. LLM output: 'Sector 6. Cement additives are used in construction to enhance the properties of concrete and improve overall durability.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Alternative hydrogen production. LLM output: 'Sector 4. Alternative hydrogen production can contribute to electricity generation, supporting renewable energy initiatives and sustainable energy solutions.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Fertiliser company. LLM output: 'Sector 1. Raw materials for fertilizers are essential in agriculture to enhance soil fertility and crop yield.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement & Construction. LLM output: 'Sector 6. Raw materials for cement are essential in construction projects for building and infrastructure development.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement & Construction. LLM output: 'Sector 6. Raw materials for cement are essential in the construction industry for building structures and infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Iron and steel production. LLM output: 'Sector 3. Raw materials for iron and steel are essential inputs in manufacturing processes, particularly in producing various metal products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process heat. LLM output: 'Sector 4. Process heat is used in electricity generation and other industrial applications to provide heating and energy.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement & Construction. LLM output: 'Sector 6. Raw materials for cement are essential in construction for building structures and infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for generating electricity and powering various industrial processes.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process energy. LLM output: 'Sector 4. Process energy is essential for generating electricity, gas, and steam for industrial and residential use.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Used to refine ferrous metal. LLM output: 'Sector 3. Used to refine ferrous metal is essential in manufacturing processes for producing steel and other iron-based products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement & Construction. LLM output: 'Sector 6. Raw materials for cement are essential in the construction industry for building infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Sinter ore. LLM output: 'Sector 2. Sinter ore is used in the mining and metallurgical industries, particularly in the production of iron and steel.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Iron and steel production. LLM output: 'Sector 3. Raw materials for iron and steel production are essential inputs in the manufacturing sector.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for electricity generation in power plants and for heating in various systems.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for electricity generation and heating within the electricity, gas, steam, and air conditioning supply sector.'. Parsed: D
+Ground-truth sectors: D, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Soil additive. LLM output: 'Sector 1. Soil additives are used in agriculture to enhance soil health and crop productivity.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Process water. LLM output: 'Sector 5. Process water is essential in water supply, waste management, and remediation activities for treatment and recycling processes.'. Parsed: E
+Ground-truth sectors: D, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Mushroom casing manufacture. LLM output: 'Sector 1. Raw materials for mushroom casing are often sourced from agricultural byproducts, making it relevant to agriculture and mushroom farming.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Manufacture of bespoke products for the boating, banner and trailer markets. LLM output: 'Sector 3. Raw materials are essential for manufacturing bespoke products in boating and trailer industries.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Manufacture of coffins. LLM output: 'Sector 3. Raw materials for coffin manufacturing are essential in the manufacturing sector for producing burial and funeral products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Manufacture of coffins. LLM output: 'Sector 3. Raw materials for coffins are used in manufacturing furniture and burial products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Substrate to grow mushrooms. LLM output: 'Sector 1. Substrate is essential in agriculture for cultivating mushrooms, providing nutrition and support for growth.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Animal feeding. LLM output: 'Sector 1. Animal feeding is essential in agriculture for raising livestock and ensuring food production.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fuel. LLM output: 'Sector 4. Fuel is essential for generating electricity and heating in power plants and industrial processes.'. Parsed: D
+Ground-truth sectors: E, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Substrate to grow algae. LLM output: 'Sector 1. Substrates for algae growth are essential in agriculture for aquaculture and sustainable food production.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fish feeding. LLM output: 'Sector 1. Fish feeding is essential in aquaculture, supporting the agriculture, forestry, and fishing sector for the sustainable production of fish.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Fertile soil for growing vegetables. LLM output: 'Sector 1. Fertile soil is essential in agriculture for growing vegetables and ensuring healthy crop yields.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Plastics company. LLM output: 'Sector 3. Raw materials for plastics are essential inputs in the manufacturing process to create various plastic products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Inorganic basic chemicals production. LLM output: 'Sector 3. Inorganic basic chemicals are essential inputs in various manufacturing processes, including producing plastics, metals, and pharmaceuticals.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Organic basic chemicals production. LLM output: 'Sector 3. Organic basic chemicals are utilized in manufacturing various products across multiple industries, including plastics, pharmaceuticals, and detergents.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Organic basic chemicals production. LLM output: 'Sector 3. Raw materials are essential for the manufacturing of organic chemicals, which are used in various industrial processes.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Organic basic chemicals production. LLM output: 'Sector 3. Raw materials for organic basic chemicals are essential inputs in manufacturing processes for various chemicals and materials.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Iron and steel production. LLM output: 'Sector 3. Raw materials for iron and steel production are essential inputs in manufacturing processes, especially in producing machinery and construction materials.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Iron and steel production. LLM output: 'Sector 3. Raw materials for iron and steel production are essential inputs in the manufacturing sector for producing various metal products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Substitution for coke. LLM output: 'Sector 3. Substitutes for coke can be used in the manufacturing industry, especially in iron and steel production.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Substitution for coke. LLM output: 'Sector 3. Substitution for coke may be used in manufacturing processes, particularly in the production of iron and steel.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Substitution for coal. LLM output: 'Sector 4. Substitutes for coal may be used in electricity generation to reduce carbon emissions and transition to cleaner energy sources.'. Parsed: D
+Ground-truth sectors: C, predicted sectors: D
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement industry. LLM output: 'Sector 6. Raw materials for cement are essential in construction for building infrastructure and concrete structures.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement industry. LLM output: 'Sector 6. Raw materials for cement are essential in construction for building and infrastructure development.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Cement industry. LLM output: 'Sector 6. Raw materials for cement are essential in construction for creating structures and infrastructure.'. Parsed: F
+Ground-truth sectors: C, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Biogas production. LLM output: 'Sector 5. Raw materials for biogas production are often derived from organic waste, utilized in waste management and remediation activities.'. Parsed: E
+Ground-truth sectors: E, predicted sectors: E
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Paper plant. LLM output: 'Sector 3. Raw materials for paper production are primarily sourced from the manufacturing sector, where wood pulp and fibers are processed into paper products.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for PVC sewer pipes production. LLM output: 'Sector 3. The raw material for PVC sewer pipes is used in manufacturing processes to create durable and flexible plumbing solutions.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Pellets and plywood panels production. LLM output: 'Sector 3. Raw materials for pellets and plywood panels are typically used in the manufacturing sector for producing furniture and construction materials.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Copper production. LLM output: 'Sector 2. Raw materials for copper production are essential in the mining and quarrying industry to extract and process copper ore.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Copper production. LLM output: 'Sector 2. Raw materials for copper production are essential in mining and quarrying processes.'. Parsed: B
+Ground-truth sectors: C, predicted sectors: B
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Building trade. LLM output: 'Sector 6. Raw materials such as cement and aggregates are essential inputs in construction for building structures.'. Parsed: F
+Ground-truth sectors: F, predicted sectors: F
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Agroindustry. LLM output: 'Sector 1. Raw materials for agroindustry are essential for agriculture, food processing, and enhancing crop production.'. Parsed: A
+Ground-truth sectors: A, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Health care sector (cosmetics production). LLM output: 'None. The provided material does not specifically align with any of the listed industrial sectors.'. Parsed: None
+Ground-truth sectors: C, predicted sectors: None
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Biofuel production. LLM output: 'Sector 1. Raw materials for biofuel production, such as crops or biomass, are essential in agriculture to produce renewable energy sources.'. Parsed: A
+Ground-truth sectors: C, predicted sectors: A
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Resource: Raw material for Carbonated soft drinks production. LLM output: 'Sector 3. Raw materials for carbonated soft drinks, like sugars and flavorings, are essential inputs in the manufacturing sector for beverage production.'. Parsed: C
+Ground-truth sectors: C, predicted sectors: C
+Resource sector prediction correct: 147, incorrect: 133, total: 280
+Resource sector accuracy: 0.525

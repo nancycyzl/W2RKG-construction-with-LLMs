@@ -1,0 +1,10962 @@
+{
+    "0": [
+        "flue gas desulphurization residue",
+        "gypsum residue"
+    ],
+    "1": [
+        "pulp waste",
+        "paper waste"
+    ],
+    "2": [
+        "textile wastewater"
+    ],
+    "3": [
+        "fiber waste"
+    ],
+    "4": [
+        "consumer engagement"
+    ],
+    "5": [
+        "pomace"
+    ],
+    "6": [
+        "tailings"
+    ],
+    "7": [
+        "char from biomass gasification"
+    ],
+    "8": [
+        "sulfide"
+    ],
+    "9": [
+        "organic matter degradation"
+    ],
+    "10": [
+        "Portland cement"
+    ],
+    "11": [
+        "old corrugated cardboard"
+    ],
+    "12": [
+        "mercury"
+    ],
+    "13": [
+        "banana pseudo-stem"
+    ],
+    "14": [
+        "lignocellulosic biomass"
+    ],
+    "15": [
+        "manufacturing waste",
+        "processing waste"
+    ],
+    "16": [
+        "fish processing waste"
+    ],
+    "17": [
+        "acidic waste"
+    ],
+    "18": [
+        "agricultural waste",
+        "agro-industrial waste",
+        "food waste"
+    ],
+    "19": [
+        "wood"
+    ],
+    "20": [
+        "cocoa waste"
+    ],
+    "21": [
+        "fruit pomace"
+    ],
+    "22": [
+        "wood debris",
+        "landscape debris"
+    ],
+    "23": [
+        "grapevine waste",
+        "wood chips"
+    ],
+    "24": [
+        "vegetable"
+    ],
+    "25": [
+        "can waste",
+        "titanium waste"
+    ],
+    "26": [
+        "coconut coir"
+    ],
+    "27": [
+        "fertilizer waste"
+    ],
+    "28": [
+        "lime mud",
+        "granite mud"
+    ],
+    "29": [
+        "salt slag"
+    ],
+    "30": [
+        "organic matrices"
+    ],
+    "31": [
+        "bio-waste medium"
+    ],
+    "32": [
+        "disposable paper waste"
+    ],
+    "33": [
+        "pig manure"
+    ],
+    "34": [
+        "leather waste",
+        "buffing dust waste"
+    ],
+    "35": [
+        "ferrous slag"
+    ],
+    "36": [
+        "starch"
+    ],
+    "37": [
+        "food waste",
+        "wasted meat"
+    ],
+    "38": [
+        "anaerobically digested livestock wastewater",
+        "anaerobically digested dairy manure",
+        "anaerobically digested swine manure"
+    ],
+    "39": [
+        "hypersaline waste"
+    ],
+    "40": [
+        "acidic wastewater"
+    ],
+    "41": [
+        "river water"
+    ],
+    "42": [
+        "pulp"
+    ],
+    "43": [
+        "ceramic tiles"
+    ],
+    "44": [
+        "reclaimed clay",
+        "clay brick waste"
+    ],
+    "45": [
+        "coconut residue"
+    ],
+    "46": [
+        "chitin biomass"
+    ],
+    "47": [
+        "municipal organic waste",
+        "organic waste"
+    ],
+    "48": [
+        "abandoned mining site"
+    ],
+    "49": [
+        "granite powder",
+        "stone powder"
+    ],
+    "50": [
+        "cooking oil"
+    ],
+    "51": [
+        "grape pomace"
+    ],
+    "52": [
+        "nitrate pollution"
+    ],
+    "53": [
+        "agricultural crops"
+    ],
+    "54": [
+        "waste particleboard",
+        "waste furniture board"
+    ],
+    "55": [
+        "dredged materials",
+        "dredged sand"
+    ],
+    "56": [
+        "tobacco waste"
+    ],
+    "57": [
+        "crop residues"
+    ],
+    "58": [
+        "chemical industry waste",
+        "waste management industry waste"
+    ],
+    "59": [
+        "construction waste"
+    ],
+    "60": [
+        "toxic alcohols"
+    ],
+    "61": [
+        "molasses"
+    ],
+    "62": [
+        "phosphogypsum"
+    ],
+    "63": [
+        "mollusc shells",
+        "bivalve shells"
+    ],
+    "64": [
+        "agricultural pollution"
+    ],
+    "65": [
+        "limestone fines"
+    ],
+    "66": [
+        "polyamide"
+    ],
+    "67": [
+        "lithium"
+    ],
+    "68": [
+        "spent tea"
+    ],
+    "69": [
+        "silicon waste"
+    ],
+    "70": [
+        "biomass residue",
+        "forestry residue",
+        "wood residue",
+        "post-harvest residue"
+    ],
+    "71": [
+        "charcoal waste"
+    ],
+    "72": [
+        "wind turbine blade composite waste"
+    ],
+    "73": [
+        "paper industry wastewater"
+    ],
+    "74": [
+        "itaconic acid"
+    ],
+    "75": [
+        "cabbage residue"
+    ],
+    "76": [
+        "wastewater"
+    ],
+    "77": [
+        "aluminum waste"
+    ],
+    "78": [
+        "seed coat"
+    ],
+    "79": [
+        "pomegranate peel ash"
+    ],
+    "80": [
+        "cotton blend"
+    ],
+    "81": [
+        "muscle"
+    ],
+    "82": [
+        "milk"
+    ],
+    "83": [
+        "blast furnace slag"
+    ],
+    "84": [
+        "plant fibers"
+    ],
+    "85": [
+        "tires"
+    ],
+    "86": [
+        "recycled construction and demolition materials",
+        "discarded building materials"
+    ],
+    "87": [
+        "household waste",
+        "environmental waste",
+        "bulky waste"
+    ],
+    "88": [
+        "non-hazardous waste stream",
+        "biogenic waste stream",
+        "biomass waste stream"
+    ],
+    "89": [
+        "onion waste"
+    ],
+    "90": [
+        "polyolefins"
+    ],
+    "91": [
+        "nitrogen oxides"
+    ],
+    "92": [
+        "ornamental stone waste"
+    ],
+    "93": [
+        "hazardous air pollutants"
+    ],
+    "94": [
+        "synthetic polymer",
+        "polymer"
+    ],
+    "95": [
+        "used tires"
+    ],
+    "96": [
+        "azo dye"
+    ],
+    "97": [
+        "spent microbial biomass"
+    ],
+    "98": [
+        "fruit waste"
+    ],
+    "99": [
+        "fine aggregate sand"
+    ],
+    "100": [
+        "contaminated sediment"
+    ],
+    "101": [
+        "copper waste"
+    ],
+    "102": [
+        "oily sludge",
+        "oily sludge ash",
+        "oily sludge-polluted soil"
+    ],
+    "103": [
+        "mango waste"
+    ],
+    "104": [
+        "Parthenium hysterophorus"
+    ],
+    "105": [
+        "fruit pomace"
+    ],
+    "106": [
+        "feedstock"
+    ],
+    "107": [
+        "caustic soda waste",
+        "carbonated waste"
+    ],
+    "108": [
+        "toxic waste"
+    ],
+    "109": [
+        "clay"
+    ],
+    "110": [
+        "fly ash"
+    ],
+    "111": [
+        "bioethanol waste"
+    ],
+    "112": [
+        "landfill waste"
+    ],
+    "113": [
+        "Moringa seed waste"
+    ],
+    "114": [
+        "solid by-product",
+        "metal by-product"
+    ],
+    "115": [
+        "seagrass"
+    ],
+    "116": [
+        "sludge waste"
+    ],
+    "117": [
+        "sunflower seed husks"
+    ],
+    "118": [
+        "zinc oxide waste"
+    ],
+    "119": [
+        "fluid waste"
+    ],
+    "120": [
+        "acid mine drainage"
+    ],
+    "121": [
+        "mushrooms"
+    ],
+    "122": [
+        "phosphorus"
+    ],
+    "123": [
+        "disposable diapers"
+    ],
+    "124": [
+        "oily waste"
+    ],
+    "125": [
+        "wet organic waste",
+        "agricultural wet waste",
+        "wet biomass waste"
+    ],
+    "126": [
+        "polycyclic aromatic hydrocarbon"
+    ],
+    "127": [
+        "crustacean exoskeletons",
+        "shrimp exoskeleton"
+    ],
+    "128": [
+        "non-recyclable waste"
+    ],
+    "129": [
+        "cooking oil waste"
+    ],
+    "130": [
+        "fish waste"
+    ],
+    "131": [
+        "carbon building blocks from natural sources"
+    ],
+    "132": [
+        "polyvinyl chloride waste"
+    ],
+    "133": [
+        "soybean processing waste",
+        "soybean cooking oil waste"
+    ],
+    "134": [
+        "hydrogen",
+        "oxygen"
+    ],
+    "135": [
+        "fish by-products"
+    ],
+    "136": [
+        "aquaculture waste",
+        "seafood waste",
+        "shellfish waste"
+    ],
+    "137": [
+        "ground citrus",
+        "ground carrots"
+    ],
+    "138": [
+        "bakery waste"
+    ],
+    "139": [
+        "algae biomass"
+    ],
+    "140": [
+        "black mass"
+    ],
+    "141": [
+        "nutrient-rich wastewater"
+    ],
+    "142": [
+        "cotton waste"
+    ],
+    "143": [
+        "eutrophication"
+    ],
+    "144": [
+        "ferrous minerals"
+    ],
+    "145": [
+        "coffee waste",
+        "spent coffee ground",
+        "coffee oil"
+    ],
+    "146": [
+        "sanitary paper"
+    ],
+    "147": [
+        "fruit waste"
+    ],
+    "148": [
+        "food waste"
+    ],
+    "149": [
+        "apple waste",
+        "decaying fruit waste"
+    ],
+    "150": [
+        "spent filter sand",
+        "spent sulfuric acid"
+    ],
+    "151": [
+        "forest biomass waste",
+        "forestry waste"
+    ],
+    "152": [
+        "textile waste"
+    ],
+    "153": [
+        "outdated production systems"
+    ],
+    "154": [
+        "organic substrate"
+    ],
+    "155": [
+        "brick waste"
+    ],
+    "156": [
+        "glass"
+    ],
+    "157": [
+        "meat waste",
+        "animal processing waste"
+    ],
+    "158": [
+        "fruit pulp waste"
+    ],
+    "159": [
+        "avocado waste"
+    ],
+    "160": [
+        "lignin"
+    ],
+    "161": [
+        "plant extract",
+        "green tea extract",
+        "leaf extract"
+    ],
+    "162": [
+        "marine waste",
+        "fisheries waste"
+    ],
+    "163": [
+        "biosolid",
+        "sewage sludge"
+    ],
+    "164": [
+        "textile sludge",
+        "textile residues"
+    ],
+    "165": [
+        "chamomile waste"
+    ],
+    "166": [
+        "oilseed meals",
+        "sesame seed meals"
+    ],
+    "167": [
+        "road runoff",
+        "agricultural runoff"
+    ],
+    "168": [
+        "urban forestry waste"
+    ],
+    "169": [
+        "clinker",
+        "plaster"
+    ],
+    "170": [
+        "lupin products"
+    ],
+    "171": [
+        "biomass"
+    ],
+    "172": [
+        "woody biomass",
+        "forestry biomass"
+    ],
+    "173": [
+        "residues"
+    ],
+    "174": [
+        "cereal biomass"
+    ],
+    "175": [
+        "vegetable peels"
+    ],
+    "176": [
+        "fruit and vegetable waste",
+        "vegetable waste"
+    ],
+    "177": [
+        "drilling fluid"
+    ],
+    "178": [
+        "agricultural slurry",
+        "animal slurry"
+    ],
+    "179": [
+        "phosphoric acid"
+    ],
+    "180": [
+        "effluent"
+    ],
+    "181": [
+        "cheese whey"
+    ],
+    "182": [
+        "underutilized chicken parts"
+    ],
+    "183": [
+        "digested sewage sludge",
+        "manure digestate"
+    ],
+    "184": [
+        "agricultural waste"
+    ],
+    "185": [
+        "potato starch"
+    ],
+    "186": [
+        "glass waste",
+        "recycled glass"
+    ],
+    "187": [
+        "tire waste"
+    ],
+    "188": [
+        "sand",
+        "silica sand"
+    ],
+    "189": [
+        "antimicrobial agents"
+    ],
+    "190": [
+        "lignocellulosic waste",
+        "agricultural waste"
+    ],
+    "191": [
+        "spent materials"
+    ],
+    "192": [
+        "oil treatment waste"
+    ],
+    "193": [
+        "plastic components from electronic waste"
+    ],
+    "194": [
+        "residual streams"
+    ],
+    "195": [
+        "industrial waste"
+    ],
+    "196": [
+        "fruit"
+    ],
+    "197": [
+        "potato waste"
+    ],
+    "198": [
+        "leaves"
+    ],
+    "199": [
+        "starch waste",
+        "starchy food waste"
+    ],
+    "200": [
+        "bone waste"
+    ],
+    "201": [
+        "effluent"
+    ],
+    "202": [
+        "oil cake"
+    ],
+    "203": [
+        "steelmaking slag",
+        "iron and steel slag"
+    ],
+    "204": [
+        "eggplant waste"
+    ],
+    "205": [
+        "potato peel waste"
+    ],
+    "206": [
+        "biogenic residue",
+        "inorganic residue"
+    ],
+    "207": [
+        "husk flour"
+    ],
+    "208": [
+        "food industry wastewater"
+    ],
+    "209": [
+        "mine dump"
+    ],
+    "210": [
+        "liquid waste",
+        "organic liquid waste"
+    ],
+    "211": [
+        "polyethylene terephthalate"
+    ],
+    "212": [
+        "herbal waste"
+    ],
+    "213": [
+        "orange",
+        "orange juice"
+    ],
+    "214": [
+        "food waste"
+    ],
+    "215": [
+        "tea waste"
+    ],
+    "216": [
+        "waste remediation",
+        "waste reuse",
+        "waste recycling",
+        "waste recovery",
+        "waste utilization"
+    ],
+    "217": [
+        "inorganic fertilization"
+    ],
+    "218": [
+        "animal manure"
+    ],
+    "219": [
+        "eggshell waste"
+    ],
+    "220": [
+        "flax waste"
+    ],
+    "221": [
+        "mixed plastic waste"
+    ],
+    "222": [
+        "sludge"
+    ],
+    "223": [
+        "fruit waste"
+    ],
+    "224": [
+        "food waste"
+    ],
+    "225": [
+        "heavy metals"
+    ],
+    "226": [
+        "encroacher bush"
+    ],
+    "227": [
+        "carbide waste"
+    ],
+    "228": [
+        "waste generation"
+    ],
+    "229": [
+        "chromium six"
+    ],
+    "230": [
+        "wine industry biomass",
+        "yeast biomass"
+    ],
+    "231": [
+        "soil waste",
+        "brown waste",
+        "land waste"
+    ],
+    "232": [
+        "FRCA",
+        "CRCA"
+    ],
+    "233": [
+        "electronic waste"
+    ],
+    "234": [
+        "synthetic wastewater"
+    ],
+    "235": [
+        "sunflower waste"
+    ],
+    "236": [
+        "Colocasia Esculenta leaves",
+        "cassava leaves"
+    ],
+    "237": [
+        "dredged marine sediment"
+    ],
+    "238": [
+        "ash from combustion"
+    ],
+    "239": [
+        "Gpep",
+        "Mpep"
+    ],
+    "240": [
+        "brewers' spent grain"
+    ],
+    "241": [
+        "pomegranate peel",
+        "pomegranate peel powder"
+    ],
+    "242": [
+        "polycarbonate waste"
+    ],
+    "243": [
+        "fish waste"
+    ],
+    "244": [
+        "macroalgal waste"
+    ],
+    "245": [
+        "coke"
+    ],
+    "246": [
+        "fruit skin",
+        "chicken skin"
+    ],
+    "247": [
+        "mezcal industry waste",
+        "Tequila waste"
+    ],
+    "248": [
+        "vermicompost"
+    ],
+    "249": [
+        "plastic particles",
+        "glass particles"
+    ],
+    "250": [
+        "apple pomace"
+    ],
+    "251": [
+        "rice waste"
+    ],
+    "252": [
+        "gaseous emissions",
+        "exhaust gas emissions"
+    ],
+    "253": [
+        "sheep slaughterhouse waste"
+    ],
+    "254": [
+        "PHA-containing cells"
+    ],
+    "255": [
+        "feather"
+    ],
+    "256": [
+        "functionalized organic waste",
+        "functionalized wood waste"
+    ],
+    "257": [
+        "animal by-products"
+    ],
+    "258": [
+        "air"
+    ],
+    "259": [
+        "hulls"
+    ],
+    "260": [
+        "oil extraction waste"
+    ],
+    "261": [
+        "spent coffee grounds"
+    ],
+    "262": [
+        "textile waste"
+    ],
+    "263": [
+        "dried food"
+    ],
+    "264": [
+        "ceramic dust",
+        "brick dust"
+    ],
+    "265": [
+        "bread waste"
+    ],
+    "266": [
+        "elephant grass"
+    ],
+    "267": [
+        "brewery wastewater"
+    ],
+    "268": [
+        "vinyl ether polymer"
+    ],
+    "269": [
+        "printed circuit boards"
+    ],
+    "270": [
+        "problematic materials"
+    ],
+    "271": [
+        "biological waste"
+    ],
+    "272": [
+        "okara"
+    ],
+    "273": [
+        "gloves"
+    ],
+    "274": [
+        "crushed rock and gravel"
+    ],
+    "275": [
+        "petroleum-based plastics"
+    ],
+    "276": [
+        "citrus biomass"
+    ],
+    "277": [
+        "precious metal wastewater"
+    ],
+    "278": [
+        "fruit fly rearing waste"
+    ],
+    "279": [
+        "agricultural weeds",
+        "herbicide"
+    ],
+    "280": [
+        "rice husk"
+    ],
+    "281": [
+        "domestic wastewater"
+    ],
+    "282": [
+        "melon waste",
+        "cucumber waste"
+    ],
+    "283": [
+        "solid fraction residue"
+    ],
+    "284": [
+        "plant oil"
+    ],
+    "285": [
+        "vine waste",
+        "grape waste",
+        "wine waste"
+    ],
+    "286": [
+        "food processing by-products",
+        "organic processing by-products"
+    ],
+    "287": [
+        "bran"
+    ],
+    "288": [
+        "non-biodegradable plastics"
+    ],
+    "289": [
+        "municipal sewage sludge"
+    ],
+    "290": [
+        "cereal straw"
+    ],
+    "291": [
+        "pine needle"
+    ],
+    "292": [
+        "essential oil production residues"
+    ],
+    "293": [
+        "carbohydrate-rich food waste",
+        "carbohydrate-rich industrial waste"
+    ],
+    "294": [
+        "byproduct"
+    ],
+    "295": [
+        "hoof waste"
+    ],
+    "296": [
+        "dust"
+    ],
+    "297": [
+        "refractory waste"
+    ],
+    "298": [
+        "raw materials",
+        "secondary raw materials"
+    ],
+    "299": [
+        "phosphate waste"
+    ],
+    "300": [
+        "animal by-product"
+    ],
+    "301": [
+        "polyethylene terephthalate waste"
+    ],
+    "302": [
+        "cassava waste"
+    ],
+    "303": [
+        "dietary fiber"
+    ],
+    "304": [
+        "hydrolysis lignin"
+    ],
+    "305": [
+        "end-of-life batteries"
+    ],
+    "306": [
+        "industrial waste"
+    ],
+    "307": [
+        "shrimp chitin",
+        "chitosan"
+    ],
+    "308": [
+        "solid residue"
+    ],
+    "309": [
+        "spent coffee grounds",
+        "hydrolyzed waste cooking oil"
+    ],
+    "310": [
+        "unsold milk",
+        "unsold bread"
+    ],
+    "311": [
+        "plastic packaging waste",
+        "plastic waste"
+    ],
+    "312": [
+        "mulching film waste"
+    ],
+    "313": [
+        "organic fraction municipal solid waste"
+    ],
+    "314": [
+        "printed circuit boards waste"
+    ],
+    "315": [
+        "coffee silverskin"
+    ],
+    "316": [
+        "starchy waste"
+    ],
+    "317": [
+        "paper rejects"
+    ],
+    "318": [
+        "slag"
+    ],
+    "319": [
+        "solid recovered fuel"
+    ],
+    "320": [
+        "rare earth element solutions"
+    ],
+    "321": [
+        "water streams"
+    ],
+    "322": [
+        "slaker grits"
+    ],
+    "323": [
+        "tuber peel",
+        "potato peel"
+    ],
+    "324": [
+        "arsenic"
+    ],
+    "325": [
+        "organic waste"
+    ],
+    "326": [
+        "orange waste"
+    ],
+    "327": [
+        "oyster shell waste",
+        "marine shell waste"
+    ],
+    "328": [
+        "electronic waste"
+    ],
+    "329": [
+        "food waste"
+    ],
+    "330": [
+        "biochar",
+        "agricultural waste-derived biochar"
+    ],
+    "331": [
+        "biomass"
+    ],
+    "332": [
+        "scrap steel"
+    ],
+    "333": [
+        "chitin waste"
+    ],
+    "334": [
+        "horticultural waste",
+        "fruit and vegetable processing waste"
+    ],
+    "335": [
+        "inedible food by-product"
+    ],
+    "336": [
+        "plastic waste",
+        "polypropylene plastic waste"
+    ],
+    "337": [
+        "organic pollutants in wastewater"
+    ],
+    "338": [
+        "metallurgical residue"
+    ],
+    "339": [
+        "culture broths"
+    ],
+    "340": [
+        "urban organic waste"
+    ],
+    "341": [
+        "citrus peel"
+    ],
+    "342": [
+        "marine invertebrates"
+    ],
+    "343": [
+        "forest by-products"
+    ],
+    "344": [
+        "chestnut waste"
+    ],
+    "345": [
+        "industrial waste"
+    ],
+    "346": [
+        "electronic waste"
+    ],
+    "347": [
+        "sludge",
+        "biomass sludge"
+    ],
+    "348": [
+        "biomass combustion residues",
+        "charcoal production residues"
+    ],
+    "349": [
+        "biomass materials"
+    ],
+    "350": [
+        "solvents"
+    ],
+    "351": [
+        "food packaging",
+        "non-edible food waste"
+    ],
+    "352": [
+        "peach waste"
+    ],
+    "353": [
+        "PET waste"
+    ],
+    "354": [
+        "landfill"
+    ],
+    "355": [
+        "iron ore tailings"
+    ],
+    "356": [
+        "cellulosic waste"
+    ],
+    "357": [
+        "oleic acid"
+    ],
+    "358": [
+        "microalgal biomass"
+    ],
+    "359": [
+        "pyrophyllite mine waste"
+    ],
+    "360": [
+        "black liquor"
+    ],
+    "361": [
+        "carbon-rich waste"
+    ],
+    "362": [
+        "biomass waste",
+        "food waste",
+        "agricultural waste"
+    ],
+    "363": [
+        "oily sludge"
+    ],
+    "364": [
+        "light"
+    ],
+    "365": [
+        "ceramics"
+    ],
+    "366": [
+        "chromium"
+    ],
+    "367": [
+        "viscera",
+        "tuna waste"
+    ],
+    "368": [
+        "landfill waste",
+        "landfilled industrial process residues"
+    ],
+    "369": [
+        "black soldier fly larval meal"
+    ],
+    "370": [
+        "synthetic gas"
+    ],
+    "371": [
+        "food processing waste"
+    ],
+    "372": [
+        "packaging"
+    ],
+    "373": [
+        "digestate"
+    ],
+    "374": [
+        "cellulose"
+    ],
+    "375": [
+        "organic matter"
+    ],
+    "376": [
+        "slaughterhouse byproducts",
+        "meat byproducts"
+    ],
+    "377": [
+        "ladle slag"
+    ],
+    "378": [
+        "fertilizers"
+    ],
+    "379": [
+        "waste rock"
+    ],
+    "380": [
+        "tea waste"
+    ],
+    "381": [
+        "biochar"
+    ],
+    "382": [
+        "agricultural residue",
+        "agro-industrial residue",
+        "crop residue"
+    ],
+    "383": [
+        "hydrothermal wastewater"
+    ],
+    "384": [
+        "peel"
+    ],
+    "385": [
+        "compost"
+    ],
+    "386": [
+        "cashew shell",
+        "cashew apple"
+    ],
+    "387": [
+        "banana waste",
+        "banana leaf waste"
+    ],
+    "388": [
+        "peanut skin"
+    ],
+    "389": [
+        "waste"
+    ],
+    "390": [
+        "bran"
+    ],
+    "391": [
+        "HTL aqueous phase"
+    ],
+    "392": [
+        "treated sewage waste"
+    ],
+    "393": [
+        "cement kiln dust"
+    ],
+    "394": [
+        "molasses",
+        "sugar beet molasses",
+        "sugarcane molasses"
+    ],
+    "395": [
+        "flue gas"
+    ],
+    "396": [
+        "chestnut burr"
+    ],
+    "397": [
+        "cellulosic by-product",
+        "lignocellulosic by-product"
+    ],
+    "398": [
+        "fruit seeds"
+    ],
+    "399": [
+        "fermentation waste"
+    ],
+    "400": [
+        "underutilized crops"
+    ],
+    "401": [
+        "cobalt"
+    ],
+    "402": [
+        "manganese"
+    ],
+    "403": [
+        "valeric acid"
+    ],
+    "404": [
+        "food waste"
+    ],
+    "405": [
+        "vacant land"
+    ],
+    "406": [
+        "municipal solid waste",
+        "municipal biowaste"
+    ],
+    "407": [
+        "whey hydrolysate"
+    ],
+    "408": [
+        "aluminium powder"
+    ],
+    "409": [
+        "fish biomass"
+    ],
+    "410": [
+        "contaminated waste"
+    ],
+    "411": [
+        "non-organic waste",
+        "non-processed waste",
+        "non-hazardous waste",
+        "special waste"
+    ],
+    "412": [
+        "organic waste residue",
+        "solid waste residue",
+        "biogas residue"
+    ],
+    "413": [
+        "orange waste"
+    ],
+    "414": [
+        "ammonium nitrogen"
+    ],
+    "415": [
+        "non-edible seeds"
+    ],
+    "416": [
+        "mud"
+    ],
+    "417": [
+        "fruit waste",
+        "fruit processing waste"
+    ],
+    "418": [
+        "grape stem",
+        "grape stalk",
+        "grapevine shoot"
+    ],
+    "419": [
+        "fruit pulp",
+        "potato pulp"
+    ],
+    "420": [
+        "biodegradable materials"
+    ],
+    "421": [
+        "used cooking oil"
+    ],
+    "422": [
+        "agricultural waste"
+    ],
+    "423": [
+        "banana waste extract"
+    ],
+    "424": [
+        "fruit seed",
+        "seed"
+    ],
+    "425": [
+        "durian waste"
+    ],
+    "426": [
+        "manure",
+        "cattle manure",
+        "dairy manure"
+    ],
+    "427": [
+        "electric arc furnace slag",
+        "electric arc furnace dust"
+    ],
+    "428": [
+        "pyritic waste"
+    ],
+    "429": [
+        "spent batteries"
+    ],
+    "430": [
+        "biorefinery residual stream"
+    ],
+    "431": [
+        "organic waste feedstock",
+        "waste oil feedstock"
+    ],
+    "432": [
+        "silicates"
+    ],
+    "433": [
+        "fossil fuel",
+        "crude oil",
+        "petroleum"
+    ],
+    "434": [
+        "fossil fuel combustion waste"
+    ],
+    "435": [
+        "onion extract"
+    ],
+    "436": [
+        "clay waste"
+    ],
+    "437": [
+        "pistachio waste",
+        "cashew nut waste"
+    ],
+    "438": [
+        "insect frass"
+    ],
+    "439": [
+        "polyvinyl chloride"
+    ],
+    "440": [
+        "seed waste"
+    ],
+    "441": [
+        "sugar industry waste"
+    ],
+    "442": [
+        "propionate",
+        "acetate"
+    ],
+    "443": [
+        "chemical substances",
+        "petrochemical substances"
+    ],
+    "444": [
+        "lithium-ion batteries"
+    ],
+    "445": [
+        "garden waste"
+    ],
+    "446": [
+        "agricultural side stream",
+        "vegetable side stream"
+    ],
+    "447": [
+        "pharmaceutical waste"
+    ],
+    "448": [
+        "meat residue",
+        "fish residue"
+    ],
+    "449": [
+        "chestnut shell"
+    ],
+    "450": [
+        "kiwifruit",
+        "kiwi peel",
+        "kiwifruit leaves"
+    ],
+    "451": [
+        "rice straw"
+    ],
+    "452": [
+        "soybean residue"
+    ],
+    "453": [
+        "pine bark"
+    ],
+    "454": [
+        "agricultural biomass",
+        "agricultural waste straw"
+    ],
+    "455": [
+        "canteen waste"
+    ],
+    "456": [
+        "toxic solvents",
+        "hazardous solvents"
+    ],
+    "457": [
+        "food waste",
+        "agricultural waste"
+    ],
+    "458": [
+        "corn bracts"
+    ],
+    "459": [
+        "excess sewage sludge"
+    ],
+    "460": [
+        "livestock wastewater"
+    ],
+    "461": [
+        "cardboard waste"
+    ],
+    "462": [
+        "fruit extract"
+    ],
+    "463": [
+        "sodium sulfate"
+    ],
+    "464": [
+        "bioactive waste streams"
+    ],
+    "465": [
+        "iron waste"
+    ],
+    "466": [
+        "wood ash",
+        "combustion ash"
+    ],
+    "467": [
+        "passion fruit peel"
+    ],
+    "468": [
+        "green waste compost"
+    ],
+    "469": [
+        "strawberry waste"
+    ],
+    "470": [
+        "seafood"
+    ],
+    "471": [
+        "potassium phosphate"
+    ],
+    "472": [
+        "cupua\u00e7u waste"
+    ],
+    "473": [
+        "vinasse"
+    ],
+    "474": [
+        "bio-oil"
+    ],
+    "475": [
+        "oilseed by-products"
+    ],
+    "476": [
+        "lipid-rich waste"
+    ],
+    "477": [
+        "marine invertebrates"
+    ],
+    "478": [
+        "agricultural wastewater",
+        "agro-industrial wastewater"
+    ],
+    "479": [
+        "lignin-rich substrate",
+        "switchgrass-derived substrate"
+    ],
+    "480": [
+        "resource consumption"
+    ],
+    "481": [
+        "tallow"
+    ],
+    "482": [
+        "biomedical waste",
+        "clinical waste"
+    ],
+    "483": [
+        "stone sludge"
+    ],
+    "484": [
+        "protein waste",
+        "protein-rich waste water"
+    ],
+    "485": [
+        "coffee processing wastewater"
+    ],
+    "486": [
+        "hydrodistillation effluent"
+    ],
+    "487": [
+        "plant food waste"
+    ],
+    "488": [
+        "methanol"
+    ],
+    "489": [
+        "rambutan peel"
+    ],
+    "490": [
+        "bamboo",
+        "bamboo leaf",
+        "bamboo stem"
+    ],
+    "491": [
+        "herbal extraction residue"
+    ],
+    "492": [
+        "polypropylene"
+    ],
+    "493": [
+        "chickpea",
+        "chickpea by-product"
+    ],
+    "494": [
+        "inedible food parts"
+    ],
+    "495": [
+        "legacy waste"
+    ],
+    "496": [
+        "biomass waste"
+    ],
+    "497": [
+        "olive pits"
+    ],
+    "498": [
+        "saline water"
+    ],
+    "499": [
+        "complex waste",
+        "complex organic waste"
+    ],
+    "500": [
+        "spent hens",
+        "spent eggs"
+    ],
+    "501": [
+        "polyethylene waste",
+        "polyethylene-containing food waste"
+    ],
+    "502": [
+        "dairy product"
+    ],
+    "503": [
+        "biomass hydrolysate"
+    ],
+    "504": [
+        "cork waste"
+    ],
+    "505": [
+        "saline wastewater"
+    ],
+    "506": [
+        "kiwifruit peel"
+    ],
+    "507": [
+        "biomolecules"
+    ],
+    "508": [
+        "dairy residue"
+    ],
+    "509": [
+        "recycled brick aggregate",
+        "recycled glass aggregate",
+        "recycled rubber aggregate",
+        "recycled plastic aggregate"
+    ],
+    "510": [
+        "ergosterol"
+    ],
+    "511": [
+        "press cake"
+    ],
+    "512": [
+        "fruit processing waste"
+    ],
+    "513": [
+        "Eucalyptus grandis"
+    ],
+    "514": [
+        "residual oil"
+    ],
+    "515": [
+        "woollen yarn production waste"
+    ],
+    "516": [
+        "digestate"
+    ],
+    "517": [
+        "pecan waste"
+    ],
+    "518": [
+        "iron ore waste"
+    ],
+    "519": [
+        "acrylic waste"
+    ],
+    "520": [
+        "food waste"
+    ],
+    "521": [
+        "biogas sludge"
+    ],
+    "522": [
+        "mycotoxins"
+    ],
+    "523": [
+        "rice bran oil",
+        "de-oiled rice bran"
+    ],
+    "524": [
+        "surplus food"
+    ],
+    "525": [
+        "polystyrene"
+    ],
+    "526": [
+        "sugarcane bagasse ash"
+    ],
+    "527": [
+        "non-essential waste"
+    ],
+    "528": [
+        "plant waste",
+        "agricultural waste"
+    ],
+    "529": [
+        "hemp waste"
+    ],
+    "530": [
+        "cocoa waste",
+        "chocolate production waste"
+    ],
+    "531": [
+        "internal organs"
+    ],
+    "532": [
+        "after-boiling waste"
+    ],
+    "533": [
+        "glycerol"
+    ],
+    "534": [
+        "aluminum sludge"
+    ],
+    "535": [
+        "spinach waste"
+    ],
+    "536": [
+        "grapevine cane"
+    ],
+    "537": [
+        "bagasse",
+        "coffee bagasse",
+        "beer bagasse",
+        "malt bagasse"
+    ],
+    "538": [
+        "glycerol waste"
+    ],
+    "539": [
+        "cassava",
+        "cassava pulp",
+        "cassava starch",
+        "cassava husks",
+        "cassava bagasse"
+    ],
+    "540": [
+        "corn stalks",
+        "sorghum stalks"
+    ],
+    "541": [
+        "carrot peel"
+    ],
+    "542": [
+        "quartz industry sludge"
+    ],
+    "543": [
+        "fatty acids"
+    ],
+    "544": [
+        "aqueous effluent"
+    ],
+    "545": [
+        "leachate"
+    ],
+    "546": [
+        "black water"
+    ],
+    "547": [
+        "cellulosic residue"
+    ],
+    "548": [
+        "drilling waste"
+    ],
+    "549": [
+        "human urine",
+        "cow urine"
+    ],
+    "550": [
+        "blackthorn",
+        "walnut"
+    ],
+    "551": [
+        "solid waste"
+    ],
+    "552": [
+        "carbon"
+    ],
+    "553": [
+        "hemicellulose"
+    ],
+    "554": [
+        "volatile matter"
+    ],
+    "555": [
+        "organic household waste"
+    ],
+    "556": [
+        "tanned leather shavings"
+    ],
+    "557": [
+        "lime"
+    ],
+    "558": [
+        "bud waste"
+    ],
+    "559": [
+        "pine sawdust"
+    ],
+    "560": [
+        "nut skins"
+    ],
+    "561": [
+        "vegetable waste",
+        "carrot waste"
+    ],
+    "562": [
+        "wash water"
+    ],
+    "563": [
+        "spent yeast"
+    ],
+    "564": [
+        "metal shavings"
+    ],
+    "565": [
+        "banana crops"
+    ],
+    "566": [
+        "fibrous waste"
+    ],
+    "567": [
+        "soybean meal"
+    ],
+    "568": [
+        "agricultural waste ash"
+    ],
+    "569": [
+        "allium vegetables"
+    ],
+    "570": [
+        "sunflower oil waste"
+    ],
+    "571": [
+        "calcium waste"
+    ],
+    "572": [
+        "crop residues",
+        "grain residues"
+    ],
+    "573": [
+        "PET textile waste"
+    ],
+    "574": [
+        "resource"
+    ],
+    "575": [
+        "natural organic waste"
+    ],
+    "576": [
+        "noncompliant compost"
+    ],
+    "577": [
+        "ferronickel slag",
+        "ferrochrome slag"
+    ],
+    "578": [
+        "fine fraction"
+    ],
+    "579": [
+        "codfish bones"
+    ],
+    "580": [
+        "food waste"
+    ],
+    "581": [
+        "digestate"
+    ],
+    "582": [
+        "commercial waste",
+        "industrial non-hazardous waste"
+    ],
+    "583": [
+        "side-stream materials"
+    ],
+    "584": [
+        "connective tissue"
+    ],
+    "585": [
+        "animal feed",
+        "food waste"
+    ],
+    "586": [
+        "olive pomace"
+    ],
+    "587": [
+        "sludge"
+    ],
+    "588": [
+        "fluorosilicic acid"
+    ],
+    "589": [
+        "synthetic textile waste",
+        "synthetic plastic waste"
+    ],
+    "590": [
+        "oilseed cake"
+    ],
+    "591": [
+        "biomass combustion ash"
+    ],
+    "592": [
+        "recycled wool fibers"
+    ],
+    "593": [
+        "whey"
+    ],
+    "594": [
+        "biowaste"
+    ],
+    "595": [
+        "phenolic compounds"
+    ],
+    "596": [
+        "nylon waste"
+    ],
+    "597": [
+        "bedding materials"
+    ],
+    "598": [
+        "wool"
+    ],
+    "599": [
+        "avocado fruit",
+        "avocado leaves",
+        "avocado fruit shell"
+    ],
+    "600": [
+        "rice waste",
+        "rice mill wastewater",
+        "rice agricultural waste"
+    ],
+    "601": [
+        "municipal solid waste"
+    ],
+    "602": [
+        "food service waste"
+    ],
+    "603": [
+        "chestnut",
+        "chestnut leaf"
+    ],
+    "604": [
+        "pruning waste"
+    ],
+    "605": [
+        "nickel-containing sludge"
+    ],
+    "606": [
+        "aqueous residue"
+    ],
+    "607": [
+        "bread waste",
+        "yeast waste"
+    ],
+    "608": [
+        "paper mill effluent"
+    ],
+    "609": [
+        "citrus wastewater"
+    ],
+    "610": [
+        "construction and demolition waste"
+    ],
+    "611": [
+        "brewery by-product"
+    ],
+    "612": [
+        "molasses"
+    ],
+    "613": [
+        "apricot pomace"
+    ],
+    "614": [
+        "pineapple core",
+        "pineapple pulp"
+    ],
+    "615": [
+        "corncob waste",
+        "corncob ash"
+    ],
+    "616": [
+        "biogenic municipal solid waste"
+    ],
+    "617": [
+        "bleached kraft pulp",
+        "Kraft paper"
+    ],
+    "618": [
+        "cabbage waste"
+    ],
+    "619": [
+        "biomass"
+    ],
+    "620": [
+        "skin"
+    ],
+    "621": [
+        "residual metal-oxalates of manganese",
+        "residual metal-oxalates of cobalt",
+        "residual metal-oxalates of nickel"
+    ],
+    "622": [
+        "biomass"
+    ],
+    "623": [
+        "aromatic hydrocarbon"
+    ],
+    "624": [
+        "low-valued fish"
+    ],
+    "625": [
+        "mining waste"
+    ],
+    "626": [
+        "carbohydrates"
+    ],
+    "627": [
+        "cattle hide"
+    ],
+    "628": [
+        "lithium-ion battery cathode waste"
+    ],
+    "629": [
+        "L. albus wastewater",
+        "L. luteus wastewater"
+    ],
+    "630": [
+        "marine shells"
+    ],
+    "631": [
+        "vegetal waste"
+    ],
+    "632": [
+        "algae"
+    ],
+    "633": [
+        "wastewater"
+    ],
+    "634": [
+        "baryte"
+    ],
+    "635": [
+        "hydrolyzed PET waste"
+    ],
+    "636": [
+        "metallic waste",
+        "steel waste"
+    ],
+    "637": [
+        "aluminum production residue"
+    ],
+    "638": [
+        "shrimp shell"
+    ],
+    "639": [
+        "apple pomace"
+    ],
+    "640": [
+        "refuse derived fuel"
+    ],
+    "641": [
+        "oily wastewater"
+    ],
+    "642": [
+        "dead organic material"
+    ],
+    "643": [
+        "oily residues"
+    ],
+    "644": [
+        "waste stream"
+    ],
+    "645": [
+        "ammonia"
+    ],
+    "646": [
+        "sediment"
+    ],
+    "647": [
+        "food waste"
+    ],
+    "648": [
+        "polyethylene terephthalate bottles"
+    ],
+    "649": [
+        "husk",
+        "corn husk",
+        "oat husk",
+        "bean husk"
+    ],
+    "650": [
+        "palm waste"
+    ],
+    "651": [
+        "sulphite liquor"
+    ],
+    "652": [
+        "crumb rubber"
+    ],
+    "653": [
+        "palm oil mill effluent"
+    ],
+    "654": [
+        "spent hops"
+    ],
+    "655": [
+        "fermentation media"
+    ],
+    "656": [
+        "anaerobic digestate"
+    ],
+    "657": [
+        "nitrogen compounds"
+    ],
+    "658": [
+        "edible nut shells",
+        "peanut shell",
+        "pistachio shell",
+        "almond shell"
+    ],
+    "659": [
+        "grain cleaning residue",
+        "grit residue"
+    ],
+    "660": [
+        "agricultural wastewater"
+    ],
+    "661": [
+        "floral waste hydrolysate",
+        "cotton textile waste hydrolysate"
+    ],
+    "662": [
+        "plastic pollution"
+    ],
+    "663": [
+        "recycled polymer waste",
+        "degraded plastic waste"
+    ],
+    "664": [
+        "fat waste"
+    ],
+    "665": [
+        "copper slag"
+    ],
+    "666": [
+        "seafood by-product"
+    ],
+    "667": [
+        "plant liquid waste",
+        "hydrodistillation residues"
+    ],
+    "668": [
+        "complex wastewater"
+    ],
+    "669": [
+        "waste-to-resource exchange"
+    ],
+    "670": [
+        "orange peel waste",
+        "fruit peel waste"
+    ],
+    "671": [
+        "biodegradable organic matter"
+    ],
+    "672": [
+        "leaf fall"
+    ],
+    "673": [
+        "elemental loss"
+    ],
+    "674": [
+        "chitin",
+        "chitosan"
+    ],
+    "675": [
+        "secondary waste",
+        "circular waste"
+    ],
+    "676": [
+        "ferrotitanium slag"
+    ],
+    "677": [
+        "a\u00e7a\u00ed seeds"
+    ],
+    "678": [
+        "bamboo waste"
+    ],
+    "679": [
+        "concrete waste"
+    ],
+    "680": [
+        "deoiled seed cake"
+    ],
+    "681": [
+        "refuse-derived fuel"
+    ],
+    "682": [
+        "septic tank waste"
+    ],
+    "683": [
+        "cellulose-rich waste streams"
+    ],
+    "684": [
+        "resource consumption"
+    ],
+    "685": [
+        "biomass fuel"
+    ],
+    "686": [
+        "untanned solid waste",
+        "untreated food waste"
+    ],
+    "687": [
+        "mixed waste"
+    ],
+    "688": [
+        "sugar beet",
+        "beetroot"
+    ],
+    "689": [
+        "biodegradable waste"
+    ],
+    "690": [
+        "basic oxygen furnace slag",
+        "basic oxygen furnace sludge"
+    ],
+    "691": [
+        "diatomite"
+    ],
+    "692": [
+        "bio-modifier derived from corn stover",
+        "bio-modifier derived from wood pellet",
+        "bio-modifier derived from miscanthus"
+    ],
+    "693": [
+        "sulfidic mine waste"
+    ],
+    "694": [
+        "dissolved salts"
+    ],
+    "695": [
+        "raspberry waste"
+    ],
+    "696": [
+        "desulfurization slag"
+    ],
+    "697": [
+        "water",
+        "seawater"
+    ],
+    "698": [
+        "petroleum coke",
+        "petroleum coke fly ash"
+    ],
+    "699": [
+        "bark"
+    ],
+    "700": [
+        "coconut waste"
+    ],
+    "701": [
+        "hydrolysate"
+    ],
+    "702": [
+        "scrap tire oil"
+    ],
+    "703": [
+        "leftover food"
+    ],
+    "704": [
+        "citrus fruit"
+    ],
+    "705": [
+        "waste rubber",
+        "waste tyre rubber"
+    ],
+    "706": [
+        "manure waste"
+    ],
+    "707": [
+        "marine waste"
+    ],
+    "708": [
+        "pumpkin waste"
+    ],
+    "709": [
+        "glass powder"
+    ],
+    "710": [
+        "taro"
+    ],
+    "711": [
+        "methylene blue"
+    ],
+    "712": [
+        "textile waste"
+    ],
+    "713": [
+        "broccoli waste"
+    ],
+    "714": [
+        "clay residues"
+    ],
+    "715": [
+        "off-gases"
+    ],
+    "716": [
+        "dragon fruit peel"
+    ],
+    "717": [
+        "volatile fatty acids"
+    ],
+    "718": [
+        "waste flour"
+    ],
+    "719": [
+        "petroleum waste"
+    ],
+    "720": [
+        "citrus waste"
+    ],
+    "721": [
+        "oils"
+    ],
+    "722": [
+        "husk"
+    ],
+    "723": [
+        "low-density polyethylene",
+        "plastic"
+    ],
+    "724": [
+        "saffron floral by-products"
+    ],
+    "725": [
+        "metal sludge"
+    ],
+    "726": [
+        "mining residue"
+    ],
+    "727": [
+        "fish offal",
+        "offal"
+    ],
+    "728": [
+        "soda-lime glass waste"
+    ],
+    "729": [
+        "keratin waste"
+    ],
+    "730": [
+        "coal"
+    ],
+    "731": [
+        "solid waste"
+    ],
+    "732": [
+        "residual glycerol"
+    ],
+    "733": [
+        "methane"
+    ],
+    "734": [
+        "fertilizer",
+        "organic fertilizer"
+    ],
+    "735": [
+        "plastic waste"
+    ],
+    "736": [
+        "cotton fibres"
+    ],
+    "737": [
+        "packaging waste",
+        "food packaging waste"
+    ],
+    "738": [
+        "food processing byproducts"
+    ],
+    "739": [
+        "thermal process"
+    ],
+    "740": [
+        "vine shoot"
+    ],
+    "741": [
+        "mud"
+    ],
+    "742": [
+        "fish tails"
+    ],
+    "743": [
+        "soy protein"
+    ],
+    "744": [
+        "salinity stress"
+    ],
+    "745": [
+        "petroleum sludge"
+    ],
+    "746": [
+        "orange peel flour"
+    ],
+    "747": [
+        "activated carbon ash",
+        "palm kernel shell activated carbon"
+    ],
+    "748": [
+        "construction and demolition waste"
+    ],
+    "749": [
+        "pig manure"
+    ],
+    "750": [
+        "fruit peel",
+        "vegetable peel"
+    ],
+    "751": [
+        "beet waste"
+    ],
+    "752": [
+        "manure",
+        "pig manure"
+    ],
+    "753": [
+        "carbon nanomaterials"
+    ],
+    "754": [
+        "animal carcasses"
+    ],
+    "755": [
+        "poultry manure",
+        "chicken manure"
+    ],
+    "756": [
+        "red mud"
+    ],
+    "757": [
+        "plastic food waste"
+    ],
+    "758": [
+        "polyethylene terephthalate"
+    ],
+    "759": [
+        "sheep waste"
+    ],
+    "760": [
+        "coal-based solid waste"
+    ],
+    "761": [
+        "poultry meal"
+    ],
+    "762": [
+        "dairy fat"
+    ],
+    "763": [
+        "winery waste"
+    ],
+    "764": [
+        "wastewater sludge"
+    ],
+    "765": [
+        "fines"
+    ],
+    "766": [
+        "construction and demolition waste"
+    ],
+    "767": [
+        "straw"
+    ],
+    "768": [
+        "alternative materials"
+    ],
+    "769": [
+        "lignocellulosic material"
+    ],
+    "770": [
+        "tailing"
+    ],
+    "771": [
+        "metal sludge"
+    ],
+    "772": [
+        "spent coffee grounds"
+    ],
+    "773": [
+        "biomass sample",
+        "hemp biomass"
+    ],
+    "774": [
+        "fly ash"
+    ],
+    "775": [
+        "food sources"
+    ],
+    "776": [
+        "furfural",
+        "furfurylamine"
+    ],
+    "777": [
+        "biomass waste",
+        "organic waste"
+    ],
+    "778": [
+        "recyclable materials",
+        "non-recyclable materials"
+    ],
+    "779": [
+        "mollusk waste"
+    ],
+    "780": [
+        "phosphorus gypsum"
+    ],
+    "781": [
+        "industrial emissions"
+    ],
+    "782": [
+        "lignocellulosic biomass"
+    ],
+    "783": [
+        "mixed organic waste"
+    ],
+    "784": [
+        "leach liquor"
+    ],
+    "785": [
+        "corn leaves",
+        "sorghum leaves"
+    ],
+    "786": [
+        "polyurethane"
+    ],
+    "787": [
+        "treated wastewater"
+    ],
+    "788": [
+        "contaminated sand"
+    ],
+    "789": [
+        "legume pods"
+    ],
+    "790": [
+        "rapeseed meal"
+    ],
+    "791": [
+        "biowaste residues"
+    ],
+    "792": [
+        "crop straw"
+    ],
+    "793": [
+        "raw material waste"
+    ],
+    "794": [
+        "apple extract"
+    ],
+    "795": [
+        "wet blue leather"
+    ],
+    "796": [
+        "plant residues"
+    ],
+    "797": [
+        "electronic devices",
+        "smartphones"
+    ],
+    "798": [
+        "bioplastics"
+    ],
+    "799": [
+        "jute waste"
+    ],
+    "800": [
+        "biomass waste"
+    ],
+    "801": [
+        "water treatment sludge"
+    ],
+    "802": [
+        "municipal waste",
+        "biological waste",
+        "toxic waste"
+    ],
+    "803": [
+        "nutrients"
+    ],
+    "804": [
+        "food waste hydrolysate",
+        "kitchen waste hydrolysate",
+        "bread waste hydrolysate"
+    ],
+    "805": [
+        "bakery products"
+    ],
+    "806": [
+        "fish viscera",
+        "carp viscera"
+    ],
+    "807": [
+        "poultry waste"
+    ],
+    "808": [
+        "marine debris"
+    ],
+    "809": [
+        "brewery waste"
+    ],
+    "810": [
+        "agricultural waste"
+    ],
+    "811": [
+        "tomato leaves"
+    ],
+    "812": [
+        "human excreta",
+        "animal excrement"
+    ],
+    "813": [
+        "industrial food waste"
+    ],
+    "814": [
+        "mesocarp"
+    ],
+    "815": [
+        "machinery"
+    ],
+    "816": [
+        "precious metals"
+    ],
+    "817": [
+        "hulls"
+    ],
+    "818": [
+        "pomace"
+    ],
+    "819": [
+        "by-catch"
+    ],
+    "820": [
+        "hydrochloric acid"
+    ],
+    "821": [
+        "gum arabic waste"
+    ],
+    "822": [
+        "bone"
+    ],
+    "823": [
+        "primary raw materials"
+    ],
+    "824": [
+        "fish processing waste",
+        "meat industry waste"
+    ],
+    "825": [
+        "toxic substances"
+    ],
+    "826": [
+        "animal waste",
+        "livestock waste"
+    ],
+    "827": [
+        "pomegranate waste"
+    ],
+    "828": [
+        "cellulose fibers extracted from rice husk",
+        "cellulose pulp extracted from banana pseudostems"
+    ],
+    "829": [
+        "pharmaceutical products"
+    ],
+    "830": [
+        "food processing waste",
+        "livestock waste"
+    ],
+    "831": [
+        "used materials"
+    ],
+    "832": [
+        "inorganic materials"
+    ],
+    "833": [
+        "ammonium sulfate"
+    ],
+    "834": [
+        "polluted water"
+    ],
+    "835": [
+        "cellulosic material"
+    ],
+    "836": [
+        "silicon waste"
+    ],
+    "837": [
+        "polylactic acid waste"
+    ],
+    "838": [
+        "cashew apple bagasse"
+    ],
+    "839": [
+        "bread waste"
+    ],
+    "840": [
+        "agro-industrial waste"
+    ],
+    "841": [
+        "oil effluent"
+    ],
+    "842": [
+        "Jambul seeds"
+    ],
+    "843": [
+        "argan shell"
+    ],
+    "844": [
+        "unsold vegetables",
+        "unsold fresh fruit"
+    ],
+    "845": [
+        "black shrimp waste"
+    ],
+    "846": [
+        "carbohydrate"
+    ],
+    "847": [
+        "hexavalent chromium"
+    ],
+    "848": [
+        "wheat waste"
+    ],
+    "849": [
+        "sunflower cake"
+    ],
+    "850": [
+        "fermented pig manure"
+    ],
+    "851": [
+        "coconut fiber"
+    ],
+    "852": [
+        "fishing net waste"
+    ],
+    "853": [
+        "agricultural products"
+    ],
+    "854": [
+        "water hyacinth"
+    ],
+    "855": [
+        "inorganic waste"
+    ],
+    "856": [
+        "Rosa waste"
+    ],
+    "857": [
+        "composted manure"
+    ],
+    "858": [
+        "bran"
+    ],
+    "859": [
+        "residual waste"
+    ],
+    "860": [
+        "product packaging"
+    ],
+    "861": [
+        "extraction residual solid biomass"
+    ],
+    "862": [
+        "recycled sand"
+    ],
+    "863": [
+        "plastic"
+    ],
+    "864": [
+        "de-oiled cake derived from mustard",
+        "de-oiled cake derived from cottonseed",
+        "de-oiled cake derived from groundnut"
+    ],
+    "865": [
+        "paper sludge"
+    ],
+    "866": [
+        "olive mill waste",
+        "olive oil waste"
+    ],
+    "867": [
+        "vegetable waste",
+        "tomato processing waste"
+    ],
+    "868": [
+        "livestock manure compost"
+    ],
+    "869": [
+        "hazardous waste",
+        "chemical waste"
+    ],
+    "870": [
+        "pyrolytic carbon black"
+    ],
+    "871": [
+        "municipal solid waste ash"
+    ],
+    "872": [
+        "cellulose nanofibers"
+    ],
+    "873": [
+        "gypsum waste"
+    ],
+    "874": [
+        "municipal solid waste"
+    ],
+    "875": [
+        "fruits and vegetables"
+    ],
+    "876": [
+        "concrete rubble"
+    ],
+    "877": [
+        "volatile solids"
+    ],
+    "878": [
+        "date palm waste"
+    ],
+    "879": [
+        "biodiesel waste"
+    ],
+    "880": [
+        "cotton waste"
+    ],
+    "881": [
+        "aluminum-based drinking water treatment residual"
+    ],
+    "882": [
+        "dye wastewater"
+    ],
+    "883": [
+        "post-extraction residue"
+    ],
+    "884": [
+        "fish processing wastewater"
+    ],
+    "885": [
+        "kinnow peel waste"
+    ],
+    "886": [
+        "nickel metal hydride battery"
+    ],
+    "887": [
+        "damaged timber"
+    ],
+    "888": [
+        "shaddock peel"
+    ],
+    "889": [
+        "short hemp fibers"
+    ],
+    "890": [
+        "hydrolyzed tannery fleshings"
+    ],
+    "891": [
+        "linerboard"
+    ],
+    "892": [
+        "food and beverage waste"
+    ],
+    "893": [
+        "pesticides"
+    ],
+    "894": [
+        "liquid crystal display waste"
+    ],
+    "895": [
+        "potato processing wastewater"
+    ],
+    "896": [
+        "marine algae Ulva"
+    ],
+    "897": [
+        "lavender waste"
+    ],
+    "898": [
+        "metal ions"
+    ],
+    "899": [
+        "volatile arsenic"
+    ],
+    "900": [
+        "meat extract"
+    ],
+    "901": [
+        "stalk pulps"
+    ],
+    "902": [
+        "carbon black",
+        "graphite"
+    ],
+    "903": [
+        "persistent organic pollutants"
+    ],
+    "904": [
+        "titanium dioxide production waste"
+    ],
+    "905": [
+        "rubber tire",
+        "rubber"
+    ],
+    "906": [
+        "cherry pomace"
+    ],
+    "907": [
+        "cladodes"
+    ],
+    "908": [
+        "pedicels"
+    ],
+    "909": [
+        "citrus peel extract",
+        "pineapple peel extract"
+    ],
+    "910": [
+        "sieved debris"
+    ],
+    "911": [
+        "energy"
+    ],
+    "912": [
+        "blended waste"
+    ],
+    "913": [
+        "animal fat waste"
+    ],
+    "914": [
+        "phenol"
+    ],
+    "915": [
+        "biowaste",
+        "biomass waste"
+    ],
+    "916": [
+        "pomegranate waste"
+    ],
+    "917": [
+        "toxic wastewater"
+    ],
+    "918": [
+        "cattle waste"
+    ],
+    "919": [
+        "jatropha fruit",
+        "jatropha oil",
+        "jatropha seeds"
+    ],
+    "920": [
+        "biomass energy"
+    ],
+    "921": [
+        "melissa waste"
+    ],
+    "922": [
+        "biomass"
+    ],
+    "923": [
+        "fish skin"
+    ],
+    "924": [
+        "Gum Arabic"
+    ],
+    "925": [
+        "mycotoxin contamination",
+        "mycotoxin-contaminated agricultural food waste"
+    ],
+    "926": [
+        "algal biomass"
+    ],
+    "927": [
+        "lignin waste"
+    ],
+    "928": [
+        "vanadium slag"
+    ],
+    "929": [
+        "nut waste"
+    ],
+    "930": [
+        "microorganisms"
+    ],
+    "931": [
+        "radioactive waste"
+    ],
+    "932": [
+        "plant metabolites"
+    ],
+    "933": [
+        "contaminated soil"
+    ],
+    "934": [
+        "packaging materials",
+        "plastic packaging"
+    ],
+    "935": [
+        "mattresses"
+    ],
+    "936": [
+        "high-protein material"
+    ],
+    "937": [
+        "shrimp shell"
+    ],
+    "938": [
+        "slag"
+    ],
+    "939": [
+        "incineration bottom ash"
+    ],
+    "940": [
+        "fish bone"
+    ],
+    "941": [
+        "oilseed cake"
+    ],
+    "942": [
+        "drainage toilet waste"
+    ],
+    "943": [
+        "acid gas"
+    ],
+    "944": [
+        "cannabis waste"
+    ],
+    "945": [
+        "potato waste"
+    ],
+    "946": [
+        "alkaline waste"
+    ],
+    "947": [
+        "iron filing"
+    ],
+    "948": [
+        "metal materials"
+    ],
+    "949": [
+        "testa shell"
+    ],
+    "950": [
+        "greenhouse gas emissions"
+    ],
+    "951": [
+        "fermented food waste"
+    ],
+    "952": [
+        "leftover discharge"
+    ],
+    "953": [
+        "biodegradable products"
+    ],
+    "954": [
+        "wood scraps"
+    ],
+    "955": [
+        "shea butter production residue"
+    ],
+    "956": [
+        "oil palm empty fruit bunch"
+    ],
+    "957": [
+        "coconut shell",
+        "coconut shell ash"
+    ],
+    "958": [
+        "waste carbon"
+    ],
+    "959": [
+        "skin"
+    ],
+    "960": [
+        "bovine hide"
+    ],
+    "961": [
+        "pumpkin",
+        "pumpkin seeds"
+    ],
+    "962": [
+        "shrimp waste",
+        "shrimp shell waste"
+    ],
+    "963": [
+        "sludges from stone cutting"
+    ],
+    "964": [
+        "naturally radioactive ore"
+    ],
+    "965": [
+        "vegetable",
+        "sweet potato"
+    ],
+    "966": [
+        "water"
+    ],
+    "967": [
+        "bottom ash",
+        "coal bottom ash"
+    ],
+    "968": [
+        "electronic waste"
+    ],
+    "969": [
+        "indigenous barite mineral"
+    ],
+    "970": [
+        "brewer's spent yeast"
+    ],
+    "971": [
+        "recycled polyethylene terephthalate",
+        "recycled polyethylene"
+    ],
+    "972": [
+        "mushroom residues"
+    ],
+    "973": [
+        "5-hydroxymethylfurfural"
+    ],
+    "974": [
+        "cooking water"
+    ],
+    "975": [
+        "humic acid"
+    ],
+    "976": [
+        "plastic waste"
+    ],
+    "977": [
+        "anaerobic digestion effluent"
+    ],
+    "978": [
+        "Posidonia oceanica"
+    ],
+    "979": [
+        "toxic compounds recalcitrant to anaerobic biodegradation"
+    ],
+    "980": [
+        "cellulosic sausage casing"
+    ],
+    "981": [
+        "woody biomass"
+    ],
+    "982": [
+        "pork"
+    ],
+    "983": [
+        "carbon monoxide"
+    ],
+    "984": [
+        "soluble phase leftover proteins"
+    ],
+    "985": [
+        "nitrate"
+    ],
+    "986": [
+        "petroleum-based plastics"
+    ],
+    "987": [
+        "ceramic waste"
+    ],
+    "988": [
+        "mortar"
+    ],
+    "989": [
+        "volatile fatty acid-rich effluent"
+    ],
+    "990": [
+        "defatted seeds"
+    ],
+    "991": [
+        "fatty acids",
+        "unsaturated fatty acids",
+        "oleic acid"
+    ],
+    "992": [
+        "effluent"
+    ],
+    "993": [
+        "vine pruning residue"
+    ],
+    "994": [
+        "avocado waste"
+    ],
+    "995": [
+        "nitrogen fertilizer"
+    ],
+    "996": [
+        "unreacted compounds"
+    ],
+    "997": [
+        "Vitis vinifera leaves"
+    ],
+    "998": [
+        "plantain waste"
+    ],
+    "999": [
+        "discarded materials"
+    ],
+    "1000": [
+        "unconsumed carbohydrates"
+    ],
+    "1001": [
+        "hide trimming waste"
+    ],
+    "1002": [
+        "high-organic solid waste"
+    ],
+    "1003": [
+        "natural fluorite"
+    ],
+    "1004": [
+        "Lactobacillus plantarum fermentation waste solution"
+    ],
+    "1005": [
+        "cotton gin waste"
+    ],
+    "1006": [
+        "filter cake ash"
+    ],
+    "1007": [
+        "oilseed waste"
+    ],
+    "1008": [
+        "ornamental plant residue"
+    ],
+    "1009": [
+        "cooking oil",
+        "vegetable oil"
+    ],
+    "1010": [
+        "sea shell fragments"
+    ],
+    "1011": [
+        "crustacean waste"
+    ],
+    "1012": [
+        "potash industrial waste"
+    ],
+    "1013": [
+        "mango waste"
+    ],
+    "1014": [
+        "rice husk",
+        "coconut husk"
+    ],
+    "1015": [
+        "walnut waste"
+    ],
+    "1016": [
+        "composite waste"
+    ],
+    "1017": [
+        "alperujo"
+    ],
+    "1018": [
+        "Scheelite"
+    ],
+    "1019": [
+        "waste electrical and electronic equipment"
+    ],
+    "1020": [
+        "moisture content"
+    ],
+    "1021": [
+        "apple tree leaves"
+    ],
+    "1022": [
+        "sodium carbonate solution"
+    ],
+    "1023": [
+        "surfactants"
+    ],
+    "1024": [
+        "refined fuel oil"
+    ],
+    "1025": [
+        "landfill gas"
+    ],
+    "1026": [
+        "lipids"
+    ],
+    "1027": [
+        "ash waste",
+        "flue dust waste"
+    ],
+    "1028": [
+        "straw"
+    ],
+    "1029": [
+        "lignosulfonate"
+    ],
+    "1030": [
+        "metal chips"
+    ],
+    "1031": [
+        "coffee waste"
+    ],
+    "1032": [
+        "fat"
+    ],
+    "1033": [
+        "tree pruning"
+    ],
+    "1034": [
+        "instant tea waste"
+    ],
+    "1035": [
+        "aluminosilicate precursor"
+    ],
+    "1036": [
+        "debittered trub"
+    ],
+    "1037": [
+        "mackerel waste"
+    ],
+    "1038": [
+        "nickel laterite waste"
+    ],
+    "1039": [
+        "personal protective equipment kits"
+    ],
+    "1040": [
+        "wasted bread crumbs"
+    ],
+    "1041": [
+        "formate"
+    ],
+    "1042": [
+        "slag waste"
+    ],
+    "1043": [
+        "kernel"
+    ],
+    "1044": [
+        "cod fish"
+    ],
+    "1045": [
+        "date palm residues"
+    ],
+    "1046": [
+        "construction and demolition waste powder",
+        "recycled concrete powder"
+    ],
+    "1047": [
+        "field residue"
+    ],
+    "1048": [
+        "teabag waste"
+    ],
+    "1049": [
+        "cereal waste"
+    ],
+    "1050": [
+        "wheat straw"
+    ],
+    "1051": [
+        "Indian Khilar cow urine"
+    ],
+    "1052": [
+        "extracted grain"
+    ],
+    "1053": [
+        "D-limonene"
+    ],
+    "1054": [
+        "mineral"
+    ],
+    "1055": [
+        "dairy by-products"
+    ],
+    "1056": [
+        "iron sludge"
+    ],
+    "1057": [
+        "cornstalk"
+    ],
+    "1058": [
+        "wood"
+    ],
+    "1059": [
+        "graphene oxide"
+    ],
+    "1060": [
+        "Andrographis paniculata"
+    ],
+    "1061": [
+        "unripe tomatoes",
+        "unripe grapes"
+    ],
+    "1062": [
+        "spent adsorbent"
+    ],
+    "1063": [
+        "fruit waste shell"
+    ],
+    "1064": [
+        "ceramic powder"
+    ],
+    "1065": [
+        "end-of-life vehicles"
+    ],
+    "1066": [
+        "phosphate mine tailings"
+    ],
+    "1067": [
+        "alginate"
+    ],
+    "1068": [
+        "environmental pollution"
+    ],
+    "1069": [
+        "soluble non-reactive phosphorus"
+    ],
+    "1070": [
+        "steelmaking dust"
+    ],
+    "1071": [
+        "Pineapple leaf microfibers"
+    ],
+    "1072": [
+        "metal"
+    ],
+    "1073": [
+        "sewage sludge ash"
+    ],
+    "1074": [
+        "renewable organic waste"
+    ],
+    "1075": [
+        "fruit rind"
+    ],
+    "1076": [
+        "polythene waste"
+    ],
+    "1077": [
+        "corncob"
+    ],
+    "1078": [
+        "o-xylene"
+    ],
+    "1079": [
+        "electrical and electronic equipment"
+    ],
+    "1080": [
+        "illegal dumping"
+    ],
+    "1081": [
+        "fish fins"
+    ],
+    "1082": [
+        "silica fume"
+    ],
+    "1083": [
+        "dehydrated umbu peels"
+    ],
+    "1084": [
+        "rubber powder"
+    ],
+    "1085": [
+        "metallic residue from door keys"
+    ],
+    "1086": [
+        "chelated heavy metals"
+    ],
+    "1087": [
+        "metal waste"
+    ],
+    "1088": [
+        "lime sludge"
+    ],
+    "1089": [
+        "sheep teeth"
+    ],
+    "1090": [
+        "potato protein product"
+    ],
+    "1091": [
+        "bread"
+    ],
+    "1092": [
+        "bituminous coal"
+    ],
+    "1093": [
+        "solid electrolyte interface"
+    ],
+    "1094": [
+        "recycled carbon fiber powder"
+    ],
+    "1095": [
+        "mango seed"
+    ],
+    "1096": [
+        "nut cake"
+    ],
+    "1097": [
+        "banner waste"
+    ],
+    "1098": [
+        "soil mass"
+    ],
+    "1099": [
+        "sulfamethoxazole"
+    ],
+    "1100": [
+        "hot metal pretreatment slag"
+    ],
+    "1101": [
+        "Kinnow pomace"
+    ],
+    "1102": [
+        "temperature"
+    ],
+    "1103": [
+        "end-of-life fire-protecting t-shirts"
+    ],
+    "1104": [
+        "filter cake"
+    ],
+    "1105": [
+        "soybean byproduct"
+    ],
+    "1106": [
+        "palm oil waste"
+    ],
+    "1107": [
+        "avocado waste"
+    ],
+    "1108": [
+        "noble materials"
+    ],
+    "1109": [
+        "sulfidic mine tailings"
+    ],
+    "1110": [
+        "lees"
+    ],
+    "1111": [
+        "EVOH"
+    ],
+    "1112": [
+        "food loss"
+    ],
+    "1113": [
+        "high-sulfur petroleum coke"
+    ],
+    "1114": [
+        "biodiversity loss"
+    ],
+    "1115": [
+        "remainder waste"
+    ],
+    "1116": [
+        "textile dyeing wastewater"
+    ],
+    "1117": [
+        "juvabione"
+    ],
+    "1118": [
+        "waste toner powder",
+        "waste welding powder"
+    ],
+    "1119": [
+        "polystyrene waste"
+    ],
+    "1120": [
+        "prickly pear peel waste"
+    ],
+    "1121": [
+        "seafood sludge"
+    ],
+    "1122": [
+        "slaughterhouse by-product hydrolysate"
+    ],
+    "1123": [
+        "spent resources"
+    ],
+    "1124": [
+        "slaughterhouse waste"
+    ],
+    "1125": [
+        "adhered concrete"
+    ],
+    "1126": [
+        "bark of Arundo donax"
+    ],
+    "1127": [
+        "inorganic phosphite"
+    ],
+    "1128": [
+        "bauxite residue"
+    ],
+    "1129": [
+        "plastic waste"
+    ],
+    "1130": [
+        "metalloids"
+    ],
+    "1131": [
+        "excavated soil"
+    ],
+    "1132": [
+        "hydrogen sulfide",
+        "sulfur dioxide"
+    ],
+    "1133": [
+        "legume waste"
+    ],
+    "1134": [
+        "spent catalysts"
+    ],
+    "1135": [
+        "lees filter extracts"
+    ],
+    "1136": [
+        "energy waste"
+    ],
+    "1137": [
+        "rotten potatoes"
+    ],
+    "1138": [
+        "crab waste",
+        "crab shell waste"
+    ],
+    "1139": [
+        "PHA extraction by-products"
+    ],
+    "1140": [
+        "pressed pulp"
+    ],
+    "1141": [
+        "wooden pallets"
+    ],
+    "1142": [
+        "cadmium"
+    ],
+    "1143": [
+        "date palm fronds"
+    ],
+    "1144": [
+        "plastic solid waste"
+    ],
+    "1145": [
+        "polylactic acid"
+    ],
+    "1146": [
+        "food waste"
+    ],
+    "1147": [
+        "myofibrillar protein"
+    ],
+    "1148": [
+        "cane trash"
+    ],
+    "1149": [
+        "deforestation"
+    ],
+    "1150": [
+        "material"
+    ],
+    "1151": [
+        "non-biodegradable plastic waste"
+    ],
+    "1152": [
+        "polystyrene"
+    ],
+    "1153": [
+        "remaining solution"
+    ],
+    "1154": [
+        "peatland"
+    ],
+    "1155": [
+        "contaminants of emerging concern"
+    ],
+    "1156": [
+        "biological materials"
+    ],
+    "1157": [
+        "leather shavings"
+    ],
+    "1158": [
+        "agricultural soil"
+    ],
+    "1159": [
+        "prawn waste"
+    ],
+    "1160": [
+        "biochemical oxygen demand"
+    ],
+    "1161": [
+        "metabolites"
+    ],
+    "1162": [
+        "spent liquor"
+    ],
+    "1163": [
+        "wattle tannin"
+    ],
+    "1164": [
+        "post-consumer textile waste"
+    ],
+    "1165": [
+        "fish heads"
+    ],
+    "1166": [
+        "fluidized bed fly ash"
+    ],
+    "1167": [
+        "tomato by-product"
+    ],
+    "1168": [
+        "leafy vegetable waste"
+    ],
+    "1169": [
+        "lignin-derived carboxylic acids"
+    ],
+    "1170": [
+        "olive oil by-products"
+    ],
+    "1171": [
+        "organic solid waste"
+    ],
+    "1172": [
+        "low-density polyethylene"
+    ],
+    "1173": [
+        "wood by-products"
+    ],
+    "1174": [
+        "grass"
+    ],
+    "1175": [
+        "Aloe vera waste"
+    ],
+    "1176": [
+        "bamboo waste"
+    ],
+    "1177": [
+        "lead-containing piezoceramics"
+    ],
+    "1178": [
+        "biomass"
+    ],
+    "1179": [
+        "pyrite",
+        "pyrolusite"
+    ],
+    "1180": [
+        "black soldier fly prepupae"
+    ],
+    "1181": [
+        "volatile organic compounds"
+    ],
+    "1182": [
+        "animal manure from sheep",
+        "animal manure from goats"
+    ],
+    "1183": [
+        "lightweight particles"
+    ],
+    "1184": [
+        "real CO2-rich residual feedstock"
+    ],
+    "1185": [
+        "choline chloride-ethylene glycol deep eutectic solvent decomposition products"
+    ],
+    "1186": [
+        "asparagus stalk waste"
+    ],
+    "1187": [
+        "compost",
+        "vermicompost"
+    ],
+    "1188": [
+        "cocoa bean shell"
+    ],
+    "1189": [
+        "food waste slurry"
+    ],
+    "1190": [
+        "weed seeds"
+    ],
+    "1191": [
+        "captured carbon dioxide"
+    ],
+    "1192": [
+        "synthetic dyes"
+    ],
+    "1193": [
+        "non-recyclable plastic products"
+    ],
+    "1194": [
+        "foundry sand"
+    ],
+    "1195": [
+        "post-consumer plastic"
+    ],
+    "1196": [
+        "rejected waste from waste picker cooperatives"
+    ],
+    "1197": [
+        "marble dust"
+    ],
+    "1198": [
+        "citric acid",
+        "acetic acid"
+    ],
+    "1199": [
+        "water potabilization sludge"
+    ],
+    "1200": [
+        "soybean oil"
+    ],
+    "1201": [
+        "yeast industry wastewater"
+    ],
+    "1202": [
+        "waste precursor"
+    ],
+    "1203": [
+        "non-collagenous protein"
+    ],
+    "1204": [
+        "long time investment"
+    ],
+    "1205": [
+        "microalgae"
+    ],
+    "1206": [
+        "caustic solvent"
+    ],
+    "1207": [
+        "pepper"
+    ],
+    "1208": [
+        "salts"
+    ],
+    "1209": [
+        "kaolin sludge"
+    ],
+    "1210": [
+        "dry ash"
+    ],
+    "1211": [
+        "chestnut waste"
+    ],
+    "1212": [
+        "biodiesel-derived glycerol"
+    ],
+    "1213": [
+        "rotten fruit"
+    ],
+    "1214": [
+        "nejayote"
+    ],
+    "1215": [
+        "Panchakavya"
+    ],
+    "1216": [
+        "lupin by-products"
+    ],
+    "1217": [
+        "carton packaging waste"
+    ],
+    "1218": [
+        "heavy metal"
+    ],
+    "1219": [
+        "foundry sand"
+    ],
+    "1220": [
+        "palm kernel shell"
+    ],
+    "1221": [
+        "food byproducts"
+    ],
+    "1222": [
+        "face masks"
+    ],
+    "1223": [
+        "recycled electric induction furnace slag"
+    ],
+    "1224": [
+        "wrack"
+    ],
+    "1225": [
+        "clementine mandarin pulp",
+        "clementine mandarin peel"
+    ],
+    "1226": [
+        "1,4-butanediol"
+    ],
+    "1227": [
+        "antimony trioxide"
+    ],
+    "1228": [
+        "spent plastic mulching film"
+    ],
+    "1229": [
+        "spent tea"
+    ],
+    "1230": [
+        "cold-rolling wastewater"
+    ],
+    "1231": [
+        "Knots and Rejects"
+    ],
+    "1232": [
+        "porcine urinary bladder"
+    ],
+    "1233": [
+        "animal bones"
+    ],
+    "1234": [
+        "nut shell flour"
+    ],
+    "1235": [
+        "glass cullet"
+    ],
+    "1236": [
+        "food derived starch",
+        "apple derived starch"
+    ],
+    "1237": [
+        "pectin-rich plant biomass"
+    ],
+    "1238": [
+        "petroleum waste sludge",
+        "petroleum processing wastewater"
+    ],
+    "1239": [
+        "copper-containing acidic effluent"
+    ],
+    "1240": [
+        "tannery wastewater",
+        "tannery effluent"
+    ],
+    "1241": [
+        "maize-processing wastewater"
+    ],
+    "1242": [
+        "synthetic water"
+    ],
+    "1243": [
+        "fine-grained extractive waste"
+    ],
+    "1244": [
+        "mayenite"
+    ],
+    "1245": [
+        "abandoned building"
+    ],
+    "1246": [
+        "coffee husk"
+    ],
+    "1247": [
+        "hemp waste"
+    ],
+    "1248": [
+        "residuals"
+    ],
+    "1249": [
+        "fatty spread"
+    ],
+    "1250": [
+        "unavoidable waste"
+    ],
+    "1251": [
+        "algae-based wastewater"
+    ],
+    "1252": [
+        "gas flaring"
+    ],
+    "1253": [
+        "volatile fatty acids"
+    ],
+    "1254": [
+        "mixed vegetables"
+    ],
+    "1255": [
+        "fodder production waste"
+    ],
+    "1256": [
+        "animal fat"
+    ],
+    "1257": [
+        "quince"
+    ],
+    "1258": [
+        "nickel"
+    ],
+    "1259": [
+        "fabric shavings"
+    ],
+    "1260": [
+        "tea"
+    ],
+    "1261": [
+        "energy consumption"
+    ],
+    "1262": [
+        "dye-infiltrated water"
+    ],
+    "1263": [
+        "pickling brine"
+    ],
+    "1264": [
+        "virgin raw materials"
+    ],
+    "1265": [
+        "chicken feather waste"
+    ],
+    "1266": [
+        "avocado seed",
+        "avocado peel"
+    ],
+    "1267": [
+        "spent mushroom substrate"
+    ],
+    "1268": [
+        "sugary food waste"
+    ],
+    "1269": [
+        "yeast"
+    ],
+    "1270": [
+        "radioactive wastewater"
+    ],
+    "1271": [
+        "tobacco waste"
+    ],
+    "1272": [
+        "palm fiber"
+    ],
+    "1273": [
+        "yerba mate waste"
+    ],
+    "1274": [
+        "plastic waste from end-of-life vehicles"
+    ],
+    "1275": [
+        "ash content"
+    ],
+    "1276": [
+        "source separated waste"
+    ],
+    "1277": [
+        "glass fiber"
+    ],
+    "1278": [
+        "refused derived fuel"
+    ],
+    "1279": [
+        "dark fermentation effluent"
+    ],
+    "1280": [
+        "used disposable nappies"
+    ],
+    "1281": [
+        "petroleum-derived products"
+    ],
+    "1282": [
+        "plastic waste"
+    ],
+    "1283": [
+        "loess"
+    ],
+    "1284": [
+        "volcanic ash"
+    ],
+    "1285": [
+        "bamboo culm ash",
+        "bamboo culm"
+    ],
+    "1286": [
+        "neem leaves"
+    ],
+    "1287": [
+        "Juniperus pruning woods"
+    ],
+    "1288": [
+        "piggery waste"
+    ],
+    "1289": [
+        "Mexican waste biomass"
+    ],
+    "1290": [
+        "strained high protein yogurt"
+    ],
+    "1291": [
+        "coffee leaves"
+    ],
+    "1292": [
+        "ceramic sludge"
+    ],
+    "1293": [
+        "water"
+    ],
+    "1294": [
+        "fennel waste"
+    ],
+    "1295": [
+        "date waste"
+    ],
+    "1296": [
+        "oyster shell powder",
+        "pearl shell powder"
+    ],
+    "1297": [
+        "insect waste"
+    ],
+    "1298": [
+        "gaseous waste"
+    ],
+    "1299": [
+        "tundish refractory waste"
+    ],
+    "1300": [
+        "undersized fruit"
+    ],
+    "1301": [
+        "iron scale"
+    ],
+    "1302": [
+        "copper tailings"
+    ],
+    "1303": [
+        "carbohydrate-rich thin stillage"
+    ],
+    "1304": [
+        "animal waste"
+    ],
+    "1305": [
+        "industrial silicon-rich materials"
+    ],
+    "1306": [
+        "printed label material"
+    ],
+    "1307": [
+        "bone meal",
+        "meat and bone meal",
+        "poultry bone meal"
+    ],
+    "1308": [
+        "recycled water"
+    ],
+    "1309": [
+        "biofloc residue"
+    ],
+    "1310": [
+        "solid digestate residue"
+    ],
+    "1311": [
+        "sewage"
+    ],
+    "1312": [
+        "zinc oxide nanoparticles"
+    ],
+    "1313": [
+        "gold mining tailings"
+    ],
+    "1314": [
+        "human waste"
+    ],
+    "1315": [
+        "pupunha palm heart sheath"
+    ],
+    "1316": [
+        "mushroom waste"
+    ],
+    "1317": [
+        "berry"
+    ],
+    "1318": [
+        "salts"
+    ],
+    "1319": [
+        "marble waste"
+    ],
+    "1320": [
+        "fish meal",
+        "fish meat"
+    ],
+    "1321": [
+        "carbohydrate"
+    ],
+    "1322": [
+        "brewer grains"
+    ],
+    "1323": [
+        "acid mine drainage sludge",
+        "coal mine drainage sludge"
+    ],
+    "1324": [
+        "produced water"
+    ],
+    "1325": [
+        "apple waste"
+    ],
+    "1326": [
+        "wood chips"
+    ],
+    "1327": [
+        "wool waste",
+        "mineral wool waste"
+    ],
+    "1328": [
+        "additive"
+    ],
+    "1329": [
+        "seaweed"
+    ],
+    "1330": [
+        "discarded material",
+        "discarded packaging material"
+    ],
+    "1331": [
+        "costly defined media"
+    ],
+    "1332": [
+        "biodiesel by-product"
+    ],
+    "1333": [
+        "construction material"
+    ],
+    "1334": [
+        "Congo red dye"
+    ],
+    "1335": [
+        "mineral admixtures"
+    ],
+    "1336": [
+        "sugarcane derived xylo-oligosaccharides"
+    ],
+    "1337": [
+        "former dumpsite"
+    ],
+    "1338": [
+        "waste cooking oil"
+    ],
+    "1339": [
+        "tobacco flower",
+        "tobacco leaves"
+    ],
+    "1340": [
+        "synthetic fiber",
+        "nylon"
+    ],
+    "1341": [
+        "biowaste"
+    ],
+    "1342": [
+        "cotton textile waste"
+    ],
+    "1343": [
+        "cheese whey wastewater"
+    ],
+    "1344": [
+        "sepiolite"
+    ],
+    "1345": [
+        "dried manure",
+        "pig manure"
+    ],
+    "1346": [
+        "byproduct stream"
+    ],
+    "1347": [
+        "nitrous oxide"
+    ],
+    "1348": [
+        "sugar foam"
+    ],
+    "1349": [
+        "grape marc"
+    ],
+    "1350": [
+        "apple pomace"
+    ],
+    "1351": [
+        "pollutants"
+    ],
+    "1352": [
+        "reverse osmosis concentrate"
+    ],
+    "1353": [
+        "citrus peels"
+    ],
+    "1354": [
+        "olive mill wastewater"
+    ],
+    "1355": [
+        "electrical and electronic equipment waste"
+    ],
+    "1356": [
+        "floral waste"
+    ],
+    "1357": [
+        "date palm fibers"
+    ],
+    "1358": [
+        "toxic gases"
+    ],
+    "1359": [
+        "bean curd by-products"
+    ],
+    "1360": [
+        "pomegranate",
+        "pomegranate seed"
+    ],
+    "1361": [
+        "coal waste"
+    ],
+    "1362": [
+        "pigments"
+    ],
+    "1363": [
+        "oxygen demand"
+    ],
+    "1364": [
+        "malt"
+    ],
+    "1365": [
+        "glucan"
+    ],
+    "1366": [
+        "fine grain fraction of construction and demolition recycled materials"
+    ],
+    "1367": [
+        "whey"
+    ],
+    "1368": [
+        "natural resources"
+    ],
+    "1369": [
+        "olive branch waste"
+    ],
+    "1370": [
+        "barley waste",
+        "malt waste"
+    ],
+    "1371": [
+        "seed cones"
+    ],
+    "1372": [
+        "prismatic sheet of polyethylene terephthalate"
+    ],
+    "1373": [
+        "pineapple peel"
+    ],
+    "1374": [
+        "tannery sludge"
+    ],
+    "1375": [
+        "pine cone"
+    ],
+    "1376": [
+        "lavatory tissue"
+    ],
+    "1377": [
+        "fluid cracking catalyst residue"
+    ],
+    "1378": [
+        "undesirable fruit"
+    ],
+    "1379": [
+        "leguminous waste"
+    ],
+    "1380": [
+        "citrus peel",
+        "watermelon peel"
+    ],
+    "1381": [
+        "process water"
+    ],
+    "1382": [
+        "electrical cable waste"
+    ],
+    "1383": [
+        "defatted biomass"
+    ],
+    "1384": [
+        "CRT glass waste"
+    ],
+    "1385": [
+        "hydrocarbons"
+    ],
+    "1386": [
+        "spruce bark waste"
+    ],
+    "1387": [
+        "soy fiber"
+    ],
+    "1388": [
+        "pequi seeds"
+    ],
+    "1389": [
+        "incineration fly ash"
+    ],
+    "1390": [
+        "sawdust"
+    ],
+    "1391": [
+        "rubber residue"
+    ],
+    "1392": [
+        "plastic containers"
+    ],
+    "1393": [
+        "agricultural byproduct",
+        "agro-industrial byproduct"
+    ],
+    "1394": [
+        "sulfur-free lignin"
+    ],
+    "1395": [
+        "orange peel"
+    ],
+    "1396": [
+        "dairy side-stream"
+    ],
+    "1397": [
+        "bergamot by-product"
+    ],
+    "1398": [
+        "ginseng"
+    ],
+    "1399": [
+        "geothermal waste"
+    ],
+    "1400": [
+        "polyethylene",
+        "high-density polyethylene"
+    ],
+    "1401": [
+        "fish waste"
+    ],
+    "1402": [
+        "Indigofera tinctoria L. waste biomass"
+    ],
+    "1403": [
+        "organic acids"
+    ],
+    "1404": [
+        "textile"
+    ],
+    "1405": [
+        "alkaline hydroxide"
+    ],
+    "1406": [
+        "tetrabromobisphenol A"
+    ],
+    "1407": [
+        "peanut waste"
+    ],
+    "1408": [
+        "social impact",
+        "economic impact"
+    ],
+    "1409": [
+        "lemon waste"
+    ],
+    "1410": [
+        "anaerobically digested sludge"
+    ],
+    "1411": [
+        "sphalerite"
+    ],
+    "1412": [
+        "wastepaper",
+        "waste toilet paper"
+    ],
+    "1413": [
+        "flaxseed"
+    ],
+    "1414": [
+        "biomass",
+        "agricultural biomass"
+    ],
+    "1415": [
+        "olive mill waste"
+    ],
+    "1416": [
+        "batteries"
+    ],
+    "1417": [
+        "porcine collagen"
+    ],
+    "1418": [
+        "biogas"
+    ],
+    "1419": [
+        "exotic fruit"
+    ],
+    "1420": [
+        "lignocellulosic residues"
+    ],
+    "1421": [
+        "oil palm fiber"
+    ],
+    "1422": [
+        "Escherichia coli fermentative biomass"
+    ],
+    "1423": [
+        "salt solution",
+        "magnesium chloride solution"
+    ],
+    "1424": [
+        "spent coffee grounds hydrolysates"
+    ],
+    "1425": [
+        "environmental contaminants"
+    ],
+    "1426": [
+        "biorefinery waste"
+    ],
+    "1427": [
+        "date seed powder"
+    ],
+    "1428": [
+        "artichoke waste"
+    ],
+    "1429": [
+        "roasted grapevine wood chips"
+    ],
+    "1430": [
+        "bio-stabilized material"
+    ],
+    "1431": [
+        "market waste",
+        "food waste"
+    ],
+    "1432": [
+        "fly ash"
+    ],
+    "1433": [
+        "plastic waste"
+    ],
+    "1434": [
+        "inorganic contaminants"
+    ],
+    "1435": [
+        "chicken fat"
+    ],
+    "1436": [
+        "metakaolin"
+    ],
+    "1437": [
+        "carpet waste"
+    ],
+    "1438": [
+        "waste plastic food tray"
+    ],
+    "1439": [
+        "light organic compounds"
+    ],
+    "1440": [
+        "fresh-cut salad waste",
+        "lettuce waste"
+    ],
+    "1441": [
+        "phosphate-rich residue"
+    ],
+    "1442": [
+        "denim waste"
+    ],
+    "1443": [
+        "recycled bentonite"
+    ],
+    "1444": [
+        "light diffuser plate"
+    ],
+    "1445": [
+        "edible by-products"
+    ],
+    "1446": [
+        "crustacean shells",
+        "seafood shells"
+    ],
+    "1447": [
+        "pesticides"
+    ],
+    "1448": [
+        "pyrolysis wax"
+    ],
+    "1449": [
+        "KIT-6"
+    ],
+    "1450": [
+        "domestic black water"
+    ],
+    "1451": [
+        "cardboard",
+        "paper"
+    ],
+    "1452": [
+        "whey lactose"
+    ],
+    "1453": [
+        "organic waste"
+    ],
+    "1454": [
+        "Portuguese refuse-derived fuel"
+    ],
+    "1455": [
+        "tetracycline"
+    ],
+    "1456": [
+        "xylose solution"
+    ],
+    "1457": [
+        "electronic waste"
+    ],
+    "1458": [
+        "bean straw"
+    ],
+    "1459": [
+        "calcium carbonate"
+    ],
+    "1460": [
+        "waste brick"
+    ],
+    "1461": [
+        "unused sugar"
+    ],
+    "1462": [
+        "carbonaceous waste"
+    ],
+    "1463": [
+        "protein"
+    ],
+    "1464": [
+        "kiwifruit underweight"
+    ],
+    "1465": [
+        "low-concentration methane"
+    ],
+    "1466": [
+        "Mangifera indica oil",
+        "Mangifera indica seed"
+    ],
+    "1467": [
+        "dragon fruit branches"
+    ],
+    "1468": [
+        "Mono Sodium Glutamate waste"
+    ],
+    "1469": [
+        "metallic ions"
+    ],
+    "1470": [
+        "grapefruit peel"
+    ],
+    "1471": [
+        "diterpenes"
+    ],
+    "1472": [
+        "lemon peel"
+    ],
+    "1473": [
+        "rice husks"
+    ],
+    "1474": [
+        "food processing effluent"
+    ],
+    "1475": [
+        "fermentation residue"
+    ],
+    "1476": [
+        "metal cans"
+    ],
+    "1477": [
+        "paper mill waste"
+    ],
+    "1478": [
+        "algaTM"
+    ],
+    "1479": [
+        "cigarette filter waste"
+    ],
+    "1480": [
+        "banana fiber"
+    ],
+    "1481": [
+        "organic food waste"
+    ],
+    "1482": [
+        "residue"
+    ],
+    "1483": [
+        "plumes"
+    ],
+    "1484": [
+        "brine"
+    ],
+    "1485": [
+        "coal gangue"
+    ],
+    "1486": [
+        "calcium products"
+    ],
+    "1487": [
+        "sugar waste"
+    ],
+    "1488": [
+        "organic antibiotic"
+    ],
+    "1489": [
+        "bovine bone"
+    ],
+    "1490": [
+        "carrot waste"
+    ],
+    "1491": [
+        "succinate polymer"
+    ],
+    "1492": [
+        "candied fruit syrup"
+    ],
+    "1493": [
+        "winery wastewater"
+    ],
+    "1494": [
+        "biological resource"
+    ],
+    "1495": [
+        "squid skin"
+    ],
+    "1496": [
+        "fruit"
+    ],
+    "1497": [
+        "engineered solutions"
+    ],
+    "1498": [
+        "struvite"
+    ],
+    "1499": [
+        "M Sand Slurry"
+    ],
+    "1500": [
+        "green liquor dregs"
+    ],
+    "1501": [
+        "aquaculture wastewater"
+    ],
+    "1502": [
+        "volatile organic compounds"
+    ],
+    "1503": [
+        "industrial by-products"
+    ],
+    "1504": [
+        "pharmaceutical residues",
+        "personal care product residues"
+    ],
+    "1505": [
+        "spent coffee grounds"
+    ],
+    "1506": [
+        "marine organisms"
+    ],
+    "1507": [
+        "synthetic toxic waste"
+    ],
+    "1508": [
+        "fig tree leaves"
+    ],
+    "1509": [
+        "waste paper-based carbon aerogel"
+    ],
+    "1510": [
+        "cupola slag"
+    ],
+    "1511": [
+        "stone beneficiation residue"
+    ],
+    "1512": [
+        "bamboo shoot waste"
+    ],
+    "1513": [
+        "terephthalic acid"
+    ],
+    "1514": [
+        "oil mill wastewater"
+    ],
+    "1515": [
+        "food scraps",
+        "vegetable scraps"
+    ],
+    "1516": [
+        "date waste"
+    ],
+    "1517": [
+        "polyester waste"
+    ],
+    "1518": [
+        "cadmium-contaminated rice straw"
+    ],
+    "1519": [
+        "exhausted pomace"
+    ],
+    "1520": [
+        "antioxidant"
+    ],
+    "1521": [
+        "Caryocar brasiliense seeds"
+    ],
+    "1522": [
+        "food"
+    ],
+    "1523": [
+        "primary sludge",
+        "secondary sludge"
+    ],
+    "1524": [
+        "lignocellulosic biomass",
+        "residual materials from saccharification"
+    ],
+    "1525": [
+        "intermediates"
+    ],
+    "1526": [
+        "pasta"
+    ],
+    "1527": [
+        "ROP-derived polymers"
+    ],
+    "1528": [
+        "thermal hydrolyzed sludge"
+    ],
+    "1529": [
+        "municipal solid waste"
+    ],
+    "1530": [
+        "woody sawdust"
+    ],
+    "1531": [
+        "aquaculture industry side-streams"
+    ],
+    "1532": [
+        "broken wheat"
+    ],
+    "1533": [
+        "malleated anhydride polypropylene"
+    ],
+    "1534": [
+        "bran"
+    ],
+    "1535": [
+        "Cadmium"
+    ],
+    "1536": [
+        "kiwifruit"
+    ],
+    "1537": [
+        "concrete"
+    ],
+    "1538": [
+        "heavy metal pollution"
+    ],
+    "1539": [
+        "fruit by-products",
+        "vegetable by-products"
+    ],
+    "1540": [
+        "forsterite"
+    ],
+    "1541": [
+        "microbial biomass"
+    ],
+    "1542": [
+        "polyvinyl alcohol"
+    ],
+    "1543": [
+        "bio-oil distillation residue"
+    ],
+    "1544": [
+        "landfill-derived waste fraction",
+        "segregated waste fraction",
+        "separated waste fraction"
+    ],
+    "1545": [
+        "food by-product"
+    ],
+    "1546": [
+        "alizarin red wastewater"
+    ],
+    "1547": [
+        "simple sugars",
+        "sucrose"
+    ],
+    "1548": [
+        "pineapple leaf"
+    ],
+    "1549": [
+        "low-grade waste",
+        "low-grade agricultural waste",
+        "low-grade organic waste"
+    ],
+    "1550": [
+        "food waste"
+    ],
+    "1551": [
+        "stamens"
+    ],
+    "1552": [
+        "bone meal"
+    ],
+    "1553": [
+        "cooked starchy food"
+    ],
+    "1554": [
+        "lemon peel biochar"
+    ],
+    "1555": [
+        "stem"
+    ],
+    "1556": [
+        "olive stone"
+    ],
+    "1557": [
+        "portable toilet waste"
+    ],
+    "1558": [
+        "stale bread"
+    ],
+    "1559": [
+        "chicken feather"
+    ],
+    "1560": [
+        "grape pomace"
+    ],
+    "1561": [
+        "organic waste",
+        "fruit processing waste"
+    ],
+    "1562": [
+        "pod husks"
+    ],
+    "1563": [
+        "ghiara"
+    ],
+    "1564": [
+        "hazelnut residue"
+    ],
+    "1565": [
+        "agricultural contaminant"
+    ],
+    "1566": [
+        "rice husk ash"
+    ],
+    "1567": [
+        "broken seeds"
+    ],
+    "1568": [
+        "titanium dioxide"
+    ],
+    "1569": [
+        "Cyromazine"
+    ],
+    "1570": [
+        "paper"
+    ],
+    "1571": [
+        "baking waste"
+    ],
+    "1572": [
+        "skim milk"
+    ],
+    "1573": [
+        "mining waste"
+    ],
+    "1574": [
+        "pectin"
+    ],
+    "1575": [
+        "lithium-ion battery waste"
+    ],
+    "1576": [
+        "industrial waste-derived cyclopentyl methyl ether"
+    ],
+    "1577": [
+        "nitriles"
+    ],
+    "1578": [
+        "polystyrene waste"
+    ],
+    "1579": [
+        "lignocellulosic agricultural waste"
+    ],
+    "1580": [
+        "discarded feathers"
+    ],
+    "1581": [
+        "linear low-density polyethylene"
+    ],
+    "1582": [
+        "aqueous waste"
+    ],
+    "1583": [
+        "opaque bottle waste"
+    ],
+    "1584": [
+        "caffeine"
+    ],
+    "1585": [
+        "tail gas"
+    ],
+    "1586": [
+        "rose waste"
+    ],
+    "1587": [
+        "waste management practice"
+    ],
+    "1588": [
+        "slaughterhouse wastewater"
+    ],
+    "1589": [
+        "human hair"
+    ],
+    "1590": [
+        "organic carbon"
+    ],
+    "1591": [
+        "hydrocarbon solvent"
+    ],
+    "1592": [
+        "renovation waste"
+    ],
+    "1593": [
+        "pequi peel"
+    ],
+    "1594": [
+        "rambutan"
+    ],
+    "1595": [
+        "oil drilling cut ashes"
+    ],
+    "1596": [
+        "olive tree pruning"
+    ],
+    "1597": [
+        "natural materials"
+    ],
+    "1598": [
+        "coffee"
+    ],
+    "1599": [
+        "bran"
+    ],
+    "1600": [
+        "biogas byproduct"
+    ],
+    "1601": [
+        "cytotoxic medicines"
+    ],
+    "1602": [
+        "flowers"
+    ],
+    "1603": [
+        "biogenic waste"
+    ],
+    "1604": [
+        "eucalyptus waste"
+    ],
+    "1605": [
+        "citrus peels"
+    ],
+    "1606": [
+        "digestate"
+    ],
+    "1607": [
+        "blackwater"
+    ],
+    "1608": [
+        "carbon electrode materials"
+    ],
+    "1609": [
+        "diluted wastewater"
+    ],
+    "1610": [
+        "multi-component waste"
+    ],
+    "1611": [
+        "lignin-rich residue"
+    ],
+    "1612": [
+        "electrolytic manganese residue"
+    ],
+    "1613": [
+        "post-consumer waste",
+        "post-consumer food waste"
+    ],
+    "1614": [
+        "lignocellulosic material",
+        "lignocellulosic sugars"
+    ],
+    "1615": [
+        "oil palm frond"
+    ],
+    "1616": [
+        "pineapple waste"
+    ],
+    "1617": [
+        "soluble tannins"
+    ],
+    "1618": [
+        "horse manure"
+    ],
+    "1619": [
+        "marine biowaste"
+    ],
+    "1620": [
+        "cattle dung",
+        "pig dung"
+    ],
+    "1621": [
+        "end-of-life plastics"
+    ],
+    "1622": [
+        "NdFeB magnets"
+    ],
+    "1623": [
+        "nylon carpet waste"
+    ],
+    "1624": [
+        "quartz powder"
+    ],
+    "1625": [
+        "lactic acid"
+    ],
+    "1626": [
+        "potassium waste"
+    ],
+    "1627": [
+        "whey-derived by-products"
+    ],
+    "1628": [
+        "guava seeds",
+        "mango seeds"
+    ],
+    "1629": [
+        "agri-food industry waste"
+    ],
+    "1630": [
+        "trimming"
+    ],
+    "1631": [
+        "cork oak"
+    ],
+    "1632": [
+        "biomass pellets",
+        "wood pellets"
+    ],
+    "1633": [
+        "PET fibres"
+    ],
+    "1634": [
+        "byssal threads"
+    ],
+    "1635": [
+        "nitrogen-containing organic compound"
+    ],
+    "1636": [
+        "synthetic minerals"
+    ],
+    "1637": [
+        "polymer waste"
+    ],
+    "1638": [
+        "activated sludge"
+    ],
+    "1639": [
+        "nutrient"
+    ],
+    "1640": [
+        "rodent waste"
+    ],
+    "1641": [
+        "mango syrup"
+    ],
+    "1642": [
+        "exhausted solid after saccharification"
+    ],
+    "1643": [
+        "thin branches"
+    ],
+    "1644": [
+        "crop syrup"
+    ],
+    "1645": [
+        "garden and park waste"
+    ],
+    "1646": [
+        "fabric waste"
+    ],
+    "1647": [
+        "magnetic printing toner"
+    ],
+    "1648": [
+        "lead"
+    ],
+    "1649": [
+        "poultry manure"
+    ],
+    "1650": [
+        "waste face masks"
+    ],
+    "1651": [
+        "industrial cleaning waste"
+    ],
+    "1652": [
+        "guts"
+    ],
+    "1653": [
+        "rejected material"
+    ],
+    "1654": [
+        "essential oil industry waste"
+    ],
+    "1655": [
+        "benzaldehyde"
+    ],
+    "1656": [
+        "municipal solid waste"
+    ],
+    "1657": [
+        "waste piles"
+    ],
+    "1658": [
+        "serpentinite tailings"
+    ],
+    "1659": [
+        "paper food box"
+    ],
+    "1660": [
+        "spent catalyst"
+    ],
+    "1661": [
+        "bunch"
+    ],
+    "1662": [
+        "phosphogypsum"
+    ],
+    "1663": [
+        "expired food"
+    ],
+    "1664": [
+        "animal production industry discards"
+    ],
+    "1665": [
+        "sweet lime waste"
+    ],
+    "1666": [
+        "non-renewable natural resources"
+    ],
+    "1667": [
+        "feathers"
+    ],
+    "1668": [
+        "barley straw"
+    ],
+    "1669": [
+        "aluminosilicate bearing residues"
+    ],
+    "1670": [
+        "diaper waste"
+    ],
+    "1671": [
+        "sodium hydroxide"
+    ],
+    "1672": [
+        "enzymes"
+    ],
+    "1673": [
+        "hazardous substance"
+    ],
+    "1674": [
+        "organic contaminated waste"
+    ],
+    "1675": [
+        "refractory organics"
+    ],
+    "1676": [
+        "broken rice"
+    ],
+    "1677": [
+        "degraded antinutritional factors"
+    ],
+    "1678": [
+        "end-of-life tires"
+    ],
+    "1679": [
+        "waste glass-based cellular geopolymer"
+    ],
+    "1680": [
+        "wax"
+    ],
+    "1681": [
+        "diatomaceous earth"
+    ],
+    "1682": [
+        "biomass resource"
+    ],
+    "1683": [
+        "mussel waste"
+    ],
+    "1684": [
+        "low-grade magnesium oxide"
+    ],
+    "1685": [
+        "small-spotted catshark viscera"
+    ],
+    "1686": [
+        "celery root fiber"
+    ],
+    "1687": [
+        "animal hair"
+    ],
+    "1688": [
+        "cassava peel waste"
+    ],
+    "1689": [
+        "spent oil"
+    ],
+    "1690": [
+        "SHPCG waste"
+    ],
+    "1691": [
+        "chicken eggshell powder"
+    ],
+    "1692": [
+        "calcined industrial sludge"
+    ],
+    "1693": [
+        "polyethylene glycol",
+        "ethylene glycol"
+    ],
+    "1694": [
+        "sugarcane waste"
+    ],
+    "1695": [
+        "hemp stalk hurd"
+    ],
+    "1696": [
+        "olive pruning waste"
+    ],
+    "1697": [
+        "petroleum coke waste"
+    ],
+    "1698": [
+        "digestate"
+    ],
+    "1699": [
+        "hops waste"
+    ],
+    "1700": [
+        "available by-products"
+    ],
+    "1701": [
+        "micropollutants"
+    ],
+    "1702": [
+        "kaolin mining waste"
+    ],
+    "1703": [
+        "manganese rich sludge"
+    ],
+    "1704": [
+        "cocopeat"
+    ],
+    "1705": [
+        "radiation"
+    ],
+    "1706": [
+        "battery waste"
+    ],
+    "1707": [
+        "waste plastic"
+    ],
+    "1708": [
+        "residual glucan"
+    ],
+    "1709": [
+        "reinforcement bar materials"
+    ],
+    "1710": [
+        "waste oil"
+    ],
+    "1711": [
+        "sugarcane bagasse"
+    ],
+    "1712": [
+        "EAF slag"
+    ],
+    "1713": [
+        "meat"
+    ],
+    "1714": [
+        "defatted flour"
+    ],
+    "1715": [
+        "crayfish waste"
+    ],
+    "1716": [
+        "Millettia laurentii sawdust"
+    ],
+    "1717": [
+        "rapeseed press cake"
+    ],
+    "1718": [
+        "fruit waste"
+    ],
+    "1719": [
+        "grain"
+    ],
+    "1720": [
+        "silicate waste"
+    ],
+    "1721": [
+        "waste sponge"
+    ],
+    "1722": [
+        "leaching residue"
+    ],
+    "1723": [
+        "apple"
+    ],
+    "1724": [
+        "lithium slag"
+    ],
+    "1725": [
+        "construction and demolition waste"
+    ],
+    "1726": [
+        "red mud"
+    ],
+    "1727": [
+        "vegetable waste"
+    ],
+    "1728": [
+        "tannery waste",
+        "leather tannery waste"
+    ],
+    "1729": [
+        "brown grease"
+    ],
+    "1730": [
+        "citrus peel"
+    ],
+    "1731": [
+        "dairy waste"
+    ],
+    "1732": [
+        "Kota stone waste"
+    ],
+    "1733": [
+        "bio-based product"
+    ],
+    "1734": [
+        "Amazon flint kaolin"
+    ],
+    "1735": [
+        "mixed refuse waste"
+    ],
+    "1736": [
+        "smelter slag",
+        "foundry slag"
+    ],
+    "1737": [
+        "whey permeate"
+    ],
+    "1738": [
+        "reuse items"
+    ],
+    "1739": [
+        "oil-based mud"
+    ],
+    "1740": [
+        "gelatinized post-consumer plastic waste"
+    ],
+    "1741": [
+        "arsenic"
+    ],
+    "1742": [
+        "mango kernel"
+    ],
+    "1743": [
+        "carbonaceous material"
+    ],
+    "1744": [
+        "hemicellulose"
+    ],
+    "1745": [
+        "ethanol-wash solutes"
+    ],
+    "1746": [
+        "inedible plant tissue"
+    ],
+    "1747": [
+        "municipal biopulp"
+    ],
+    "1748": [
+        "recycled concrete"
+    ],
+    "1749": [
+        "entire sea urchin mass"
+    ],
+    "1750": [
+        "dye extracted biomass"
+    ],
+    "1751": [
+        "residual frying oil"
+    ],
+    "1752": [
+        "rejected post-consumer plastics"
+    ],
+    "1753": [
+        "stalks"
+    ],
+    "1754": [
+        "cassava peel",
+        "cassava peel ash"
+    ],
+    "1755": [
+        "willow waste"
+    ],
+    "1756": [
+        "tyre crumb"
+    ],
+    "1757": [
+        "phosphorus"
+    ],
+    "1758": [
+        "acrylic waste"
+    ],
+    "1759": [
+        "sorghum waste"
+    ],
+    "1760": [
+        "cassava wastewater"
+    ],
+    "1761": [
+        "inexpensive carbon source"
+    ],
+    "1762": [
+        "organic load"
+    ],
+    "1763": [
+        "ammonia-rich wastewater"
+    ],
+    "1764": [
+        "mine waste"
+    ],
+    "1765": [
+        "crude sugar beet pulp hydrolysate"
+    ],
+    "1766": [
+        "avocado peel"
+    ],
+    "1767": [
+        "carbohydrate by-products"
+    ],
+    "1768": [
+        "expired reagents"
+    ],
+    "1769": [
+        "vacuum gasoil"
+    ],
+    "1770": [
+        "soapstock"
+    ],
+    "1771": [
+        "organic matter"
+    ],
+    "1772": [
+        "urban wastewater treatment plant effluent"
+    ],
+    "1773": [
+        "sedimentary phosphorus"
+    ],
+    "1774": [
+        "coffee mucilage"
+    ],
+    "1775": [
+        "toxic loading"
+    ],
+    "1776": [
+        "D-galacturonic acid"
+    ],
+    "1777": [
+        "pollution from small rural enterprise"
+    ],
+    "1778": [
+        "nonreturnable glass bottle"
+    ],
+    "1779": [
+        "viscose"
+    ],
+    "1780": [
+        "pineapple waste"
+    ],
+    "1781": [
+        "copper-zinc waste"
+    ],
+    "1782": [
+        "lemon"
+    ],
+    "1783": [
+        "organic waste"
+    ],
+    "1784": [
+        "garlic"
+    ],
+    "1785": [
+        "magnesium-containing ferrospinel"
+    ],
+    "1786": [
+        "Pennisetum setaceum waste"
+    ],
+    "1787": [
+        "nance seeds"
+    ],
+    "1788": [
+        "potato wash water"
+    ],
+    "1789": [
+        "cell-loaded PEI-CBF"
+    ],
+    "1790": [
+        "cashew nut shell liquid"
+    ],
+    "1791": [
+        "nutrient waste"
+    ],
+    "1792": [
+        "water pollution"
+    ],
+    "1793": [
+        "Coconut shell"
+    ],
+    "1794": [
+        "grease"
+    ],
+    "1795": [
+        "Bombyx mori pupae waste"
+    ],
+    "1796": [
+        "commercially valuable compounds final waste"
+    ],
+    "1797": [
+        "petrochemical plastic microbeads"
+    ],
+    "1798": [
+        "ionic liquids"
+    ],
+    "1799": [
+        "pangasius skin"
+    ],
+    "1800": [
+        "construction and demolition waste"
+    ],
+    "1801": [
+        "oily water solution"
+    ],
+    "1802": [
+        "electronic waste"
+    ],
+    "1803": [
+        "organoclays"
+    ],
+    "1804": [
+        "invasive tree species wood"
+    ],
+    "1805": [
+        "edge outflows"
+    ],
+    "1806": [
+        "bio-waste derived cardanol"
+    ],
+    "1807": [
+        "mining externalities"
+    ],
+    "1808": [
+        "organic wastewater"
+    ],
+    "1809": [
+        "mash"
+    ],
+    "1810": [
+        "Tantalum coated composite materials"
+    ],
+    "1811": [
+        "chicken feet"
+    ],
+    "1812": [
+        "sulfate electrolytes"
+    ],
+    "1813": [
+        "biomass waste-derived catalyst"
+    ],
+    "1814": [
+        "freshwater"
+    ],
+    "1815": [
+        "t-butanol"
+    ],
+    "1816": [
+        "flocculated material"
+    ],
+    "1817": [
+        "degradable wastewater"
+    ],
+    "1818": [
+        "horns"
+    ],
+    "1819": [
+        "methanol vapor"
+    ],
+    "1820": [
+        "Tetra Pak waste"
+    ],
+    "1821": [
+        "environmental impact of fossil fuel use"
+    ],
+    "1822": [
+        "wood juice"
+    ],
+    "1823": [
+        "food waste"
+    ],
+    "1824": [
+        "metal hydroxide precipitate"
+    ],
+    "1825": [
+        "sedimentary clay"
+    ],
+    "1826": [
+        "frames"
+    ],
+    "1827": [
+        "chicken feed"
+    ],
+    "1828": [
+        "Solid Grade Laminate waste"
+    ],
+    "1829": [
+        "polycarbonate landfill waste"
+    ],
+    "1830": [
+        "elderberry wastewater"
+    ],
+    "1831": [
+        "extractive waste"
+    ],
+    "1832": [
+        "pyrolysis liquid"
+    ],
+    "1833": [
+        "drill cuttings"
+    ],
+    "1834": [
+        "unprocessed food"
+    ],
+    "1835": [
+        "glass jars"
+    ],
+    "1836": [
+        "environmental stress"
+    ],
+    "1837": [
+        "AF contaminated peanut"
+    ],
+    "1838": [
+        "crewed space missions waste simulants"
+    ],
+    "1839": [
+        "biomass feedstock",
+        "organic feedstock"
+    ],
+    "1840": [
+        "bulk oil"
+    ],
+    "1841": [
+        "non-condensable gas"
+    ],
+    "1842": [
+        "yerba mate"
+    ],
+    "1843": [
+        "blackcurrant"
+    ],
+    "1844": [
+        "discarded keyboards"
+    ],
+    "1845": [
+        "spent lithium-ion batteries"
+    ],
+    "1846": [
+        "yard waste"
+    ],
+    "1847": [
+        "peanut meal"
+    ],
+    "1848": [
+        "tuna by-product"
+    ],
+    "1849": [
+        "diesel fuel consumption"
+    ],
+    "1850": [
+        "Plastics waste"
+    ],
+    "1851": [
+        "spent MSAC@GE-SA"
+    ],
+    "1852": [
+        "intracellular polyhydroxybutyrate"
+    ],
+    "1853": [
+        "tuna waste"
+    ],
+    "1854": [
+        "oxidative species"
+    ],
+    "1855": [
+        "PBAT"
+    ],
+    "1856": [
+        "human faeces",
+        "faecal sludge"
+    ],
+    "1857": [
+        "oat waste"
+    ],
+    "1858": [
+        "cocoa by-product"
+    ],
+    "1859": [
+        "tailing storage facility"
+    ],
+    "1860": [
+        "trichloroethylene"
+    ],
+    "1861": [
+        "bovine lactoferrin"
+    ],
+    "1862": [
+        "hydrolysate"
+    ],
+    "1863": [
+        "pineapple waste"
+    ],
+    "1864": [
+        "waste"
+    ],
+    "1865": [
+        "cell culture"
+    ],
+    "1866": [
+        "associated gas"
+    ],
+    "1867": [
+        "dry residue of wild oregano"
+    ],
+    "1868": [
+        "biomass"
+    ],
+    "1869": [
+        "avocado waste"
+    ],
+    "1870": [
+        "greywater"
+    ],
+    "1871": [
+        "biological waste"
+    ],
+    "1872": [
+        "peach waste"
+    ],
+    "1873": [
+        "solid recovered fuel"
+    ],
+    "1874": [
+        "egg yolk"
+    ],
+    "1875": [
+        "roots"
+    ],
+    "1876": [
+        "Nigerian lithium ore"
+    ],
+    "1877": [
+        "chia seed by-product"
+    ],
+    "1878": [
+        "anaerobic seed sludge"
+    ],
+    "1879": [
+        "papaya waste"
+    ],
+    "1880": [
+        "fishing gear waste"
+    ],
+    "1881": [
+        "atmospheric carbon dioxide concentration"
+    ],
+    "1882": [
+        "pure nitrogen"
+    ],
+    "1883": [
+        "detergents"
+    ],
+    "1884": [
+        "odor emission"
+    ],
+    "1885": [
+        "sludge particles"
+    ],
+    "1886": [
+        "retted hemp fiber"
+    ],
+    "1887": [
+        "\u03b1-amido sulfones"
+    ],
+    "1888": [
+        "lignocellulosic pollution"
+    ],
+    "1889": [
+        "polypropylene"
+    ],
+    "1890": [
+        "empty fruit bunch"
+    ],
+    "1891": [
+        "second sieving"
+    ],
+    "1892": [
+        "dressings"
+    ],
+    "1893": [
+        "biomass combustion ash"
+    ],
+    "1894": [
+        "rotten wood"
+    ],
+    "1895": [
+        "toxic substances used in oil extraction"
+    ],
+    "1896": [
+        "solid hydrolyzate fraction"
+    ],
+    "1897": [
+        "asparagus pruning waste"
+    ],
+    "1898": [
+        "grape seed porous material"
+    ],
+    "1899": [
+        "dross"
+    ],
+    "1900": [
+        "char"
+    ],
+    "1901": [
+        "oxycut powder"
+    ],
+    "1902": [
+        "trace metal pollution"
+    ],
+    "1903": [
+        "bunch peduncles"
+    ],
+    "1904": [
+        "unused direct dye"
+    ],
+    "1905": [
+        "natural wolframite"
+    ],
+    "1906": [
+        "non-targeted species"
+    ],
+    "1907": [
+        "inactive packaging film"
+    ],
+    "1908": [
+        "fragmented plastic parts"
+    ],
+    "1909": [
+        "elastane fibre"
+    ],
+    "1910": [
+        "fruit juice"
+    ],
+    "1911": [
+        "exchange resins"
+    ],
+    "1912": [
+        "mobile phone printed circuit boards"
+    ],
+    "1913": [
+        "deforestation"
+    ],
+    "1914": [
+        "dolomite"
+    ],
+    "1915": [
+        "random access memory"
+    ],
+    "1916": [
+        "water treatment solid waste"
+    ],
+    "1917": [
+        "matrix from label material"
+    ],
+    "1918": [
+        "walnut shell"
+    ],
+    "1919": [
+        "derived free plastic debris"
+    ],
+    "1920": [
+        "peels waste"
+    ],
+    "1921": [
+        "coal waste"
+    ],
+    "1922": [
+        "expanded perlite"
+    ],
+    "1923": [
+        "inverter printed circuit board"
+    ],
+    "1924": [
+        "rejected plant tissues"
+    ],
+    "1925": [
+        "corn stover"
+    ],
+    "1926": [
+        "deep eutectic solvents"
+    ],
+    "1927": [
+        "post-use glass packaging"
+    ],
+    "1928": [
+        "broken cells"
+    ],
+    "1929": [
+        "birchwood"
+    ],
+    "1930": [
+        "fish sauce"
+    ],
+    "1931": [
+        "Co loaded Cyanex 272"
+    ],
+    "1932": [
+        "oregano essential oil"
+    ],
+    "1933": [
+        "traditional extraction process"
+    ],
+    "1934": [
+        "non-renewable materials"
+    ],
+    "1935": [
+        "sustainable forest management"
+    ],
+    "1936": [
+        "oil-contaminated soil"
+    ],
+    "1937": [
+        "natural zeolite"
+    ],
+    "1938": [
+        "chia expeller"
+    ],
+    "1939": [
+        "aqueous copper"
+    ],
+    "1940": [
+        "silt fraction of M-Sand"
+    ],
+    "1941": [
+        "yard waste"
+    ],
+    "1942": [
+        "phthalates"
+    ],
+    "1943": [
+        "complex media"
+    ],
+    "1944": [
+        "sinapic acid"
+    ],
+    "1945": [
+        "BTEX compounds"
+    ],
+    "1946": [
+        "fish blood"
+    ],
+    "1947": [
+        "synthetic packaging"
+    ],
+    "1948": [
+        "calcium cations"
+    ],
+    "1949": [
+        "cashew nutshell liquid"
+    ],
+    "1950": [
+        "impure material"
+    ],
+    "1951": [
+        "chestnut buds"
+    ],
+    "1952": [
+        "stigma"
+    ],
+    "1953": [
+        "single-use equipment"
+    ],
+    "1954": [
+        "distillation water"
+    ],
+    "1955": [
+        "industrial potato production by-product"
+    ],
+    "1956": [
+        "synthetic wastewater"
+    ],
+    "1957": [
+        "marigold waste"
+    ],
+    "1958": [
+        "chemical compounds",
+        "organic compounds"
+    ],
+    "1959": [
+        "Lantana biomass"
+    ],
+    "1960": [
+        "lowest-grade ore"
+    ],
+    "1961": [
+        "GCP sludge"
+    ],
+    "1962": [
+        "bark"
+    ],
+    "1963": [
+        "invasive species control residues"
+    ],
+    "1964": [
+        "Eucalyptus leaves"
+    ],
+    "1965": [
+        "lucerne green juice"
+    ],
+    "1966": [
+        "exhausted adsorbent"
+    ],
+    "1967": [
+        "pyrophosphate"
+    ],
+    "1968": [
+        "date pit"
+    ],
+    "1969": [
+        "avocado paste"
+    ],
+    "1970": [
+        "logs"
+    ],
+    "1971": [
+        "natural pigment degradation"
+    ],
+    "1972": [
+        "organopesticides"
+    ],
+    "1973": [
+        "organic deposit"
+    ],
+    "1974": [
+        "AMD treatment residue"
+    ],
+    "1975": [
+        "sulfur waste"
+    ],
+    "1976": [
+        "used cooking oil"
+    ],
+    "1977": [
+        "copper multiwire cable"
+    ],
+    "1978": [
+        "vehicle recycling system"
+    ],
+    "1979": [
+        "sugars"
+    ],
+    "1980": [
+        "alstonia scholaris leaves"
+    ],
+    "1981": [
+        "fired electrical porcelain scrap"
+    ],
+    "1982": [
+        "plant sap"
+    ],
+    "1983": [
+        "battery industry wastewater"
+    ],
+    "1984": [
+        "under-sieve fraction"
+    ],
+    "1985": [
+        "hydroethanolic extract"
+    ],
+    "1986": [
+        "total nitrogen"
+    ],
+    "1987": [
+        "crust removal"
+    ],
+    "1988": [
+        "lipid by-products"
+    ],
+    "1989": [
+        "paracetamol"
+    ],
+    "1990": [
+        "whiskey distillery waste"
+    ],
+    "1991": [
+        "graphitic carbon nitride"
+    ],
+    "1992": [
+        "centrate"
+    ],
+    "1993": [
+        "mussel meat"
+    ],
+    "1994": [
+        "baru oil"
+    ],
+    "1995": [
+        "surgical masks"
+    ],
+    "1996": [
+        "stumps"
+    ],
+    "1997": [
+        "wastewater",
+        "sewage water"
+    ],
+    "1998": [
+        "palm oil deodorizer distillate"
+    ],
+    "1999": [
+        "industrial tomato waste"
+    ],
+    "2000": [
+        "leguminous processing water"
+    ],
+    "2001": [
+        "fufu"
+    ],
+    "2002": [
+        "epoxy-glass fiber waste"
+    ],
+    "2003": [
+        "polishing residue"
+    ],
+    "2004": [
+        "European stone pine nut shell"
+    ],
+    "2005": [
+        "AP"
+    ],
+    "2006": [
+        "P. globosa shells"
+    ],
+    "2007": [
+        "mesoporous MCM-41"
+    ],
+    "2008": [
+        "lampante olive oil"
+    ],
+    "2009": [
+        "electronic waste management"
+    ],
+    "2010": [
+        "high temperature insulation wool"
+    ],
+    "2011": [
+        "sheep bedding"
+    ],
+    "2012": [
+        "combustible municipal waste"
+    ],
+    "2013": [
+        "diamond-bearing ore"
+    ],
+    "2014": [
+        "wetland plant"
+    ],
+    "2015": [
+        "soil stabilized with portland cement"
+    ],
+    "2016": [
+        "cuttlefish bones"
+    ],
+    "2017": [
+        "pre-filtered influent"
+    ],
+    "2018": [
+        "abandoned banners"
+    ],
+    "2019": [
+        "tomato"
+    ],
+    "2020": [
+        "residual electrolyte"
+    ],
+    "2021": [
+        "network interface controller"
+    ],
+    "2022": [
+        "unburned carbon in fly ash"
+    ],
+    "2023": [
+        "nutrient phosphorus"
+    ],
+    "2024": [
+        "oil content"
+    ],
+    "2025": [
+        "blanching wastewater"
+    ],
+    "2026": [
+        "peptone"
+    ],
+    "2027": [
+        "pine wood"
+    ],
+    "2028": [
+        "insect feedstock"
+    ],
+    "2029": [
+        "PET waste bottles"
+    ],
+    "2030": [
+        "cylinder"
+    ],
+    "2031": [
+        "swabs"
+    ],
+    "2032": [
+        "corn steep liquor"
+    ],
+    "2033": [
+        "prickly pear seed cake"
+    ],
+    "2034": [
+        "sugarcane bagasse"
+    ],
+    "2035": [
+        "Ficus auriculata leaves waste"
+    ],
+    "2036": [
+        "microalgae Cyanidioschyzon merolae"
+    ],
+    "2037": [
+        "sugar beet by-product"
+    ],
+    "2038": [
+        "press mud"
+    ],
+    "2039": [
+        "phytic acid"
+    ],
+    "2040": [
+        "estrone"
+    ],
+    "2041": [
+        "process solutions"
+    ],
+    "2042": [
+        "marine shellfish powder"
+    ],
+    "2043": [
+        "betalain extraction residues"
+    ],
+    "2044": [
+        "apricot pruning waste"
+    ],
+    "2045": [
+        "lignin monomer"
+    ],
+    "2046": [
+        "Atlantic bluefin tuna biomass"
+    ],
+    "2047": [
+        "WFS"
+    ],
+    "2048": [
+        "expanded polystyrene"
+    ],
+    "2049": [
+        "waste impurities"
+    ],
+    "2050": [
+        "magnesium chloride waste"
+    ],
+    "2051": [
+        "blueberry waste"
+    ],
+    "2052": [
+        "mine waste samples"
+    ],
+    "2053": [
+        "oxalate"
+    ],
+    "2054": [
+        "Acrylonitrile butadiene styrene"
+    ],
+    "2055": [
+        "pineapple crown"
+    ],
+    "2056": [
+        "corn waste"
+    ],
+    "2057": [
+        "okra"
+    ],
+    "2058": [
+        "solid fodder"
+    ],
+    "2059": [
+        "steelmaking carbon dioxide emissions"
+    ],
+    "2060": [
+        "cake"
+    ],
+    "2061": [
+        "spent commercially washed bottle biopsy"
+    ],
+    "2062": [
+        "Parthenium biomass"
+    ],
+    "2063": [
+        "tantalum scrap"
+    ],
+    "2064": [
+        "organic pollution"
+    ],
+    "2065": [
+        "industrial discharge"
+    ],
+    "2066": [
+        "silage maize"
+    ],
+    "2067": [
+        "bioaerosols"
+    ],
+    "2068": [
+        "apple",
+        "apple by-product"
+    ],
+    "2069": [
+        "Salacca peel"
+    ],
+    "2070": [
+        "persimmon waste"
+    ],
+    "2071": [
+        "alite"
+    ],
+    "2072": [
+        "used lithium-ion battery powder"
+    ],
+    "2073": [
+        "asphaltene components"
+    ],
+    "2074": [
+        "laboratory waste containing cadmium"
+    ],
+    "2075": [
+        "hematite-based ceramics"
+    ],
+    "2076": [
+        "dried fish scales"
+    ],
+    "2077": [
+        "Pond Ash"
+    ],
+    "2078": [
+        "silicon"
+    ],
+    "2079": [
+        "insoluble starch granules"
+    ],
+    "2080": [
+        "asbestos fibers"
+    ],
+    "2081": [
+        "fuel storage site"
+    ],
+    "2082": [
+        "flamboyant fruit"
+    ],
+    "2083": [
+        "volatile mercury"
+    ],
+    "2084": [
+        "soda lignin"
+    ],
+    "2085": [
+        "light cycle oil"
+    ],
+    "2086": [
+        "disposable face mask"
+    ],
+    "2087": [
+        "polyester fiber",
+        "polyester textile"
+    ],
+    "2088": [
+        "post-industrial ethylene propylene diene monomer"
+    ],
+    "2089": [
+        "underutilized date"
+    ],
+    "2090": [
+        "cooking oil"
+    ],
+    "2091": [
+        "levulinic acid"
+    ],
+    "2092": [
+        "flue gas desulfurization gypsum"
+    ],
+    "2093": [
+        "stone"
+    ],
+    "2094": [
+        "carbonated slag"
+    ],
+    "2095": [
+        "nut waste"
+    ],
+    "2096": [
+        "greenhouse gases"
+    ],
+    "2097": [
+        "adipic acid"
+    ],
+    "2098": [
+        "algal by-product"
+    ],
+    "2099": [
+        "earthworms"
+    ],
+    "2100": [
+        "electroplating waste"
+    ],
+    "2101": [
+        "cabbage"
+    ],
+    "2102": [
+        "hedge cuttings"
+    ],
+    "2103": [
+        "organophosphates"
+    ],
+    "2104": [
+        "textile anthraquinone dye"
+    ],
+    "2105": [
+        "polycyclic aromatic hydrocarbons"
+    ],
+    "2106": [
+        "vitrified asbestos-containing waste"
+    ],
+    "2107": [
+        "scrubbed raffinate"
+    ],
+    "2108": [
+        "rice water"
+    ],
+    "2109": [
+        "brownfield redevelopment site"
+    ],
+    "2110": [
+        "petrous waste"
+    ],
+    "2111": [
+        "overripe persimmon"
+    ],
+    "2112": [
+        "agri-food waste"
+    ],
+    "2113": [
+        "wool felt"
+    ],
+    "2114": [
+        "biomass"
+    ],
+    "2115": [
+        "recycled aggregates",
+        "recycled concrete aggregates"
+    ],
+    "2116": [
+        "organic waste"
+    ],
+    "2117": [
+        "iron-rich residue"
+    ],
+    "2118": [
+        "nitroaromatics"
+    ],
+    "2119": [
+        "epicarp"
+    ],
+    "2120": [
+        "blood water"
+    ],
+    "2121": [
+        "SCG oil"
+    ],
+    "2122": [
+        "distribution chain waste"
+    ],
+    "2123": [
+        "wine sludge"
+    ],
+    "2124": [
+        "zinc residue"
+    ],
+    "2125": [
+        "freshwater algae"
+    ],
+    "2126": [
+        "citrus wax"
+    ],
+    "2127": [
+        "hazardous powder"
+    ],
+    "2128": [
+        "control compost"
+    ],
+    "2129": [
+        "jabuticaba peel"
+    ],
+    "2130": [
+        "pig bristle"
+    ],
+    "2131": [
+        "solid residues from AHP and AHPC extraction"
+    ],
+    "2132": [
+        "acacia splinters"
+    ],
+    "2133": [
+        "nonintact hollow fiber membranes"
+    ],
+    "2134": [
+        "fluoride contaminated groundwater"
+    ],
+    "2135": [
+        "termite biomass"
+    ],
+    "2136": [
+        "Aesculus chinensis Bunge Seed"
+    ],
+    "2137": [
+        "floater sludge"
+    ],
+    "2138": [
+        "wastewater"
+    ],
+    "2139": [
+        "insoluble cellulose-rich fraction"
+    ],
+    "2140": [
+        "polymethylhydrosiloxane"
+    ],
+    "2141": [
+        "preventable loss"
+    ],
+    "2142": [
+        "expanded polystyrene"
+    ],
+    "2143": [
+        "F. bengalensis shell"
+    ],
+    "2144": [
+        "soybean milk production waste"
+    ],
+    "2145": [
+        "postconsumer lithium-ion batteries"
+    ],
+    "2146": [
+        "palm fruit waste"
+    ],
+    "2147": [
+        "turmeric waste"
+    ],
+    "2148": [
+        "biomass waste"
+    ],
+    "2149": [
+        "metallurgical waste"
+    ],
+    "2150": [
+        "RFO palm"
+    ],
+    "2151": [
+        "atmospheric pollution"
+    ],
+    "2152": [
+        "kenaf seed meal"
+    ],
+    "2153": [
+        "block"
+    ],
+    "2154": [
+        "spent catalysts"
+    ],
+    "2155": [
+        "urban residue"
+    ],
+    "2156": [
+        "cotton-polyester blend"
+    ],
+    "2157": [
+        "metal sulfide materials"
+    ],
+    "2158": [
+        "aerobic granular sludge"
+    ],
+    "2159": [
+        "bean worm skin"
+    ],
+    "2160": [
+        "surfactant waste"
+    ],
+    "2161": [
+        "gaseous stream from hydrothermal carbonization"
+    ],
+    "2162": [
+        "soapstock"
+    ],
+    "2163": [
+        "salt deposit"
+    ],
+    "2164": [
+        "industrial residue"
+    ],
+    "2165": [
+        "fish protein hydrolysate"
+    ],
+    "2166": [
+        "desalination brine"
+    ],
+    "2167": [
+        "Lombard corn cob"
+    ],
+    "2168": [
+        "acorn pericarp"
+    ],
+    "2169": [
+        "Elephant Apple"
+    ],
+    "2170": [
+        "tobacco waste"
+    ],
+    "2171": [
+        "TLC waste"
+    ],
+    "2172": [
+        "printed circuit"
+    ],
+    "2173": [
+        "lack of strategic planning"
+    ],
+    "2174": [
+        "Radix paeoniae alba residue"
+    ],
+    "2175": [
+        "agricultural loss"
+    ],
+    "2176": [
+        "gas impurities"
+    ],
+    "2177": [
+        "cellulose textiles"
+    ],
+    "2178": [
+        "energy crops"
+    ],
+    "2179": [
+        "chopped and bound materials"
+    ],
+    "2180": [
+        "gold waste"
+    ],
+    "2181": [
+        "goldenrod extract"
+    ],
+    "2182": [
+        "scale"
+    ],
+    "2183": [
+        "electronic waste"
+    ],
+    "2184": [
+        "bottom residues"
+    ],
+    "2185": [
+        "reinforcing agents"
+    ],
+    "2186": [
+        "pine needle waste"
+    ],
+    "2187": [
+        "fertiliser consumption"
+    ],
+    "2188": [
+        "nonwoven fibre"
+    ],
+    "2189": [
+        "fruit pulp"
+    ],
+    "2190": [
+        "fruit processing water"
+    ],
+    "2191": [
+        "beach wrack"
+    ],
+    "2192": [
+        "fuel-synthesis process water"
+    ],
+    "2193": [
+        "recalcitrant organic waste"
+    ],
+    "2194": [
+        "agricultural residual biomass",
+        "residual biomass"
+    ],
+    "2195": [
+        "energy yield"
+    ],
+    "2196": [
+        "starch extraction wastewater"
+    ],
+    "2197": [
+        "formwork wood"
+    ],
+    "2198": [
+        "pharmaceutical waste"
+    ],
+    "2199": [
+        "moso bamboo"
+    ],
+    "2200": [
+        "blue shark waste skin"
+    ],
+    "2201": [
+        "Lentinula edodes residue"
+    ],
+    "2202": [
+        "Plastic packaging waste"
+    ],
+    "2203": [
+        "carbonate-rich test"
+    ],
+    "2204": [
+        "candy bar factory effluent"
+    ],
+    "2205": [
+        "thermoplastic starch"
+    ],
+    "2206": [
+        "vulcanized rubber waste"
+    ],
+    "2207": [
+        "annatto"
+    ],
+    "2208": [
+        "Indium-Tin Oxide waste"
+    ],
+    "2209": [
+        "L-phenylalanine"
+    ],
+    "2210": [
+        "E. involucrata fruit"
+    ],
+    "2211": [
+        "low-molecular-weight oligomers"
+    ],
+    "2212": [
+        "tapioca waste"
+    ],
+    "2213": [
+        "light gases"
+    ],
+    "2214": [
+        "cotton waste"
+    ],
+    "2215": [
+        "green manure plant"
+    ],
+    "2216": [
+        "fungal biomass effluent"
+    ],
+    "2217": [
+        "polydatin"
+    ],
+    "2218": [
+        "branches"
+    ],
+    "2219": [
+        "spent carbon anode"
+    ],
+    "2220": [
+        "tepals"
+    ],
+    "2221": [
+        "spent potlining"
+    ],
+    "2222": [
+        "fine coal slurry"
+    ],
+    "2223": [
+        "tooling manufacturing cost"
+    ],
+    "2224": [
+        "wood oil"
+    ],
+    "2225": [
+        "cupua\u00e7u fiber"
+    ],
+    "2226": [
+        "carbon quantum dots"
+    ],
+    "2227": [
+        "antibiotic resistant genes"
+    ],
+    "2228": [
+        "non-mulched control"
+    ],
+    "2229": [
+        "liquid crystal display desktop computer"
+    ],
+    "2230": [
+        "plastic pots"
+    ],
+    "2231": [
+        "nutrient depletion"
+    ],
+    "2232": [
+        "wastewater from anaerobic digestion"
+    ],
+    "2233": [
+        "toxicity"
+    ],
+    "2234": [
+        "fumonisins"
+    ],
+    "2235": [
+        "electric geyser waste"
+    ],
+    "2236": [
+        "cassava stem"
+    ],
+    "2237": [
+        "lixiviates"
+    ],
+    "2238": [
+        "inert waste"
+    ],
+    "2239": [
+        "pear waste"
+    ],
+    "2240": [
+        "fruit juice waste"
+    ],
+    "2241": [
+        "4-nitrophenol"
+    ],
+    "2242": [
+        "transport waste"
+    ],
+    "2243": [
+        "cracks"
+    ],
+    "2244": [
+        "volcanic paleo-soil"
+    ],
+    "2245": [
+        "soda-lime glass"
+    ],
+    "2246": [
+        "vitamin mix"
+    ],
+    "2247": [
+        "dairy wastewater"
+    ],
+    "2248": [
+        "internodes"
+    ],
+    "2249": [
+        "colored glass bottles"
+    ],
+    "2250": [
+        "leaves of phanerogams"
+    ],
+    "2251": [
+        "biological control agent"
+    ],
+    "2252": [
+        "cathode ray tube panel glass"
+    ],
+    "2253": [
+        "PHB waste"
+    ],
+    "2254": [
+        "glyphosate wastewater"
+    ],
+    "2255": [
+        "polyethylene blend"
+    ],
+    "2256": [
+        "vegetable food waste"
+    ],
+    "2257": [
+        "eggplant peel"
+    ],
+    "2258": [
+        "silver skin"
+    ],
+    "2259": [
+        "wort precipitate"
+    ],
+    "2260": [
+        "local organic waste"
+    ],
+    "2261": [
+        "commercial nursery media"
+    ],
+    "2262": [
+        "hydrolyzed lipid fraction"
+    ],
+    "2263": [
+        "durian waste"
+    ],
+    "2264": [
+        "sea urchin by-product"
+    ],
+    "2265": [
+        "plastic waste"
+    ],
+    "2266": [
+        "gypsum"
+    ],
+    "2267": [
+        "liquid catalytic cracking waste catalyst"
+    ],
+    "2268": [
+        "gari production effluents"
+    ],
+    "2269": [
+        "household electrical appliances"
+    ],
+    "2270": [
+        "metal particles"
+    ],
+    "2271": [
+        "vegetable tannin"
+    ],
+    "2272": [
+        "mixed cultures"
+    ],
+    "2273": [
+        "recycled plastic"
+    ],
+    "2274": [
+        "lignin from tritordeum straw"
+    ],
+    "2275": [
+        "p-benzoquinone"
+    ],
+    "2276": [
+        "solid residues"
+    ],
+    "2277": [
+        "black soldier fly"
+    ],
+    "2278": [
+        "napier grass"
+    ],
+    "2279": [
+        "hatchery residue"
+    ],
+    "2280": [
+        "grapefruit juice byproduct"
+    ],
+    "2281": [
+        "leather"
+    ],
+    "2282": [
+        "expansive soil"
+    ],
+    "2283": [
+        "vermicompost"
+    ],
+    "2284": [
+        "acorn cupule"
+    ],
+    "2285": [
+        "intermediary product"
+    ],
+    "2286": [
+        "degraded material"
+    ],
+    "2287": [
+        "valuable resources"
+    ],
+    "2288": [
+        "marine waste"
+    ],
+    "2289": [
+        "macauba endocarp"
+    ],
+    "2290": [
+        "air bladder"
+    ],
+    "2291": [
+        "organic waste",
+        "food waste",
+        "agricultural food waste"
+    ],
+    "2292": [
+        "cassava waste"
+    ],
+    "2293": [
+        "China fir sawdust"
+    ],
+    "2294": [
+        "phosphorus from secondary effluents"
+    ],
+    "2295": [
+        "coffee silverskin fibers"
+    ],
+    "2296": [
+        "AFW residue"
+    ],
+    "2297": [
+        "starch wastewater"
+    ],
+    "2298": [
+        "Acacia nilotica bark"
+    ],
+    "2299": [
+        "C. microcarpa fruit waste"
+    ],
+    "2300": [
+        "phosphorus-rich fine solids"
+    ],
+    "2301": [
+        "keratin waste"
+    ],
+    "2302": [
+        "treatment chemical"
+    ],
+    "2303": [
+        "fluorescent lamp waste"
+    ],
+    "2304": [
+        "microalgae extract"
+    ],
+    "2305": [
+        "remaining hazardous organic waste"
+    ],
+    "2306": [
+        "popcorn"
+    ],
+    "2307": [
+        "cerussite"
+    ],
+    "2308": [
+        "rosuvastatin production waste"
+    ],
+    "2309": [
+        "jojoba seed cake"
+    ],
+    "2310": [
+        "alkaloids"
+    ],
+    "2311": [
+        "tuna vitreous humor"
+    ],
+    "2312": [
+        "spent wastewater nanoadsorbents"
+    ],
+    "2313": [
+        "solid fraction of pig slurry"
+    ],
+    "2314": [
+        "radioactively contaminated clothing"
+    ],
+    "2315": [
+        "liquid waste"
+    ],
+    "2316": [
+        "fossil-derived products"
+    ],
+    "2317": [
+        "polymeric waste"
+    ],
+    "2318": [
+        "de-oiled meals"
+    ],
+    "2319": [
+        "methyl orange"
+    ],
+    "2320": [
+        "suspended solids"
+    ],
+    "2321": [
+        "trimethylolpropane triglycidyl ether"
+    ],
+    "2322": [
+        "solid fuel"
+    ],
+    "2323": [
+        "discarded sputtering target"
+    ],
+    "2324": [
+        "hydrated lime"
+    ],
+    "2325": [
+        "medical protective suits"
+    ],
+    "2326": [
+        "linen processing by-products"
+    ],
+    "2327": [
+        "petiole waste"
+    ],
+    "2328": [
+        "durum wheat flour"
+    ],
+    "2329": [
+        "residual welded ignimbrite"
+    ],
+    "2330": [
+        "photocatalytic materials"
+    ],
+    "2331": [
+        "contaminated sediments"
+    ],
+    "2332": [
+        "industrial effluent",
+        "industrial wastewater"
+    ],
+    "2333": [
+        "waste bittern"
+    ],
+    "2334": [
+        "soluble organic waste"
+    ],
+    "2335": [
+        "textile industry excess sludge"
+    ],
+    "2336": [
+        "waste burden"
+    ],
+    "2337": [
+        "polypropylene waste"
+    ],
+    "2338": [
+        "strawberry extrudate"
+    ],
+    "2339": [
+        "stick-water"
+    ],
+    "2340": [
+        "residual sustainable outcome"
+    ],
+    "2341": [
+        "fossil fuel diesel"
+    ],
+    "2342": [
+        "purple yam"
+    ],
+    "2343": [
+        "agricultural waste"
+    ],
+    "2344": [
+        "secondary bio-based material"
+    ],
+    "2345": [
+        "emerging contaminants"
+    ],
+    "2346": [
+        "sugar"
+    ],
+    "2347": [
+        "plastic composite manufacturing waste"
+    ],
+    "2348": [
+        "Salicornia ramosissima by-product"
+    ],
+    "2349": [
+        "construction waste"
+    ],
+    "2350": [
+        "fish cartilage"
+    ],
+    "2351": [
+        "powdered precursor"
+    ],
+    "2352": [
+        "fish recirculating aquaculture system wastewater"
+    ],
+    "2353": [
+        "roasted mass"
+    ],
+    "2354": [
+        "agricultural plastic waste"
+    ],
+    "2355": [
+        "prosopis juliflora"
+    ],
+    "2356": [
+        "de-inked paper sludge"
+    ],
+    "2357": [
+        "NaCl from tannery CETPs"
+    ],
+    "2358": [
+        "waste valorization"
+    ],
+    "2359": [
+        "clogging"
+    ],
+    "2360": [
+        "zinc ash"
+    ],
+    "2361": [
+        "castor oil"
+    ],
+    "2362": [
+        "gypsum mining spoil"
+    ],
+    "2363": [
+        "steel industry solid waste"
+    ],
+    "2364": [
+        "rainbow trout waste"
+    ],
+    "2365": [
+        "process water"
+    ],
+    "2366": [
+        "biomass"
+    ],
+    "2367": [
+        "fish waste"
+    ],
+    "2368": [
+        "edible freshwater snail shells"
+    ],
+    "2369": [
+        "watermelon waste"
+    ],
+    "2370": [
+        "gaseous by-products"
+    ],
+    "2371": [
+        "PIS"
+    ],
+    "2372": [
+        "17\u03b2-estradiol"
+    ],
+    "2373": [
+        "hemp digestate"
+    ],
+    "2374": [
+        "nylon waste"
+    ],
+    "2375": [
+        "siloxanes"
+    ],
+    "2376": [
+        "plant byproduct"
+    ],
+    "2377": [
+        "excess material"
+    ],
+    "2378": [
+        "waxy by-product"
+    ],
+    "2379": [
+        "fruit juice industry fibers"
+    ],
+    "2380": [
+        "herbal distillation"
+    ],
+    "2381": [
+        "ingredients"
+    ],
+    "2382": [
+        "calcareous shell"
+    ],
+    "2383": [
+        "drainage water"
+    ],
+    "2384": [
+        "high-ammonium waste"
+    ],
+    "2385": [
+        "cobalt-nickel aqueous solution"
+    ],
+    "2386": [
+        "high density polyethylene pipe"
+    ],
+    "2387": [
+        "livestock substrates"
+    ],
+    "2388": [
+        "sulfur-polluting compound"
+    ],
+    "2389": [
+        "landfill cover soil"
+    ],
+    "2390": [
+        "pulp"
+    ],
+    "2391": [
+        "keratinous proteins"
+    ],
+    "2392": [
+        "sweet potato waste"
+    ],
+    "2393": [
+        "trimethoprim"
+    ],
+    "2394": [
+        "synthetic solution"
+    ],
+    "2395": [
+        "boron waste"
+    ],
+    "2396": [
+        "neem seed oil"
+    ],
+    "2397": [
+        "small waste"
+    ],
+    "2398": [
+        "hydrocarbons-rich effluent"
+    ],
+    "2399": [
+        "insoluble potassium minerals"
+    ],
+    "2400": [
+        "entrails"
+    ],
+    "2401": [
+        "microbial fuel cell waste"
+    ],
+    "2402": [
+        "nutrient input"
+    ],
+    "2403": [
+        "halogen content"
+    ],
+    "2404": [
+        "coffee parchment"
+    ],
+    "2405": [
+        "plastic biomass composite"
+    ],
+    "2406": [
+        "peach seed"
+    ],
+    "2407": [
+        "greywater"
+    ],
+    "2408": [
+        "photovoltaic glass"
+    ],
+    "2409": [
+        "low-value products",
+        "negative-value products"
+    ],
+    "2410": [
+        "liquid humins waste"
+    ],
+    "2411": [
+        "fly ash"
+    ],
+    "2412": [
+        "almond biomass"
+    ],
+    "2413": [
+        "poultry manure"
+    ],
+    "2414": [
+        "binding powder"
+    ],
+    "2415": [
+        "PPG waste"
+    ],
+    "2416": [
+        "waste biochar containing lead"
+    ],
+    "2417": [
+        "slag tailings"
+    ],
+    "2418": [
+        "basil waste"
+    ],
+    "2419": [
+        "metal impurities"
+    ],
+    "2420": [
+        "rural household feces"
+    ],
+    "2421": [
+        "kitchen waste oil-contaminated cloths"
+    ],
+    "2422": [
+        "sugarcane tops"
+    ],
+    "2423": [
+        "extreme pH"
+    ],
+    "2424": [
+        "electronic plastic"
+    ],
+    "2425": [
+        "PAVAL"
+    ],
+    "2426": [
+        "biomass"
+    ],
+    "2427": [
+        "non-wearable fractions"
+    ],
+    "2428": [
+        "ceramic sanitary ware"
+    ],
+    "2429": [
+        "rearing waste"
+    ],
+    "2430": [
+        "energy recovery from waste"
+    ],
+    "2431": [
+        "humus"
+    ],
+    "2432": [
+        "green hull"
+    ],
+    "2433": [
+        "recycled paper"
+    ],
+    "2434": [
+        "aluminum scrap"
+    ],
+    "2435": [
+        "power plant ash"
+    ],
+    "2436": [
+        "backbone waste"
+    ],
+    "2437": [
+        "textiles"
+    ],
+    "2438": [
+        "pre-treated cotton fabric"
+    ],
+    "2439": [
+        "copolymer of PBSA grafted with itaconic acid",
+        "copolymer of PBSA grafted with maleic anhydride"
+    ],
+    "2440": [
+        "goat waste"
+    ],
+    "2441": [
+        "travertine stone"
+    ],
+    "2442": [
+        "side-stream rejection"
+    ],
+    "2443": [
+        "tetrapack"
+    ],
+    "2444": [
+        "tilapia carcass"
+    ],
+    "2445": [
+        "plate waste"
+    ],
+    "2446": [
+        "seed fractions"
+    ],
+    "2447": [
+        "waste heat"
+    ],
+    "2448": [
+        "substitute feedstock"
+    ],
+    "2449": [
+        "bitterns"
+    ],
+    "2450": [
+        "roof tile waste"
+    ],
+    "2451": [
+        "granular lipid content"
+    ],
+    "2452": [
+        "undesired metal loaded D2EPHA"
+    ],
+    "2453": [
+        "inhibitory product"
+    ],
+    "2454": [
+        "multilayer packaging"
+    ],
+    "2455": [
+        "goat meat trimmings"
+    ],
+    "2456": [
+        "fermented domestic wastewater"
+    ],
+    "2457": [
+        "phyllite dust"
+    ],
+    "2458": [
+        "chamotte waste"
+    ],
+    "2459": [
+        "gelling agent"
+    ],
+    "2460": [
+        "cottonseed hull"
+    ],
+    "2461": [
+        "cellular debris"
+    ],
+    "2462": [
+        "construction materials"
+    ],
+    "2463": [
+        "REE containing waste"
+    ],
+    "2464": [
+        "pig skins"
+    ],
+    "2465": [
+        "CRT funnel glass"
+    ],
+    "2466": [
+        "loquat"
+    ],
+    "2467": [
+        "gut biomass"
+    ],
+    "2468": [
+        "rind"
+    ],
+    "2469": [
+        "non-productive resources"
+    ],
+    "2470": [
+        "waste stabilization pond"
+    ],
+    "2471": [
+        "waste coral"
+    ],
+    "2472": [
+        "citrus peel hydrolysate"
+    ],
+    "2473": [
+        "bycaught fish"
+    ],
+    "2474": [
+        "tank bottom sludge"
+    ],
+    "2475": [
+        "polyhydroxyalkanoates"
+    ],
+    "2476": [
+        "fish maw"
+    ],
+    "2477": [
+        "steel slag concrete mixture"
+    ],
+    "2478": [
+        "plant material"
+    ],
+    "2479": [
+        "reverse osmosis waste"
+    ],
+    "2480": [
+        "fossil fuel depletion"
+    ],
+    "2481": [
+        "phlogopite"
+    ],
+    "2482": [
+        "alcohols"
+    ],
+    "2483": [
+        "date seed cake"
+    ],
+    "2484": [
+        "liquid digestate"
+    ],
+    "2485": [
+        "palm oil mill waste",
+        "oil palm waste"
+    ],
+    "2486": [
+        "radioactive europium"
+    ],
+    "2487": [
+        "oleuropein"
+    ],
+    "2488": [
+        "pressmud"
+    ],
+    "2489": [
+        "mango"
+    ],
+    "2490": [
+        "squid feather bones"
+    ],
+    "2491": [
+        "aqueous extract of waste corncob"
+    ],
+    "2492": [
+        "fish thorns"
+    ],
+    "2493": [
+        "fashion waste"
+    ],
+    "2494": [
+        "Agave leaves"
+    ],
+    "2495": [
+        "leachate water"
+    ],
+    "2496": [
+        "marine nodules"
+    ],
+    "2497": [
+        "inert material"
+    ],
+    "2498": [
+        "fats",
+        "oils and greases"
+    ],
+    "2499": [
+        "adult incontinence pads"
+    ],
+    "2500": [
+        "residue muscle protein"
+    ],
+    "2501": [
+        "biological laboratory waste"
+    ],
+    "2502": [
+        "skin waste"
+    ],
+    "2503": [
+        "pequi waste"
+    ],
+    "2504": [
+        "argan nutshell"
+    ],
+    "2505": [
+        "rubble"
+    ],
+    "2506": [
+        "oil scum"
+    ],
+    "2507": [
+        "poor industrial wastewater treatment facilities"
+    ],
+    "2508": [
+        "expanded black cork condensate"
+    ],
+    "2509": [
+        "aluminum"
+    ],
+    "2510": [
+        "low-grade dates"
+    ],
+    "2511": [
+        "shell membrane"
+    ],
+    "2512": [
+        "animal bone ash"
+    ],
+    "2513": [
+        "brick industry by-products"
+    ],
+    "2514": [
+        "zinc-ion batteries"
+    ],
+    "2515": [
+        "tepal waste"
+    ],
+    "2516": [
+        "flotation tailings"
+    ],
+    "2517": [
+        "Amaranthus"
+    ],
+    "2518": [
+        "wet blue chrome shavings"
+    ],
+    "2519": [
+        "chestnut tannin"
+    ],
+    "2520": [
+        "herbal dust"
+    ],
+    "2521": [
+        "paper fibres"
+    ],
+    "2522": [
+        "shredded fibers from protective clothing"
+    ],
+    "2523": [
+        "apricot waste"
+    ],
+    "2524": [
+        "residues from hydrolysis"
+    ],
+    "2525": [
+        "granules"
+    ],
+    "2526": [
+        "post-earthquake building waste"
+    ],
+    "2527": [
+        "wine sediment"
+    ],
+    "2528": [
+        "automotive shredder residue"
+    ],
+    "2529": [
+        "calyx"
+    ],
+    "2530": [
+        "hazardous solid waste"
+    ],
+    "2531": [
+        "stormwater"
+    ],
+    "2532": [
+        "food waste",
+        "agro-food waste"
+    ],
+    "2533": [
+        "fruit waste"
+    ],
+    "2534": [
+        "craft cider waste"
+    ],
+    "2535": [
+        "cooling tower environmental impacts"
+    ],
+    "2536": [
+        "fishing net"
+    ],
+    "2537": [
+        "mill scale"
+    ],
+    "2538": [
+        "organic-rich aqueous streams"
+    ],
+    "2539": [
+        "palm fatty acid distillate"
+    ],
+    "2540": [
+        "basanite"
+    ],
+    "2541": [
+        "high molecular weight carbohydrates"
+    ],
+    "2542": [
+        "palladium waste"
+    ],
+    "2543": [
+        "banana pseudostem"
+    ],
+    "2544": [
+        "pruning of Quercus ilex"
+    ],
+    "2545": [
+        "substandard product"
+    ],
+    "2546": [
+        "empty fruit bunch"
+    ],
+    "2547": [
+        "land"
+    ],
+    "2548": [
+        "oil phase"
+    ],
+    "2549": [
+        "digestate sterols"
+    ],
+    "2550": [
+        "soil salinization"
+    ],
+    "2551": [
+        "spent catalysts"
+    ],
+    "2552": [
+        "solid residue from hydrothermal liquefaction of anaerobic digestion of sugarcane bagasse digestate"
+    ],
+    "2553": [
+        "tracing paper",
+        "parchment paper"
+    ],
+    "2554": [
+        "end-of-life products"
+    ],
+    "2555": [
+        "bone char"
+    ],
+    "2556": [
+        "used masks"
+    ],
+    "2557": [
+        "PMMA waste"
+    ],
+    "2558": [
+        "acid waste"
+    ],
+    "2559": [
+        "fermented wastewater hydrolysate"
+    ],
+    "2560": [
+        "crumb rubber"
+    ],
+    "2561": [
+        "animal bones"
+    ],
+    "2562": [
+        "plump peel"
+    ],
+    "2563": [
+        "trash fish"
+    ],
+    "2564": [
+        "Aloe vera waste"
+    ],
+    "2565": [
+        "Mediterranean fruit waste"
+    ],
+    "2566": [
+        "hazardous waste"
+    ],
+    "2567": [
+        "ye'elimite"
+    ],
+    "2568": [
+        "fur"
+    ],
+    "2569": [
+        "liquor waste"
+    ],
+    "2570": [
+        "water treatment residues"
+    ],
+    "2571": [
+        "heating oil"
+    ],
+    "2572": [
+        "flotation concentrate"
+    ],
+    "2573": [
+        "slag"
+    ],
+    "2574": [
+        "sesame capsules"
+    ],
+    "2575": [
+        "chicken waste"
+    ],
+    "2576": [
+        "human waste"
+    ],
+    "2577": [
+        "deactivated zeolite catalysts"
+    ],
+    "2578": [
+        "date seed oil"
+    ],
+    "2579": [
+        "magnesium"
+    ],
+    "2580": [
+        "vetiver shoots"
+    ],
+    "2581": [
+        "antibiotic residue"
+    ],
+    "2582": [
+        "buffing dust"
+    ],
+    "2583": [
+        "dephenolized olive mill wastewater"
+    ],
+    "2584": [
+        "fish head stone"
+    ],
+    "2585": [
+        "gold nano-waste"
+    ],
+    "2586": [
+        "recycled additives"
+    ],
+    "2587": [
+        "alpeoNADES"
+    ],
+    "2588": [
+        "struvite pyrolysate impurities"
+    ],
+    "2589": [
+        "tallow waste"
+    ],
+    "2590": [
+        "Japanese Spanish mackerel by-products"
+    ],
+    "2591": [
+        "solid by-product of sludge hydrothermal liquefaction"
+    ],
+    "2592": [
+        "banana leaf residue"
+    ],
+    "2593": [
+        "industrial scrap"
+    ],
+    "2594": [
+        "enzymatic lignin"
+    ],
+    "2595": [
+        "organic municipal solid waste"
+    ],
+    "2596": [
+        "heavy metal ions from mines wastewater"
+    ],
+    "2597": [
+        "grape winemaking residue"
+    ],
+    "2598": [
+        "recycled mineral oil"
+    ],
+    "2599": [
+        "coal mine waste"
+    ],
+    "2600": [
+        "date waste"
+    ],
+    "2601": [
+        "polyculture microalgae"
+    ],
+    "2602": [
+        "hot trub"
+    ],
+    "2603": [
+        "coconut oil cake"
+    ],
+    "2604": [
+        "discarded domestic plastic waste"
+    ],
+    "2605": [
+        "eggshells"
+    ],
+    "2606": [
+        "licorice root"
+    ],
+    "2607": [
+        "iron and manganese ions"
+    ],
+    "2608": [
+        "solid phase"
+    ],
+    "2609": [
+        "hotel waste"
+    ],
+    "2610": [
+        "production materials"
+    ],
+    "2611": [
+        "cinnamon waste after polyphenol extraction"
+    ],
+    "2612": [
+        "scoria aggregate"
+    ],
+    "2613": [
+        "fluoropolymers"
+    ],
+    "2614": [
+        "climate change"
+    ],
+    "2615": [
+        "recycled magnesia-hercynite bricks"
+    ],
+    "2616": [
+        "sunflower meal hydrolysate"
+    ],
+    "2617": [
+        "stalk"
+    ],
+    "2618": [
+        "Venerupis philippinarum shell waste"
+    ],
+    "2619": [
+        "Enteromorpha prolifera"
+    ],
+    "2620": [
+        "viscose-rayon textile waste"
+    ],
+    "2621": [
+        "matooke peel"
+    ],
+    "2622": [
+        "honeybee byproduct"
+    ],
+    "2623": [
+        "Teliuc tailings"
+    ],
+    "2624": [
+        "melamine"
+    ],
+    "2625": [
+        "solid waste pollution"
+    ],
+    "2626": [
+        "aqueous mixture"
+    ],
+    "2627": [
+        "water kefir grain biomass"
+    ],
+    "2628": [
+        "shell waste"
+    ],
+    "2629": [
+        "rose-oil industry by-products"
+    ],
+    "2630": [
+        "cellulosic waste"
+    ],
+    "2631": [
+        "chlorinated resin acids"
+    ],
+    "2632": [
+        "postharvest waste"
+    ],
+    "2633": [
+        "musts"
+    ],
+    "2634": [
+        "decomposed organic detritus"
+    ],
+    "2635": [
+        "nitrides"
+    ],
+    "2636": [
+        "substandard peas"
+    ],
+    "2637": [
+        "cranberry seeds"
+    ],
+    "2638": [
+        "waste latex paint"
+    ],
+    "2639": [
+        "copper slabs"
+    ],
+    "2640": [
+        "feather waste"
+    ],
+    "2641": [
+        "cull tomatoes"
+    ],
+    "2642": [
+        "Sicilian grape byproducts"
+    ],
+    "2643": [
+        "wasted"
+    ],
+    "2644": [
+        "Alaska Pollock skin"
+    ],
+    "2645": [
+        "geese plumage"
+    ],
+    "2646": [
+        "polyurethane waste"
+    ],
+    "2647": [
+        "abrasive disc"
+    ],
+    "2648": [
+        "Lantana species"
+    ],
+    "2649": [
+        "modified mine silicate waste"
+    ],
+    "2650": [
+        "paddy grain"
+    ],
+    "2651": [
+        "hazelnut waste"
+    ],
+    "2652": [
+        "quarry waste",
+        "limestone quarry waste"
+    ],
+    "2653": [
+        "compost of urban household waste",
+        "food waste compost"
+    ],
+    "2654": [
+        "slag co-products"
+    ],
+    "2655": [
+        "rose petals"
+    ],
+    "2656": [
+        "coagulation sludge"
+    ],
+    "2657": [
+        "deoxynivalenol"
+    ],
+    "2658": [
+        "stainless steel scrap"
+    ],
+    "2659": [
+        "supernatant"
+    ],
+    "2660": [
+        "residue stream"
+    ],
+    "2661": [
+        "bisphenol A"
+    ],
+    "2662": [
+        "expired vanilla pudding"
+    ],
+    "2663": [
+        "agricultural production challenges"
+    ],
+    "2664": [
+        "low rank coal"
+    ],
+    "2665": [
+        "rare metal mineral resources"
+    ],
+    "2666": [
+        "Ti-chips"
+    ],
+    "2667": [
+        "carbon dioxide emissions"
+    ],
+    "2668": [
+        "consumer goods waste"
+    ],
+    "2669": [
+        "vanadium pentoxide"
+    ],
+    "2670": [
+        "zinc battery waste"
+    ],
+    "2671": [
+        "tomato seeds"
+    ],
+    "2672": [
+        "withered grass"
+    ],
+    "2673": [
+        "solid waste"
+    ],
+    "2674": [
+        "sago waste"
+    ],
+    "2675": [
+        "dried avocado waste"
+    ],
+    "2676": [
+        "trimming waste"
+    ],
+    "2677": [
+        "calcium phosphate"
+    ],
+    "2678": [
+        "algal blooms"
+    ],
+    "2679": [
+        "wine lees"
+    ],
+    "2680": [
+        "flux waste"
+    ],
+    "2681": [
+        "alternative protein source"
+    ],
+    "2682": [
+        "electronic waste"
+    ],
+    "2683": [
+        "natural lipid organelles"
+    ],
+    "2684": [
+        "bycatch"
+    ],
+    "2685": [
+        "phosphate"
+    ],
+    "2686": [
+        "plant residues"
+    ],
+    "2687": [
+        "accidental spillage"
+    ],
+    "2688": [
+        "iron sulfides"
+    ],
+    "2689": [
+        "nitric oxide"
+    ],
+    "2690": [
+        "olive oil dregs"
+    ],
+    "2691": [
+        "belite"
+    ],
+    "2692": [
+        "lignin"
+    ],
+    "2693": [
+        "animal mortalities"
+    ],
+    "2694": [
+        "chia seed meal"
+    ],
+    "2695": [
+        "tar"
+    ],
+    "2696": [
+        "low grade construction and demolition waste"
+    ],
+    "2697": [
+        "cement sack strands"
+    ],
+    "2698": [
+        "meat flour"
+    ],
+    "2699": [
+        "yeast biomass"
+    ],
+    "2700": [
+        "coffee grounds"
+    ],
+    "2701": [
+        "char residue"
+    ],
+    "2702": [
+        "sesame waste"
+    ],
+    "2703": [
+        "rapeseed oil waste"
+    ],
+    "2704": [
+        "aged styrene-butadiene-styrene modified asphalt"
+    ],
+    "2705": [
+        "waste pickling acid"
+    ],
+    "2706": [
+        "pomegranate waste"
+    ],
+    "2707": [
+        "ferulic acid"
+    ],
+    "2708": [
+        "fruit pulp"
+    ],
+    "2709": [
+        "non-utilized components"
+    ],
+    "2710": [
+        "bioplastic waste"
+    ],
+    "2711": [
+        "run of mine"
+    ],
+    "2712": [
+        "zinc die-cast scrap"
+    ],
+    "2713": [
+        "plant stems"
+    ],
+    "2714": [
+        "Cichorium endivia L. leaves"
+    ],
+    "2715": [
+        "denim waste"
+    ],
+    "2716": [
+        "hops"
+    ],
+    "2717": [
+        "olive oil distillate"
+    ],
+    "2718": [
+        "bifenthrin pesticide"
+    ],
+    "2719": [
+        "leaf waste"
+    ],
+    "2720": [
+        "obsolete building materials"
+    ],
+    "2721": [
+        "mineral resource production"
+    ],
+    "2722": [
+        "mass"
+    ],
+    "2723": [
+        "tobacco processing waste"
+    ],
+    "2724": [
+        "recycled asphalt"
+    ],
+    "2725": [
+        "wood waste"
+    ],
+    "2726": [
+        "water consumption"
+    ],
+    "2727": [
+        "Litsea cubeba fruit"
+    ],
+    "2728": [
+        "obsolete commodities"
+    ],
+    "2729": [
+        "residual cell tissue"
+    ],
+    "2730": [
+        "cooked cellulosic vegetable"
+    ],
+    "2731": [
+        "selenium in aqueous solution"
+    ],
+    "2732": [
+        "miscellaneous waste"
+    ],
+    "2733": [
+        "plastic waste"
+    ],
+    "2734": [
+        "shell-hash debris"
+    ],
+    "2735": [
+        "waste glass powder"
+    ],
+    "2736": [
+        "silica particles"
+    ],
+    "2737": [
+        "fish scales"
+    ],
+    "2738": [
+        "petroleum substances"
+    ],
+    "2739": [
+        "perfusion waste"
+    ],
+    "2740": [
+        "grape pomace extract"
+    ],
+    "2741": [
+        "food industry by-products"
+    ],
+    "2742": [
+        "low-radioactive waste ash"
+    ],
+    "2743": [
+        "fish flesh"
+    ],
+    "2744": [
+        "chrome tanning agent"
+    ],
+    "2745": [
+        "operational discharge"
+    ],
+    "2746": [
+        "bandages"
+    ],
+    "2747": [
+        "Cryptosporidium parvum oocysts"
+    ],
+    "2748": [
+        "mastic oil"
+    ],
+    "2749": [
+        "post-consumer absorbent hygiene products"
+    ],
+    "2750": [
+        "commercial lard"
+    ],
+    "2751": [
+        "zirconium-modified red mud"
+    ],
+    "2752": [
+        "cardboard waste"
+    ],
+    "2753": [
+        "outer fibrous material"
+    ],
+    "2754": [
+        "cereal waste"
+    ],
+    "2755": [
+        "hydrochar"
+    ],
+    "2756": [
+        "hemp stem"
+    ],
+    "2757": [
+        "grape stem extract"
+    ],
+    "2758": [
+        "fatty acid ester"
+    ],
+    "2759": [
+        "food waste"
+    ],
+    "2760": [
+        "fish"
+    ],
+    "2761": [
+        "trunk"
+    ],
+    "2762": [
+        "aromatic hydrocarbons"
+    ],
+    "2763": [
+        "biomass pretreatment"
+    ],
+    "2764": [
+        "kenaf bio-fibre"
+    ],
+    "2765": [
+        "mammal hooves"
+    ],
+    "2766": [
+        "municipal solid waste residue"
+    ],
+    "2767": [
+        "stockings"
+    ],
+    "2768": [
+        "soil contaminated by sulfonate"
+    ],
+    "2769": [
+        "product shrinkage"
+    ],
+    "2770": [
+        "food by-product",
+        "agri-food by-product"
+    ],
+    "2771": [
+        "Eugenia involucrata residue"
+    ],
+    "2772": [
+        "sunflower meal"
+    ],
+    "2773": [
+        "river sand"
+    ],
+    "2774": [
+        "lignite waste"
+    ],
+    "2775": [
+        "tread buffings"
+    ],
+    "2776": [
+        "microbial waste"
+    ],
+    "2777": [
+        "aqueous extracts"
+    ],
+    "2778": [
+        "growth medium"
+    ],
+    "2779": [
+        "spiny burs"
+    ],
+    "2780": [
+        "polybutylene adipate terephthalate"
+    ],
+    "2781": [
+        "gas cleaner dust"
+    ],
+    "2782": [
+        "natural aggregate"
+    ],
+    "2783": [
+        "cashew by-products"
+    ],
+    "2784": [
+        "tamarind waste"
+    ],
+    "2785": [
+        "cane debris"
+    ],
+    "2786": [
+        "grease trap waste"
+    ],
+    "2787": [
+        "Tradescantia fluminensis leaves"
+    ],
+    "2788": [
+        "trimmings"
+    ],
+    "2789": [
+        "metal fasteners"
+    ],
+    "2790": [
+        "fine limestone clay"
+    ],
+    "2791": [
+        "squid pen waste"
+    ],
+    "2792": [
+        "carob waste"
+    ],
+    "2793": [
+        "defective green coffee beans"
+    ],
+    "2794": [
+        "milling by-product"
+    ],
+    "2795": [
+        "dissolved polyethylene"
+    ],
+    "2796": [
+        "textile wastewater"
+    ],
+    "2797": [
+        "discarded lithium cobalt oxide"
+    ],
+    "2798": [
+        "pasta production residues"
+    ],
+    "2799": [
+        "lithium-ion battery waste"
+    ],
+    "2800": [
+        "dead chickens"
+    ],
+    "2801": [
+        "microfibres"
+    ],
+    "2802": [
+        "fuel for power plant"
+    ],
+    "2803": [
+        "milkfish offal"
+    ],
+    "2804": [
+        "Cryptomeria japonica foliage"
+    ],
+    "2805": [
+        "arabinoxylan fraction of hemicellulose"
+    ],
+    "2806": [
+        "quarry dust"
+    ],
+    "2807": [
+        "filter aid material"
+    ],
+    "2808": [
+        "carbon dioxide"
+    ],
+    "2809": [
+        "sugar beet pulp"
+    ],
+    "2810": [
+        "wheat bran waste"
+    ],
+    "2811": [
+        "Lactate-rich waste stream"
+    ],
+    "2812": [
+        "empty cotton boll"
+    ],
+    "2813": [
+        "Horticultural waste"
+    ],
+    "2814": [
+        "combustion residue"
+    ],
+    "2815": [
+        "groundnut shell ash"
+    ],
+    "2816": [
+        "salt cake"
+    ],
+    "2817": [
+        "Clarias gariepinus droppings"
+    ],
+    "2818": [
+        "vegetable oil"
+    ],
+    "2819": [
+        "batter"
+    ],
+    "2820": [
+        "cassava fibrous waste enzyme hydrolysate"
+    ],
+    "2821": [
+        "nut"
+    ],
+    "2822": [
+        "steatite powder"
+    ],
+    "2823": [
+        "non-marketed mushrooms"
+    ],
+    "2824": [
+        "radioactive cobalt"
+    ],
+    "2825": [
+        "lipid-rich waste"
+    ],
+    "2826": [
+        "raw wool"
+    ],
+    "2827": [
+        "energy recovery"
+    ],
+    "2828": [
+        "expired milk powder"
+    ],
+    "2829": [
+        "saturated biodiesel fraction"
+    ],
+    "2830": [
+        "poultry waste"
+    ],
+    "2831": [
+        "hydrobiological waste"
+    ],
+    "2832": [
+        "palm oil clinker"
+    ],
+    "2833": [
+        "discarded cotton/polyester bed linens"
+    ],
+    "2834": [
+        "pepper waste"
+    ],
+    "2835": [
+        "Silybum marianum seed shells"
+    ],
+    "2836": [
+        "chokeberry juice pomace"
+    ],
+    "2837": [
+        "marine litter"
+    ],
+    "2838": [
+        "olive leaf"
+    ],
+    "2839": [
+        "remaining liquid fraction"
+    ],
+    "2840": [
+        "goat tissue"
+    ],
+    "2841": [
+        "scheduled waste"
+    ],
+    "2842": [
+        "grape skins"
+    ],
+    "2843": [
+        "Swiss chard leaf stalks"
+    ],
+    "2844": [
+        "low-value waste"
+    ],
+    "2845": [
+        "SF residue"
+    ],
+    "2846": [
+        "electronic capacitors"
+    ],
+    "2847": [
+        "carbon dioxide"
+    ],
+    "2848": [
+        "topsoil"
+    ],
+    "2849": [
+        "wild strawberry"
+    ],
+    "2850": [
+        "babassu mesocarp"
+    ],
+    "2851": [
+        "polylactic acid"
+    ],
+    "2852": [
+        "vegetable waste"
+    ],
+    "2853": [
+        "husk fibre"
+    ],
+    "2854": [
+        "fish liver oils"
+    ],
+    "2855": [
+        "press cake"
+    ],
+    "2856": [
+        "chickpea peel"
+    ],
+    "2857": [
+        "dregs"
+    ],
+    "2858": [
+        "sewage-derived material"
+    ],
+    "2859": [
+        "friction dust"
+    ],
+    "2860": [
+        "exhausted powder"
+    ],
+    "2861": [
+        "harmful organic pollutants"
+    ],
+    "2862": [
+        "Pteris vittata waste roots"
+    ],
+    "2863": [
+        "sugarcane bagasse"
+    ],
+    "2864": [
+        "fresh biomass waste"
+    ],
+    "2865": [
+        "ceramic tile waste"
+    ],
+    "2866": [
+        "arsenic wastewater"
+    ],
+    "2867": [
+        "food loss"
+    ],
+    "2868": [
+        "glycerin"
+    ],
+    "2869": [
+        "silicomanganese slag"
+    ],
+    "2870": [
+        "almond shells"
+    ],
+    "2871": [
+        "Taiwan sugar molasses"
+    ],
+    "2872": [
+        "PTFE"
+    ],
+    "2873": [
+        "iron oxide"
+    ],
+    "2874": [
+        "mud additives"
+    ],
+    "2875": [
+        "biorefining marine by-products"
+    ],
+    "2876": [
+        "tubers"
+    ],
+    "2877": [
+        "starchy feedstock"
+    ],
+    "2878": [
+        "exhaust coffee grounds"
+    ],
+    "2879": [
+        "critical elements"
+    ],
+    "2880": [
+        "dissolved pollutants"
+    ],
+    "2881": [
+        "fermented solid"
+    ],
+    "2882": [
+        "traditional equipment installations"
+    ],
+    "2883": [
+        "solid deposition"
+    ],
+    "2884": [
+        "chlorogenic acid"
+    ],
+    "2885": [
+        "hemodialysis wastewater"
+    ],
+    "2886": [
+        "leather wastewater"
+    ],
+    "2887": [
+        "fluorine waste"
+    ],
+    "2888": [
+        "organic molecule waste"
+    ],
+    "2889": [
+        "swimming bladder"
+    ],
+    "2890": [
+        "carob bean grounds"
+    ],
+    "2891": [
+        "recalcitrant compounds"
+    ],
+    "2892": [
+        "tomato processing waste",
+        "tomato waste"
+    ],
+    "2893": [
+        "carbon source"
+    ],
+    "2894": [
+        "greenhouse gas"
+    ],
+    "2895": [
+        "mineral matrices"
+    ],
+    "2896": [
+        "plastic bags"
+    ],
+    "2897": [
+        "waste fish oil"
+    ],
+    "2898": [
+        "free fatty acids"
+    ],
+    "2899": [
+        "gari"
+    ],
+    "2900": [
+        "whey sugars"
+    ],
+    "2901": [
+        "targeted species"
+    ],
+    "2902": [
+        "over quotas"
+    ],
+    "2903": [
+        "television printed circuit boards"
+    ],
+    "2904": [
+        "pharmaceutical waste"
+    ],
+    "2905": [
+        "nickeliferous pyrrhotite"
+    ],
+    "2906": [
+        "industrial by-products"
+    ],
+    "2907": [
+        "crude glycerol phase"
+    ],
+    "2908": [
+        "non-cellulosic components"
+    ],
+    "2909": [
+        "squash"
+    ],
+    "2910": [
+        "stover"
+    ],
+    "2911": [
+        "Eucalyptus globulus wood"
+    ],
+    "2912": [
+        "skin waste"
+    ],
+    "2913": [
+        "inedible dough"
+    ],
+    "2914": [
+        "dechlorinated PVC"
+    ],
+    "2915": [
+        "Ascaris lumbricoides eggs"
+    ],
+    "2916": [
+        "kneading sludge"
+    ],
+    "2917": [
+        "annatto fiber"
+    ],
+    "2918": [
+        "oily grinding sludge"
+    ],
+    "2919": [
+        "marble waste"
+    ],
+    "2920": [
+        "pruned apple branches"
+    ],
+    "2921": [
+        "head"
+    ],
+    "2922": [
+        "vine pruning residue hydrolysate"
+    ],
+    "2923": [
+        "biofuel generation processes"
+    ],
+    "2924": [
+        "node"
+    ],
+    "2925": [
+        "small-caliber cones"
+    ],
+    "2926": [
+        "1,2,3-trichlorophenol"
+    ],
+    "2927": [
+        "humins"
+    ],
+    "2928": [
+        "cellulosic fibers"
+    ],
+    "2929": [
+        "n-alkanes"
+    ],
+    "2930": [
+        "explosives"
+    ],
+    "2931": [
+        "Gaza waste"
+    ],
+    "2932": [
+        "municipal by-product"
+    ],
+    "2933": [
+        "retired batteries"
+    ],
+    "2934": [
+        "municipal solid waste incineration fly ash"
+    ],
+    "2935": [
+        "agro-industrial by-product of high concentration of free fatty acids"
+    ],
+    "2936": [
+        "fluff"
+    ],
+    "2937": [
+        "butyric acid"
+    ],
+    "2938": [
+        "process waste"
+    ],
+    "2939": [
+        "seafood waste"
+    ],
+    "2940": [
+        "lubricant-based wastewater"
+    ],
+    "2941": [
+        "black polyethylene film"
+    ],
+    "2942": [
+        "swine blood"
+    ],
+    "2943": [
+        "disinfectants"
+    ],
+    "2944": [
+        "asbestos"
+    ],
+    "2945": [
+        "concrete fines"
+    ],
+    "2946": [
+        "plastic pollution"
+    ],
+    "2947": [
+        "commercial asphalt"
+    ],
+    "2948": [
+        "halogenated plastic"
+    ],
+    "2949": [
+        "mercury contaminated soil"
+    ],
+    "2950": [
+        "chromite ore content"
+    ],
+    "2951": [
+        "Adzuki bean cooking liquid"
+    ],
+    "2952": [
+        "fish processing wash water"
+    ],
+    "2953": [
+        "invert sugar"
+    ],
+    "2954": [
+        "hydrolyzed urine"
+    ],
+    "2955": [
+        "FPW bioactive compounds"
+    ],
+    "2956": [
+        "slate fibers"
+    ],
+    "2957": [
+        "flotation mud"
+    ],
+    "2958": [
+        "rockfill material"
+    ],
+    "2959": [
+        "combustible fraction"
+    ],
+    "2960": [
+        "bricks"
+    ],
+    "2961": [
+        "potassium chloride mining waste"
+    ],
+    "2962": [
+        "red ceramic waste"
+    ],
+    "2963": [
+        "cell-free supernatant of Alcaligenes aquatilis"
+    ],
+    "2964": [
+        "calcium hydroxide"
+    ],
+    "2965": [
+        "poplar waste"
+    ],
+    "2966": [
+        "ash"
+    ],
+    "2967": [
+        "pretreatment liquor"
+    ],
+    "2968": [
+        "volatile lead"
+    ],
+    "2969": [
+        "crown"
+    ],
+    "2970": [
+        "natural plastic"
+    ],
+    "2971": [
+        "redox reagents"
+    ],
+    "2972": [
+        "boiler sand"
+    ],
+    "2973": [
+        "fennel"
+    ],
+    "2974": [
+        "washed-ashore organic material"
+    ],
+    "2975": [
+        "unoptimized extraction method"
+    ],
+    "2976": [
+        "malachite green"
+    ],
+    "2977": [
+        "peach stones"
+    ],
+    "2978": [
+        "rice waste"
+    ],
+    "2979": [
+        "distillery stillage"
+    ],
+    "2980": [
+        "brittle"
+    ],
+    "2981": [
+        "galvanized sludge"
+    ],
+    "2982": [
+        "endocarp"
+    ],
+    "2983": [
+        "energy loss"
+    ],
+    "2984": [
+        "cassava-derived food products"
+    ],
+    "2985": [
+        "zootechnical residue"
+    ],
+    "2986": [
+        "nutrient-enriched sediment"
+    ],
+    "2987": [
+        "traditional pesticide"
+    ],
+    "2988": [
+        "hair sludge mixture"
+    ],
+    "2989": [
+        "microcrystalline cellulose"
+    ],
+    "2990": [
+        "municipal wastewater reuse concentrate"
+    ],
+    "2991": [
+        "Kaffir lime peel waste"
+    ],
+    "2992": [
+        "aqueous extract of Mandarin fruit"
+    ],
+    "2993": [
+        "metal oxide"
+    ],
+    "2994": [
+        "spent hazardous air pollutants"
+    ],
+    "2995": [
+        "tiger nut fiber"
+    ],
+    "2996": [
+        "clipped stems"
+    ],
+    "2997": [
+        "germ"
+    ],
+    "2998": [
+        "crabs"
+    ],
+    "2999": [
+        "raw attapulgite"
+    ],
+    "3000": [
+        "acetone"
+    ],
+    "3001": [
+        "vat dyes"
+    ],
+    "3002": [
+        "animal byproduct"
+    ],
+    "3003": [
+        "Sicana odorifera fruit epicarp"
+    ],
+    "3004": [
+        "snail shell waste"
+    ],
+    "3005": [
+        "biohydrogen production tailing liquid"
+    ],
+    "3006": [
+        "contaminated soil"
+    ],
+    "3007": [
+        "polymer waste"
+    ],
+    "3008": [
+        "titanium dioxide production residues"
+    ],
+    "3009": [
+        "garden leaf litter waste"
+    ],
+    "3010": [
+        "zeolite waste"
+    ],
+    "3011": [
+        "REEs mine wastewater"
+    ],
+    "3012": [
+        "virgin fiber"
+    ],
+    "3013": [
+        "waste dust",
+        "metal dust"
+    ],
+    "3014": [
+        "neutral mine effluent"
+    ],
+    "3015": [
+        "chlorides"
+    ],
+    "3016": [
+        "brewing industry waste"
+    ],
+    "3017": [
+        "PC/AT card"
+    ],
+    "3018": [
+        "resin"
+    ],
+    "3019": [
+        "bakery industry sludge"
+    ],
+    "3020": [
+        "grape seeds"
+    ],
+    "3021": [
+        "contaminated perfusion circuits"
+    ],
+    "3022": [
+        "spines"
+    ],
+    "3023": [
+        "shrimp carapaces"
+    ],
+    "3024": [
+        "egg"
+    ],
+    "3025": [
+        "rice husk ash"
+    ],
+    "3026": [
+        "agricultural waste"
+    ],
+    "3027": [
+        "pharmaceutical wastewater"
+    ],
+    "3028": [
+        "gossan waste"
+    ],
+    "3029": [
+        "biofilter bed media"
+    ],
+    "3030": [
+        "rigid PVC pipe"
+    ],
+    "3031": [
+        "textiles"
+    ],
+    "3032": [
+        "tree trimming waste"
+    ],
+    "3033": [
+        "toxic organic compounds"
+    ],
+    "3034": [
+        "durian rind cellulose"
+    ],
+    "3035": [
+        "sweet chestnut cupules"
+    ],
+    "3036": [
+        "chromium"
+    ],
+    "3037": [
+        "recycled cellulose fiber"
+    ],
+    "3038": [
+        "marine biomass"
+    ],
+    "3039": [
+        "trypsin inhibitors"
+    ],
+    "3040": [
+        "potato industry waste"
+    ],
+    "3041": [
+        "iron"
+    ],
+    "3042": [
+        "waste banknotes"
+    ],
+    "3043": [
+        "municipal solid waste"
+    ],
+    "3044": [
+        "phosphorus-rich waste"
+    ],
+    "3045": [
+        "biogenic peptides"
+    ],
+    "3046": [
+        "solid waste tailings"
+    ],
+    "3047": [
+        "walnut pellicle"
+    ],
+    "3048": [
+        "leftover shrimp"
+    ],
+    "3049": [
+        "serpentinized minerals"
+    ],
+    "3050": [
+        "selenium(IV)"
+    ],
+    "3051": [
+        "alcohol mash"
+    ],
+    "3052": [
+        "solid waste flow"
+    ],
+    "3053": [
+        "electroplating sludge"
+    ],
+    "3054": [
+        "citrus waste",
+        "citrus peel waste"
+    ],
+    "3055": [
+        "substance used"
+    ],
+    "3056": [
+        "heavy metal waste"
+    ],
+    "3057": [
+        "water vapor"
+    ],
+    "3058": [
+        "spent metal manufacturing oil"
+    ],
+    "3059": [
+        "local soil"
+    ],
+    "3060": [
+        "cork"
+    ],
+    "3061": [
+        "flammable insulation material"
+    ],
+    "3062": [
+        "coproducts"
+    ],
+    "3063": [
+        "Polyaniline Pectin Biocomposite"
+    ],
+    "3064": [
+        "insulation waste"
+    ],
+    "3065": [
+        "solar panel waste"
+    ],
+    "3066": [
+        "red pepper stalk"
+    ],
+    "3067": [
+        "pristine sludge pyrochar"
+    ],
+    "3068": [
+        "SCOBY waste"
+    ],
+    "3069": [
+        "cheese"
+    ],
+    "3070": [
+        "fish waste"
+    ],
+    "3071": [
+        "palm oil mill effluent"
+    ],
+    "3072": [
+        "corn stalk swine waste compost"
+    ],
+    "3073": [
+        "potassium permanganate conditioned sludge",
+        "polyhexamethylenebiguanide conditioned sludge"
+    ],
+    "3074": [
+        "abattoir bone waste"
+    ],
+    "3075": [
+        "pistachio waste"
+    ],
+    "3076": [
+        "food supply chain"
+    ],
+    "3077": [
+        "biomass conversion waste"
+    ],
+    "3078": [
+        "fruit and vegetable waste"
+    ],
+    "3079": [
+        "landfill fine fraction waste"
+    ],
+    "3080": [
+        "buriti oil refining residue"
+    ],
+    "3081": [
+        "cashew pseudofruit residue"
+    ],
+    "3082": [
+        "marine-derived oil"
+    ],
+    "3083": [
+        "ethanol"
+    ],
+    "3084": [
+        "gilded catfish waste"
+    ],
+    "3085": [
+        "Caryocar coriaceum bark residues"
+    ],
+    "3086": [
+        "liner"
+    ],
+    "3087": [
+        "yttrium oxide"
+    ],
+    "3088": [
+        "fungicide"
+    ],
+    "3089": [
+        "lupin wastewater"
+    ],
+    "3090": [
+        "organic phosphorus contaminant"
+    ],
+    "3091": [
+        "exhausted lithium nickel cobalt manganese dioxide cathode material"
+    ],
+    "3092": [
+        "sodium hydroxide enriched wastewater"
+    ],
+    "3093": [
+        "heat"
+    ],
+    "3094": [
+        "single-use face mask"
+    ],
+    "3095": [
+        "synthetic solution with flavine"
+    ],
+    "3096": [
+        "soursop residue"
+    ],
+    "3097": [
+        "bone tissue"
+    ],
+    "3098": [
+        "fibre cement tiles"
+    ],
+    "3099": [
+        "end-of-life tires"
+    ],
+    "3100": [
+        "organic sludge"
+    ],
+    "3101": [
+        "L. albus seed coatings"
+    ],
+    "3102": [
+        "disused pallets"
+    ],
+    "3103": [
+        "cherry stone"
+    ],
+    "3104": [
+        "branches"
+    ],
+    "3105": [
+        "ink-jet cartridges"
+    ],
+    "3106": [
+        "brittle plastic waste"
+    ],
+    "3107": [
+        "date stone"
+    ],
+    "3108": [
+        "postconsumer polyurethane"
+    ],
+    "3109": [
+        "total phenols"
+    ],
+    "3110": [
+        "deproteinized rapeseed meal residue"
+    ],
+    "3111": [
+        "municipal waste biological treatment",
+        "landfill waste"
+    ],
+    "3112": [
+        "giant reed"
+    ],
+    "3113": [
+        "granite waste"
+    ],
+    "3114": [
+        "demolition debris"
+    ],
+    "3115": [
+        "2,4-diaminotoluene"
+    ],
+    "3116": [
+        "non-marketable carrots"
+    ],
+    "3117": [
+        "end-of-life mosquito nets"
+    ],
+    "3118": [
+        "effluent components"
+    ],
+    "3119": [
+        "common starfish"
+    ],
+    "3120": [
+        "food waste powder"
+    ],
+    "3121": [
+        "wood aggregate"
+    ],
+    "3122": [
+        "frying oil waste"
+    ],
+    "3123": [
+        "aqueous phase by-product"
+    ],
+    "3124": [
+        "nitrogen",
+        "nutrients"
+    ],
+    "3125": [
+        "Molybdenite Flue Dust"
+    ],
+    "3126": [
+        "tamarind seed ash"
+    ],
+    "3127": [
+        "de-proteinized fiber-rich residue"
+    ],
+    "3128": [
+        "dairy manure"
+    ],
+    "3129": [
+        "lignite"
+    ],
+    "3130": [
+        "fruit by-products"
+    ],
+    "3131": [
+        "high density polyethylene detergent bottle"
+    ],
+    "3132": [
+        "carbon dioxide inputs"
+    ],
+    "3133": [
+        "undesirable oxygen"
+    ],
+    "3134": [
+        "corn stover"
+    ],
+    "3135": [
+        "American bullfrog skin"
+    ],
+    "3136": [
+        "cacao fiber"
+    ],
+    "3137": [
+        "pecan nut cake"
+    ],
+    "3138": [
+        "Waste LCOd"
+    ],
+    "3139": [
+        "broccoli co-products"
+    ],
+    "3140": [
+        "fiber-rich shells"
+    ],
+    "3141": [
+        "floral foam waste"
+    ],
+    "3142": [
+        "heterogeneous plastic mixture"
+    ],
+    "3143": [
+        "manganese"
+    ],
+    "3144": [
+        "apple tree stem"
+    ],
+    "3145": [
+        "areca nut husk agro-waste"
+    ],
+    "3146": [
+        "natural products"
+    ],
+    "3147": [
+        "organic reagent"
+    ],
+    "3148": [
+        "asparagus fiber"
+    ],
+    "3149": [
+        "chestnut shell hydrolysate"
+    ],
+    "3150": [
+        "manure slurry"
+    ],
+    "3151": [
+        "fish scales waste"
+    ],
+    "3152": [
+        "Fe(II)-contaminated bentonite"
+    ],
+    "3153": [
+        "discarded printing toner"
+    ],
+    "3154": [
+        "black bean waste"
+    ],
+    "3155": [
+        "calcined clay mineral"
+    ],
+    "3156": [
+        "reducing sugar"
+    ],
+    "3157": [
+        "medical-grade disposable products"
+    ],
+    "3158": [
+        "carbon dioxide waste"
+    ],
+    "3159": [
+        "bauxite"
+    ],
+    "3160": [
+        "zearalenone"
+    ],
+    "3161": [
+        "virgin metallic particles"
+    ],
+    "3162": [
+        "black-odor water"
+    ],
+    "3163": [
+        "segment membranes"
+    ],
+    "3164": [
+        "algal residue"
+    ],
+    "3165": [
+        "composted fish by-products"
+    ],
+    "3166": [
+        "anchovy fillet leftovers"
+    ],
+    "3167": [
+        "Chloride media"
+    ],
+    "3168": [
+        "potato juice"
+    ],
+    "3169": [
+        "nitrophenol-contaminated industrial effluents"
+    ],
+    "3170": [
+        "defatted cake"
+    ],
+    "3171": [
+        "alkaline battery paste"
+    ],
+    "3172": [
+        "boiled fish bones"
+    ],
+    "3173": [
+        "low value weeds"
+    ],
+    "3174": [
+        "waste brine"
+    ],
+    "3175": [
+        "urea"
+    ],
+    "3176": [
+        "medium-density fiberboard"
+    ],
+    "3177": [
+        "unpurified starting fibres"
+    ],
+    "3178": [
+        "oil-contaminated water"
+    ],
+    "3179": [
+        "rice"
+    ],
+    "3180": [
+        "stranded debris"
+    ],
+    "3181": [
+        "Uruguayan rice husk"
+    ],
+    "3182": [
+        "packaging glass"
+    ],
+    "3183": [
+        "distilled plant material"
+    ],
+    "3184": [
+        "cattle manure"
+    ],
+    "3185": [
+        "lead-rich glass waste"
+    ],
+    "3186": [
+        "recycled bran"
+    ],
+    "3187": [
+        "crushed brick"
+    ],
+    "3188": [
+        "synthetic food waste"
+    ],
+    "3189": [
+        "N/A"
+    ],
+    "3190": [
+        "iron sludge"
+    ],
+    "3191": [
+        "Poly (methyl-methacrylate) particles"
+    ],
+    "3192": [
+        "scrap ceramic tiles"
+    ],
+    "3193": [
+        "exhausted solids"
+    ],
+    "3194": [
+        "agro-food waste rich in fats and oils"
+    ],
+    "3195": [
+        "discarded fire extinguishers"
+    ],
+    "3196": [
+        "durian shell biomass"
+    ],
+    "3197": [
+        "waste plastic film"
+    ],
+    "3198": [
+        "cadmium waste"
+    ],
+    "3199": [
+        "citrus waste"
+    ],
+    "3200": [
+        "heritage materials"
+    ],
+    "3201": [
+        "dam sediments"
+    ],
+    "3202": [
+        "intestinal residue"
+    ],
+    "3203": [
+        "sea buckthorn pomace"
+    ],
+    "3204": [
+        "paper residue"
+    ],
+    "3205": [
+        "RBW"
+    ],
+    "3206": [
+        "colorant production liquid waste"
+    ],
+    "3207": [
+        "tilapia scale"
+    ],
+    "3208": [
+        "nickel sulphide mine tailings"
+    ],
+    "3209": [
+        "traditional solvent"
+    ],
+    "3210": [
+        "active cathode materials"
+    ],
+    "3211": [
+        "veterinary medication"
+    ],
+    "3212": [
+        "dewatered sludge"
+    ],
+    "3213": [
+        "antibiotics in wastewater"
+    ],
+    "3214": [
+        "hazardous waste"
+    ],
+    "3215": [
+        "sago starch"
+    ],
+    "3216": [
+        "saline solids"
+    ],
+    "3217": [
+        "furfural residue"
+    ],
+    "3218": [
+        "macroalgal bloom"
+    ],
+    "3219": [
+        "biomass residual derived fuel"
+    ],
+    "3220": [
+        "vanillin"
+    ],
+    "3221": [
+        "croaker waste"
+    ],
+    "3222": [
+        "waste activated sludge"
+    ],
+    "3223": [
+        "contaminant electrons"
+    ],
+    "3224": [
+        "Chinese medicine waste"
+    ],
+    "3225": [
+        "nonrenewable fossil feedstock"
+    ],
+    "3226": [
+        "bread crust"
+    ],
+    "3227": [
+        "unutilized product"
+    ],
+    "3228": [
+        "dyed natural wool"
+    ],
+    "3229": [
+        "biomass-derived glucose"
+    ],
+    "3230": [
+        "round wood"
+    ],
+    "3231": [
+        "domestic programmed waste"
+    ],
+    "3232": [
+        "distillery by-products"
+    ],
+    "3233": [
+        "global food waste"
+    ],
+    "3234": [
+        "protein-rich fraction"
+    ],
+    "3235": [
+        "colostrum"
+    ],
+    "3236": [
+        "corn by-products"
+    ],
+    "3237": [
+        "moss"
+    ],
+    "3238": [
+        "Achillea millefolium waste"
+    ],
+    "3239": [
+        "bamboo chips"
+    ],
+    "3240": [
+        "Pongamia pinnata crude oil"
+    ],
+    "3241": [
+        "fossil-based polymer"
+    ],
+    "3242": [
+        "poultry litter"
+    ],
+    "3243": [
+        "pomegranate leaf powder"
+    ],
+    "3244": [
+        "sewage sludge"
+    ],
+    "3245": [
+        "aluminum"
+    ],
+    "3246": [
+        "hemp seed meal"
+    ],
+    "3247": [
+        "steep solids"
+    ],
+    "3248": [
+        "water hyacinth biochar"
+    ],
+    "3249": [
+        "silica-containing alternative feedstock"
+    ],
+    "3250": [
+        "pinh\u00e3o coat"
+    ],
+    "3251": [
+        "drywall waste"
+    ],
+    "3252": [
+        "refuse-derived fuel"
+    ],
+    "3253": [
+        "biochar"
+    ],
+    "3254": [
+        "buttermilk"
+    ],
+    "3255": [
+        "heat-treated industrial waste soil"
+    ],
+    "3256": [
+        "extruded polystyrene"
+    ],
+    "3257": [
+        "dissolved organic nitrogen"
+    ],
+    "3258": [
+        "soybean waste"
+    ],
+    "3259": [
+        "tuna discard"
+    ],
+    "3260": [
+        "broiler industry waste"
+    ],
+    "3261": [
+        "Setaria italica bio-waste"
+    ],
+    "3262": [
+        "taro peel waste"
+    ],
+    "3263": [
+        "tetrahydrofuran"
+    ],
+    "3264": [
+        "magnesium alloy grinding dust"
+    ],
+    "3265": [
+        "low-density polyethylene scrap"
+    ],
+    "3266": [
+        "wheat straw acid hydrolysate"
+    ],
+    "3267": [
+        "stubble"
+    ],
+    "3268": [
+        "food product"
+    ],
+    "3269": [
+        "carrot waste"
+    ],
+    "3270": [
+        "dairy waste"
+    ],
+    "3271": [
+        "overburden"
+    ],
+    "3272": [
+        "dried umbu residue"
+    ],
+    "3273": [
+        "food delivery waste"
+    ],
+    "3274": [
+        "micro-fined collagenous buffing dust"
+    ],
+    "3275": [
+        "leftover noodles"
+    ],
+    "3276": [
+        "pomegranate marc"
+    ],
+    "3277": [
+        "organic material"
+    ],
+    "3278": [
+        "dry waste"
+    ],
+    "3279": [
+        "filleting waste"
+    ],
+    "3280": [
+        "ship-generated organic waste"
+    ],
+    "3281": [
+        "contaminants"
+    ],
+    "3282": [
+        "chicken feather peptone"
+    ],
+    "3283": [
+        "textile fibers"
+    ],
+    "3284": [
+        "marigold waste"
+    ],
+    "3285": [
+        "waste from daptomycin production"
+    ],
+    "3286": [
+        "alumina"
+    ],
+    "3287": [
+        "Radix Astragali residue"
+    ],
+    "3288": [
+        "degradable sugar"
+    ],
+    "3289": [
+        "cherry waste"
+    ],
+    "3290": [
+        "wipes"
+    ],
+    "3291": [
+        "codigested waste"
+    ],
+    "3292": [
+        "unidentified compounds"
+    ],
+    "3293": [
+        "waste substrate",
+        "biomass waste substrate"
+    ],
+    "3294": [
+        "snail shell powder"
+    ],
+    "3295": [
+        "agricultural waste"
+    ],
+    "3296": [
+        "complex sugars"
+    ],
+    "3297": [
+        "water clarification sludge"
+    ],
+    "3298": [
+        "recalcitrant \u03b2-glucan"
+    ],
+    "3299": [
+        "electrostatic precipitator ash leachate"
+    ],
+    "3300": [
+        "vegetable waste extract"
+    ],
+    "3301": [
+        "sheep cheese whey"
+    ],
+    "3302": [
+        "tire rubber"
+    ],
+    "3303": [
+        "frass fertilizer"
+    ],
+    "3304": [
+        "solid organic waste"
+    ],
+    "3305": [
+        "gravel wash waste",
+        "sand wash waste"
+    ],
+    "3306": [
+        "emulsified plant oil"
+    ],
+    "3307": [
+        "carpet waste"
+    ],
+    "3308": [
+        "propylparaben"
+    ],
+    "3309": [
+        "spillage waste"
+    ],
+    "3310": [
+        "metal slurry"
+    ],
+    "3311": [
+        "co-products"
+    ],
+    "3312": [
+        "oil waste"
+    ],
+    "3313": [
+        "Nylon 6"
+    ],
+    "3314": [
+        "coumaric acid"
+    ],
+    "3315": [
+        "recyclable waste"
+    ],
+    "3316": [
+        "fishbone biowaste"
+    ],
+    "3317": [
+        "biomass fly ash"
+    ],
+    "3318": [
+        "composting leachate"
+    ],
+    "3319": [
+        "soybean processing wastewater"
+    ],
+    "3320": [
+        "milk dust powder"
+    ],
+    "3321": [
+        "protein by-products"
+    ],
+    "3322": [
+        "total petroleum hydrocarbons"
+    ],
+    "3323": [
+        "rubberwood waste"
+    ],
+    "3324": [
+        "cottonseed meal"
+    ],
+    "3325": [
+        "Lactobacillus rhamnosus"
+    ],
+    "3326": [
+        "beer residue"
+    ],
+    "3327": [
+        "limestone powder waste"
+    ],
+    "3328": [
+        "molybdenum contamination"
+    ],
+    "3329": [
+        "CFP wastewater"
+    ],
+    "3330": [
+        "synthetic insecticides"
+    ],
+    "3331": [
+        "trace organic compounds"
+    ],
+    "3332": [
+        "tomato sauce"
+    ],
+    "3333": [
+        "heavy metal-laden sludge"
+    ],
+    "3334": [
+        "filleting biomass"
+    ],
+    "3335": [
+        "screw pine"
+    ],
+    "3336": [
+        "cocciopesto"
+    ],
+    "3337": [
+        "open burning waste"
+    ],
+    "3338": [
+        "oxidized lignin"
+    ],
+    "3339": [
+        "sisal fiber powder contaminated by industrial oil"
+    ],
+    "3340": [
+        "calamansi"
+    ],
+    "3341": [
+        "marine clay"
+    ],
+    "3342": [
+        "biomass washout"
+    ],
+    "3343": [
+        "jasmine foliage"
+    ],
+    "3344": [
+        "juice wastewater"
+    ],
+    "3345": [
+        "bag filter dust"
+    ],
+    "3346": [
+        "polyoxymethylene polymer"
+    ],
+    "3347": [
+        "selenium-contaminated soil"
+    ],
+    "3348": [
+        "pumice powder"
+    ],
+    "3349": [
+        "heavy metal concentration"
+    ],
+    "3350": [
+        "rock wool"
+    ],
+    "3351": [
+        "waste buoy"
+    ],
+    "3352": [
+        "gluten"
+    ],
+    "3353": [
+        "calcareous sludge"
+    ],
+    "3354": [
+        "HPAL residue"
+    ],
+    "3355": [
+        "waste-to-resource conversion process"
+    ],
+    "3356": [
+        "cellulose-rich sludge"
+    ],
+    "3357": [
+        "spent jasmine tea"
+    ],
+    "3358": [
+        "citrus pectins"
+    ],
+    "3359": [
+        "industrial steam distillation waste"
+    ],
+    "3360": [
+        "regular sand"
+    ],
+    "3361": [
+        "South Korean food waste"
+    ],
+    "3362": [
+        "Microcystis aeruginosa"
+    ],
+    "3363": [
+        "personal protective equipment"
+    ],
+    "3364": [
+        "hydrothermal liquefaction aqueous phase"
+    ],
+    "3365": [
+        "tofu liquid waste"
+    ],
+    "3366": [
+        "dragon fruit waste"
+    ],
+    "3367": [
+        "high fiber waste"
+    ],
+    "3368": [
+        "contaminants"
+    ],
+    "3369": [
+        "land-farmed oil sludge"
+    ],
+    "3370": [
+        "triglycerides from vegetable oil"
+    ],
+    "3371": [
+        "agricultural byproducts"
+    ],
+    "3372": [
+        "oil palm empty fruit bunch"
+    ],
+    "3373": [
+        "end-of-life solar panels"
+    ],
+    "3374": [
+        "smoke"
+    ],
+    "3375": [
+        "bacteria"
+    ],
+    "3376": [
+        "tire production waste"
+    ],
+    "3377": [
+        "financial constraint"
+    ],
+    "3378": [
+        "salmon carcasses"
+    ],
+    "3379": [
+        "petroleum sulfonate"
+    ],
+    "3380": [
+        "hydrosol"
+    ],
+    "3381": [
+        "root washing liquid waste"
+    ],
+    "3382": [
+        "isobutyrate-rich waste stream"
+    ],
+    "3383": [
+        "magnesium slag"
+    ],
+    "3384": [
+        "larval residue"
+    ],
+    "3385": [
+        "steel fibers"
+    ],
+    "3386": [
+        "exhausted black wattle bark"
+    ],
+    "3387": [
+        "organic effluent"
+    ],
+    "3388": [
+        "mine-impacted water"
+    ],
+    "3389": [
+        "keyboards"
+    ],
+    "3390": [
+        "seed oils"
+    ],
+    "3391": [
+        "volcanic pyroclastic deposit"
+    ],
+    "3392": [
+        "gangue"
+    ],
+    "3393": [
+        "carbon dioxide"
+    ],
+    "3394": [
+        "non-volatile fraction"
+    ],
+    "3395": [
+        "Gainesville diet"
+    ],
+    "3396": [
+        "forestry waste"
+    ],
+    "3397": [
+        "spent fluid catalytic cracking catalyst"
+    ],
+    "3398": [
+        "orange"
+    ],
+    "3399": [
+        "coal gasification fly ash"
+    ],
+    "3400": [
+        "coffee waste"
+    ],
+    "3401": [
+        "lignocellulosic waste"
+    ],
+    "3402": [
+        "silk sericin"
+    ],
+    "3403": [
+        "Treated Patellidae Shells"
+    ],
+    "3404": [
+        "jackfruit seed powder"
+    ],
+    "3405": [
+        "acorn peel"
+    ],
+    "3406": [
+        "toxic mordants"
+    ],
+    "3407": [
+        "Camellia oleifera shells"
+    ],
+    "3408": [
+        "sour cherry shell powder"
+    ],
+    "3409": [
+        "palm oil compost"
+    ],
+    "3410": [
+        "ultrapure water"
+    ],
+    "3411": [
+        "discarded snakehead fish scales"
+    ],
+    "3412": [
+        "wastewater generated during the hydrothermal liquefaction process"
+    ],
+    "3413": [
+        "blackberry"
+    ],
+    "3414": [
+        "medicinal plant residues"
+    ],
+    "3415": [
+        "mucus"
+    ],
+    "3416": [
+        "dye"
+    ],
+    "3417": [
+        "hemicellulosic corncob liquor"
+    ],
+    "3418": [
+        "coffee pulp"
+    ],
+    "3419": [
+        "second cheese whey"
+    ],
+    "3420": [
+        "mixed office waste"
+    ],
+    "3421": [
+        "used cooking oil"
+    ],
+    "3422": [
+        "discarded apparel"
+    ],
+    "3423": [
+        "C1 gaseous substrates"
+    ],
+    "3424": [
+        "bio-modifier derived from castor oil"
+    ],
+    "3425": [
+        "resource scarcity"
+    ],
+    "3426": [
+        "fibrous waste"
+    ],
+    "3427": [
+        "de-oiled microalgae biomass"
+    ],
+    "3428": [
+        "emergent organic compounds"
+    ],
+    "3429": [
+        "combustion ash"
+    ],
+    "3430": [
+        "mining residue sludge"
+    ],
+    "3431": [
+        "industrial sand blasting by-product"
+    ],
+    "3432": [
+        "Eucheuma cottonii residue"
+    ],
+    "3433": [
+        "inorganic sludge"
+    ],
+    "3434": [
+        "hazelnut waste"
+    ],
+    "3435": [
+        "beverage waste"
+    ],
+    "3436": [
+        "khat waste"
+    ],
+    "3437": [
+        "eggshell membrane"
+    ],
+    "3438": [
+        "footwear"
+    ],
+    "3439": [
+        "carbonates"
+    ],
+    "3440": [
+        "Aronia melanocarpa pomace"
+    ],
+    "3441": [
+        "Opuntia ficus-indica fruit waste"
+    ],
+    "3442": [
+        "personal protective equipment"
+    ],
+    "3443": [
+        "grape seed"
+    ],
+    "3444": [
+        "crude plant oil"
+    ],
+    "3445": [
+        "oil-impregnated filter material"
+    ],
+    "3446": [
+        "methane from food waste"
+    ],
+    "3447": [
+        "blood"
+    ],
+    "3448": [
+        "Buriti by-product"
+    ],
+    "3449": [
+        "wine by-products"
+    ],
+    "3450": [
+        "poultry leachate"
+    ],
+    "3451": [
+        "RPAR"
+    ],
+    "3452": [
+        "poultry bone"
+    ],
+    "3453": [
+        "industrial waste biomass"
+    ],
+    "3454": [
+        "cationic dye"
+    ],
+    "3455": [
+        "seed by-product"
+    ],
+    "3456": [
+        "blood stick water sample"
+    ],
+    "3457": [
+        "aluminium-containing hematite"
+    ],
+    "3458": [
+        "mixed plastic"
+    ],
+    "3459": [
+        "automotive headlight housing"
+    ],
+    "3460": [
+        "shell"
+    ],
+    "3461": [
+        "domestic solid waste"
+    ],
+    "3462": [
+        "mango peel biomass"
+    ],
+    "3463": [
+        "willow bark"
+    ],
+    "3464": [
+        "metallurgical waste catalyst"
+    ],
+    "3465": [
+        "lipid effluent"
+    ],
+    "3466": [
+        "horticulture wooden waste"
+    ],
+    "3467": [
+        "fire-protecting clothing"
+    ],
+    "3468": [
+        "muddy residue"
+    ],
+    "3469": [
+        "scrap tires rubber"
+    ],
+    "3470": [
+        "animal feed"
+    ],
+    "3471": [
+        "soil sample"
+    ],
+    "3472": [
+        "BOF slag powder"
+    ],
+    "3473": [
+        "contaminated soil"
+    ],
+    "3474": [
+        "ignimbrite dust"
+    ],
+    "3475": [
+        "incinerated waste"
+    ],
+    "3476": [
+        "melon seeds"
+    ],
+    "3477": [
+        "steam residues"
+    ],
+    "3478": [
+        "cell disruption"
+    ],
+    "3479": [
+        "hard-drive printed circuit boards"
+    ],
+    "3480": [
+        "sunflower straw"
+    ],
+    "3481": [
+        "magnesium aluminum waste"
+    ],
+    "3482": [
+        "historic slag"
+    ],
+    "3483": [
+        "beetroot waste"
+    ],
+    "3484": [
+        "cocoa husk"
+    ],
+    "3485": [
+        "silver ions"
+    ],
+    "3486": [
+        "COVID-19 waste"
+    ],
+    "3487": [
+        "leather waste"
+    ],
+    "3488": [
+        "dust-laden gas"
+    ],
+    "3489": [
+        "food supply chain waste"
+    ],
+    "3490": [
+        "spent yeast"
+    ],
+    "3491": [
+        "organic solvent residues"
+    ],
+    "3492": [
+        "shredded face masks"
+    ],
+    "3493": [
+        "silk"
+    ],
+    "3494": [
+        "granite dust"
+    ],
+    "3495": [
+        "grape skin waste"
+    ],
+    "3496": [
+        "general waste"
+    ],
+    "3497": [
+        "biomass polymer"
+    ],
+    "3498": [
+        "rhodamine B"
+    ],
+    "3499": [
+        "pea shells"
+    ],
+    "3500": [
+        "reed straw"
+    ],
+    "3501": [
+        "surgical mask waste"
+    ],
+    "3502": [
+        "tomato stems"
+    ],
+    "3503": [
+        "Saccharum spontaneum"
+    ],
+    "3504": [
+        "cement-based waste"
+    ],
+    "3505": [
+        "parabens"
+    ],
+    "3506": [
+        "pineapple peel"
+    ],
+    "3507": [
+        "abandoned eggshell"
+    ],
+    "3508": [
+        "high-calorific waste"
+    ],
+    "3509": [
+        "sour cherry pits"
+    ],
+    "3510": [
+        "contaminating material"
+    ],
+    "3511": [
+        "tallow-based jelly"
+    ],
+    "3512": [
+        "grape stems"
+    ],
+    "3513": [
+        "aqueous chemicals"
+    ],
+    "3514": [
+        "Recycled neodymium iron boron magnet powders"
+    ],
+    "3515": [
+        "polluted run-off"
+    ],
+    "3516": [
+        "off-specification compost"
+    ],
+    "3517": [
+        "steelmaking by-products"
+    ],
+    "3518": [
+        "sewage sludge extract"
+    ],
+    "3519": [
+        "electrode material"
+    ],
+    "3520": [
+        "food waste"
+    ],
+    "3521": [
+        "globe artichoke roots"
+    ],
+    "3522": [
+        "reverse osmosis brine"
+    ],
+    "3523": [
+        "cotton waste"
+    ],
+    "3524": [
+        "electronic waste"
+    ],
+    "3525": [
+        "crude confectionery waste hydrolysates"
+    ],
+    "3526": [
+        "saccharified waste potato"
+    ],
+    "3527": [
+        "wastewater feedstock"
+    ],
+    "3528": [
+        "isobutyrate"
+    ],
+    "3529": [
+        "reactor digestate"
+    ],
+    "3530": [
+        "biomass waste"
+    ],
+    "3531": [
+        "asphalt tic fraction"
+    ],
+    "3532": [
+        "industrial paper mill lignocellulosic hydrolysate"
+    ],
+    "3533": [
+        "high-energy consuming technology"
+    ],
+    "3534": [
+        "mussel processing waste"
+    ],
+    "3535": [
+        "kapok fiber"
+    ],
+    "3536": [
+        "kaolin"
+    ],
+    "3537": [
+        "pulp extract",
+        "skin extract"
+    ]
+}

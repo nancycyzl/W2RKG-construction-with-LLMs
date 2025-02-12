@@ -1,0 +1,30 @@
+Statics for abstract:
+number of W2R sets:  4352
+number of unique wastes:  5979
+number of unique resources:  7010
+number of triples:  31259
+
+
+Statics for fulltext:
+number of W2R sets:  1248
+number of unique wastes:  2026
+number of unique resources:  2014
+number of triples:  12877
+
+
+Statics for all:
+number of W2R sets:  5600
+number of unique wastes:  7435
+number of unique resources:  8379
+number of triples:  44136
+
+
+After fusion (thre 0.8):
+number of waste entities:  3442
+number of resource entities:  4388
+number of triples:  32202
+
+After fusion (thre 0.7):
+number of waste entities:  2380
+number of resource entities:  2709
+number of triples:  30292
