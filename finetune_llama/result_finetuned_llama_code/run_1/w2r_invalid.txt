@@ -1,0 +1,11 @@
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"waste": ["sorghum waste", "sodium silicate extracted from sorghum waste", "trimethyl benzene", "KCl", "water"],
+"transformed_resource": ["adsorbent for Cr(VI) removal"]}
+<|eot_id|>
+
+----------
+

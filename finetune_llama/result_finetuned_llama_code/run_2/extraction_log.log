@@ -1,0 +1,803 @@
+Argument num: 50
+Argument start_index: None
+Argument save_dir: /content/drive/MyDrive/Colab Notebooks/W2R/extraction_finetune_unsloth/result_codestyle4/run_2
+Argument save_dir_rewrite: True
+Argument repeat: 5
+-----------------------------------------------------------------
+----------------------------------
+Processing abstract 0
+Coded abstract: 
+The valorization of tannins from forest by-products is a major opportunity for the sustainable development of the forestry industry. Herein we report the laccase-mediated polymerization of tannins obtained from an aqueous pine bark extract. The reaction was conducted under an oxygen atmosphere at 50°C for 60 min and followed by UV–Vis, fluorescence intensity, phenol content, and viscosity measurements. An insoluble polymer was obtained after 45 min, which was attributed to coupling reactions triggered by phenoxyl radicals within the tannins mixture. The polymer showed a marked increase in thermal stability compared with the precursor pine bark extract, with a total mass loss of less than 12% at temperatures up to 500°C, suggesting potential practical applications in flame retardant materials. Additionally, the polymer showed an 85% DPPH activity and a 60% attenuation of singlet oxygen release upon light irradiation, which supports antioxidant and photoprotective properties for the prepared material. To the best of our knowledge, this is the first report to describe the formation of an insoluble polymer by direct enzymatic reaction of an aqueous tannin extract. In this case, soluble tannins are the sole reactants used to produce a promising versatile material for forest waste valorization. © 2024 Wiley Periodicals LLC.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["forest by-products", "pine bark"]
+w2r["transformed_resource"] = ["insoluble polymer"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['forest by-products', 'pine bark'], 'transforming_process': [], 'transformed_resource': ['insoluble polymer'], 'reference': '10.1002/app.55437'}
+Time taken: 3.67 seconds
+----------------------------------
+Processing abstract 1
+Coded abstract: 
+The pyrolysis and co-pyrolysis characteristics of large abundant bio-wastes, namely date pits (DP), peanut shells (PS), coffee grounds (CG), and tea waste (TW) were investigated in detail. The TG/DTG and pyrolysis procedures were used to examine the thermal pyrolysis behavior of these agro-wastes and their blends (50%CG/50%DP, 50%CG/50%PS, 50%DP/50%PS, 50%TW/50% DP,50%TW/50%PS and 50%CG/50% TW by weight). The characterization of these feedstock has shown their suitability for energy and material valorization. Experiments were carried out in a batch pyrolysis at a medium heating rate of 10 °C/min. The goal was to identify the best combination aiming to produce either char or hydrogen-rich gas, which can contribute to the development of the circular bio-economy. It was demonstrated that pyrolysis favored the liquid product, fluctuating from 34.31% (TW) to 50.92% (DP), while the co-pyrolysis greatly increased the gaseous product, which ranged between 42.02% (TW-DP) and 55.17% (PS-TW). The blending of CG and PS resulted in heightened reactivity, leading to an enhanced generation of H2 (34.44%). The optimal mixture was found to be CG-TW, showcasing superior performance in terms of gas quality (38.39% H2) and yield (53.74%). This outcome underscores the potential of CG and TW as a synergistic blend for efficient hydrogen-rich gas production. The FTIR findings revealed that the recovered biochars have the potential to serve as solid fuels, biofertilizers, or carbon materials. Additionally, they could be used as eco-friendly precursors for chemical and related industries. By analyzing various waste mixtures and their respective pyrolysis properties, this research aims to contribute to the development of sustainable waste management practices as well as efficient energy and material production methods. © 2024 The Institution of Chemical Engineers
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["date pits", "peanut shells", "coffee grounds", "tea waste"]
+w2r["transformed_resource"] = ["energy", "biochar", "hydrogen-rich gas", "biofertilizer", "carbon materials"]
+```<|eot_id|>
+Extracted w2r: 
+{'waste': ['date pits', 'peanut shells', 'coffee grounds', 'tea waste'], 'transforming_process': [], 'transformed_resource': ['energy', 'biochar', 'hydrogen-rich gas', 'biofertilizer', 'carbon materials'], 'reference': '10.1016/j.psep.2024.04.101'}
+Time taken: 4.97 seconds
+----------------------------------
+Processing abstract 2
+Coded abstract: 
+Utilizing recycled fibers as reinforcement in cement-based matrices is an effective means of promoting waste recycling and adopting a circular economy approach in the construction industry. Within this framework, the recycling and potential reutilization of textile residues can improve the pre- and post-cracking performance of cement-based matrices intended for building components with up to intermediate structural responsibilities (i.e., panels and cladding elements for buildings). This research is focused on the mechanical and durability -through forced aging of dry-wet and freeze-thaw cycles- experimental characterization of laminated fabric-reinforced cementitious matrices (FRCMs) containing 4 and 6 nonwoven fabric layers obtained from end-of-life fire-protecting t-shirts. For this purpose, both direct and flexural tensile tests were conducted to characterize the mechanical performance of the composite. The tests on the 6-fabric layers produced panels with Portland Cement (PC) matrix, after 28-day of curing, led to average values of the maximum tensile strength of 3.7 MPa with associated toughness index superior to 25 kJ/m2, and mean modulus of rupture of 11.6 MPa with a fracture energy index of 4.3 kJ/m2. After dry-wet accelerated aging, the post-cracking performance of the developed composites decreased (on average, 40% in toughness and 11% in strength) due to fiber embrittlement. To better understand the performance of aged composites, shredded fibers recovered from protective clothing (mainly consisting of meta-aramid fibers) were immersed in the binary matrix. Accordingly, the mechanical properties of the fibers after 5 and 10 cycles of dry-wet aging were studied. Based on the results, replacing partially PC by silica fume (between 30% and 50%) was seen as a sustainable alternative to improve the performance of the aged fibers by more than 10%. © 2024 The Authors
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["textile residues from end-of-life fire-protecting t-shirts"]
+w2r["transformed_resource"] = ["laminated fabric-reinforced cementitious matrices"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['textile residues from end-of-life fire-protecting t-shirts'], 'transforming_process': [], 'transformed_resource': ['laminated fabric-reinforced cementitious matrices'], 'reference': '10.1016/j.cscm.2024.e02994'}
+Time taken: 3.80 seconds
+----------------------------------
+Processing abstract 3
+Coded abstract: 
+Metathetic degradation has been recognized as promising strategy for the treatment of waste vulcanized rubbers as a Waste-to-Resources approach, not only eliminating the pollution but also recycling as resources. However, it was mainly used for the treatment of the waste vulcanized natural rubber, which contains plentiful cis-1,4- structure. Despite of a much higher consumption of the emulsion type butadiene-based rubbers than natural rubber, there was no report on the metathetic degradation of the waste vulcanized emulsion type butadiene-based rubbers due to their less cis-1,4- unit, although the metathetic functionalization of the nonvulcanized emulsion type butadiene-based rubbers have been well reported. Here, the metathetic degradation of waste vulcanized emulsion type butadiene-based rubber was explored with nitrile-butadiene rubber (NBR) glove as a model. Different from the metathetic degradation of waste vulcanized natural rubber via only cross metathesis between cis-1,4-structure and the chain transfer agent (CTA), the ring closing metathesis between the adjacent cis-1,4-structure and 1,2-structure also occurred in the metathetic degradation of waste vulcanized NBR. It is expected to open the door for the Waste-to-Resources approach of all waste vulcanized emulsion type diene-based rubbers. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+w2r["waste"] = ["waste vulcanized emulsion type butadiene-based rubber"]
+w2r["transformed_resource"] = ["functional materials"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['waste vulcanized emulsion type butadiene-based rubber'], 'transforming_process': [], 'transformed_resource': ['functional materials'], 'reference': '10.1016/j.polymdegradstab.2024.110780'}
+Time taken: 3.44 seconds
+----------------------------------
+Processing abstract 4
+Coded abstract: 
+Advanced thermochemical technologies for plastic waste valorization represent an interesting alternative to waste-to-energy options. They are particularly appealing for waste-to-hydrogen and waste-to-chemicals applications, with autothermal steam-oxygen gasification in fluidized bed reactors showing the greatest market potential. The study describes a series of experimental tests carried out on a large pilot-scale fluidized bed gasifier, using steam and O2-enriched air, with increasing fractions of oxygen. Different values of the main operating parameters are varied: equivalence ratio (0.22–0.25), steam-to-carbon ratio (0.7–1.13), and steam-to-oxygen ratio (up to 3.2). The fuel consists of real mixed plastic waste coming from separate collection of municipal solid wastes. The data obtained are used to investigate in depth the role of the main operating parameters and to improve and validate a recently developed one-dimensional kinetic model for waste gasification. The validation shows a good agreement between experimental data and model results, suggesting the reliability of the model to predict the reactor behavior under conditions of pure steam-oxygen gasification, relevant to many industrial applications. It has been found that the equivalence ratio is the parameter that most affects the syngas composition. At a constant equivalent ratio, the molar fraction of oxygen in the enriched air shows a limited influence on syngas composition while the steam is crucial in controlling the temperature along the reactor. Provided that the steam-to-carbon molar ratio is larger than 1.5, steam affects mainly the reactor temperature rather than the syngas composition, qualifying the steam-to-oxygen molar ratio as an instrumental parameter for smooth plant operation. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["mixed plastic waste"], w2r["transformed_resource"] = ["syngas"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['mixed plastic waste'], 'transforming_process': [], 'transformed_resource': ['syngas'], 'reference': '10.1016/j.wasman.2024.04.045'}
+Time taken: 3.30 seconds
+----------------------------------
+Processing abstract 5
+Coded abstract: 
+Background: Valorizing waste residues is crucial to reaching sustainable development goals and shifting from a linear fossil-based economy to a circular economy. Fungal cell factories, due to their versatility and robustness, are instrumental in driving the bio-transformation of waste residues. The present work isolated a potent strain, i.e., Aspergillus fumigatus (ZS_AF), from an ancient Złoty Stok gold mine, which showcased distinctive capabilities for efficient hydrolytic enzyme production from lignocellulosic wastes. Results: The present study optimized hydrolytic enzyme production (cellulases, xylanases, and β-glucosidases) from pine sawdust (PSD) via solid-state fermentation using Aspergillus fumigatus (ZS_AF). The optimization, using response surface methodology (RSM), produced a twofold increase with maximal yields of 119.41 IU/gds for CMCase, 1232.23 IU/gds for xylanase, 63.19 IU/gds for β-glucosidase, and 31.08 IU/gds for FPase. The secretome profiling validated the pivotal role of carbohydrate-active enzymes (CAZymes) and auxiliary enzymes in biomass valorization. A total of 77% of carbohydrate-active enzymes (CAZymes) were constituted by glycoside hydrolases (66%), carbohydrate esterases (9%), auxiliary activities (3%), and polysaccharide lyases (3%). The saccharification of pretreated wheat straw and PSD generated high reducing sugar yields of 675.36 mg/g and 410.15 mg/g, respectively. Conclusion: These findings highlight the significance of an efficient, synergistic, and cost-effective arsenal of fungal enzymes for lignocellulosic waste valorization and their potential to contribute to waste-to-wealth creation through solid-waste management. The utilization of Aspergillus fumigatus (ZS_AF) from an unconventional origin and optimization strategies embodies an innovative approach that holds the potential to propel current waste valorization methods forward, directing the paradigm toward improved efficiency and sustainability. © 2023, The Author(s).
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+w2r["waste"] = ["lignocellulosic wastes", "pine sawdust", "wheat straw"]
+w2r["transformed_resource"] = ["hydrolytic enzyme production"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['lignocellulosic wastes', 'pine sawdust', 'wheat straw'], 'transforming_process': [], 'transformed_resource': ['hydrolytic enzyme production'], 'reference': '10.1186/s13068-023-02453-6'}
+Time taken: 3.88 seconds
+----------------------------------
+Processing abstract 6
+Coded abstract: 
+This study deals with the proposal of pyrolysis and in-line oxidative steam reforming (P-OSR) for plastic waste valorization and assesses the potential of this strategy for the selective production of H2. Overall, the study aims at progressing towards the fine-tuning of the pyrolysis-reforming technology by co-feeding O2. Thus, a multi-point O2 injection system has been developed to ensure a suitable O2 distribution in the reforming reactor and avoid the formation of hot spots, as they may cause catalyst deactivation by metal sintering. Moreover, as O2 is directly supplied into the catalytic bed, pre-combustion of the volatile stream before contacting the catalyst is avoided and in-situ coke combustion is promoted. The P-OSR of HDPE was carried out in a two-step reaction system, which combines CSBR (conical spouted bed reactor) and FBR (fluidized bed reactor) technologies. The experiments were conducted in continuous mode and the influence of the main process conditions at zero time on stream was analyzed. Thus, the effect of reforming temperature was studied in the 550–750 °C range, that of the space time from 3.12 to 15.62 gcat min gHDPE−1, steam to plastic (S/P) ratio between 2 and 5 and equivalence ratio (ER) from 0 to 0.3. Under the optimum conditions (700 °C, S/P of 3, 12.5 gcat min gHDPE−1 and ER of 0.2), a H2 production of 25.0 wt% was obtained, which is only 28.6 % lower than that obtained in the conventional pyrolysis-steam reforming (P-SR) process. The results obtained confirm the potential of continuous P-OSR process for the selective production of H2. © 2024 The Authors
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["plastic waste"], w2r["transformed_resource"] = ["H2"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['plastic waste'], 'transforming_process': [], 'transformed_resource': ['H2'], 'reference': '10.1016/j.energy.2024.131762'}
+Time taken: 2.58 seconds
+----------------------------------
+Processing abstract 7
+Coded abstract: 
+The upcycling of biomass waste gasification process for ethanol and acetaldehyde production has been augmented by integrating secondary and tertiary processes. A simulation model using Aspen Plus, developed from experimental investigations to assess the viability of this proposed system. Furthermore, this model has been utilized to create an Artificial Neural Network (ANN) prediction model. Process sustainability analysis demonstrated an energy efficiency of 64 % while economic viability up to 80 % process efficiency with an Internal Rate of Return (IRR) of 6 % and a payback period of 2107 days. An optimization strategy and an artificial neural network (ANN)-based predictive model have been developed. Optimization results revealed that a gasifier temperature of around 600 °C, a gasifying agent ratio of 2.0, and an acetaldehyde reactor temperature of 300 °C yield better process outcomes and revenue. The ANN model exhibited robust performance with coefficient of determination (R2) values ranging from 0.92 to 0.98 for acetaldehyde, hydrogen, and total revenue. Mean absolute error (MAE) and mean absolute percentage error (MAPE) fell within the range of 0.03–0.1 and 0.1–1.12 %, respectively. Consequently, given the favorable sustainability and predictive model performance, this study can be used for similar endeavors. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["biomass waste"], w2r["transformed_resource"] = ["ethanol", "acetaldehyde"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['biomass waste'], 'transforming_process': [], 'transformed_resource': ['ethanol', 'acetaldehyde'], 'reference': '10.1016/j.energy.2024.131482'}
+Time taken: 3.18 seconds
+----------------------------------
+Processing abstract 8
+Coded abstract: 
+Pyrolysis has emerged as a promising technology for valorizing digestate resulting from the anaerobic digestion of food waste. However, the high NOX emissions during pyrolysis limit its application. This study proposed a hydrothermal coupled pyrolysis process to control the element transfer in digestate during biochar production. The efficient reduction of NOX emissions and the improvement of biochar adsorbability were realized. The hydrothermal process reduced the nitrogen content in solid digestate by 49.10 %–81.79 %, thus reducing the NOX precursors in syngas and the N-containing substances in bio-oil. Additionally, the specific surface area and the total pore volume of biochar were enhanced from 25 m2/g to 60–73 m2/g and 0.06 cm3/g to 0.12–0.14 cm3/g, respectively. More defects, oxygen-containing functional groups, and doped Ca on the biochar resulted in a high phosphate removal efficiency of 94 %. The proposed technology provides an efficient and environmentally friendly way to utilize the digestate. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["digestate from anaerobic digestion of food waste"], w2r["transformed_resource"] = ["biochar"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['digestate from anaerobic digestion of food waste'], 'transforming_process': [], 'transformed_resource': ['biochar'], 'reference': '10.1016/j.wasman.2024.05.007'}
+Time taken: 4.27 seconds
+----------------------------------
+Processing abstract 9
+Coded abstract: 
+Biofuel production using agricultural waste materials as a source of energy sustainability is an important and promising approach to address both energy and environmental challenges. This process involves converting various types of agricultural residues and by-products into biofuels, which can be used as renewable and cleaner alternatives to fossil fuels This study focuses on different pre-treatment procedures, biofuel production, and agricultural waste materials as a biomass source of biofuel production, feedstocks, and technology conversion, the combination of thermochemical and biochemical conversion methods in biorefineries can enhance productivity, reduce waste, and increase resource use, while reducing environmental impact and energy consumption. This study investigates some of the difficulties associated with agricultural waste materials are diverse and can include crop residues (such as straw, husks, and shells), animal manure, food processing waste, forestry residues, and more. Researchers and companies are actively working to improve the efficiency and viability of agricultural waste-to-biofuel processes. The study suggests that incorporating agricultural waste valorization, such as biochar as a soil amendment, can enhance the sustainability of biofuel production. This approach can mitigate climate change and promote sustainable agriculture. The circular economy strategy can minimize waste byproducts. The study also suggests that governmental interventions can support sustainable practices and prioritize renewable energy sources. The study revealed that biofuel production from microalgae and energy crops is the most profitable and effective method, with commercial-scale production potential due to genetic engineering advancements. However, large-scale production remains challenging, necessitating new technologies to boost biofuel production and meet energy needs. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["agricultural waste materials", "crop residues", "husks", "shells", "animal manure", "food processing waste", "forestry residues"]
+w2r["transformed_resource"] = ["biofuels"]
+```<|eot_id|>
+Extracted w2r: 
+{'waste': ['agricultural waste materials', 'crop residues', 'husks', 'shells', 'animal manure', 'food processing waste', 'forestry residues'], 'transforming_process': [], 'transformed_resource': ['biofuels'], 'reference': '10.1016/j.rser.2024.114535'}
+Time taken: 4.54 seconds
+----------------------------------
+Processing abstract 10
+Coded abstract: 
+Vitamin D, a fat-soluble steroid, has increasingly taken a central role due to its crucial role in human health. It is estimated that about 40% of worldwide population are vitamin D deficient. The fish industry produces significant quantities of waste daily, with consequent high environmental impact. The aim of this work is to place a first brick for the fish waste reuse as a source of vitamin D3 extracts to be used for nutraceutical purposes. For this purpose, an UV conversion method for transforming the 7-dehydrocholesterol, highly present in fish, in vitamin D3 has been optimized. The UV wavelength, exposure time, temperature, stirring, and UV intensity were optimized using a surface response design tool. The optimized treatment was applied to five fish species with different fat percentages and the results were very promising reaching vitamin D3 levels >10 times higher than the pre-treatment ones. © 2024
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+```python
+w2r["waste"] = ["fish waste"]
+w2r["transformed_resource"] = ["vitamin D3"]
+```
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['fish waste'], 'transforming_process': [], 'transformed_resource': ['vitamin D3'], 'reference': '10.1016/j.fochx.2024.101373'}
+Time taken: 2.88 seconds
+----------------------------------
+Processing abstract 11
+Coded abstract: 
+For years, scientists have been trying to develop sustainable, environmentally friendly methods of extraction and determination of trace environmental pollutants that take into account the principles of Green Analytical Chemistry (GAC). It is important to save energy and time, minimize and automate individual stages of sample preparation for determination, and significantly reduce or completely eliminate harmful wastes and solvents from the analytical procedure. Therefore, there is continuous development and increase in the popularity of solid-phase extraction (SPE) technique and its derivative techniques in the “micro” form, such as dispersive micro-solid-phase extraction (d-μSPE), magnetic dispersive micro-solid-phase extraction (M-d-μSPE), bar adsorption microextraction (BAμE), rotating disk sorption extraction (RDSE), fabric phase sorption extraction (FPSE), solid phase microextraction (SPME), thin film microextraction (TFME). An important and noticeable trend in recent years has been the search for efficient sorbents based on natural compounds. This review discusses the possibilities of using natural products (cork, cotton, pollen, kapok, bamboo, sponge, algae, various seeds) and biowastes (coffee residues, bracts and peels of various fruits) as sorbents in the above-mentioned solid-phase techniques. These natural materials have fibrous or porous structure, which facilitates sorption of analytes. They also have functional groups necessary for the extraction of selected analytes or may be easily modified to contain such groups. Many of 106 articles described in this review show that sorbents based on natural materials are as good as commercially available synthesized sorbents while being more friendly to the environment. © 2024 Elsevier B.V.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["cork", "cotton", "pollen", "kapok", "bamboo", "sponge", "algal waste", "coffee residues", "fruit bracts", "fruit peels"]
+w2r["transformed_resource"] = []
+```<|eot_id|>
+Extracted w2r: 
+{'waste': ['cork', 'cotton', 'pollen', 'kapok', 'bamboo', 'sponge', 'algal waste', 'coffee residues', 'fruit bracts', 'fruit peels'], 'transforming_process': [], 'transformed_resource': [], 'reference': '10.1016/j.trac.2024.117772'}
+Time taken: 6.27 seconds
+----------------------------------
+Processing abstract 12
+Coded abstract: 
+This paper presents an eco-design approach to the synthesis of a highly efficient Cr(VI) adsorbent, utilizing a positively charged surface mesoporous FDU-12 material (designated as MI-Cl-FDU-12) for the first time. The MI-Cl-FDU-12 anion-exchange adsorbent was synthesized via a facile one-pot synthesis approach using sodium silicate extracted from sorghum waste as a green silica source, 1-methyl-3-(triethoxysilylpropyl) imidazolium chloride as a functionalization agent, triblock copolymer F127 as a templating or pore-directing agent, trimethyl benzene as a swelling agent, KCl as an additive, and water as a solvent. The synthesis method offers a sustainable and environmentally friendly approach to the production of a so-called “green” adsorbent with a bimodal micro-/mesoporous structure and a high surface area comparable with the previous reports regarding FDU-12 synthesis. MI-Cl-FDU-12 was applied as an anion exchanger for the adsorption of toxic Cr(VI) oxyanions from aqueous media and various kinetic and isotherm models were fitted to experimental data to propose the adsorption behavior of Cr(VI) on the adsorbent. Langmuir model revealed the best fit to the experimental data at four different temperatures, indicating a homogeneous surface site affinity. The theoretical maximum adsorption capacities of the adsorbent were found to be 363.5, 385.5, 409.0, and 416.9 mg g−1 at 298, 303, 308, and 313 K, respectively; at optimal conditions (pH=2, adsorbent dose=3.0 mg, and contact time of 30 min), surpassing that of most previously reported Cr(VI) adsorbents in the literature. A regeneration study revealed that this adsorbent possesses outstanding performance even after six consecutive recycling. © 2024 Elsevier Inc.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"waste": ["sorghum waste", "water", "KCl", "trimethyl benzene", "triblock copolymer F127", "1-methyl-3-(triethoxysilylpropyl) imidazolium chloride", "sodium silicate"],
+"transformed_resource": ["Cr(VI) adsorbent"]
+```<|eot_id|>
+Extracted w2r: 
+{'waste': [], 'transforming_process': [], 'transformed_resource': [], 'reference': '10.1016/j.jcis.2024.03.030'}
+Time taken: 6.11 seconds
+----------------------------------
+Processing abstract 13
+Coded abstract: 
+The objective of this study is to find optimum conditions to valorize chestnut shell bioactive compounds with coloring pigments through microwave-assisted extraction. With this aim, response surface methodology with central composite design was used. Microwave power (800 W), extraction time (12 min) and solvent concentration (NaOH: 0.115 mol/L) were determined as the optimum conditions to maximize the responses like color value, total phenolic content and total antioxidant capacity. In the optimized extract (OE), characterization of brown melanin like pigments were assessed by Spectrophotometer, Fourier Transform Infrared Spectrometer and major phenolics were identified as; gallic acid, ellagic acid, protocatechuic acid, catechin, and epicatechin as 0.53, 0.48, 0.46, 0.46, 0.14 mg/g dried weight (dw) by High Performance Liquid Chromatography, respectively. In terms of antibacterial activity, OE inhibited the growth of Staphylococcus aureus. Consequently, chestnut shells were successfully processed into natural coloring agents that were possessing strong brown color properties as well as high bioactive potential. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+w2r["waste"] = ["chestnut shell"]
+w2r["transformed_resource"] = ["natural coloring agents"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['chestnut shell'], 'transforming_process': [], 'transformed_resource': ['natural coloring agents'], 'reference': '10.1016/j.foodchem.2024.138424'}
+Time taken: 2.61 seconds
+----------------------------------
+Processing abstract 14
+Coded abstract: 
+The valorization of lignocellulosic biomass, derived from various bio-waste materials, has received considerable attention as a sustainable approach to improve production chains while reducing environmental impact. Microbial enzymes have emerged as key players in the degradation of polysaccharides, offering versatile applications in biotechnology and industry. Among these enzymes, glycoside hydrolases (GHs) play a central role. Xylanases, in particular, are used in a wide range of applications and are essential for the production of xylose, which can be fermented into bioethanol or find use in many other industries. Currently, fungal secretomes dominate as the main reservoir of lignocellulolytic enzymes, but thermophilic microorganisms offer notable advantages in terms of enzyme stability and production efficiency. Here we present the genomic characterization of Geobacillus stearothermophilus GF16 to identify genes encoding putative enzymes involved in lignocellulose degradation. Thermostable GHs secreted by G. stearothermophilus GF16 were investigated and found to be active on different natural polysaccharides and synthetic substrates, revealing an array of inducible GH activities. In particular, the concentrated secretome possesses significant thermostable xylanase and β-xylosidase activities (5 ×103 U/L and 1.7 ×105 U/L, respectively), highlighting its potential for application in biomass valorization. We assessed the hemicellulose hydrolysis capabilities of various agri-food wastes using the concentrated secretome of the strain cultivated on xylan. An impressive 300-fold increase in xylose release compared to a commercially available cocktail was obtained with the secretome, underscoring the remarkable efficacy of this approach. © 2024 The Authors
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"waste": ["agri-food wastes"],
+"transformed_resource": ["xylose"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': [], 'transforming_process': [], 'transformed_resource': [], 'reference': '10.1016/j.nbt.2024.04.002'}
+Time taken: 2.40 seconds
+----------------------------------
+Processing abstract 15
+Coded abstract: 
+The concept of bioenergy co-generation with environmental remediation has gone through tectonic paradigm shift with the perspective that wealth and economic activities can be created through biomass utilization and conversion and waste valorization. In this review, the concept of Integrated Algal-Oil Palm Biorefinery as a cost-effective and innovative solution to address the Climate-Energy-Food-Water-Socio/Economy Nexus for sustainable energy production, and developments of bioproducts are elaborated. Different types of oil palm biomass and mill effluent generated are highlighted, and the technologies for environmental remediation with clean/bio-energy co-generation based on biodiesel, bioethanol, biomethane, biohydrogen, bio-oil, and jet biofuel with energy storage and supercapacitors are discussed. The conversion of biomass and effluent into biopolymer, graphene, biocomposites and MXene, and into biochemicals and for biomedical applications are highlighted. The importance of utilizing green and eco-friendly processes is detailed out. Finally, economical integrated algal cultivation within oil palm industrial setting for aquaculture application, with inclusive community development programs based on HEESBA philosophy to meet the agenda of global sustainable development goals is promoted. © 2024 Elsevier B.V.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["oil palm biomass", "oil palm mill effluent"], "w2r["transformed_resource"] = ["bioenergy", "bioproducts"]
+```<|eot_id|>
+Extracted w2r: 
+{'waste': ['oil palm biomass', 'oil palm mill effluent'], 'transforming_process': [], 'transformed_resource': ['bioenergy', 'bioproducts'], 'reference': '10.1016/j.indcrop.2024.118452'}
+Time taken: 4.05 seconds
+----------------------------------
+Processing abstract 16
+Coded abstract: 
+The application of the expanded polystyrene (EPS) waste to the functional material is still a challenge. The hydrophobic property of polystyrene has a potential to create a superhydrophobic surface. Here, we use expanded polystyrene waste to coat surfaces in two different ways—spray coating and dip coating—to produce superhydrophobic surfaces for food packaging. The ZnO was employed to make the surface rougher. However, the combination of ZnO and EPS waste produces only a hydrophobic surface. For spray coating and dip coating, the maximum water contact angle is 119° and 125° respectively. The scanning electron microscope (SEM) picture reveals many holes that increase the surface's roughness. The hydrophobic surface significantly cuts down on cleaning time. According to the food packaging parameter test mandated by the Indonesian Food and Drug Administration (BPOM) (BPOM regulation No. 20, 2019), the coating complies with heavy metals and ethanol stimulant migration testing requirements for food packaging. However, the migration condition in acetic acid stimulant surpasses the maximum standard. The total migration in 3% acetic acid stimulant (40°C for 10 days) is 22.95 mg/dm2 while the maximum value is 10 mg/dm2. © 2024 The Author(s)
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["expanded polystyrene waste"], w2r["transformed_resource"] = ["superhydrophobic surfaces for food packaging"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['expanded polystyrene waste'], 'transforming_process': [], 'transformed_resource': ['superhydrophobic surfaces for food packaging'], 'reference': '10.1016/j.sajce.2024.05.001'}
+Time taken: 3.27 seconds
+----------------------------------
+Processing abstract 17
+Coded abstract: 
+The current study aims to model and optimize the catalytic pyrolysis of face masks incorporating a waste-derived catalyst to analyze the effect of process parameters (temperature, feed-to-catalyst ratio, and inert gas flow rate) on the oil yield of the process. An integrated approach of response surface methodology (R2-0.95) and machine learning (decision trees regression, R2-0.83) demonstrated a higher prediction accuracy and lower error margins. Explainable artificial intelligence tools spotlighted temperature to be the predominant parameter followed by feed-to-catalyst ratio. Experimental oil yield (13.5%) obtained at optimized parameters (516 °C temperature, 3:1 feed-to-catalyst ratio, and 163 mL/min inert gas flow rate) was compared with those predicted through response surface methodology (13.7%) and decision trees regression (13.12%), showcasing an absolute error range of 0.2–0.4 wt%. Gas chromatography-mass spectroscopy analysis of oil highlighted the presence of silica compounds that can be extracted as value-added chemicals. Further, the overall percentage of naphthene's, paraffins, and olefins in the oil were approximated to be around 40.5% based on the peak area. The presence of hydrocarbons in oil having carbon numbers predominantly in the range of gasoline and diesel as well as a high heating value of 36.56 MJ/kg demonstrated its potential to be used as a fuel. The present study demonstrates the feasibility of valorizing the face mask into energy-dense oil comparable to commercial range fuel using a spent adsorbent based catalyst. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["face masks"], w2r["transformed_resource"] = ["energy-dense oil"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['face masks'], 'transforming_process': [], 'transformed_resource': ['energy-dense oil'], 'reference': '10.1016/j.jclepro.2024.142761'}
+Time taken: 2.51 seconds
+----------------------------------
+Processing abstract 18
+Coded abstract: 
+To minimize environmental impact and make the industrial processes more sustainable owing to the overexploitation of natural resources in the construction industry, various strategies have been explored to make reuse of waste material derived from different industries more effective. This study aims to technically support reduction of Portland cement consumption in the manufacture of nonstructural masonry units, generally known as hollow concrete blocks (HCBs), by replacing cement with waste products obtained from the chemical industry in Mexico. Consequently, mortars with fresh waste material from the warehouse that complied with compressive strength requirements of current standards were prepared with which the masonry units were manufactured. The HCBs exhibited low water absorption owing to lower porosity, and their thermal conductivity was slightly superior to that of the commercially available units. The compressive strengths of the walls manufactured with these masonry units indicated that they are suitable for commercial use. Finally, the novelty of this research focuses on the fact that the waste material used has a minimal pre-treatment to design mixtures for producing hollow concrete blocks (HCBs), intending to reduce the carbon footprint of the final product by cutting down on treatment conventional practices like drying, cleaning, and the need to use more Portland cement to increase the compressive strength of HCB. Also, the methodological examination of microstructural characterization techniques applied to the waste material in question has been instrumental in enhancing its utilization and compliance with current specifications. © 2024 Elsevier B.V.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["waste material from the chemical industry"]
+w2r["transformed_resource"] = ["hollow concrete blocks"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['waste material from the chemical industry'], 'transforming_process': [], 'transformed_resource': ['hollow concrete blocks'], 'reference': '10.1016/j.susmat.2024.e00870'}
+Time taken: 3.25 seconds
+----------------------------------
+Processing abstract 19
+Coded abstract: 
+This study investigated the catalytic pyrolysis of waste polyethylene (PE) using a ZSM-5/Al2O3 porous media catalyst in a continuous feeding mode. The findings revealed that the porous media catalyst with 100 mm height and 40 PPI (pore per inch) pore size had the supreme catalytic performance, which could obtain the highest pyrolysis oil yield and the light fraction (<C12) and aromatics in the oil, and improve the catalytic stability of the porous media catalyst. The optimal operating conditions were the pyrolysis temperature of 460 °C, the carrier gas velocity of 65 mL/min, and the plastic feeding rate of 25 g/h, of which the light fraction and aromatics in the oil were up to 95.25 % and 97.33 %. Moreover, the catalytic cycling performance of the porous media catalyst was thoroughly investigated. The catalytic activity declined and the catalyst deactivation rate decreased after multiple regeneration cycles. This study presents a comprehensive investigation of waste PE catalytic cracking using the porous media catalyst in continuous feeding mode, which can provide insightful guidance on the industrialization of plastic waste valorization. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["waste polyethylene"]
+w2r["transformed_resource"] = ["light fraction", "aromatics"]
+```<|eot_id|>
+Extracted w2r: 
+{'waste': ['waste polyethylene'], 'transforming_process': [], 'transformed_resource': ['light fraction', 'aromatics'], 'reference': '10.1016/j.energy.2024.131855'}
+Time taken: 3.82 seconds
+----------------------------------
+Processing abstract 20
+Coded abstract: 
+Cellulose-rich residue after agar extraction was incorporated into gelatin film forming formulations in order to revalorize it and improve film properties. This revalorized cellulose was compared with the commercial sodium carboxymethyl cellulose, also employed in gelatin films. Cellulose addition improved water resistance and UV light barrier properties of films, contributing to food shelf life extension. Additionally, grape marc extract was incorporated into cellulose-containing gelatin film forming formulations to promote antioxidant activity. These films showed the ability to be thermo-sealed and were used to pack grapes, thus, closing the loop from food waste to food packaging. © 2024 The Authors
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+```python
+w2r["waste"] = ["cellulose-rich residue after agar extraction"]
+w2r["transformed_resource"] = ["food packaging"]
+```
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['cellulose-rich residue after agar extraction'], 'transforming_process': [], 'transformed_resource': ['food packaging'], 'reference': '10.1016/j.foodhyd.2024.109951'}
+Time taken: 3.02 seconds
+----------------------------------
+Processing abstract 21
+Coded abstract: 
+The present work examined the biodegradation of bisphenol A (BPA) under batch and continuous modes using hydrocarbonoclastic bacterium, Pseudomonas aeruginosa PR3. The strain showed great biodegradation potential under batch shake flask and stirred tank reactor. Bacterial growth was considerably inhibited at initial BPA concentrations > 50 mg/L. Further, membrane bioreactor (MBR) for BPA biodegradation was also evaluated under different inlet BPA concentration and hydraulic retention time (HRT) and the maximum BPA removal efficiency of 94.4 % was attained with an influent BPA concentration of 25 mg/L at 5 d of HRT. MBR also showed better performance under shock loading conditions. Identification of BPA biodegraded pathways was also performed using liquid chromatography-mass spectrometry, elucidating the different metabolites and end products formed. A subsequent enhancement in BPA removal efficieny was also observed owing to the microfiltration system of MBR that was applied to separate bacterial biomass from effluent. The maximum removal efficiency was further enhanced to 98.5 % under the same operational schedule. As the strain has the ability to produce extracellular diol synthase enzyme which transforms oleic acid into the biopolyol 7,10-dihydroxy-8(E)-octadecenoic acid, the effluent containing the enzymes was supplemented with 1 % (v/v) oleic acid under whole cell and cell-free approaches. Cell-free technique showed an enhanced bioconversion efficiency in comparison to the traditional whole cell approach. Further, the produced biopolyol was characterized using Fourier transform infrared spectroscopy, thermogravimetry, differential scanning calorimetry, and 1H nuclear magnetic resonance analyses and also depicted the antibacterial activity. © 2024 Elsevier B.V.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["biodegradation byproducts"]
+w2r["transformed_resource"] = ["biopolyol"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['biodegradation byproducts'], 'transforming_process': [], 'transformed_resource': ['biopolyol'], 'reference': '10.1016/j.cej.2024.151740'}
+Time taken: 2.69 seconds
+----------------------------------
+Processing abstract 22
+Coded abstract: 
+This study investigated the thermochemical processing of defatted residue to achieve zero-waste utilization of oil-bearing biomass using apricot seed as the model compound. Defatted apricot seeds (DAS) obtained after oil extraction from apricot seed were valorized through pyrolysis platform, focusing on enhancing sustainability using CO2 as the reaction medium. The results showed that CO2 plays a crucial role in the pyrolysis process, leading to an enhanced CO formation through homogeneous reaction between CO2 and volatile matters stemming from DAS. Specifically, CO2 oxidized volatile matters while simultaneously reducing to CO and influenced the morphological properties of DAS biochars (DASBs), leading the development of pores with sizes of less than 16 nm and exceeding 50 nm. The larger pore size of DASBs fabricated under N2 and CO2, compared to 2 nm (the molecular size of triglycerides), makes them suitable as porous materials for thermally induced transesterification. The presence of alkaline metals in DASBs expedited thermally induced transesterification. At ≤ 330 °C, DASB fabricated under CO2 condition exhibited faster reaction kinetics than under N2 condition. This suggests that the use of CO2 in the fabrication of DASB results in favorable surface properties conducive to the thermally induced transesterification of apricot oil. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["defatted apricot seeds"], w2r["transformed_resource"] = ["biochar"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['defatted apricot seeds'], 'transforming_process': [], 'transformed_resource': ['biochar'], 'reference': '10.1016/j.energy.2024.131897'}
+Time taken: 2.57 seconds
+----------------------------------
+Processing abstract 23
+Coded abstract: 
+Background: Biobutanol, produced through acetone-butanol-ethanol (ABE) fermentation, has been proposed for use as a transportation fuel and for the development of butanol-based materials. However, the economic viability of ABE fermentation is heavily dependent on the cost of raw materials. Methods: This study assesses various carbon and nitrogen sources for ABE fermentation. Carbon sources examined include local molasses (M1), Thai molasses (M2), Taiwan sugar agricultural molasses (M3), and Taiwan sugar edible molasses (M4). Nitrogen sources considered are corn steep liquor (CSL), acid-hydrolyzed black soldier fly larval meal (IA), and enzyme-hydrolyzed black soldier fly larval meal (IE). Significant findings: Our findings reveal that M2CSL, a combination of Thai molasses and corn steep liquor, serves as a cost-effective and efficient medium for ABE fermentation, resulting in a butanol concentration of 7.4 ± 3.5 g/L. Furthermore, our research identifies variations in molasses and their impact on sucrose consumption inhibition. Notably, this study underscores the potential of insect peptone derived from enzyme-hydrolyzed black soldier fly larval meal (IE) as an alternative nitrogen source, while cautioning against the use of insect peptone obtained from acid-hydrolyzed black soldier fly larval meal (IA) due to its inhibitory properties. © 2023
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["molasses", "corn steep liquor", "black soldier fly larval meal"], w2r["transformed_resource"] = ["biobutanol"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['molasses', 'corn steep liquor', 'black soldier fly larval meal'], 'transforming_process': [], 'transformed_resource': ['biobutanol'], 'reference': '10.1016/j.jtice.2023.105280'}
+Time taken: 4.59 seconds
+----------------------------------
+Processing abstract 24
+Coded abstract: 
+Microwave-assisted pyrolysis (MAP) has been perceived as a promising technology for biomass and waste conversion due to its distinctive features, including fast, even, and precise heating. This results in higher energy efficiency when compared to conventional pyrolysis via thermal heating. However, the scaling up of MAP of biomass and waste poses challenges, with investigations ongoing to uncover not only the technological aspect, but also both the environmental impacts and economic feasibility associated with this process/technology. The possible environmental impacts associated with MAP processes can be analyzed through systematic life-cycle assessment (LCA), while the economic feasibility can be evaluated via techno-economic analysis (TEA). This paper presents an overview of the current research trend in MAP and the products produced, as well as the LCA and TEA of the pyrolysis technologies. The LCA study reported a 2.5 folds reduction in energy consumption and up to 62% reduction in global warming potential. TEA study revealed that conventional pyrolysis has a greater profit for long-term assessment due to a higher maturity and less complexity technology; however, MAP may be more economically feasible in the future owing to the increased maturity and more established technology. Finally, the challenges and future perspectives for LCA and TEA in MAP are elucidated. © 2024 Elsevier B.V.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["biomass", "waste"], w2r["transformed_resource"] = []
+```<|eot_id|>
+Extracted w2r: 
+{'waste': ['biomass', 'waste'], 'transforming_process': [], 'transformed_resource': [], 'reference': '10.1016/j.cej.2024.151942'}
+Time taken: 2.57 seconds
+----------------------------------
+Processing abstract 25
+Coded abstract: 
+Agriculture and industries related to the agriculture sector generate a large amount of waste each year. These wastes are usually burned or dumped, causing damage to the environment, the economy and society. Due to their composition, they have great potential for obtaining high value-added products in biorefineries. This fact, added to the growing demand for energy and chemicals from fossil resources, is driving the interest of the scientific community in them. Biorefinery processes are hardly profitable when applied individually, so a better alternative is to develop integrated multi-feedstock and multi-product biorefinery schemes using all biomass fractions in a zero-waste approach. However, for industrial scale application, extensive research, scale-up studies, and techno-economic and environmental feasibility analyses are needed. This review compiles information on integrated multi-biorefinery processes from agro-industrial wastes to shed light on the path towards sustainable development and circular bioeconomy. © 2024 The Authors
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["agro-industrial wastes"], w2r["transformed_resource"] = ["energy", "chemicals"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['agro-industrial wastes'], 'transforming_process': [], 'transformed_resource': ['energy', 'chemicals'], 'reference': '10.1016/j.wasman.2024.05.001'}
+Time taken: 2.82 seconds
+----------------------------------
+Processing abstract 26
+Coded abstract: 
+The production of chemicals/products so far relies on fossil-based resources with the creation of several environmental problems at the global level. In this situation, a sustainable and circular economy model is necessitated to mitigate global environmental issues. Production of biowaste from various processing industries also creates environmental issues which would be valorized for the production of industrially important reactive and bioactive compounds. Lignin acts as a vital part in biowaste composition which can be converted into a wide range of phenolic compounds. The phenolic compounds have attracted much attention, owing to their influence on diverse not only organoleptic parameters, such as taste or color, but also active agents for active packaging systems. Crop residues of varied groups, which are an affluent source of lignocellulosic biomass could serve as a renewable resource for the biosynthesis of ferulic acid (FA). FA is obtained by the FA esterase enzyme action, and it can be further converted into various tail end phenolic flavor green compounds like vanillin, vanillic acid and hydroxycinnamic acid. Lignin being renewable in nature, processing and management of biowastes towards sustainability is the need as far as the global industrial point is concerned. This review explores all the approaches for conversion of lignin into value-added phenolic compounds that could be included to packaging applications. These valorized products can exhibit the antioxidant, antimicrobial, cardioprotective, anti-inflammatory and anticancer properties, and due to these features can emerge to incorporate them into production of functional foods and be utilization of them at active food packaging application. These approaches would be an important step for utilization of the recovered bioactive compounds at the nutraceutical and food industrial sectors. © 2024 Elsevier Inc.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["lignin", "biowaste", "crop residues", "lignocellulosic biomass"]
+w2r["transformed_resource"] = ["phenolic compounds", "ferulic acid", "vanillin", "vanillic acid", "hydroxycinnamic acid"]
+```<|eot_id|>
+Extracted w2r: 
+{'waste': ['lignin', 'biowaste', 'crop residues', 'lignocellulosic biomass'], 'transforming_process': [], 'transformed_resource': ['phenolic compounds', 'ferulic acid', 'vanillin', 'vanillic acid', 'hydroxycinnamic acid'], 'reference': '10.1016/j.envres.2024.119218'}
+Time taken: 6.03 seconds
+----------------------------------
+Processing abstract 27
+Coded abstract: 
+Polyethylene, as the predominant polymer produced globally, poses significant environmental challenges due to its resistance to natural decomposition. In this study, we introduce an innovative chemical[sbnd]biological approach for transforming waste polyethylene into valuable biosurfactants. Our method involves hydrogenolysis using specially designed Ru/CeO2 catalysts, which efficiently convert polyethylene into alkanes while keeping methane selectivity below 5 %. This optimization ensures maximum feed availability for subsequent microbial processes. Notably, the produced chemical intermediates are directly utilized in the biological phase, eliminating the need for intermediate processing. Gordonia sp. JW21, selected for its exceptional alkane degradation capabilities, efficiently metabolizes a wide range of alkane structures, including extended alkyl chains. The microbial process culminates in the generation of high-value biosurfactants. This synergistic strategy not only offers an effective solution for polyethylene waste management but also sets a precedent for the sustainable production of biosurfactants. © 2024 The Authors
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+```python
+w2r["waste"] = ["polyethylene"]
+w2r["transformed_resource"] = ["biosurfactants"]
+```
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['polyethylene'], 'transforming_process': [], 'transformed_resource': ['biosurfactants'], 'reference': '10.1016/j.jece.2024.113322'}
+Time taken: 3.68 seconds
+----------------------------------
+Processing abstract 28
+Coded abstract: 
+A techno-economic analysis of a novel eutectic solvent-based platform useful to recover anthocyanins from grape pomace was performed. The study addressed the economic impact of conventional drying methods and explored the economic implications of purification strategies to separate the extract from the eutectic solvent. This was exemplified by employing solid-phase extraction (SPE) with C18-based adsorbent material. An alternative low-energy demanding approach using SiO2 particles was also assessed for profitability as a freeze-drying replacement strategy. The results highlighted challenges in the economic feasibility of eutectic solvent reusability when conventional SPE is applied, highlighting the need to obtain new and inexpensive bio-based adsorbents. Moreover, it was uncovered that the SiO2-based drying strategy presents itself as a financially viable alternative, effectively addressing the elevated energy requirements associated with conventional drying methods. The findings highlight the potential of alternative solvents-based processes, particularly towards challenges related to the circularity of raw materials. © 2024 Elsevier B.V.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["grape pomace"], w2r["transformed_resource"] = ["anthocyanins"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['grape pomace'], 'transforming_process': [], 'transformed_resource': ['anthocyanins'], 'reference': '10.1016/j.seppur.2024.127647'}
+Time taken: 2.73 seconds
+----------------------------------
+Processing abstract 29
+Coded abstract: 
+Waste cooking oil (WCO) is increasingly recognized as a valuable resource rather than a waste product, given its potential for recycling and reprocessing into various chemicals. The utilization of WCO has grown significantly, driven by environmental concerns, the push for renewable energy sources, and technological advancements in recycling processes. Applications of WCO include biodiesel production, bioenergy and heat, animal feed, chemical feedstocks, and their derivatives. This review specifically intends to study the potential of WCO pyrolysis for chemical feedstocks such as light hydrocarbons (C1 – C4), syngas (CO and H2), and liquid products under catalytic and co-feeding processes. Catalytic pyrolysis of WCO offers improved gas yield of up to 76 % and liquid product yield of up to 94 %. The catalysts used also vary from clay, activated carbon, metals, chemical solid wastes, and zeolites. Of all, zeolites provide the most satisfactory performance in terms of yield, thermal stability, shape selectivity, and recyclability. Likewise, the co-feeding method is offered to enhance process efficiency, product quality, and waste valorization which further promotes sustainability. The catalyst-assisted process has a maximum gas yield of 73 % and a maximum liquid yield of 84 %. Looking at the findings, kinetic studies, various types of zeolite-based catalysts, and material selection for co-feeding are important to develop to overcome challenges in WCO pyrolysis studies as well as fill future prospects. Furthermore, a sustainable and closed-loop approach in WCO pyrolysis is proposed as a potential outlook. © 2024 Elsevier B.V.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["waste cooking oil"], w2r["transformed_resource"] = ["chemical feedstocks"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['waste cooking oil'], 'transforming_process': [], 'transformed_resource': ['chemical feedstocks'], 'reference': '10.1016/j.jaap.2024.106567'}
+Time taken: 2.63 seconds
+----------------------------------
+Processing abstract 30
+Coded abstract: 
+The mandated waste classification poses challenges for the eco-friendly disposal of combustible high-organic solid waste (HSW), characterized by elevated heavy metal content and a low ash proportion. Fortunately, pyrolysis technology for HSW is emerging as a promising direction for achieving waste-to-resource conversion. To further mitigate secondary pollution, thermal activated-acid modified kaolin (H-kaolin) and thermal activated-alkali modified kaolin (OH-kaolin) were separately prepared, and their enhanced effects of immobilization and stabilization on heavy metals during pyrolysis were contrastively explored. Characterization results demonstrated that dehydroxy-dealuminization and zeolite NaA formation were intrinsic reasons for improvements in physical properties (specific surface area, pore volume) of H-kaolin and OH-kaolin, respectively. Experimental results revealed that H-kaolin outperformed OH-kaolin, showcasing its potential as a high-performance in-furnace adsorbent. Compared with other natural mineral-based sorbents reported in the literature, H-kaolin exhibited leading levels of immobilization, stabilization, and adsorption efficiency for heavy metals. Theoretical calculations illustrated that AlIII-O generated via dealuminization and SiIII-O in zeolite NaA were the main adsorption sites of H-kaolin and OH-kaolin, respectively, correspondingly binding with heavy metals to form oxides and silicates. The differences in active sites, electron transfer directions and bonding types during adsorption of H-kaolin and OH-kaolin were the intrinsic reasons for their distinct adsorption efficiency. Furthermore, derived chars with H-kaolin were deemed safe for application in pollutant adsorption in industrial field and soil improvement in gardens or parks. This research presented new ideas for developing high-performance in-furnace sorbents during pyrolysis, and explored the feasible safety application fields for pyrolytic derived-char. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["high-organic solid waste"]
+w2r["transformed_resource"] = ["adsorbents for heavy metals", "derived chars for soil improvement"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['high-organic solid waste'], 'transforming_process': [], 'transformed_resource': ['adsorbents for heavy metals', 'derived chars for soil improvement'], 'reference': '10.1016/j.fuel.2024.131293'}
+Time taken: 3.48 seconds
+----------------------------------
+Processing abstract 31
+Coded abstract: 
+Rhodospirillum rubrum is a photosynthetic purple non-sulphur bacterium with great potential to be used for complex waste valorisation in biotechnological applications due to its metabolic versatility. This study investigates the production of hydrogen (H2) and polyhydroxyalkanoates (PHA) by R. rubrum from syngas under photoheterotrophic conditions. An adaptive laboratory evolution strategy (ALE) has been carried out to improve the yield of the process. After 200 generations, two evolved strains were selected that showed reduced lag phase and enhanced poly-3-hydroxybutyrate (PHB) and H2 synthesis compared to the parental strain. Genomic analysis of the photo-adapted (PA) variants showed four genes with single point mutations, including the photosynthesis gene expression regulator PpsR. The proteome of the variants suggested that the adapted variants overproduced H2 due to a more efficient CO oxidation through the CO-dehydrogenase enzyme complex and confirmed that energy acquisition was enhanced through overexpression of the photosynthetic system and metal cofactors essential for pigment biosynthesis. © 2024 The Author(s)
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+```python
+w2r["waste"] = ["syngas"]
+w2r["transformed_resource"] = ["hydrogen", "polyhydroxyalkanoates"]
+```
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['syngas'], 'transforming_process': [], 'transformed_resource': ['hydrogen', 'polyhydroxyalkanoates'], 'reference': '10.1016/j.biortech.2024.130972'}
+Time taken: 4.53 seconds
+----------------------------------
+Processing abstract 32
+Coded abstract: 
+Developing eco-friendly construction materials is imperative from an energy and environmental standpoint. This technical study investigates the sustainable utilization of municipal solid waste incinerated fly ash (MSWIFA) as a substitute for M-sand in construction materials. This study primarily focuses on reducing landfill waste and promoting waste reuse in the construction sector. This study evaluates various thermo-physical properties of MSWIFA-based concrete, including solar reflectance index, slip and skid resistance, straightness, flatness, rectangularity, water absorption, wet transfer, and thermal performance metrics such as heat flow values for thermal comfort and solar emissivity. The proposed concrete tiles have suitable thermal emissivity (0.87), solar reflectance (0.8), and solar absorption (0.26), which are appropriate for eco-friendly building techniques. The use of MSWIFA tiles lowered the indoor temperature by 2 °C when compared to conventional roof tiles at similar ambient conditions. MSWIFA-based concrete roof tiles are promising in terms of thermal comfort, energy efficiency, environmental conservation and waste reduction and promote a more sustainable approach in the construction industry. This research emphasizes the potential of waste-to-resource strategies in achieving sustainable development goals and reducing the ecological footprint of construction materials. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["municipal solid waste incinerated fly ash"], w2r["transformed_resource"] = ["construction materials"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['municipal solid waste incinerated fly ash'], 'transforming_process': [], 'transformed_resource': ['construction materials'], 'reference': '10.1016/j.jobe.2024.109222'}
+Time taken: 3.07 seconds
+----------------------------------
+Processing abstract 33
+Coded abstract: 
+Edible oils play a vital role in human nutrition, serving as a crucial source of energy, essential fatty acids, and vitamins necessary for bodily functions. However, during handling, cooking, and storage these oils are susceptible to oxidation, resulting in the loss of nutritional value, the development of undesirable flavors, the production of harmful compounds, and a reduction in shelf life. To counteract oxidation and enhance oil stability, synthetic antioxidants have traditionally been employed. However, in recent times, consumer awareness has led to an increased preference for natural antioxidants because of the harmful effects of synthetic antioxidants on human health. This review provides a comprehensive overview of recent research focused on the oxidative stability of various edible vegetable oils through the incorporation of natural antioxidants derived from fruits and vegetable waste. These antioxidants obtained from waste through diverse techniques are blended with different vegetable oils in the form of free extracts, encapsulated extracts, nano-encapsulated extracts, and nano-emulsion oil extracts to assess their antioxidant efficacy. These antioxidant-rich waste extracts efficiently prevented oxidation by scavenging free radicals, chelating metal ions, and delaying the formation of peroxides, offering a safer and more effective alternative to synthetic counterparts. Beyond their antioxidative properties, these extracts contribute to the nutritional enhancement of oils, functioning as nutraceuticals. This approach not only offers a natural means to protect edible oils but also facilitates efficient waste valorization, mitigating potential environmental impacts and making it a sustainable and eco-friendly strategy. © 2024 The Authors
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["fruit and vegetable waste"], w2r["transformed_resource"] = ["natural antioxidants for edible oils"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['fruit and vegetable waste'], 'transforming_process': [], 'transformed_resource': ['natural antioxidants for edible oils'], 'reference': '10.1016/j.fufo.2024.100328'}
+Time taken: 2.95 seconds
+----------------------------------
+Processing abstract 34
+Coded abstract: 
+In this study, we aimed to develop a sustainable valorization platform for agricultural residues, mainly focusing on harnessing these residues as a renewable energy source. We conducted a case study involving the pyrolysis of coconut husk to create a sustainable pathway for its valorization. To enhance environmental compatibility, carbon dioxide (CO2) was employed as the reaction medium. CO2 acted as a partial oxidant, leading to the oxidation of carbons in the bio-oil and the formation of carbon monoxide (CO). In detail, this study experimentally proved the mechanistic contribution of CO2 to shifting carbon in pyrogenic oil into gases, particularly CO. To enhance the reactivity of CO2, the catalytic pyrolysis of coconut husk was conducted using a nickel-based egg-shell-type (Ni-ES) catalyst. Catalyst introduction resulted in the increased concentration of syngas compared with conditions without a catalyst in the presence of CO2. In particular, syngas production from catalytic pyrolysis under CO2 conditions was enhanced by >6.5-fold compared with that from single-stage pyrolysis under N2 conditions. Simultaneously, the evolution of pyrogenic oil was significantly reduced under CO2 condition in the presence of the Ni-ES catalyst. This confirms the catalytic potential in further optimizing the valorization of agricultural residues for sustainable energy production. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+```python
+w2r["waste"] = ["coconut husk"]
+w2r["transformed_resource"] = ["energy"]
+```
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['coconut husk'], 'transforming_process': [], 'transformed_resource': ['energy'], 'reference': '10.1016/j.apenergy.2024.123576'}
+Time taken: 2.79 seconds
+----------------------------------
+Processing abstract 35
+Coded abstract: 
+The deep removal of organic pollutants is challenging for coagulation technology in drinking water and wastewater treatment plants to satisfy the rising water standards. Iron (III) chloride (FeCl3) is a popular inorganic coagulant; although it has good performance in removing the turbidity (TB) in water at an alkaline medium, it cannot remove dissolved pollutants and natural organic matter such as humic acid water solution. Additionally, its hygroscopic nature complicates determining the optimal dosage for effective coagulation. Biochar (BC), a popular adsorbent with abundant functional groups, porous structure, and relatively high surface area, can adsorb adsorbates from water matrices. Therefore, combining BC with FeCl3 presents a potential solution to address the challenges associated with iron chloride. Consequently, this study focused on preparing and characterizing a novel biochar/ferric chloride-based coagulant (BC–FeCl3) for efficient removal of turbidity (TB) and natural organic matter, specifically humic acid (HA), from synthetic wastewater. The potential solution for the disposal of produced sludge was achieved by its recovering and recycling, then used in adsorption of HA from aqueous solution. The novel coagulant presented high TB and HA removal within 10 min of settling period at pH solution of 7.5. Furthermore, the recovered sludge presented a good performance in the adsorption of HA from aqueous solution. Adsorption isotherm and kinetics studies revealed that the Pseudo-second-order model best described kinetic adsorption, while the Freundlich model dominated the adsorption isotherm. © 2024 Elsevier Inc.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["synthetic wastewater"]
+w2r["transformed_resource"] = ["clean water"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['synthetic wastewater'], 'transforming_process': [], 'transformed_resource': ['clean water'], 'reference': '10.1016/j.envres.2024.119134'}
+Time taken: 3.08 seconds
+----------------------------------
+Processing abstract 36
+Coded abstract: 
+Thermal hydrolyzed sludge (THS) exhibits considerable promise in generating medium-chain fatty acids (MCFAs) through chain elongation (CE) technology. This study developed a novel continuous CE process using THS as the substrate, achieving an optimal ethanol loading rate (5.8 g COD/L/d) and stable MCFA production at 10.9 g COD/L, with a rate of 3.6 g COD/L/d. The MCFAs primarily comprised n-caproate and n-caprylate, representing 41.5 % and 54.3 % of the total MCFAs, respectively. Utilization efficiencies for ethanol and acetate were nearly complete at 100 % and 92.8 %, respectively. Key microbial taxa identified under these optimal conditions included Alcaligenes, SRB2, Sporanaerobacter, and Kurthia, which were instrumental in critical pathways such as the generation of acetyl-CoA, the initial carboxylation of acetyl-CoA, the fatty acid biosynthesis cycle, and energy metabolism. This research provides a theoretical and technical blueprint for converting waste sludge into valuable MCFAs, promoting sustainable waste-to-resource strategies. © 2024
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+```python
+w2r["waste"] = ["thermal hydrolyzed sludge"]
+w2r["transformed_resource"] = ["medium-chain fatty acids"]
+```
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['thermal hydrolyzed sludge'], 'transforming_process': [], 'transformed_resource': ['medium-chain fatty acids'], 'reference': '10.1016/j.biortech.2024.130937'}
+Time taken: 3.88 seconds
+----------------------------------
+Processing abstract 37
+Coded abstract: 
+Water treatment sludge (WTS) disposal in landfills and estuaries has significant negative environmental effects. This study aims to produce a cleaner approach to recycling solid waste sludge from water treatment plants into eco-friendly construction materials. This approach involves the production of structural sintering clay bricks using WTS as a substitute for clay in the manufacturing process. Various mixtures of WTS content ranging from 10% to 50% and sand content of 10 and 20% were investigated. The Brick samples were shaped in the form of cubes and then fired in an oven at 700 °C for 3 h. Subsequently, several tests were conducted on the fired brick samples, including compressive strength, bulk density, water absorption, apparent porosity, efflorescence, freeze and thaw analysis, and microstructure investigation. The properties of WTS indicate a high concentration of silica, aluminum, and iron, which contribute to the improved properties of the fired bricks. It was observed that the bricks' compressive strength decreased from 29.8 to 8 MPa as the WTS content increased from 10% to 50%. In parallel, increasing the WTS content resulted in a decrease in bulk density from 1.005 to 0.75 g/cm3, an increase in apparent porosity values from 20% to 35%, and a higher water absorption from 12% to 37%. Furthermore, the addition of sand by 10 and 20% to the bricks leads to enhancements in both the mechanical and microstructure properties of the sintered bricks. Moreover, the efflorescence analysis of bricks is at a slight level. It can be concluded that WTS can be reused in the manufacturing of structural sintering clay bricks, providing a cleaner and more sustainable method of disposal for water treatment sludge. © 2024 The Authors
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+w2r["waste"] = ["water treatment sludge"]
+w2r["transformed_resource"] = ["sintering clay bricks"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['water treatment sludge'], 'transforming_process': [], 'transformed_resource': ['sintering clay bricks'], 'reference': '10.1016/j.cscm.2024.e03011'}
+Time taken: 2.92 seconds
+----------------------------------
+Processing abstract 38
+Coded abstract: 
+Short-chain organic acids (SCFAs) are widely used in the chemical and food industries. However, their conventional production relies heavily on fossil raw materials, necessitating sustainable alternatives. Waste activated sludge (WAS) can serve as a renewable feedstock for SCFA production through oxidative hydrothermal pretreatment. Thus, the aim of this work was to optimize the production and recovery of SCFAs from partially oxidised WAS. To achieve this, WAS was treated by wet oxidation (WO) at different temperatures (160–200 °C) and ultrafiltered using ceramic membranes (50 and 1 kDa) to pre-purify the SCFAs. Subsequently, these acids were extracted with different combinations of trioctylamine (TOA), tributylphosphate (TBP) and octan-1-ol in the temperature range 25–50 °C. WO at 160 °C for 240 min maximized the SCFA production, obtaining a concentration of 6.07 g/L, with acetic acid as the main component (28.2 %). Membrane ultrafiltration operating in total recycle mode achieved rejections of 39% for TOC and 73% for colour, with a low SCFA rejection (4%) effectively pre-purifying the SCFAs present in the WAS. The main fouling mechanism was cake formation. The highest extraction yields of SCFAs at room temperature were achieved with a mixture of TOA and TBP at 10 % in octan-1-ol, extracting 34 % of the total SCFAs present in the 1 kDa permeate. Lower extraction yields were obtained with the pre-purified WAS compared to synthetic solutions of SCFAs, showing the detrimental effect of the matrix in liquid–liquid extraction. Increasing the temperature within the range of 25–50 °C generally had a favourable effect on the SCFA extraction. © 2024 The Author(s)
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+w2r["waste"] = ["waste activated sludge"]
+w2r["transformed_resource"] = ["short-chain organic acids"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['waste activated sludge'], 'transforming_process': [], 'transformed_resource': ['short-chain organic acids'], 'reference': '10.1016/j.seppur.2024.126815'}
+Time taken: 3.04 seconds
+----------------------------------
+Processing abstract 39
+Coded abstract: 
+Effluents derived from industrial production can contain pollutants as oils, dyes, plaguicides, emerging organic pollutants, detergents, disinfectants, and toxic metals. The presence of high concentrations of pollutants in effluents makes them an important source of environmental pollution. To solve this problem, various technologies have been developed for the treatment of industrial effluents. Currently, sustainable industrial production and the wastes reuse is of great importance for the economic development and environmental countries protection. This review initially proposes an introduction to sustainable industrial production, its foundations and aspects related to the circular economy and the process intensification. Current trends in waste reuse in Latin America are presented. In addition, the latest advances on the technologies used for effluents treatment are commented and discussed, considering the different sustainability indicators. The contributions reported in this manuscript demonstrated the efficiency of eliminating pollutants present in industrial effluents, reaching removal percentages of pollutants from 20 to 100 %. Finally, it is important to mention that the applied technologies are useful not only for the decontamination of an industrial effluent and the environmental care but also for the possibility of give an additional use to these resources considering the water shortage present in many parts of Latin America. © 2024
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["industrial effluents"]
+w2r["transformed_resource"] = ["clean water"]
+```<|eot_id|>
+Extracted w2r: 
+{'waste': ['industrial effluents'], 'transforming_process': [], 'transformed_resource': ['clean water'], 'reference': '10.1016/j.cep.2024.109826'}
+Time taken: 2.73 seconds
+----------------------------------
+Processing abstract 40
+Coded abstract: 
+Peri-urban environments are significant reservoirs of wastewater, and releasing this untreated wastewater from these resources poses severe environmental and ecological threats. Wastewater mitigation through sustainable approaches is an emerging area of interest. Algae offers a promising strategy for carbon-neutral valorization and recycling of urban wastewater. Aiming to provide a proof-of-concept for complete valorization and recycling of urban wastewater in a peri-urban environment in a closed loop system, a newly isolated biocrust-forming cyanobacterium Desertifilum tharense BERC-3 was evaluated. Here, the highest growth and lipids productivity were achieved in urban wastewater compared to BG11 and synthetic wastewater. D. tharense BERC-3 showed 60–95% resource recovery efficiency and decreased total dissolved solids, chemical oxygen demand, biological oxygen demand, nitrate nitrogen, ammonia nitrogen and total phosphorus contents of the water by 60.37%, 81.11%, 82.75%, 87.91%, 85.13%, 85.41%, 95.87%, respectively, making it fit for agriculture as per WHO's safety limits. Soil supplementation with 2% wastewater-cultivated algae as a soil amender, along with its irrigation with post-treated wastewater, improved the nitrogen content and microbial activity of the soil by 0.3–2.0-fold and 0.5-fold, respectively. Besides, the availability of phosphorus was also improved by 1.66-fold. The complete bioprocessing pipeline offered a complete biomass utilization. This study demonstrated the first proof-of-concept of integrating resource recovery and resource recycling using cyanobacteria to develop a peri-urban algae farming system. This can lead to establishing wastewater-driven algae cultivation systems as novel enterprises for rural migrants moving to urban areas. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+w2r["waste"] = ["urban wastewater"]
+w2r["transformed_resource"] = ["biomass"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['urban wastewater'], 'transforming_process': [], 'transformed_resource': ['biomass'], 'reference': '10.1016/j.chemosphere.2024.142527'}
+Time taken: 3.35 seconds
+----------------------------------
+Processing abstract 41
+Coded abstract: 
+This study has focused on the dam sediments and marble waste reuse as subgrade materials for road construction, with the overarching goals of reducing greenhouse gas emissions and conserving natural resources. Different mixtures were prepared based on sediments and marble waste, and treated with hydraulic binders. The first mixture consisted solely of raw sediment, while the second mixture combined 50 % dredged sediments with 50 % marble waste. Additionally, this mixture was treated with 1 % aerial hydrated lime and hydraulic road binder to enhance its properties. The experimental study focused on assessing both the short-term and long-term mechanical properties of the prepared mixtures. Results highlighted that the mixtures containing dam sediments and marble waste were highly suitable for road subgrade construction. These mixtures satisfied the criteria for trafficability (UCS), wetting resistance (UCSI), freezing resistance (ITS), and overall mechanical strength. Furthermore, a comprehensive analysis of the mixtures' microstructure and their environmental impact was conducted. A significant relationship was observed between CaO/SiO2 ratio and the mechanical properties of the treated mix. The research contributes to the growing body of knowledge regarding sustainable construction practices by highlighting the viability of utilizing dredged sediments and marble waste as valuable resources in road subgrade construction. The study showed that recovering 20 % of sediment and marble waste to replace natural materials would reduce energy consumption and greenhouse gas emissions by at least 40 % and 28 % respectively. © 2023 The Authors
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["dredged sediments", "marble waste"], "w2r["transformed_resource"] = ["road subgrade construction materials"]"
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['dredged sediments', 'marble waste'], 'transforming_process': [], 'transformed_resource': ['road subgrade construction materials'], 'reference': '10.1016/j.cscm.2023.e02764'}
+Time taken: 3.56 seconds
+----------------------------------
+Processing abstract 42
+Coded abstract: 
+Nitrate (NO3‒) pollution poses significant threats to water quality and global nitrogen cycles. Alkaline electrocatalytic NO3‒ reduction reaction (NO3RR) emerges as an attractive route for enabling NO3‒ removal and sustainable ammonia (NH3) synthesis. However, it suffers from insufficient proton (H+) supply in high pH conditions, restricting NO3‒-to-NH3 activity. Herein, we propose a halogen-mediated H+ feeding strategy to enhance the alkaline NO3RR performance. Our platform achieves near-100% NH3 Faradaic efficiency (pH = 14) with a current density of 2 A cm–2 and enables an over 99% NO3–-to-NH3 conversion efficiency. We also convert NO3‒ to high-purity NH4Cl with near-unity efficiency, suggesting a practical approach to valorizing pollutants into valuable ammonia products. Theoretical simulations and in situ experiments reveal that Cl-coordination endows a shifted d-band center of Pd atoms to construct local H+-abundant environments, through arousing dangling O-H water dissociation and fast *H desorption, for *NO intermediate hydrogenation and finally effective NO3‒-to-NH3 conversion. © The Author(s) 2024.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["halogen"]
+w2r["transformed_resource"] = ["ammonia"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['halogen'], 'transforming_process': [], 'transformed_resource': ['ammonia'], 'reference': '10.1038/s41467-024-45534-2'}
+Time taken: 2.51 seconds
+----------------------------------
+Processing abstract 43
+Coded abstract: 
+Bio-based composites fabricated from bio-sourced waste feedstocks have attracted increasing interest and have shown potential applications in sustainable energy infrastructure development. Thermal management using phase-change materials (PCMs) has appeared as an innovative approach for energy storage and cooling, where pure PCMs that lack thermal stability are encapsulated in solid matrices to ensure the charge/discharge of the latent heat of the composite. However, their energy storage density, thermal stability, and durability are reduced after multiple thermal cycles, besides the complicated and expensive nonrenewable fossil feedstock utilization. Biochar, mostly used for soil remediation, can be redirected and repurposed for the encapsulation of PCMs in renewable energy storage infrastructures. In this study, a “greener” biochar-based composite was fabricated from agricultural corncob-derived biochar (88.9 % mesopore proportion) and a commercially available paraffinic PCM (n-hexadecane) following vacuum impregnation strategies. Corncob biochar combined with hexadecane exhibited an efficient energy per unit mass of 250.6 kJ kg−1 and a latent heat retention of 110.3 % after 500 consecutive thermal cycles. In addition, the corncob biochar/hexadecane composite demonstrated high fractional crystallinity and relative latent heat efficiency (98.9 %). The composite exhibited promising chemical compatibility with composite components, stability, and competitive energy density even compared with a composite made of nonrenewable fossil-based materials, like exfoliated graphene nanoplatelets, which demonstrated reduced latent heat retention after multiple heating-cooling cycles. Intermolecular interactions, such as hydrogen bonding, between the guest molecular chains and host materials played a significant role in the thermal performance of the as-synthesized composite materials. This approach will contribute to overcoming the complexities and costs of composite PCM development in thermal management and thermal energy storage applications and support and advance the UN's sustainable development goal (affordable and clean energy). © 2024
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+w2r["waste"] = ["agricultural corncob"]
+w2r["transformed_resource"] = ["biochar-based composite for thermal management and thermal energy storage"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['agricultural corncob'], 'transforming_process': [], 'transformed_resource': ['biochar-based composite for thermal management and thermal energy storage'], 'reference': '10.1016/j.est.2024.112540'}
+Time taken: 3.59 seconds
+----------------------------------
+Processing abstract 44
+Coded abstract: 
+In India, majority of the generated municipal solid waste (MSW) was dumped in poorly managed landfills and dumpsites over the past decades and is an environmental and health hazard. Landfill mining is a promising solution to reclaim these sites along with the recovery of resources (materials and energy). During landfill mining operations, the combustible fraction is one of the major components recovered and needs proper management for maximizing resource recovery. For the identification of appropriate resource recovery options, knowledge of the physicochemical characteristics is required. The present study aims to assess the depth-wise change in the composition of legacy waste and the physicochemical characteristics of the combustible fraction. Furthermore, a material flow analysis considering the incineration of combustible fraction was performed to estimate the energy generation potential and the associated greenhouse gas (GHG) emissions. The results of the compositional analysis of dry legacy waste revealed that the fine fraction (<4 mm soil-like material) was dominating with a share of 36%. The depth-wise analysis showed a decrease in the calorific value with increasing landfill depth, while no specific trend was observed for the other parameters analyzed, including proximate and ultimate analysis, and chlorine content. The material flow analysis performed for 100 tonnes of wet legacy waste indicated that 52 tonnes of waste is combustible fraction. The GHG emissions through incineration of one tonne of dry combustible fraction would be 1389 kg CO2-eq, with 1125 kWh of electrical energy generation potential. © 2024 Elsevier Inc.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+w2r["waste"] = ["municipal solid waste"]
+w2r["transformed_resource"] = ["energy"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['municipal solid waste'], 'transforming_process': [], 'transformed_resource': ['energy'], 'reference': '10.1016/j.envres.2024.118669'}
+Time taken: 3.80 seconds
+----------------------------------
+Processing abstract 45
+Coded abstract: 
+Recycling aluminium in a rotary furnace with salt-fluxes allows recovering valuable alloys from hard-to-recycle waste/side-streams such as packaging, dross and incinerator bottom ash. However, this recycling route generates large amounts of salt-slag/salt-cake hazardous wastes which can pose critical environmental risks if landfilled. To tackle this issue, the metallurgical industry has developed processes to valorise the salt-slag residues into recyclable salts and aluminium concentrates, while producing by-products such as ammonium sulphate and non-metallic compounds (NMCs), with applications in the construction or chemical industries. This study aims to assess through LCA the environmental impacts of recycling aluminium in rotary furnaces for both salt-slag management routes: valorisation or landfill. It was found that this recycling process brings forth considerable net environmental profits, which increase for all the considered impact categories if the salt-slag is valorised. The main benefits arise from the production of secondary cast aluminium alloys, which is not unexpected due to the high energy intensity of aluminium primary production. However, the LCA results also identify other hotspots which play a significant role, and which should be considered for the optimisation of the process based on its environmental performance, such as the production of by-products, the consumption of energy/fuels and the avoidance of landfilling waste. Additionally, the assessment shows that the indicators for mineral resource scarcity, human carcinogenic toxicity and terrestrial ecotoxicity are particularly benefited by the salt-slag valorisation. Finally, a sensitivity analysis illustrates the criticality of the metal yield assumptions when calculating the global warming potential of aluminium recycling routes. © 2024 The Author(s)
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["packaging", "dross", "incinerator bottom ash"], "w2r["transformed_resource"] = ["salts", "ammonium sulphate", "non-metallic compounds", "secondary cast aluminium alloys"]
+```<|eot_id|>
+Extracted w2r: 
+{'waste': ['packaging', 'dross', 'incinerator bottom ash'], 'transforming_process': [], 'transformed_resource': ['salts', 'ammonium sulphate', 'non-metallic compounds', 'secondary cast aluminium alloys'], 'reference': '10.1016/j.wasman.2024.04.023'}
+Time taken: 6.47 seconds
+----------------------------------
+Processing abstract 46
+Coded abstract: 
+The increasing global waste generated by industrial activities poses significant environmental challenges. Eco-waste management emerges as an economically viable solution for converting, valorizing, and repurposing these byproducts, aligning with circular economy principles, and aiming to reduce greenhouse gas emissions. Construction, known for its unsustainability due to high energy consumption, non-renewable resource utilization, waste generation, and greenhouse gas emissions, particularly from cement production, has led to the exploration of alternative materials. Magnesium oxide (MgO)-based cement, an alternative to Ordinary Portland Cement (OPC), has gained attention, leveraging Brazil's prominence as a major magnesite producer. This study explores the valorization of waste from kraft pulp mills of the paper industry, specifically lime sludge (LS) and lime slaker grits (grits), to produce magnesium oxysulfate (MOS)-based fiber cement boards. The effect of accelerated carbonation on cementitious composites produced with formulations containing grits and LS was investigated. Replacing 25% of the limestone with grits showed no noticeable differences in the properties of the boards, and MOR values close to 11.17 MPa were obtained. However, the physical-mechanical performance showed a decrease with the use of LS and higher concentrations of grits, associated with Na2SO4.XH2O formation in the system and ITZ structure formed around the aggregated particle, respectively. Carbonation in a saturated atmosphere led to the carbonation of the 5–1–7 phase, which was related to the decrease in mechanical strength of the boards after the curing process. The thermal decomposition of the Hydrated Magnesium Carbonates (HMCs) formed during accelerated carbonation corroborated with the changes in the physical properties of the composites, demonstrating that the carbonation products are formed within the voids and pores of the material and contribute to the reduction in water absorption of the boards. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+w2r["waste"] = ["lime sludge", "lime slaker grits"]
+w2r["transformed_resource"] = ["magnesium oxysulfate-based fiber cement boards"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['lime sludge', 'lime slaker grits'], 'transforming_process': [], 'transformed_resource': ['magnesium oxysulfate-based fiber cement boards'], 'reference': '10.1016/j.conbuildmat.2024.136525'}
+Time taken: 4.82 seconds
+----------------------------------
+Processing abstract 47
+Coded abstract: 
+This study proposes an environmentally sustainable approach for converting food waste into fuels and chemicals, especially focusing on syngas production. The carbon-negative aspect of the pyrolysis process was achieved by employing CO2 as the reaction medium. Carrot pulp waste (CPW) was used as an exemplary food waste in this work. In the single-stage pyrolysis of CPW, the presence of CO2 led to improved syngas generation. The introduction of CO2, rather than N2 carrier gas, resulted in substantial increase of CO formation at temperatures ≥ 400 °C, with a decrease in bio-oil production. This phenomenon was due to the chemical reactions between CO2 and the volatile organic compounds (VOCs) produced during the pyrolysis of CPW. Specifically, CO2 played a mechanistic role by providing an extra oxygen source for CO production and participating in the oxidative thermal cracking of VOCs. In-depth analysis of multi-stage pyrolysis verified the mechanistic role of CO2, particularly at temperatures ≥ 190 °C. However, CO2-induced reactions influenced the molecular size of the VOCs. To boost the CO2-induced reactions for additional syngas formation, a nickel-based catalyst was introduced during the pyrolysis of CPW, which effectively expedited the homogeneous reactions initiated by CO2, thereby indicating its potential to accelerate and optimize food waste valorization. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["carrot pulp waste"], w2r["transformed_resource"] = ["fuels", "syngas"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['carrot pulp waste'], 'transforming_process': [], 'transformed_resource': ['fuels', 'syngas'], 'reference': '10.1016/j.fuel.2024.131799'}
+Time taken: 4.23 seconds
+----------------------------------
+Processing abstract 48
+Coded abstract: 
+Waste plastic (WP) and lignocellulosic biomass (LCB) are both refractory polymers that can provide feedstocks for the production of fuels. Anaerobic digestion (AD) is a widely recognized technology utilized in waste management and renewable energy production. It involves the utilization of microorganisms to decompose organic matter into methane (CH4). Nevertheless, mono-digestion, which refers to AD utilizing a single feedstock, encounters difficulties related to the properties of the feedstock. Therefore, the utilization of co-digestion with multiple feedstocks provides the potential to overcome these limitations. This study might be the first to examine the impact of co-digestion of low-density polyethylene (LDPE) with rice straw (RS) for biogas and CH4 production. The cumulative CH4 production for AD-1, AD-2, AD-3, AD-4, AD-5, and AD-6 was 154.9, 177.4, 52.0, 81.2, 98.43, and 135.15 NmL/g VS. The methane energy yields varied between 2.29 and 7.64 MJ/m3, while their respective βece values spanned from 17.6 to 58.8 %. Volatile solid removal was enhanced for the treated RS-LDPE mixture, as demonstrated in AD-6, in comparison to the untreated substrate in the AD-2 digester. There is a notable disparity in the composition of bacterial communities within the bioreactors that were constructed prior to and subsequent to the AD process. The proliferating Firmicutes, Bacteroidetes, and Protobacteria were crucial to the AD of RS and LDPE. The three predominant methanogenic genera present in the constructed digesters and inoculum were Methanobacterium, Methanolinea, and Methanosarcina, each with a distinct abundance level. The findings open up the possibility of better understanding the effect of co-digestion of WP and LCB on enhancing CH4 production, which is critical for developing strategies for bioremediation and waste valorization simultaneously with biofuel production. © 2024 Elsevier Ltd
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+w2r["waste"] = ["waste plastic", "lignocellulosic biomass"]
+w2r["transformed_resource"] = ["fuels"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['waste plastic', 'lignocellulosic biomass'], 'transforming_process': [], 'transformed_resource': ['fuels'], 'reference': '10.1016/j.fuel.2024.131926'}
+Time taken: 4.55 seconds
+----------------------------------
+Processing abstract 49
+Coded abstract: 
+The global drive towards sustainable development has prompted a notable shift in civil engineering practices towards utilizing secondary materials, such as incineration bottom ash (IBA). The literature review underscores the relevance of waste incineration and the crucial need for effective IBA management strategies. Existing studies, however, reveal a dearth of studies within the life cycle assessment (LCA) framework focusing on understanding IBA characteristics and field conditions. The study addresses this gap by proposing an LCA to assess the environmental implications of substituting natural aggregates with IBA in pavement layers. A comparative LCA was carried out, where different scenarios of reuse of IBA (as produced, treated, or with restrictions) were assessed against a baseline scenario that represents the conventional use of aggregates in roads and landfilling of IBA. The ReCiPe technique, incorporating a hierarchist perspective, was employed to assess impacts across different problem-oriented categories. Additionally, this study also explores the impact of data variability on LCA outcomes, considering changes in landfill height, pavement infiltration rate, time duration, and IBA transportation distance. The analysis indicates that incorporating IBA in road layers can significantly reduce impacts on non-toxic categories like global warming by over 35 %. However, the leaching properties of untreated IBA contribute to a more than 28 % increase in human carcinogenic toxicity, rendering it environmentally unsuitable for road layer reuse. The comparative study illustrated that reusing treated IBA is the most sustainable approach, remaining effective up to a distance of d + 15 km. In cases where treatment is not feasible, utilizing IBA with restrictions is recommended up to a distance of d + 5 km (d represents the transportation distance for natural materials). This research fills a critical gap in the literature by providing a framework to assess IBA reuse in road construction, thereby advancing the discourse on sustainable materials management in the construction industry. © 2024 Elsevier B.V.
+LLM response: 
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"w2r["waste"] = ["incineration bottom ash"], w2r["transformed_resource"] = ["pavement layers"]
+<|eot_id|>
+Extracted w2r: 
+{'waste': ['incineration bottom ash'], 'transforming_process': [], 'transformed_resource': ['pavement layers'], 'reference': '10.1016/j.scitotenv.2024.172890'}
+Time taken: 3.54 seconds
+-----------------------------------------------------------------
+Successfully extracted: 50 / 50
+Total time: 181.02960681915283, averaged time: 3.6205921363830567 seconds
+Running experiment 4/5

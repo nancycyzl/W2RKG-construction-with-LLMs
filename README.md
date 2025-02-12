@@ -93,3 +93,14 @@ Write the fused triples to Neo4j. Remember to change input file and the password
 ```sh
 python write_database.py
 ```
+
+-----------------------------
+
+### Fine-tune LLaMa 3.1 model
+
+The fine-tuning was conducted on Golab platform with T4 GPU, using Low-Rank Adaptation method.
+The two scripts `extraction_llama_finetune.ipynb` (JSON-style)
+and `extraction_llama_finetune_codestyle.ipynb` (code-style)
+contain codes for model fine-tuning and inference.
+
+The fine-tuned LoRa weights can be accessed via this [GDrive link](https://drive.google.com/drive/folders/12yNoSqhExA3EG_Tusa-xfU1Dwm4L_Dvy?usp=sharing).

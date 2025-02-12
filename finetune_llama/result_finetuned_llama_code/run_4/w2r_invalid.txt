@@ -1,0 +1,11 @@
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"waste": ["synthetic wastewater", "humic acid water solution"],
+"transformed_resource": ["drinking water", "clean wastewater"]
+<|eot_id|>
+
+----------
+

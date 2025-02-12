@@ -1,0 +1,22 @@
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"waste": ["sorghum waste", "water", "KCl", "trimethyl benzene", "triblock copolymer F127", "1-methyl-3-(triethoxysilylpropyl) imidazolium chloride", "sodium silicate"],
+"transformed_resource": ["Cr(VI) adsorbent"]
+```<|eot_id|>
+
+----------
+
+w read the text, assign wastes and resources lists to w2r keys
+  # directly output the newly added code
+```<|eot_id|><|start_header_id|>assistant<|end_header_id|>
+
+
+"waste": ["agri-food wastes"],
+"transformed_resource": ["xylose"]
+<|eot_id|>
+
+----------
+
