@@ -1,0 +1,154 @@
+[
+    {
+        "waste": [
+            "urban wastewater"
+        ],
+        "transforming_process": [
+            "valorization and recycling using cyanobacteria Desertifilum tharense BERC-3"
+        ],
+        "transformed_resource": [
+            "agricultural water"
+        ],
+        "reference": [
+            "10.1016/j.chemosphere.2024.142527"
+        ]
+    },
+    {
+        "waste": [
+            "dam sediments"
+        ],
+        "transforming_process": [
+            "reuse as subgrade materials for road construction"
+        ],
+        "transformed_resource": [
+            "subgrade materials for road construction"
+        ],
+        "reference": [
+            "10.1016/j.cscm.2023.e02764"
+        ]
+    },
+    {
+        "waste": [
+            "Nitrate (NO3\u2012)"
+        ],
+        "transforming_process": [
+            "alkaline electrocatalytic NO3\u2012 reduction reaction (NO3RR)"
+        ],
+        "transformed_resource": [
+            "ammonia (NH3)"
+        ],
+        "reference": [
+            "10.1038/s41467-024-45534-2"
+        ]
+    },
+    {
+        "waste": [
+            "agricultural corncob-derived biochar"
+        ],
+        "transforming_process": [
+            "vacuum impregnation strategies"
+        ],
+        "transformed_resource": [
+            "biochar-based composite"
+        ],
+        "reference": [
+            "10.1016/j.est.2024.112540"
+        ]
+    },
+    {
+        "waste": [
+            "combustible fraction",
+            "municipal solid waste (MSW)"
+        ],
+        "transforming_process": [
+            "incineration",
+            "landfill mining"
+        ],
+        "transformed_resource": [
+            "electrical energy",
+            "resources (materials and energy)"
+        ],
+        "reference": [
+            "10.1016/j.envres.2024.118669"
+        ]
+    },
+    {
+        "waste": [
+            "packaging",
+            "dross",
+            "salt-slag/salt-cake",
+            "incinerator bottom ash"
+        ],
+        "transforming_process": [
+            "recycling in a rotary furnace with salt-fluxes",
+            "valorisation"
+        ],
+        "transformed_resource": [
+            "valuable alloys",
+            "aluminium concentrates",
+            "ammonium sulphate",
+            "recyclable salts",
+            "non-metallic compounds (NMCs)"
+        ],
+        "reference": [
+            "10.1016/j.wasman.2024.04.023"
+        ]
+    },
+    {
+        "waste": [
+            "lime slaker grits (grits)",
+            "lime sludge (LS)"
+        ],
+        "transforming_process": [
+            "valorization"
+        ],
+        "transformed_resource": [
+            "magnesium oxysulfate (MOS)-based fiber cement boards"
+        ],
+        "reference": [
+            "10.1016/j.conbuildmat.2024.136525"
+        ]
+    },
+    {
+        "waste": [
+            "carrot pulp waste"
+        ],
+        "transforming_process": [
+            "pyrolysis with CO2 as the reaction medium"
+        ],
+        "transformed_resource": [
+            "syngas"
+        ],
+        "reference": [
+            "10.1016/j.fuel.2024.131799"
+        ]
+    },
+    {
+        "waste": [
+            "low-density polyethylene (LDPE) and rice straw (RS)"
+        ],
+        "transforming_process": [
+            "co-digestion"
+        ],
+        "transformed_resource": [
+            "methane (CH4)"
+        ],
+        "reference": [
+            "10.1016/j.fuel.2024.131926"
+        ]
+    },
+    {
+        "waste": [
+            "incineration bottom ash (IBA)"
+        ],
+        "transforming_process": [
+            "reuse in road construction"
+        ],
+        "transformed_resource": [
+            "pavement layers"
+        ],
+        "reference": [
+            "10.1016/j.scitotenv.2024.172890"
+        ]
+    }
+]
