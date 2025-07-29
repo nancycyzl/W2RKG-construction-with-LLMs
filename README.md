@@ -1,5 +1,9 @@
 ## Waste-to-resource KG construction
 
+
+![Sample W2R graph](helpers/graph_sample.png)
+
+
 ### Extract W2R from abstracts
 
 Experiment with different models, prompts, and styles.
