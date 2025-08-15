@@ -1,0 +1,92 @@
+```python
+# Added code
+waste = ["date pits", "peanut shells", "coffee grounds", "tea waste"]
+transforming_process = ["pyrolysis", "co-pyrolysis", "TG/DTG procedures"]
+transformed_resource = ["char", "hydrogen-rich gas", "liquid product", "gaseous product", "biochars", "H2"]
+
+# Update the w2r dictionary
+w2r["waste"] = waste
+w2r["transforming_process"] = transforming_process
+w2r["transformed_resource"] = transformed_resource
+```
+
+----------
+
+w2r = {"waste": ["plastic waste", "mixed plastic waste"], 
+       "transforming_process": ["autothermal steam-oxygen gasification", "fluidized bed gasifier"], 
+       "transformed_resource": ["hydrogen", "chemicals", "syngas"]}
+
+----------
+
+waste = ["plastic waste"]
+transforming_process = ["pyrolysis", "in-line oxidative steam reforming", "pre-combustion", "catalytic bed reaction", "P-OSR of HDPE in CSBR and FBR technologies"]
+transformed_resource = ["H2"] 
+
+w2r["waste"] = waste
+w2r["transforming_process"] = transforming_process
+w2r["transformed_resource"] = transformed_resource
+
+print(w2r)
+
+----------
+
+w2r["waste"].extend(["cellulose-rich residue", "grape marc"])
+w2r["transforming_process"].extend(["incorporation into gelatin film forming formulations", "thermo-sealing"])
+w2r["transformed_resource"].extend(["revalorized cellulose", "sodium carboxymethyl cellulose", "cellulose-containing gelatin films"])
+
+----------
+
+w2r = {"waste": ["biomass", "waste"], "transforming_process": ["microwave-assisted pyrolysis (MAP)", "conventional pyrolysis via thermal heating"], "transformed_resource": []}
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = """
+The production of chemicals/products so far relies on fossil-based resources with the creation of several environmental problems at the global level. In this situation, a sustainable and circular economy model is necessitated to mitigate global environmental issues.
+Production of biowaste from various processing industries also creates environmental issues which would be valorized for the production of industrially important reactive and bioactive compounds.
+Lignin acts as a vital part in biowaste composition which can be converted into a wide range of phenolic compounds.
+The phenolic compounds have attracted much attention, owing to their influence on diverse not only organoleptic parameters, such as taste or color, but also active agents for active packaging systems.
+Crop residues of varied groups, which are an affluent source of lignocellulosic biomass could serve as a renewable resource for the biosynthesis of ferulic acid (FA).
+FA is obtained by the FA esterase enzyme action, and it can be further converted into various tail end phenolic flavor green compounds like vanillin, vanillic acid and hydroxycinnamic acid.
+Lignin being renewable in nature, processing and management of biowastes towards sustainability is the need as far as the global industrial point is concerned.
+This review explores all the approaches for conversion of lignin into value-added phenolic compounds that could be included to packaging applications.
+These valorized products can exhibit the antioxidant, antimicrobial, cardioprotective, anti-inflammatory and anticancer properties, and due to these features can emerge to incorporate them into production of functional foods and be utilization of them at active food packaging application.
+These approaches would be an important step for utilization of the recovered bioactive compounds at the nutraceutical and food industrial sectors.
+"""
+
+w2r["waste"].extend(["fossil-based resources", "biowaste", "crop residues"])
+w2r["transforming_process"].extend(["conversion of lignin into phenolic compounds", "biosynthesis of ferulic acid", "FA esterase enzyme action"])
+w2r["transformed_resource"].extend(["phenolic compounds", "ferulic acid", "vanillin", "vanillic acid", "hydroxycinnamic acid"])
+
+----------
+
+w2r["waste"].extend(["polyethylene"])
+w2r["transforming_process"].extend(["hydrogenolysis", "microbial process"])
+w2r["transformed_resource"].extend(["alkanes", "biosurfactants"])
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = "Water treatment sludge (WTS) disposal in landfills and estuaries has significant negative environmental effects. This study aims to produce a cleaner approach to recycling solid waste sludge from water treatment plants into eco-friendly construction materials. This approach involves the production of structural sintering clay bricks using WTS as a substitute for clay in the manufacturing process. Various mixtures of WTS content ranging from 10% to 50% and sand content of 10 and 20% were investigated. The Brick samples were shaped in the form of cubes and then fired in an oven at 700 °C for 3 h. Subsequently, several tests were conducted on the fired brick samples, including compressive strength, bulk density, water absorption, apparent porosity, efflorescence, freeze and thaw analysis, and microstructure investigation. The properties of WTS indicate a high concentration of silica, aluminum, and iron, which contribute to the improved properties of the fired bricks. It was observed that the bricks' compressive strength decreased from 29.8 to 8 MPa as the WTS content increased from 10% to 50%. In parallel, increasing the WTS content resulted in a decrease in bulk density from 1.005 to 0.75 g/cm3, an increase in apparent porosity values from 20% to 35%, and a higher water absorption from 12% to 37%. Furthermore, the addition of sand by 10 and 20% to the bricks leads to enhancements in both the mechanical and microstructure properties of the sintered bricks. Moreover, the efflorescence analysis of bricks is at a slight level. It can be concluded that WTS can be reused in the manufacturing of structural sintering clay bricks, providing a cleaner and more sustainable method of disposal for water treatment sludge. "
+
+w2r["waste"].extend(["Water treatment sludge (WTS)"])
+w2r["transforming_process"].extend(["sintering clay bricks production", "firing in an oven at 700 °C for 3 h"])
+w2r["transformed_resource"].extend(["structural sintering clay bricks"])
+
+----------
+
+```python
+wastes = ["food waste", "carrot pulp waste (CPW)"]
+transforming_processes = ["pyrolysis", "single-stage pyrolysis", "multi-stage pyrolysis"]
+transformed_resources = ["syngas", "CO", "bio-oil", "VOCs"]
+
+w2r["waste"] = wastes
+w2r["transforming_process"] = transforming_processes
+w2r["transformed_resource"] = transformed_resources
+
+print(w2r)
+```
+
+----------
+

@@ -1,0 +1,39 @@
+i,type,ground-truth,prediction,resolved,label,note
+2,waste,"textile residue, end-of-life fire-protecting t-shirt, protective clothing with meta-aramid fiber",textile residue,textile residue,TP,string exact match
+2,waste,"textile residue, end-of-life fire-protecting t-shirt, protective clothing with meta-aramid fiber",fiber,protective clothing with meta-aramid fiber,TP,llm match output: yes. c.
+2,resource,"reinforcement materials in cement-based matrix, recycled fiber, laminated fabric-reinforced cementitious matrix",laminated fabric-reinforced cementitious matrices (frcms),laminated fabric-reinforced cementitious matrix,TP,llm match output: yes. c.
+2,resource,"reinforcement materials in cement-based matrix, recycled fiber, laminated fabric-reinforced cementitious matrix",cement-based matrix,reinforcement materials in cement-based matrix,TP,"llm match output: list: ['a: reinforcement materials in cement-based matrix', 'b: recycled fiber', 'c: laminated fabric-reinforced cementitious matrix']. 
+sample: cementitious matrix.
+
+answer: yes. a."
+2,resource,"reinforcement materials in cement-based matrix, recycled fiber, laminated fabric-reinforced cementitious matrix",composite material,reinforcement materials in cement-based matrix,TP,llm match output: yes. a.
+15,waste,"oil palm biomass, mill effluent",oil palm biomass,oil palm biomass,TP,string exact match
+15,waste,"oil palm biomass, mill effluent",mill effluent,mill effluent,TP,string exact match
+15,waste,"oil palm biomass, mill effluent",biomass utilization,oil palm biomass,TP,llm match output: yes. a.
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",biopolymer,biopolymer,TP,string exact match
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",graphene,graphene,TP,string exact match
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",biocomposites,biocomposites,TP,string exact match
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",mxene,mxene,TP,string exact match
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",biochemicals,biochemicals,TP,string exact match
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",biomedical application,biocomposites,TP,llm match output: yes. c.
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",algal oil,algal oil,FP,llm match output: no.
+43,waste,"bio-sourced waste feedstock, agricultural corncob-derived biochar",fossil feedstock utilization,fossil feedstock utilization,FP,llm match output: no.
+43,waste,"bio-sourced waste feedstock, agricultural corncob-derived biochar",nonrenewable fossil-based material,nonrenewable fossil-based material,FP,llm match output: no.
+43,resource,biochar-based composite,biochar-based composite,biochar-based composite,TP,string exact match
+43,resource,biochar-based composite,corncob biochar/hexadecane composite,biochar-based composite,TP,llm match output: yes. a.
+43,resource,biochar-based composite,composites fabricated from bio-sourced waste feedstock,biochar-based composite,TP,llm match output: yes. a.
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",packaging,packaging,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",dross,dross,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",incinerator bottom ash,incinerator bottom ash,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",salt-slag/salt-cake hazardous waste,salt-slag/salt-cake hazardous waste,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",recyclable salt,recyclable salt,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",aluminium concentrate,aluminium concentrate,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",ammonium sulphate,ammonium sulphate,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",non-metallic compounds (nmcs),non-metallic compounds (nmcs),TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",secondary cast aluminium alloy,secondary cast aluminium alloy,TP,string exact match
+48,resource,"biogas, methane, biofuel",biogas,biogas,TP,string exact match
+48,resource,"biogas, methane, biofuel",methane (ch4),methane,TP,llm match output: yes. b.
+48,resource,"biogas, methane, biofuel",fuel,biogas,TP,llm match output: yes. a.
+48,resource,"biogas, methane, biofuel",energy,methane,TP,llm match output: yes. b.
+48,resource,"biogas, methane, biofuel",bioremediation,bioremediation,FP,llm match output: no.
+48,resource,"biogas, methane, biofuel",biofuel production,biofuel,TP,llm match output: yes. c.

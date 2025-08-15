@@ -1,0 +1,34 @@
+i,type,ground-truth,prediction,resolved,label,note
+3,waste,"waste vulcanized rubber, waste vulcanized natural rubber, waste vulcanized emulsion type butadiene-based rubber, waste vulcanized nitrile-butadiene rubber glove, waste vulcanized emulsion type diene-based rubber",vulcanized rubber,waste vulcanized rubber,TP,llm match output: yes. a.
+3,waste,"waste vulcanized rubber, waste vulcanized natural rubber, waste vulcanized emulsion type butadiene-based rubber, waste vulcanized nitrile-butadiene rubber glove, waste vulcanized emulsion type diene-based rubber",waste vulcanized emulsion type butadiene-based rubber,waste vulcanized emulsion type butadiene-based rubber,TP,string exact match
+3,resource,,recycling as resource,recycling as resource,FP,llm match output: no.
+3,resource,,opening the door for the waste-to-resources approach of all waste vulcanized emulsion type diene-based rubber,opening the door for the waste-to-resources approach of all waste vulcanized emulsion type diene-based rubber,FP,llm match output: yes. a.
+3,resource,,nitrile-butadiene rubber (nbr) glove,nitrile-butadiene rubber (nbr) glove,FP,llm match output: no.
+14,waste,"lignocellulosic biomass, bio-waste material, agri-food waste",biomass valorization,lignocellulosic biomass,TP,llm match output: yes. a.
+14,waste,"lignocellulosic biomass, bio-waste material, agri-food waste",agri-food waste,agri-food waste,TP,string exact match
+14,waste,"lignocellulosic biomass, bio-waste material, agri-food waste",lignocellulolytic enzyme,lignocellulolytic enzyme,FP,llm match output: no.
+14,resource,"bioethanol, xylose",xylose,xylose,TP,string exact match
+14,resource,"bioethanol, xylose",bioethanol,bioethanol,TP,string exact match
+14,resource,"bioethanol, xylose",hemicellulose hydrolysis,bioethanol,TP,llm match output: yes. a.
+14,resource,"bioethanol, xylose",thermostable xylanase and β-xylosidase activity,thermostable xylanase and β-xylosidase activity,FP,llm match output: no.
+29,resource,"biodiesel, light hydrocarbon, syngas, co, h2, liquid product, bioenergy and heat, animal feed","biodiesel production, bioenergy and heat, animal feed, chemical feedstocks, and their derivative",animal feed,TP,llm match output: yes. h.
+33,waste,"fruit waste, vegetable waste",oil oxidation,oil oxidation,FP,llm match output: no.
+33,waste,"fruit waste, vegetable waste",loss of nutritional value,loss of nutritional value,FP,llm match output: no.
+33,waste,"fruit waste, vegetable waste",undesirable flavor,undesirable flavor,FP,llm match output: no.
+33,waste,"fruit waste, vegetable waste",harmful compound,harmful compound,FP,llm match output: no.
+33,waste,"fruit waste, vegetable waste",synthetic antioxidants on human health,synthetic antioxidants on human health,FP,llm match output: no.
+33,resource,"natural antioxidant, nutritional enhancement of oil",antioxidant-rich waste extract,natural antioxidant,TP,llm match output: yes. a.
+33,resource,"natural antioxidant, nutritional enhancement of oil",enhanced edible vegetable oil,nutritional enhancement of oil,TP,llm match output: yes. b.
+33,resource,"natural antioxidant, nutritional enhancement of oil",nutraceuticals,natural antioxidant,TP,llm match output: yes. a.
+37,waste,water treatment sludge,water treatment sludge (wts),water treatment sludge,TP,llm match output: yes. a.
+37,resource,sintering clay brick,structural sintering clay bricks with improved property,sintering clay brick,TP,llm match output: yes. a
+37,resource,sintering clay brick,sintered bricks with enhanced mechanical and microstructure property,sintering clay brick,TP,llm match output: yes. a.
+37,resource,sintering clay brick,eco-friendly construction material,sintering clay brick,TP,llm match output: yes. a.
+42,waste,nitrate pollutant,insufficient proton (h+) supply in high ph condition,insufficient proton (h+) supply in high ph condition,FP,llm match output: no.
+42,waste,nitrate pollutant,restricting no3‒-to-nh3 activity,nitrate pollutant,TP,llm match output: yes. a
+42,resource,"ammonia, high-purity nh4cl",high-purity nh4cl with near-unity efficiency,high-purity nh4cl,TP,llm match output: yes. b.
+42,resource,"ammonia, high-purity nh4cl",near-100% nh3 faradaic efficiency (ph = 14) with a current density of 2 a cm–2 and enables an over 99% no3–-to-nh3 conversion efficiency,ammonia,TP,llm match output: yes. a.
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",recyclable salts and aluminium concentrate,aluminium concentrate,TP,"llm match output: yes. a, b."
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",secondary cast aluminium alloy,secondary cast aluminium alloy,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",ammonium sulphate,ammonium sulphate,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",non-metallic compounds (nmcs),non-metallic compounds (nmcs),TP,string exact match

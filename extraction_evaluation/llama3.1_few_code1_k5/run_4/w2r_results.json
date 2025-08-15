@@ -1,0 +1,370 @@
+[
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1002/app.55437"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.psep.2024.04.101"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cscm.2024.e02994"
+    },
+    {
+        "waste": [
+            "vulcanized rubbers",
+            "waste vulcanized emulsion type butadiene-based rubbers"
+        ],
+        "transforming_process": [
+            "metathetic degradation",
+            "cross metathesis between cis-1,4-structure and the chain transfer agent (CTA)",
+            "ring closing metathesis between the adjacent cis-1,4-structure and 1,2-structure"
+        ],
+        "transformed_resource": [
+            "recycling as resources",
+            "opening the door for the Waste-to-Resources approach of all waste vulcanized emulsion type diene-based rubbers",
+            "nitrile-butadiene rubber (NBR) glove"
+        ],
+        "reference": "10.1016/j.polymdegradstab.2024.110780"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.wasman.2024.04.045"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1186/s13068-023-02453-6"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.energy.2024.131762"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.energy.2024.131482"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.wasman.2024.05.007"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.rser.2024.114535"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.fochx.2024.101373"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.trac.2024.117772"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.jcis.2024.03.030"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.foodchem.2024.138424"
+    },
+    {
+        "waste": [
+            "biomass valorization",
+            "agri-food wastes",
+            "lignocellulolytic enzymes"
+        ],
+        "transforming_process": [
+            "valorization",
+            "lignocellulosic biomass degradation"
+        ],
+        "transformed_resource": [
+            "xylose",
+            "bioethanol",
+            "hemicellulose hydrolysis",
+            "thermostable xylanase and \u03b2-xylosidase activities"
+        ],
+        "reference": "10.1016/j.nbt.2024.04.002"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.indcrop.2024.118452"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.sajce.2024.05.001"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.jclepro.2024.142761"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.susmat.2024.e00870"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.energy.2024.131855"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.foodhyd.2024.109951"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cej.2024.151740"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.energy.2024.131897"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.jtice.2023.105280"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cej.2024.151942"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.wasman.2024.05.001"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.envres.2024.119218"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.jece.2024.113322"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.seppur.2024.127647"
+    },
+    {
+        "waste": [],
+        "transforming_process": [
+            "WCO pyrolysis"
+        ],
+        "transformed_resource": [
+            "biodiesel production, bioenergy and heat, animal feed, chemical feedstocks, and their derivatives"
+        ],
+        "reference": "10.1016/j.jaap.2024.106567"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.fuel.2024.131293"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.biortech.2024.130972"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.jobe.2024.109222"
+    },
+    {
+        "waste": [
+            "oil oxidation",
+            "loss of nutritional value",
+            "undesirable flavors",
+            "harmful compounds",
+            "synthetic antioxidants on human health"
+        ],
+        "transforming_process": [
+            "natural antioxidant extraction from fruits and vegetable waste",
+            "drying and crushing of fruits and vegetables",
+            "extraction using diverse techniques (solvent, heat)",
+            "blending with different vegetable oils as free extracts, encapsulated extracts, nano-encapsulated extracts, nano-emulsion oil extracts"
+        ],
+        "transformed_resource": [
+            "antioxidant-rich waste extracts",
+            "enhanced edible vegetable oils",
+            "nutraceuticals"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.apenergy.2024.123576"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.envres.2024.119134"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.biortech.2024.130937"
+    },
+    {
+        "waste": [
+            "Water treatment sludge (WTS)"
+        ],
+        "transforming_process": [
+            "production of structural sintering clay bricks using WTS as a substitute for clay",
+            "mixtures of WTS content ranging from 10% to 50% and sand content of 10 and 20%",
+            "fired in an oven at 700 \u00b0C for 3 h",
+            "adding sand by 10 and 20% to the bricks"
+        ],
+        "transformed_resource": [
+            "structural sintering clay bricks with improved properties",
+            "sintered bricks with enhanced mechanical and microstructure properties",
+            "eco-friendly construction materials"
+        ],
+        "reference": "10.1016/j.cscm.2024.e03011"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.seppur.2024.126815"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cep.2024.109826"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.chemosphere.2024.142527"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cscm.2023.e02764"
+    },
+    {
+        "waste": [
+            "insufficient proton (H+) supply in high pH conditions",
+            "restricting NO3\u2012-to-NH3 activity"
+        ],
+        "transforming_process": [
+            "Alkaline electrocatalytic NO3\u2012 reduction reaction (NO3RR)"
+        ],
+        "transformed_resource": [
+            "high-purity NH4Cl with near-unity efficiency",
+            "near-100% NH3 Faradaic efficiency (pH = 14) with a current density of 2 A cm\u20132 and enables an over 99% NO3\u2013-to-NH3 conversion efficiency"
+        ],
+        "reference": "10.1038/s41467-024-45534-2"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.est.2024.112540"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.envres.2024.118669"
+    },
+    {
+        "waste": [],
+        "transforming_process": [
+            "rotary furnace with salt-fluxes"
+        ],
+        "transformed_resource": [
+            "recyclable salts and aluminium concentrates",
+            "secondary cast aluminium alloys",
+            "ammonium sulphate",
+            "non-metallic compounds (NMCs)"
+        ],
+        "reference": "10.1016/j.wasman.2024.04.023"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.conbuildmat.2024.136525"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.fuel.2024.131799"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.fuel.2024.131926"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.scitotenv.2024.172890"
+    }
+]

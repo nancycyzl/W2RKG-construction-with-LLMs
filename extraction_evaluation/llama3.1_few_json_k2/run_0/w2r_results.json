@@ -1,0 +1,765 @@
+[
+    {
+        "waste": [
+            "tannins from forest by-products",
+            "pine bark extract"
+        ],
+        "transforming_process": [
+            "laccase-mediated polymerization"
+        ],
+        "transformed_resource": [
+            "insoluble polymer for flame retardant materials"
+        ],
+        "reference": "10.1002/app.55437"
+    },
+    {
+        "waste": [
+            "date pits",
+            "peanut shells",
+            "coffee grounds",
+            "tea waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "co-pyrolysis"
+        ],
+        "transformed_resource": [
+            "liquid product",
+            "gaseous product",
+            "char",
+            "hydrogen-rich gas",
+            "solid fuels",
+            "biofertilizers",
+            "carbon materials"
+        ],
+        "reference": "10.1016/j.psep.2024.04.101"
+    },
+    {
+        "waste": [
+            "recycled fibers",
+            "textile residues",
+            "shredded fibers recovered from protective clothing"
+        ],
+        "transforming_process": [
+            "composing",
+            "laminating",
+            "direct and flexural tensile tests"
+        ],
+        "transformed_resource": [
+            "cement-based matrices",
+            "laminated fabric-reinforced cementitious matrices (FRCMs)",
+            "fibers after dry-wet aging"
+        ],
+        "reference": "10.1016/j.cscm.2024.e02994"
+    },
+    {
+        "waste": [
+            "waste vulcanized rubbers",
+            "waste vulcanized emulsion type butadiene-based rubbers"
+        ],
+        "transforming_process": [
+            "metathetic degradation",
+            "cross metathesis",
+            "ring closing metathesis"
+        ],
+        "transformed_resource": [],
+        "reference": "10.1016/j.polymdegradstab.2024.110780"
+    },
+    {
+        "waste": [
+            "plastic waste",
+            "municipal solid wastes"
+        ],
+        "transforming_process": [
+            "autothermal steam-oxygen gasification in fluidized bed reactors"
+        ],
+        "transformed_resource": [
+            "syngas"
+        ],
+        "reference": "10.1016/j.wasman.2024.04.045"
+    },
+    {
+        "waste": [
+            "pine sawdust",
+            "lignocellulosic wastes"
+        ],
+        "transforming_process": [
+            "solid-state fermentation",
+            "response surface methodology (RSM)",
+            "hydrolytic enzyme production"
+        ],
+        "transformed_resource": [
+            "cellulases",
+            "xylanases",
+            "\u03b2-glucosidases",
+            "carbohydrate-active enzymes (CAZymes)"
+        ],
+        "reference": "10.1186/s13068-023-02453-6"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "in-line oxidative steam reforming",
+            "co-feeding O2",
+            "multi-point O2 injection system",
+            "pre-combustion of volatile stream",
+            "in-situ coke combustion",
+            "conical spouted bed reactor (CSBR) and fluidized bed reactor (FBR) technologies"
+        ],
+        "transformed_resource": [
+            "H2"
+        ],
+        "reference": "10.1016/j.energy.2024.131762"
+    },
+    {
+        "waste": [
+            "biomass waste"
+        ],
+        "transforming_process": [
+            "gasification process",
+            "ethanol production",
+            "acetaldehyde production",
+            "simulation model development using Aspen Plus",
+            "ANN prediction model creation",
+            "optimization strategy and ANN-based predictive model development"
+        ],
+        "transformed_resource": [
+            "ethanol",
+            "acetaldehyde"
+        ],
+        "reference": "10.1016/j.energy.2024.131482"
+    },
+    {
+        "waste": [
+            "digestate resulting from the anaerobic digestion of food waste"
+        ],
+        "transforming_process": [
+            "hydrothermal coupled pyrolysis process",
+            "biochar production"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "syngas",
+            "bio-oil"
+        ],
+        "reference": "10.1016/j.wasman.2024.05.007"
+    },
+    {
+        "waste": [
+            "agricultural waste materials",
+            "crop residues",
+            "animal manure",
+            "food processing waste",
+            "forestry residues"
+        ],
+        "transforming_process": [
+            "biofuel production",
+            "thermochemical conversion",
+            "biochemical conversion",
+            "biorefineries",
+            "valorization"
+        ],
+        "transformed_resource": [
+            "biofuels",
+            "soil amendment"
+        ],
+        "reference": "10.1016/j.rser.2024.114535"
+    },
+    {
+        "waste": [
+            "fish waste"
+        ],
+        "transforming_process": [
+            "UV conversion method for transforming 7-dehydrocholesterol into vitamin D3",
+            "surface response design tool optimization"
+        ],
+        "transformed_resource": [
+            "vitamin D3 extracts"
+        ],
+        "reference": "10.1016/j.fochx.2024.101373"
+    },
+    {
+        "waste": [
+            "biowastes",
+            "coffee residues"
+        ],
+        "transforming_process": [
+            "solid-phase extraction",
+            "dispersive micro-solid-phase extraction (d-\u03bcSPE)",
+            "magnetic dispersive micro-solid-phase extraction (M-d-\u03bcSPE)",
+            "bar adsorption microextraction (BA\u03bcE)",
+            "rotating disk sorption extraction (RDSE)",
+            "fabric phase sorption extraction (FPSE)",
+            "solid phase microextraction (SPME)",
+            "thin film microextraction (TFME)"
+        ],
+        "transformed_resource": [],
+        "reference": "10.1016/j.trac.2024.117772"
+    },
+    {
+        "waste": [
+            "sorghum waste"
+        ],
+        "transforming_process": [
+            "one-pot synthesis",
+            "anion-exchange adsorption"
+        ],
+        "transformed_resource": [
+            "adsorbent for toxic Cr(VI) oxyanions"
+        ],
+        "reference": "10.1016/j.jcis.2024.03.030"
+    },
+    {
+        "waste": [
+            "chestnut shell"
+        ],
+        "transforming_process": [
+            "microwave-assisted extraction",
+            "response surface methodology with central composite design"
+        ],
+        "transformed_resource": [
+            "natural coloring agents"
+        ],
+        "reference": "10.1016/j.foodchem.2024.138424"
+    },
+    {
+        "waste": [
+            "bio-waste materials",
+            "lignocellulosic biomass"
+        ],
+        "transforming_process": [],
+        "transformed_resource": [
+            "xylose",
+            "bioethanol",
+            "thermostable xylanase and \u03b2-xylosidase"
+        ],
+        "reference": "10.1016/j.nbt.2024.04.002"
+    },
+    {
+        "waste": [
+            "oil palm biomass",
+            "mill effluent"
+        ],
+        "transforming_process": [
+            "conversion into bioproducts",
+            "environmental remediation",
+            "biomass utilization and conversion",
+            "waste valorization"
+        ],
+        "transformed_resource": [
+            "biomethane",
+            "biohydrogen",
+            "bio-oil",
+            "jet biofuel",
+            "biopolymer",
+            "graphene",
+            "biocomposites",
+            "MXene",
+            "biodiesel",
+            "bioethanol"
+        ],
+        "reference": "10.1016/j.indcrop.2024.118452"
+    },
+    {
+        "waste": [
+            "expanded polystyrene (EPS) waste"
+        ],
+        "transforming_process": [
+            "spray coating",
+            "dip coating"
+        ],
+        "transformed_resource": [
+            "superhydrophobic surfaces"
+        ],
+        "reference": "10.1016/j.sajce.2024.05.001"
+    },
+    {
+        "waste": [
+            "face masks"
+        ],
+        "transforming_process": [
+            "catalytic pyrolysis",
+            "using waste-derived catalyst",
+            "response surface methodology",
+            "machine learning",
+            "decision trees regression"
+        ],
+        "transformed_resource": [
+            "oil"
+        ],
+        "reference": "10.1016/j.jclepro.2024.142761"
+    },
+    {
+        "waste": [
+            "waste material from warehouse",
+            "Portland cement"
+        ],
+        "transforming_process": [
+            "replacing Portland cement with waste products",
+            "mixing fresh waste material for mortars",
+            "designing mixtures for producing HCBs"
+        ],
+        "transformed_resource": [
+            "hollow concrete blocks (HCBs)"
+        ],
+        "reference": "10.1016/j.susmat.2024.e00870"
+    },
+    {
+        "waste": [
+            "polyethylene"
+        ],
+        "transforming_process": [
+            "catalytic pyrolysis",
+            "regeneration cycles"
+        ],
+        "transformed_resource": [
+            "pyrolysis oil",
+            "light fraction",
+            "aromatics"
+        ],
+        "reference": "10.1016/j.energy.2024.131855"
+    },
+    {
+        "waste": [
+            "cellulose-rich residue after agar extraction"
+        ],
+        "transforming_process": [
+            "incorporation into gelatin film forming formulations",
+            "composing with grape marc extract"
+        ],
+        "transformed_resource": [
+            "revalorized cellulose",
+            "gelatin films"
+        ],
+        "reference": "10.1016/j.foodhyd.2024.109951"
+    },
+    {
+        "waste": [
+            "bisphenol A (BPA)"
+        ],
+        "transforming_process": [
+            "biodegradation",
+            "batch shake flask",
+            "stirred tank reactor",
+            "membrane bioreactor (MBR)",
+            "liquid chromatography-mass spectrometry",
+            "microfiltration system",
+            "extracellular diol synthase enzyme"
+        ],
+        "transformed_resource": [
+            "biodegraded bisphenol A",
+            "7,10-dihydroxy-8(E)-octadecenoic acid",
+            "antibacterial compound"
+        ],
+        "reference": "10.1016/j.cej.2024.151740"
+    },
+    {
+        "waste": [
+            "defatted apricot seeds"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "homogeneous reaction between CO2 and volatile matters"
+        ],
+        "transformed_resource": [
+            "porous materials for thermally induced transesterification"
+        ],
+        "reference": "10.1016/j.energy.2024.131897"
+    },
+    {
+        "waste": [],
+        "transforming_process": [
+            "fermentation",
+            "hydrolysis"
+        ],
+        "transformed_resource": [
+            "biobutanol",
+            "butanol-based materials"
+        ],
+        "reference": "10.1016/j.jtice.2023.105280"
+    },
+    {
+        "waste": [
+            "biomass",
+            "waste"
+        ],
+        "transforming_process": [
+            "microwave-assisted pyrolysis (MAP)"
+        ],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cej.2024.151942"
+    },
+    {
+        "waste": [
+            "agriculture waste",
+            "industrial waste"
+        ],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.wasman.2024.05.001"
+    },
+    {
+        "waste": [
+            "biowaste",
+            "lignin",
+            "crop residues"
+        ],
+        "transforming_process": [
+            "conversion into phenolic compounds",
+            "biosynthesis of ferulic acid",
+            "esterase enzyme action"
+        ],
+        "transformed_resource": [
+            "phenolic compounds",
+            "ferulic acid",
+            "vanillin",
+            "vanillic acid",
+            "hydroxycinnamic acid"
+        ],
+        "reference": "10.1016/j.envres.2024.119218"
+    },
+    {
+        "waste": [
+            "polyethylene"
+        ],
+        "transforming_process": [
+            "hydrogenolysis using Ru/CeO2 catalysts",
+            "microbial process"
+        ],
+        "transformed_resource": [
+            "biosurfactants"
+        ],
+        "reference": "10.1016/j.jece.2024.113322"
+    },
+    {
+        "waste": [
+            "grape pomace"
+        ],
+        "transforming_process": [
+            "conventional drying methods",
+            "solid-phase extraction (SPE)",
+            "freeze-drying replacement strategy"
+        ],
+        "transformed_resource": [
+            "anthocyanins"
+        ],
+        "reference": "10.1016/j.seppur.2024.127647"
+    },
+    {
+        "waste": [
+            "Waste cooking oil (WCO)"
+        ],
+        "transforming_process": [
+            "recycling",
+            "reprocessing",
+            "pyrolysis",
+            "catalytic pyrolysis",
+            "co-feeding method"
+        ],
+        "transformed_resource": [
+            "biodiesel",
+            "bioenergy and heat",
+            "animal feed",
+            "chemical feedstocks",
+            "light hydrocarbons (C1 \u2013 C4)",
+            "syngas (CO and H2)",
+            "liquid products"
+        ],
+        "reference": "10.1016/j.jaap.2024.106567"
+    },
+    {
+        "waste": [
+            "combustible high-organic solid waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "thermal activated-acid modified kaolin",
+            "thermal activated-alkali modified kaolin"
+        ],
+        "transformed_resource": [
+            "derived chars with H-kaolin"
+        ],
+        "reference": "10.1016/j.fuel.2024.131293"
+    },
+    {
+        "waste": [],
+        "transforming_process": [
+            "adaptive laboratory evolution",
+            "photoheterotrophic conditions"
+        ],
+        "transformed_resource": [
+            "hydrogen (H2)",
+            "polyhydroxyalkanoates (PHA)"
+        ],
+        "reference": "10.1016/j.biortech.2024.130972"
+    },
+    {
+        "waste": [
+            "municipal solid waste incinerated fly ash"
+        ],
+        "transforming_process": [],
+        "transformed_resource": [
+            "concrete tiles",
+            "eco-friendly building techniques"
+        ],
+        "reference": "10.1016/j.jobe.2024.109222"
+    },
+    {
+        "waste": [
+            "fruit waste",
+            "vegetable waste"
+        ],
+        "transforming_process": [
+            "obtaining natural antioxidants through diverse techniques",
+            "blending with different vegetable oils in the form of free extracts, encapsulated extracts, nano-encapsulated extracts, and nano-emulsion oil extracts"
+        ],
+        "transformed_resource": [
+            "natural antioxidant-rich edible oils"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328"
+    },
+    {
+        "waste": [
+            "agricultural residues",
+            "coconut husk"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "catalytic pyrolysis"
+        ],
+        "transformed_resource": [
+            "renewable energy source"
+        ],
+        "reference": "10.1016/j.apenergy.2024.123576"
+    },
+    {
+        "waste": [
+            "organic pollutants",
+            "dissolved pollutants",
+            "natural organic matter",
+            "humic acid water solution"
+        ],
+        "transforming_process": [
+            "coagulation technology with biochar (BC)/ferric chloride-based coagulant (BC\u2013FeCl3)",
+            "adsorption of HA from aqueous solution"
+        ],
+        "transformed_resource": [
+            "drinking water",
+            "wastewater",
+            "synthetic wastewater"
+        ],
+        "reference": "10.1016/j.envres.2024.119134"
+    },
+    {
+        "waste": [
+            "thermal hydrolyzed sludge"
+        ],
+        "transforming_process": [
+            "chain elongation technology",
+            "continuous process using thermal hydrolyzed sludge as substrate",
+            "generation of medium-chain fatty acids"
+        ],
+        "transformed_resource": [
+            "medium-chain fatty acids"
+        ],
+        "reference": "10.1016/j.biortech.2024.130937"
+    },
+    {
+        "waste": [
+            "Water treatment sludge (WTS)"
+        ],
+        "transforming_process": [
+            "production of structural sintering clay bricks",
+            "composing with sand"
+        ],
+        "transformed_resource": [
+            "eco-friendly construction materials"
+        ],
+        "reference": "10.1016/j.cscm.2024.e03011"
+    },
+    {
+        "waste": [
+            "Waste activated sludge (WAS)"
+        ],
+        "transforming_process": [
+            "oxidative hydrothermal pretreatment",
+            "wet oxidation",
+            "ultrafiltration with ceramic membranes",
+            "extraction with trioctylamine, tributylphosphate and octan-1-ol"
+        ],
+        "transformed_resource": [
+            "short-chain organic acids (SCFAs)"
+        ],
+        "reference": "10.1016/j.seppur.2024.126815"
+    },
+    {
+        "waste": [
+            "industrial effluents",
+            "oils",
+            "dyes",
+            "plaguicides",
+            "emerging organic pollutants",
+            "detergents",
+            "disinfectants",
+            "toxic metals"
+        ],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cep.2024.109826"
+    },
+    {
+        "waste": [
+            "untreated wastewater"
+        ],
+        "transforming_process": [
+            "valorization",
+            "recycling",
+            "carbon-neutral valorization and recycling",
+            "bioprocessing pipeline"
+        ],
+        "transformed_resource": [
+            "soil amender",
+            "irrigation water",
+            "nitrogen-enriched soil",
+            "phosphorus-enriched soil"
+        ],
+        "reference": "10.1016/j.chemosphere.2024.142527"
+    },
+    {
+        "waste": [
+            "dam sediments",
+            "marble waste"
+        ],
+        "transforming_process": [
+            "treating with hydraulic binders",
+            "mixing with hydraulic road binder",
+            "aerial hydrated lime treatment"
+        ],
+        "transformed_resource": [
+            "subgrade materials for road construction"
+        ],
+        "reference": "10.1016/j.cscm.2023.e02764"
+    },
+    {
+        "waste": [
+            "nitrate pollution"
+        ],
+        "transforming_process": [
+            "halogen-mediated H+ feeding strategy",
+            "alkaline electrocatalytic NO3\u2012 reduction reaction"
+        ],
+        "transformed_resource": [
+            "ammonia (NH3)",
+            "high-purity NH4Cl"
+        ],
+        "reference": "10.1038/s41467-024-45534-2"
+    },
+    {
+        "waste": [
+            "bio-sourced waste feedstocks",
+            "corncob"
+        ],
+        "transforming_process": [
+            "encapsulation of PCMs in solid matrices",
+            "vacuum impregnation strategies"
+        ],
+        "transformed_resource": [
+            "phase-change materials composite"
+        ],
+        "reference": "10.1016/j.est.2024.112540"
+    },
+    {
+        "waste": [
+            "municipal solid waste",
+            "combustible fraction"
+        ],
+        "transforming_process": [
+            "landfill mining",
+            "incineration"
+        ],
+        "transformed_resource": [
+            "energy"
+        ],
+        "reference": "10.1016/j.envres.2024.118669"
+    },
+    {
+        "waste": [
+            "aluminium packaging",
+            "dross",
+            "incinerator bottom ash",
+            "salt-slag/salt-cake"
+        ],
+        "transforming_process": [
+            "recycling in a rotary furnace with salt-fluxes",
+            "valorising the salt-slag residues into recyclable salts and aluminium concentrates"
+        ],
+        "transformed_resource": [
+            "secondary cast aluminium alloys",
+            "aluminium concentrates",
+            "ammonium sulphate"
+        ],
+        "reference": "10.1016/j.wasman.2024.04.023"
+    },
+    {
+        "waste": [
+            "lime sludge",
+            "lime slaker grits"
+        ],
+        "transforming_process": [
+            "producing magnesium oxysulfate-based fiber cement boards"
+        ],
+        "transformed_resource": [
+            "magnesium oxysulfate-based fiber cement boards"
+        ],
+        "reference": "10.1016/j.conbuildmat.2024.136525"
+    },
+    {
+        "waste": [
+            "carrot pulp waste",
+            "food waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "single-stage pyrolysis",
+            "multi-stage pyrolysis",
+            "oxidative thermal cracking",
+            "homogeneous reactions"
+        ],
+        "transformed_resource": [
+            "fuels",
+            "chemicals",
+            "syngas"
+        ],
+        "reference": "10.1016/j.fuel.2024.131799"
+    },
+    {
+        "waste": [
+            "waste plastic",
+            "lignocellulosic biomass"
+        ],
+        "transforming_process": [
+            "co-digestion via anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "biogas"
+        ],
+        "reference": "10.1016/j.fuel.2024.131926"
+    },
+    {
+        "waste": [
+            "incineration bottom ash (IBA)"
+        ],
+        "transforming_process": [
+            "substituting natural aggregates",
+            "treatment of IBA",
+            "utilizing IBA with restrictions"
+        ],
+        "transformed_resource": [
+            "pavement layers"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172890"
+    }
+]

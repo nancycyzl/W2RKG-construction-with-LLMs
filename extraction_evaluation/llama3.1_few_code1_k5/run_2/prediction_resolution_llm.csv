@@ -1,0 +1,12 @@
+i,type,ground-truth,prediction,resolved,label,note
+5,waste,"lignocellulosic waste, pine sawdust, wheat straw",pine sawdust (psd),pine sawdust,TP,llm match output: yes. b.
+5,waste,"lignocellulosic waste, pine sawdust, wheat straw",lignocellulosic waste,lignocellulosic waste,TP,string exact match
+5,waste,"lignocellulosic waste, pine sawdust, wheat straw",pretreated wheat straw,wheat straw,TP,llm match output: yes. c.
+5,waste,"lignocellulosic waste, pine sawdust, wheat straw",solid-waste management,pine sawdust,TP,llm match output: yes. b.
+5,resource,"hydrolytic enzyme, cellulases, xylanases, β-glucosidases",hydrolytic enzyme production,hydrolytic enzyme,TP,llm match output: yes. a.
+5,resource,"hydrolytic enzyme, cellulases, xylanases, β-glucosidases","cellulases, xylanases, and β-glucosidases",β-glucosidases,TP,"llm match output: yes. b, c, d."
+5,resource,"hydrolytic enzyme, cellulases, xylanases, β-glucosidases",carbohydrate-active enzymes (cazymes),hydrolytic enzyme,TP,llm match output: yes. a.
+5,resource,"hydrolytic enzyme, cellulases, xylanases, β-glucosidases",reducing sugar yield,xylanases,TP,llm match output: yes. c.
+23,waste,"molasses, corn steep liquor, black soldier fly larval meal",raw material,molasses,TP,llm match output: yes. a.
+43,resource,biochar-based composite,corncob biochar/hexadecane composite,biochar-based composite,TP,llm match output: yes. a.
+43,resource,biochar-based composite,composite made of nonrenewable fossil-based material,composite made of nonrenewable fossil-based material,FP,llm match output: no.

@@ -1,0 +1,68 @@
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ... existing code ...
+
+pattern_waste = r"(bio-)?wastes?|feedstock|agro-wastes"
+pattern_trans_process = r"pyrolysis|co-pyrolysis|characterization|experiments|batch pyrolysis"
+pattern_trans_res = r"liquid product|gaseous product|char|hydrogen-rich gas|biochars|solid fuels|biofertilizers|carbon materials"
+
+text = "The pyrolysis and co-pyrolysis characteristics of large abundant bio-wastes, namely date pits (DP), peanut shells (PS), coffee grounds (CG), and tea waste (TW) were investigated in detail."
+
+w2r["waste"] += re.findall(pattern_waste, text)
+w2r["transforming_process"] += re.findall(pattern_trans_process, text)
+w2r["transformed_resource"] += re.findall(pattern_trans_res, text)
+
+print("Waste:", w2r["waste"])
+print("Transforming Process:", w2r["transforming_process"])
+print("Transformed Resource:", w2r["transformed_resource"])
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ... existing code ...
+
+words = text.split()
+for word in words:
+    if word.lower() == "waste":
+        w2r["waste"].append(words[words.index(word) + 1])
+    elif word.lower() == "transforming" and (word.lower() == "process" or words[words.index(word) + 1].lower() == "process"):
+        w2r["transforming_process"].append(' '.join([word] + [words[i] for i in range(words.index(word), min(words.index(word) + 3, len(words))])))
+    elif word.lower() == "transformed" and (word.lower() == "resource" or words[words.index(word) + 1].lower() == "resource"):
+        w2r["transformed_resource"].append(' '.join([word] + [words[i] for i in range(words.index(word), min(words.index(word) + 3, len(words)))]))
+```
+
+----------
+
+w2r["waste"].append("sorghum waste")
+w2r["transforming_process"].append("one-pot synthesis approach")
+w2r["transformed_resource"].append("MI-Cl-FDU-12 anion-exchange adsorbent")
+
+----------
+
+```python
+import re
+
+# ... (rest of your code)
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ... (rest of your code)
+
+text = "... (your text)"
+
+# Extract waste, transforming process, and transformed resource from the text
+w2r["waste"] = re.findall(r'polyethylene|biomass|rice straw', text)
+w2r["transforming_process"] = re.findall(r'digestion|production|processing', text)
+w2r["transformed_resource"] = re.findall(r'methane|CH4|energy yields|volatile solids removal', text)
+
+print(w2r)
+```
+
+----------
+

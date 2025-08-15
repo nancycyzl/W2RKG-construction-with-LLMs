@@ -1,0 +1,10 @@
+i,type,ground-truth,prediction,resolved,label,note
+22,waste,"defatted apricot seed, oil-bearing biomass",defatted residue,defatted residue,FP,llm match output: no.
+22,resource,biochar,co formation,co formation,FP,llm match output: no.
+22,resource,biochar,das biochars (dasbs),das biochars (dasbs),FP,llm match output: no.
+22,resource,biochar,porous materials for thermally induced transesterification,porous materials for thermally induced transesterification,FP,llm match output: no.
+22,resource,biochar,apricot oil,apricot oil,FP,llm match output: no.
+47,waste,"food waste, carrot pulp waste",food waste,food waste,TP,string exact match
+47,waste,"food waste, carrot pulp waste",carrot pulp waste,carrot pulp waste,TP,string exact match
+47,resource,"fuel, chemical, syngas",syngas production,syngas,TP,llm match output: yes. c.
+47,resource,"fuel, chemical, syngas",co2-induced reaction,syngas,TP,llm match output: yes. c.

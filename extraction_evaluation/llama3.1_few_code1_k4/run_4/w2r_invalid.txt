@@ -1,0 +1,70 @@
+```python
+import re
+
+# ... (rest of your code)
+
+waste = ["date pits", "peanut shells", "coffee grounds", "tea waste"]
+transforming_process = ["thermal pyrolysis behavior", "co-pyrolysis procedures", "batch pyrolysis at a medium heating rate of 10 °C/min"]
+transformed_resource = ["char or hydrogen-rich gas", "liquid product", "gaseous product", "H2", "biochars", "solid fuels", "biofertilizers", "carbon materials", "chemical and related industries"]
+
+print("Waste:", waste)
+print("Transforming Process:", transforming_process)
+print("Transformed Resource:", transformed_resource)
+```
+
+----------
+
+```python
+waste = ["lignocellulosic wastes", "pine sawdust (PSD)", "pretreated wheat straw and PSD"]
+transforming_process = ["solid-state fermentation using Aspergillus fumigatus (ZS_AF)",
+                        "response surface methodology (RSM)",
+                        "saccharification of pretreated wheat straw and PSD",
+                        "production of hydrolytic enzyme from lignocellulosic waste residues"]
+transformed_resource = ["hydrolytic enzymes", "cellulases, xylanases, and β-glucosidases",
+                        "high reducing sugar yields",
+                        "carbohydrate-active enzymes (CAZymes)",
+                        "glycoside hydrolases, carbohydrate esterases, auxiliary activities, and polysaccharide lyases"]
+```
+
+----------
+
+w2r["waste"].append("sorghum waste")
+w2r["transforming_process"].append("one-pot synthesis approach using sodium silicate extracted from sorghum waste as a green silica source")
+w2r["transformed_resource"].append("MI-Cl-FDU-12 anion-exchange adsorbent")
+
+----------
+
+```python
+import re
+
+# ... (rest of your code remains the same)
+
+def extract_info(text):
+    w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+    
+    # Extract waste
+    waste_pattern = r"([A-Z][a-z]+ plastic|lignocellulosic biomass)"
+    wastes = re.findall(waste_pattern, text)
+    for waste in wastes:
+        w2r["waste"].append(waste)
+        
+    # Extract transforming_process
+    transform_pattern = r"anaerobic digestion"
+    processes = re.findall(transform_pattern, text)
+    for process in processes:
+        w2r["transforming_process"].append(process)
+        
+    # Extract transformed_resource
+    resource_pattern = r"(biogas|methane) production"
+    resources = re.findall(resource_pattern, text)
+    for resource in resources:
+        w2r["transformed_resource"].append(resource)
+    
+    return w2r
+
+w2r = extract_info(text)
+print(w2r)
+```
+
+----------
+

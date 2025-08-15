@@ -1,0 +1,182 @@
+i,type,ground-truth,prediction,resolved,label,note
+0,waste,"forest by-product, aqueous pine bark extract",forest by-product,forest by-product,TP,string exact match
+0,waste,"forest by-product, aqueous pine bark extract",pine bark extract,aqueous pine bark extract,TP,llm match output: yes. b.
+0,resource,"insoluble polymer, flame retardant material",insoluble polymer,insoluble polymer,TP,string exact match
+0,resource,"insoluble polymer, flame retardant material",flame retardant material,flame retardant material,TP,string exact match
+1,waste,"date pit, peanut shell, coffee ground, tea waste",date pit,date pit,TP,string exact match
+1,waste,"date pit, peanut shell, coffee ground, tea waste",peanut shell,peanut shell,TP,string exact match
+1,waste,"date pit, peanut shell, coffee ground, tea waste",coffee ground,coffee ground,TP,string exact match
+1,waste,"date pit, peanut shell, coffee ground, tea waste",tea waste,tea waste,TP,string exact match
+1,resource,"char, hydrogen-rich gas, biochars, solid fuel, biofertilizers, carbon material",char,char,TP,string exact match
+1,resource,"char, hydrogen-rich gas, biochars, solid fuel, biofertilizers, carbon material",hydrogen-rich gas,hydrogen-rich gas,TP,string exact match
+1,resource,"char, hydrogen-rich gas, biochars, solid fuel, biofertilizers, carbon material",solid fuel,solid fuel,TP,string exact match
+1,resource,"char, hydrogen-rich gas, biochars, solid fuel, biofertilizers, carbon material",biofertilizers,biofertilizers,TP,string exact match
+1,resource,"char, hydrogen-rich gas, biochars, solid fuel, biofertilizers, carbon material",carbon material,carbon material,TP,string exact match
+2,waste,"textile residue, end-of-life fire-protecting t-shirt, protective clothing with meta-aramid fiber",textile residue,textile residue,TP,string exact match
+2,waste,"textile residue, end-of-life fire-protecting t-shirt, protective clothing with meta-aramid fiber",end-of-life fire-protecting t-shirt,end-of-life fire-protecting t-shirt,TP,string exact match
+2,waste,"textile residue, end-of-life fire-protecting t-shirt, protective clothing with meta-aramid fiber",shredded fibers recovered from protective clothing,protective clothing with meta-aramid fiber,TP,llm match output: yes. c.
+2,resource,"reinforcement materials in cement-based matrix, recycled fiber, laminated fabric-reinforced cementitious matrix",laminated fabric-reinforced cementitious matrix,laminated fabric-reinforced cementitious matrix,TP,string exact match
+3,waste,"waste vulcanized rubber, waste vulcanized natural rubber, waste vulcanized emulsion type butadiene-based rubber, waste vulcanized nitrile-butadiene rubber glove, waste vulcanized emulsion type diene-based rubber",waste vulcanized rubber,waste vulcanized rubber,TP,string exact match
+3,waste,"waste vulcanized rubber, waste vulcanized natural rubber, waste vulcanized emulsion type butadiene-based rubber, waste vulcanized nitrile-butadiene rubber glove, waste vulcanized emulsion type diene-based rubber",waste vulcanized emulsion type butadiene-based rubber,waste vulcanized emulsion type butadiene-based rubber,TP,string exact match
+4,waste,"plastic waste, municipal solid waste",mixed plastic waste,plastic waste,TP,llm match output: yes. a.
+4,resource,"hydrogen, chemical, syngas",syngas,syngas,TP,string exact match
+4,resource,"hydrogen, chemical, syngas",hydrogen,hydrogen,TP,string exact match
+4,resource,"hydrogen, chemical, syngas",chemical,chemical,TP,string exact match
+5,waste,"lignocellulosic waste, pine sawdust, wheat straw",lignocellulosic waste,lignocellulosic waste,TP,string exact match
+5,waste,"lignocellulosic waste, pine sawdust, wheat straw",pine sawdust,pine sawdust,TP,string exact match
+5,waste,"lignocellulosic waste, pine sawdust, wheat straw",pretreated wheat straw,wheat straw,TP,llm match output: yes. c.
+5,resource,"hydrolytic enzyme, cellulases, xylanases, β-glucosidases",carbohydrate-active enzyme,hydrolytic enzyme,TP,llm match output: yes. a.
+5,resource,"hydrolytic enzyme, cellulases, xylanases, β-glucosidases",reducing sugar,hydrolytic enzyme,TP,llm match output: yes. a.
+6,waste,plastic waste,plastic waste,plastic waste,TP,string exact match
+6,waste,plastic waste,hdpe,plastic waste,TP,llm match output: yes. a.
+6,resource,h2,h2,h2,TP,string exact match
+7,waste,biomass waste,biomass waste,biomass waste,TP,string exact match
+7,resource,"ethanol, acetaldehyde, hydrogen",ethanol,ethanol,TP,string exact match
+7,resource,"ethanol, acetaldehyde, hydrogen",acetaldehyde,acetaldehyde,TP,string exact match
+8,waste,digestate from anaerobic digestion of food waste,digestate from anaerobic digestion of food waste,digestate from anaerobic digestion of food waste,TP,string exact match
+8,resource,"biochar, syngas, bio-oil",biochar,biochar,TP,string exact match
+9,waste,"agricultural waste metricals, residues and by-product, crop residue, straw, husk, shell, animal manure, food processing waste, forestry residue, microalgae",agricultural residue,"agricultural waste metricals, residues and by-product",TP,llm match output: yes. a.
+9,waste,"agricultural waste metricals, residues and by-product, crop residue, straw, husk, shell, animal manure, food processing waste, forestry residue, microalgae",crop residue,crop residue,TP,string exact match
+9,waste,"agricultural waste metricals, residues and by-product, crop residue, straw, husk, shell, animal manure, food processing waste, forestry residue, microalgae",animal manure,animal manure,TP,string exact match
+9,waste,"agricultural waste metricals, residues and by-product, crop residue, straw, husk, shell, animal manure, food processing waste, forestry residue, microalgae",food processing waste,food processing waste,TP,string exact match
+9,waste,"agricultural waste metricals, residues and by-product, crop residue, straw, husk, shell, animal manure, food processing waste, forestry residue, microalgae",forestry residue,forestry residue,TP,string exact match
+9,resource,"biofuel, biochar for soil amendment",biofuels,biofuel,TP,llm match output: yes. a.
+10,waste,fish waste,fish waste,fish waste,TP,string exact match
+10,resource,vitamin d3 extract,vitamin d3 extract,vitamin d3 extract,TP,string exact match
+11,waste,"biowastes, coffee residue, bracts and peels of various fruit",coffee residue,coffee residue,TP,string exact match
+11,waste,"biowastes, coffee residue, bracts and peels of various fruit",bracts and peels of various fruit,bracts and peels of various fruit,TP,string exact match
+11,resource,sorbent,natural sorbent,sorbent,TP,llm match output: yes. a.
+12,waste,sorghum waste,sorghum waste,sorghum waste,TP,string exact match
+12,resource,"sodium silicate, silica source for cr(vi) adsorbent synthesis",cr(vi) adsorbent,silica source for cr(vi) adsorbent synthesis,TP,llm match output: yes. b.
+13,waste,chestnut shell,chestnut shell,chestnut shell,TP,string exact match
+13,resource,"natural coloring agent, bioactive compound",natural coloring agent,natural coloring agent,TP,string exact match
+14,waste,"lignocellulosic biomass, bio-waste material, agri-food waste",lignocellulosic biomass,lignocellulosic biomass,TP,string exact match
+14,waste,"lignocellulosic biomass, bio-waste material, agri-food waste",agri-food waste,agri-food waste,TP,string exact match
+14,resource,"bioethanol, xylose",xylose,xylose,TP,string exact match
+14,resource,"bioethanol, xylose",bioethanol,bioethanol,TP,string exact match
+15,waste,"oil palm biomass, mill effluent",oil palm biomass,oil palm biomass,TP,string exact match
+15,waste,"oil palm biomass, mill effluent",mill effluent,mill effluent,TP,string exact match
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",clean energy,clean energy,FP,llm match output: no.
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",bioproducts,biopolymer,TP,llm match output: yes. a.
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",biochemicals,biochemicals,TP,string exact match
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",biomedical application,biocomposites,TP,llm match output: yes. c.
+16,waste,expanded polystyrene waste,expanded polystyrene waste,expanded polystyrene waste,TP,string exact match
+16,resource,superhydrophobic surfaces for food packaging,superhydrophobic surfaces for food packaging,superhydrophobic surfaces for food packaging,TP,string exact match
+17,waste,face mask,face mask,face mask,TP,string exact match
+17,resource,"oil, fuel",energy-dense oil,oil,TP,llm match output: yes. a.
+18,waste,waste products from chemical industry,waste products from the chemical industry,waste products from chemical industry,TP,llm match output: yes. a.
+18,resource,"hollow concrete block, mortar, masonry unit",hollow concrete block,hollow concrete block,TP,string exact match
+19,waste,"waste polyethylene, plastic waste",waste polyethylene (pe),waste polyethylene,TP,llm match output: yes. a.
+19,resource,oil,pyrolysis oil,oil,TP,llm match output: yes. a.
+19,resource,oil,light fraction,oil,TP,llm match output: yes. a.
+19,resource,oil,aromatics,aromatics,FP,llm match output: no.
+20,waste,"cellulose-rich residue, food waste",cellulose-rich residue after agar extraction,cellulose-rich residue,TP,llm match output: yes. a.
+20,waste,"cellulose-rich residue, food waste",grape marc extract,grape marc extract,FP,llm match output: no.
+20,resource,"gelatin film, food packaging",cellulose-containing gelatin film,gelatin film,TP,llm match output: yes. a.
+20,resource,"gelatin film, food packaging",food packaging,food packaging,TP,string exact match
+21,waste,bisphenol a,bisphenol a (bpa),bisphenol a,TP,llm match output: yes. a.
+21,resource,biopolyol,"7,10-dihydroxy-8(e)-octadecenoic acid","7,10-dihydroxy-8(e)-octadecenoic acid",FP,llm match output: no.
+21,resource,biopolyol,biopolyol,biopolyol,TP,string exact match
+22,waste,"defatted apricot seed, oil-bearing biomass",defatted apricot seed,defatted apricot seed,TP,string exact match
+22,resource,biochar,das biochars suitable for thermally induced transesterification,biochar,TP,llm match output: yes. a.
+23,waste,"molasses, corn steep liquor, black soldier fly larval meal",black soldier fly larval meal,black soldier fly larval meal,TP,string exact match
+23,resource,"biobutanol, butanol",biobutanol,biobutanol,TP,string exact match
+24,waste,biomass,biomass,biomass,TP,string exact match
+24,waste,biomass,waste,biomass,TP,llm match output: yes. a.
+25,waste,"agro-industrial waste, biomass",agricultural waste,agro-industrial waste,TP,llm match output: yes. a.
+25,waste,"agro-industrial waste, biomass",agro-industrial waste,agro-industrial waste,TP,string exact match
+25,resource,"energy, chemical",high value-added product,high value-added product,FP,llm match output: no.
+25,resource,"energy, chemical",energy,energy,TP,string exact match
+25,resource,"energy, chemical",chemical,chemical,TP,string exact match
+26,waste,"biowaste, crop residue, lignocellulosic biomass",biowaste,biowaste,TP,string exact match
+26,waste,"biowaste, crop residue, lignocellulosic biomass",lignin,lignocellulosic biomass,TP,llm match output: yes. c.
+26,waste,"biowaste, crop residue, lignocellulosic biomass",crop residue,crop residue,TP,string exact match
+26,resource,"phenolic compound, ferulic acid, vanillin, vanillic acid, hydroxycinnamic acid, food packaging",reactive compound,vanillic acid,TP,llm match output: yes. d.
+26,resource,"phenolic compound, ferulic acid, vanillin, vanillic acid, hydroxycinnamic acid, food packaging",bioactive compound,phenolic compound,TP,llm match output: yes. a.
+26,resource,"phenolic compound, ferulic acid, vanillin, vanillic acid, hydroxycinnamic acid, food packaging",ferulic acid,ferulic acid,TP,string exact match
+26,resource,"phenolic compound, ferulic acid, vanillin, vanillic acid, hydroxycinnamic acid, food packaging",vanillin,vanillin,TP,string exact match
+26,resource,"phenolic compound, ferulic acid, vanillin, vanillic acid, hydroxycinnamic acid, food packaging",vanillic acid,vanillic acid,TP,string exact match
+26,resource,"phenolic compound, ferulic acid, vanillin, vanillic acid, hydroxycinnamic acid, food packaging",hydroxycinnamic acid,hydroxycinnamic acid,TP,string exact match
+26,resource,"phenolic compound, ferulic acid, vanillin, vanillic acid, hydroxycinnamic acid, food packaging",antioxidant compound,phenolic compound,TP,llm match output: yes. a.
+26,resource,"phenolic compound, ferulic acid, vanillin, vanillic acid, hydroxycinnamic acid, food packaging",active packaging product,food packaging,TP,llm match output: yes. f.
+27,waste,waste polyethylene,waste polyethylene,waste polyethylene,TP,string exact match
+27,resource,biosurfactants,biosurfactants,biosurfactants,TP,string exact match
+28,waste,grape pomace,grape pomace,grape pomace,TP,string exact match
+28,resource,anthocyanins,anthocyanins,anthocyanins,TP,string exact match
+29,waste,waste cooking oil,waste cooking oil,waste cooking oil,TP,string exact match
+29,resource,"biodiesel, light hydrocarbon, syngas, co, h2, liquid product, bioenergy and heat, animal feed",biodiesel,biodiesel,TP,string exact match
+29,resource,"biodiesel, light hydrocarbon, syngas, co, h2, liquid product, bioenergy and heat, animal feed",bioenergy,bioenergy and heat,TP,llm match output: yes. g.
+29,resource,"biodiesel, light hydrocarbon, syngas, co, h2, liquid product, bioenergy and heat, animal feed",heat,bioenergy and heat,TP,llm match output: yes. g.
+29,resource,"biodiesel, light hydrocarbon, syngas, co, h2, liquid product, bioenergy and heat, animal feed",animal feed,animal feed,TP,string exact match
+29,resource,"biodiesel, light hydrocarbon, syngas, co, h2, liquid product, bioenergy and heat, animal feed",chemical feedstock,chemical feedstock,FP,llm match output: yes. a: biodiesel.
+29,resource,"biodiesel, light hydrocarbon, syngas, co, h2, liquid product, bioenergy and heat, animal feed",light hydrocarbon,light hydrocarbon,TP,string exact match
+29,resource,"biodiesel, light hydrocarbon, syngas, co, h2, liquid product, bioenergy and heat, animal feed",syngas,syngas,TP,string exact match
+29,resource,"biodiesel, light hydrocarbon, syngas, co, h2, liquid product, bioenergy and heat, animal feed",liquid product,liquid product,TP,string exact match
+30,waste,combustible high-organic solid waste,combustible high-organic solid waste (hsw),combustible high-organic solid waste,TP,llm match output: yes. a.
+30,waste,combustible high-organic solid waste,heavy metal,heavy metal,FP,llm match output: no.
+30,resource,char,high-performance in-furnace adsorbent,char,TP,llm match output: yes. a.
+30,resource,char,adsorption materials for pollutant,char,TP,llm match output: yes. a.
+30,resource,char,derived chars for soil improvement,char,TP,llm match output: yes. a.
+31,waste,syngas,syngas,syngas,TP,string exact match
+31,resource,"hydrogen, polyhydroxyalkanoates",hydrogen,hydrogen,TP,string exact match
+31,resource,"hydrogen, polyhydroxyalkanoates",polyhydroxyalkanoates,polyhydroxyalkanoates,TP,string exact match
+32,waste,municipal solid waste incinerated fly ash,municipal solid waste incinerated fly ash,municipal solid waste incinerated fly ash,TP,string exact match
+32,resource,"substitute for m-sand in construction material, concrete tile",mswifa-based concrete roof tile,concrete tile,TP,llm match output: yes. b.
+33,waste,"fruit waste, vegetable waste",fruit waste,fruit waste,TP,string exact match
+33,waste,"fruit waste, vegetable waste",vegetable waste,vegetable waste,TP,string exact match
+33,resource,"natural antioxidant, nutritional enhancement of oil",natural antioxidant,natural antioxidant,TP,string exact match
+33,resource,"natural antioxidant, nutritional enhancement of oil",nutraceuticals,natural antioxidant,TP,llm match output: yes. a.
+34,waste,"agricultural residue, coconut husk",coconut husk,coconut husk,TP,string exact match
+34,resource,"syngas, carbon monoxide",syngas,syngas,TP,string exact match
+35,waste,"synthetic wastewater, produced sludge",produced sludge,produced sludge,TP,string exact match
+35,resource,recovered humic acid-free water,biochar/ferric chloride-based coagulant,biochar/ferric chloride-based coagulant,FP,llm match output: no.
+36,waste,thermal hydrolyzed sludge,thermal hydrolyzed sludge,thermal hydrolyzed sludge,TP,string exact match
+36,resource,"medium-chain fatty acid, n-caproate, n-caprylate",medium-chain fatty acid,medium-chain fatty acid,TP,string exact match
+37,waste,water treatment sludge,water treatment sludge,water treatment sludge,TP,string exact match
+37,resource,sintering clay brick,eco-friendly construction material,eco-friendly construction material,FP,llm match output: no.
+37,resource,sintering clay brick,structural sintering clay brick,sintering clay brick,TP,llm match output: yes. a.
+38,waste,waste activated sludge,waste activated sludge,waste activated sludge,TP,string exact match
+38,resource,short-chain organic acid,short-chain organic acid,short-chain organic acid,TP,string exact match
+39,waste,industrial effluent,industrial effluent,industrial effluent,TP,string exact match
+39,resource,recovered water,decontaminated water,recovered water,TP,llm match output: yes. a.
+40,waste,urban wastewater,urban wastewater,urban wastewater,TP,string exact match
+40,resource,"recovered water for algriculture, soil amender",biomass for agriculture,biomass for agriculture,FP,llm match output: no.
+40,resource,"recovered water for algriculture, soil amender",soil amender,soil amender,TP,string exact match
+41,waste,"dam sediment, marble waste",dam sediment,dam sediment,TP,string exact match
+41,waste,"dam sediment, marble waste",marble waste,marble waste,TP,string exact match
+41,resource,road subgrade material,subgrade materials for road construction,road subgrade material,TP,llm match output: yes. a.
+42,waste,nitrate pollutant,nitrate (no3‒),nitrate pollutant,TP,llm match output: yes. a.
+42,resource,"ammonia, high-purity nh4cl",ammonia (nh3),ammonia (nh3),FP,llm match output: no.
+42,resource,"ammonia, high-purity nh4cl",high-purity nh4cl,high-purity nh4cl,TP,string exact match
+43,waste,"bio-sourced waste feedstock, agricultural corncob-derived biochar",agricultural corncob-derived biochar,agricultural corncob-derived biochar,TP,string exact match
+43,resource,biochar-based composite,biochar-based composite for energy storage,biochar-based composite,TP,llm match output: yes. a.
+44,waste,municipal solid waste,municipal solid waste,municipal solid waste,TP,string exact match
+44,waste,municipal solid waste,legacy waste,municipal solid waste,TP,llm match output: yes. a.
+44,waste,municipal solid waste,combustible fraction,municipal solid waste,TP,llm match output: yes. a.
+44,resource,electrical energy,recoverable material,recoverable material,FP,llm match output: no.
+44,resource,electrical energy,energy,electrical energy,TP,llm match output: yes. a.
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",packaging,packaging,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",dross,dross,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",incinerator bottom ash,incinerator bottom ash,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",salt-slag,salt-slag/salt-cake hazardous waste,TP,llm match output: yes. d.
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",salt-cake,salt-slag/salt-cake hazardous waste,TP,llm match output: yes. d.
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",valuable alloy,secondary cast aluminium alloy,TP,llm match output: yes. e.
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",recyclable salt,recyclable salt,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",aluminium concentrate,aluminium concentrate,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",ammonium sulphate,ammonium sulphate,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",non-metallic compound,non-metallic compounds (nmcs),TP,llm match output: yes. d.
+46,waste,"lime sludge, lime slaker grit",lime sludge,lime sludge,TP,string exact match
+46,waste,"lime sludge, lime slaker grit",lime slaker grit,lime slaker grit,TP,string exact match
+46,resource,magnesium oxysulfate-based fiber cement board,magnesium oxysulfate-based fiber cement board,magnesium oxysulfate-based fiber cement board,TP,string exact match
+47,waste,"food waste, carrot pulp waste",carrot pulp waste,carrot pulp waste,TP,string exact match
+47,resource,"fuel, chemical, syngas",syngas,syngas,TP,string exact match
+47,resource,"fuel, chemical, syngas",fuel,fuel,TP,string exact match
+47,resource,"fuel, chemical, syngas",chemical,chemical,TP,string exact match
+48,waste,"waste plastic, lignocellulosic biomass, rice straw",waste plastic,waste plastic,TP,string exact match
+48,waste,"waste plastic, lignocellulosic biomass, rice straw",lignocellulosic biomass,lignocellulosic biomass,TP,string exact match
+48,waste,"waste plastic, lignocellulosic biomass, rice straw",low-density polyethylene,waste plastic,TP,llm match output: yes. a.
+48,waste,"waste plastic, lignocellulosic biomass, rice straw",rice straw,rice straw,TP,string exact match
+48,resource,"biogas, methane, biofuel",biogas,biogas,TP,string exact match
+48,resource,"biogas, methane, biofuel",methane,methane,TP,string exact match
+49,waste,incineration bottom ash,incineration bottom ash (iba),incineration bottom ash,TP,llm match output: yes. a.
+49,resource,natural aggregates substitutes for pavement layer,pavement layer,natural aggregates substitutes for pavement layer,TP,llm match output: yes. a.

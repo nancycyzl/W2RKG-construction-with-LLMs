@@ -1,0 +1,6 @@
+i,type,ground-truth,prediction,resolved,label,note
+8,waste,digestate from anaerobic digestion of food waste,food waste,digestate from anaerobic digestion of food waste,TP,llm match output: yes. a.
+8,waste,digestate from anaerobic digestion of food waste,digestate,digestate from anaerobic digestion of food waste,TP,llm match output: yes. a.
+8,resource,"biochar, syngas, bio-oil",biochar,biochar,TP,string exact match
+8,resource,"biochar, syngas, bio-oil",syngas,syngas,TP,string exact match
+8,resource,"biochar, syngas, bio-oil",bio-oil,bio-oil,TP,string exact match

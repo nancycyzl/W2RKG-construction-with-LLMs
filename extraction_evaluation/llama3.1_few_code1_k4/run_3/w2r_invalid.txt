@@ -1,0 +1,71 @@
+```python
+import re
+
+# ... (rest of your code remains the same)
+
+# Extracting waste, transforming_process and transformed_resource from the text
+waste = [word for word in re.findall(r'\b\w+\b', text) if 'waste' in word.lower()]
+transforming_process = ['pyrolysis']
+transformed_resource = ['liquid product', 'gaseous product', 'biochars', 'char or hydrogen-rich gas']
+
+# Update the dictionary
+w2r = {"waste": waste, "transforming_process": transforming_process, "transformed_resource": transformed_resource}
+```
+
+----------
+
+You can use regular expressions to extract the relevant information from the text. Here's the added code:
+
+```python
+import re
+
+# ...
+
+waste = [match for match in re.findall(r'pine sawdust|lignocellulosic wastes|pretreated wheat straw|pretreated PSD', text, flags=re.IGNORECASE)]
+transforming_process = ["solid-state fermentation", "response surface methodology (RSM)", "saccharification"]
+transformed_resource = ["efficient hydrolytic enzyme production", "reducing sugar yields"]
+
+print(waste)
+print(transforming_process)
+print(transformed_resource)
+```
+
+This code uses regular expressions to find matches for the specified waste resources in the text, and directly assigns the transforming process and transformed resource strings to their respective lists. The output will be:
+
+```python
+['pine sawdust', 'lignocellulosic wastes', 'pretreated wheat straw', 'pretreated PSD']
+['solid-state fermentation', 'response surface methodology (RSM)', 'saccharification']
+['efficient hydrolytic enzyme production', 'reducing sugar yields']
+```
+
+----------
+
+```python
+# Add this code to extract waste, transforming_process, transformed_resource from the text
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = # your text here
+
+import re
+
+# Extract waste
+pattern_waste = r'WP and LCB|plastic|RF'
+matches = re.findall(pattern_waste, text)
+for match in matches:
+    w2r["waste"].append(match)
+
+# Extract transforming_process
+pattern_transforming_process = r'anaerobic digestion (AD)|co-digestion with multiple feedstocks|utilization of microorganisms to decompose organic matter into methane'
+matches = re.findall(pattern_transforming_process, text)
+for match in matches:
+    w2r["transforming_process"].append(match)
+
+# Extract transformed_resource
+pattern_transformed_resource = r'biogas and CH4 production|CH4 production|methane energy yields|volatile solid removal'
+matches = re.findall(pattern_transforming_process, text)  # use same pattern for consistency
+for match in matches:
+    w2r["transformed_resource"].append(match)
+```
+
+----------
+

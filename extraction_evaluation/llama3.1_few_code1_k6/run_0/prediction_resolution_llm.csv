@@ -1,0 +1,33 @@
+i,type,ground-truth,prediction,resolved,label,note
+1,waste,"date pit, peanut shell, coffee ground, tea waste",date pit,date pit,TP,string exact match
+1,waste,"date pit, peanut shell, coffee ground, tea waste",peanut shell,peanut shell,TP,string exact match
+1,waste,"date pit, peanut shell, coffee ground, tea waste",coffee ground,coffee ground,TP,string exact match
+1,waste,"date pit, peanut shell, coffee ground, tea waste",tea waste,tea waste,TP,string exact match
+1,resource,"char, hydrogen-rich gas, biochars, solid fuel, biofertilizers, carbon material",liquid product,liquid product,FP,llm match output: no.
+1,resource,"char, hydrogen-rich gas, biochars, solid fuel, biofertilizers, carbon material",gaseous product,gaseous product,FP,llm match output: no.
+1,resource,"char, hydrogen-rich gas, biochars, solid fuel, biofertilizers, carbon material",char,char,TP,string exact match
+1,resource,"char, hydrogen-rich gas, biochars, solid fuel, biofertilizers, carbon material",hydrogen-rich gas,hydrogen-rich gas,TP,string exact match
+1,resource,"char, hydrogen-rich gas, biochars, solid fuel, biofertilizers, carbon material",biochars,biochars,TP,string exact match
+1,resource,"char, hydrogen-rich gas, biochars, solid fuel, biofertilizers, carbon material",solid fuel,solid fuel,TP,string exact match
+1,resource,"char, hydrogen-rich gas, biochars, solid fuel, biofertilizers, carbon material",biofertilizers,biofertilizers,TP,string exact match
+1,resource,"char, hydrogen-rich gas, biochars, solid fuel, biofertilizers, carbon material",carbon material,carbon material,TP,string exact match
+4,waste,"plastic waste, municipal solid waste",plastic waste,plastic waste,TP,string exact match
+4,waste,"plastic waste, municipal solid waste",mixed plastic waste from separate collection of municipal solid waste,municipal solid waste,TP,llm match output: yes. b.
+4,resource,"hydrogen, chemical, syngas",syngas,syngas,TP,string exact match
+4,resource,"hydrogen, chemical, syngas",hydrogen,hydrogen,TP,string exact match
+4,resource,"hydrogen, chemical, syngas",chemical,chemical,TP,string exact match
+13,waste,chestnut shell,chestnut shell,chestnut shell,TP,string exact match
+43,waste,"bio-sourced waste feedstock, agricultural corncob-derived biochar",bio-sourced waste feedstock,bio-sourced waste feedstock,TP,string exact match
+43,waste,"bio-sourced waste feedstock, agricultural corncob-derived biochar",fossil feedstock utilization,fossil feedstock utilization,FP,llm match output: no.
+43,resource,biochar-based composite,biochar-based composite from agricultural corncob-derived biochar and a commercially available paraffinic pcm (n-hexadecane),biochar-based composite,TP,llm match output: yes. a.
+43,resource,biochar-based composite,"composite made of nonrenewable fossil-based materials, like exfoliated graphene nanoplatelets","composite made of nonrenewable fossil-based materials, like exfoliated graphene nanoplatelets",FP,llm match output: no.
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",packaging,packaging,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",dross,dross,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",incinerator bottom ash,incinerator bottom ash,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",salt-slag/salt-cake hazardous waste,salt-slag/salt-cake hazardous waste,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",secondary cast aluminium alloy,secondary cast aluminium alloy,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",recyclable salt,recyclable salt,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",aluminium concentrate,aluminium concentrate,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",ammonium sulphate,ammonium sulphate,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",non-metallic compounds (nmcs),non-metallic compounds (nmcs),TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",salt-slag residue,recyclable salt,TP,llm match output: yes. a.

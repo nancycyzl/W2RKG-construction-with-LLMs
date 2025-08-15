@@ -1,0 +1,641 @@
+Parameters:
+method=llm
+model=llama3.1
+thre=0.8
+gt_file=extraction_groundtruth.json
+pr_file=None
+pr_folder=result/llama3.1_few_code1_k10
+save_dir=result/llama3.1_few_code1_k10
+metrics_update_file=
+comment=
+Evaluating files in result/llama3.1_few_code1_k10
+No metrics update file is given, metrics will be saved to result/llama3.1_few_code1_k10\metrics_all_runs.csv
+------------------------------------------------------------
+Evaluating run: run_0
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['digestate from anaerobic digestion of food waste']
+Resolving: food waste
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: digestate
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['digestate from anaerobic digestion of food waste', 'digestate from anaerobic digestion of food waste']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['biochar', 'syngas', 'bio-oil']
+Resolving: biochar
+directly matched: biochar
+Resolving: syngas
+directly matched: syngas
+Resolving: bio-oil
+directly matched: bio-oil
+Resolved prediction: ['biochar', 'syngas', 'bio-oil']
+------------------------------------------------------------
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 1 / 50
+Saved prediction result resolution to result/llama3.1_few_code1_k10\run_0\prediction_resolution_llm.csv
+Weighted micro precision: 0.02, recall: 0.02, f1: 0.02
+Weighted macro precision: 0.02, recall: 0.02, f1: 0.02
+Averaged jaccard: 0.02
+------------------------------------------------------------
+Evaluating run: run_1
+Evaluating 0 / 50
+Evaluating 1 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['date pit', 'peanut shell', 'coffee ground', 'tea waste']
+Resolving: date pits (dp)
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: peanut shells (ps)
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. b.
+Resolving: coffee grounds (cg)
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. c.
+Resolving: tea waste (tw)
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. d.
+Resolved prediction: ['date pit', 'peanut shell', 'coffee ground', 'tea waste']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['char', 'hydrogen-rich gas', 'biochars', 'solid fuel', 'biofertilizers', 'carbon material']
+Resolved prediction: []
+------------------------------------------------------------
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['waste activated sludge']
+Resolving: waste activated sludge (was)
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: fossil raw material
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['waste activated sludge', 'fossil raw material']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['short-chain organic acid']
+Resolving: short-chain organic acids (scfas)
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['short-chain organic acid']
+------------------------------------------------------------
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['packaging', 'dross', 'incinerator bottom ash', 'salt-slag/salt-cake hazardous waste']
+Resolving: packaging
+directly matched: packaging
+Resolving: dross
+directly matched: dross
+Resolving: incinerator bottom ash
+directly matched: incinerator bottom ash
+Resolving: salt-slag/salt-cake hazardous waste
+directly matched: salt-slag/salt-cake hazardous waste
+Resolved prediction: ['packaging', 'dross', 'incinerator bottom ash', 'salt-slag/salt-cake hazardous waste']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['recyclable salt', 'aluminium concentrate', 'ammonium sulphate', 'non-metallic compounds (nmcs)', 'secondary cast aluminium alloy']
+Resolved prediction: []
+------------------------------------------------------------
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['incineration bottom ash']
+Resolving: iba
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: natural aggregate
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['incineration bottom ash', 'natural aggregate']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['natural aggregates substitutes for pavement layer']
+Resolved prediction: []
+------------------------------------------------------------
+Total valid abstract: 4 / 50
+Saved prediction result resolution to result/llama3.1_few_code1_k10\run_1\prediction_resolution_llm.csv
+Weighted micro precision: 0.06769230769230769, recall: 0.03826086956521739, f1: 0.048888888888888885
+Weighted macro precision: 0.04, recall: 0.05, f1: 0.04333333333333333
+Averaged jaccard: 0.04
+------------------------------------------------------------
+Evaluating run: run_2
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['oil palm biomass', 'mill effluent']
+Resolving: mill effluent generated
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. b.
+Resolving: biomass and effluent
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['mill effluent', 'oil palm biomass']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['biopolymer', 'graphene', 'biocomposites', 'mxene', 'biochemicals']
+Resolving: biomethane
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: biohydrogen
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: bio-oil
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: jet biofuel
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: list: ['a: biopolymer', 'b: graphene', 'c: biocomposites', 'd: mxene', 'e: biochemicals']. 
+sample: jet biofuel.
+answer: no.
+Resolving: energy storage and supercapacitors
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: list: ['a: biopolymer', 'b: graphene', 'c: biocomposites', 'd: mxene', 'e: biochemicals']. sample: energy storage and supercapacitors.
+yes. c.
+Resolving: biopolymer
+directly matched: biopolymer
+Resolving: graphene
+directly matched: graphene
+Resolving: biocomposites and mxene
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: list: ['a: biopolymer', 'b: graphene', 'c: biocomposites', 'd: mxene', 'e: biochemicals']. sample: biocomposites and mxene.
+answer: yes. c, d.
+Resolving: biodiesel
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. b.
+Resolving: bioethanol
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: algae
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['biomethane', 'biohydrogen', 'bio-oil', 'jet biofuel', 'biocomposites', 'biopolymer', 'graphene', 'mxene', 'graphene', 'biopolymer', 'algae']
+------------------------------------------------------------
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['biomass']
+Resolving: biomass
+directly matched: biomass
+Resolving: waste
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['biomass', 'waste']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: []
+Resolved prediction: []
+------------------------------------------------------------
+Evaluating 25 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['agro-industrial waste', 'biomass']
+Resolved prediction: []
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['energy', 'chemical']
+Resolving: biomass
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: energy
+directly matched: energy
+Resolving: chemical
+directly matched: chemical
+Resolved prediction: ['biomass', 'energy', 'chemical']
+------------------------------------------------------------
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['combustible high-organic solid waste']
+Resolving: high-organic solid waste (hsw)
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: combustible
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: heavy metal content
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['combustible high-organic solid waste', 'combustible high-organic solid waste', 'heavy metal content']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['char']
+Resolving: derived chars with h-kaolin
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: high-performance in-furnace sorbents during pyrolysis
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['char', 'char']
+------------------------------------------------------------
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['industrial effluent']
+Resolving: industrial production effluent
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: pollutants (oils, dyes, plaguicides, emerging organic pollutants, detergents, disinfectants, toxic metals)
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['industrial effluent', 'industrial effluent']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['recovered water']
+Resolving: effluents treatment technology
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: pollutants elimination in industrial effluent
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['effluents treatment technology', 'pollutants elimination in industrial effluent']
+------------------------------------------------------------
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 5 / 50
+Saved prediction result resolution to result/llama3.1_few_code1_k10\run_2\prediction_resolution_llm.csv
+Weighted micro precision: 0.05454545454545456, recall: 0.07500000000000001, f1: 0.06315789473684211
+Weighted macro precision: 0.05111111111111111, recall: 0.068, f1: 0.05704761904761904
+Averaged jaccard: 0.050666666666666665
+------------------------------------------------------------
+Evaluating run: run_3
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['plastic waste', 'municipal solid waste']
+Resolving: plastic waste
+directly matched: plastic waste
+Resolving: municipal solid waste
+directly matched: municipal solid waste
+Resolved prediction: ['plastic waste', 'municipal solid waste']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['hydrogen', 'chemical', 'syngas']
+Resolving: syngas
+directly matched: syngas
+Resolving: hydrogen
+directly matched: hydrogen
+Resolving: chemical
+directly matched: chemical
+Resolved prediction: ['syngas', 'hydrogen', 'chemical']
+------------------------------------------------------------
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['biowastes', 'coffee residue', 'bracts and peels of various fruit']
+Resolving: sustainable method
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: harmful wastes and solvent
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['sustainable method', 'harmful wastes and solvent']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['sorbent']
+Resolving: natural product
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: biowastes
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['sorbent', 'biowastes']
+------------------------------------------------------------
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['molasses', 'corn steep liquor', 'black soldier fly larval meal']
+Resolving: inhibitory properties due to acid-hydrolyzed black soldier fly larval meal (ia)
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. c.
+Resolved prediction: ['black soldier fly larval meal']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['biobutanol', 'butanol']
+Resolving: biobutanol
+directly matched: biobutanol
+Resolving: butanol-based material
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. b.
+Resolving: transportation fuel
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['biobutanol', 'butanol', 'biobutanol']
+------------------------------------------------------------
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 3 / 50
+Saved prediction result resolution to result/llama3.1_few_code1_k10\run_3\prediction_resolution_llm.csv
+Weighted micro precision: 0.045000000000000005, recall: 0.038571428571428576, f1: 0.041538461538461545
+Weighted macro precision: 0.045, recall: 0.04333333333333334, f1: 0.04166666666666666
+Averaged jaccard: 0.03833333333333334
+------------------------------------------------------------
+Evaluating run: run_4
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['oil palm biomass', 'mill effluent']
+Resolving: oil palm biomass
+directly matched: oil palm biomass
+Resolving: mill effluent
+directly matched: mill effluent
+Resolved prediction: ['oil palm biomass', 'mill effluent']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['biopolymer', 'graphene', 'biocomposites', 'mxene', 'biochemicals']
+Resolved prediction: []
+------------------------------------------------------------
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['waste polyethylene', 'plastic waste']
+Resolved prediction: []
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['oil']
+Resolved prediction: []
+------------------------------------------------------------
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['molasses', 'corn steep liquor', 'black soldier fly larval meal']
+Resolving: inhibitory property
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: molasses variation
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: list: ['a: molasses', 'b: corn steep liquor', 'c: black soldier fly larval meal']. sample: molasses variation.
+answer: yes. a.
+Resolved prediction: ['inhibitory property', 'molasses']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['biobutanol', 'butanol']
+Resolving: biobutanol
+directly matched: biobutanol
+Resolving: butanol-based material
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. b.
+Resolving: transportation fuel
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['biobutanol', 'butanol', 'biobutanol']
+------------------------------------------------------------
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 3 / 50
+Saved prediction result resolution to result/llama3.1_few_code1_k10\run_4\prediction_resolution_llm.csv
+Weighted micro precision: 0.049999999999999996, recall: 0.02, f1: 0.028571428571428574
+Weighted macro precision: 0.025, recall: 0.02333333333333333, f1: 0.024
+Averaged jaccard: 0.0225
+Mean metrics across all runs: [0.04744755 0.03836646 0.04043133 0.03622222 0.04093333 0.03720952
+ 0.0343    ]
+Standard deviation of metrics across all runs: [0.01750788 0.02245397 0.01693627 0.01324857 0.01980236 0.01517874
+ 0.01284869]
+Mean and standard deviation of metrics saved to result/llama3.1_few_code1_k10\metrics_summary.csv

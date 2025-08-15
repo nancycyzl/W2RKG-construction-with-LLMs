@@ -1,0 +1,16 @@
+i,type,ground-truth,prediction,resolved,label,note
+3,waste,"waste vulcanized rubber, waste vulcanized natural rubber, waste vulcanized emulsion type butadiene-based rubber, waste vulcanized nitrile-butadiene rubber glove, waste vulcanized emulsion type diene-based rubber",waste vulcanized emulsion type butadiene-based rubber,waste vulcanized emulsion type butadiene-based rubber,TP,string exact match
+3,resource,,nbr glove,nbr glove,FP,llm match output: yes. d.
+28,waste,grape pomace,conventional drying method,conventional drying method,FP,llm match output: no.
+28,waste,grape pomace,conventional spe,conventional spe,FP,llm match output: no.
+28,waste,grape pomace,eutectic solvent reusability,eutectic solvent reusability,FP,llm match output: no.
+28,resource,anthocyanins,anthocyanins from grape pomace,anthocyanins,TP,llm match output: yes. a.
+28,resource,anthocyanins,alternative low-energy demanding approach using sio2 particle,alternative low-energy demanding approach using sio2 particle,FP,llm match output: no.
+28,resource,anthocyanins,freeze-drying replacement strategy,freeze-drying replacement strategy,FP,llm match output: no.
+41,waste,"dam sediment, marble waste",sediment,dam sediment,TP,llm match output: yes. a.
+41,waste,"dam sediment, marble waste",marble waste,marble waste,TP,string exact match
+41,resource,road subgrade material,road subgrade construction material,road subgrade material,TP,llm match output: yes. a.
+42,waste,nitrate pollutant,pollution,nitrate pollutant,TP,llm match output: yes. a.
+42,waste,nitrate pollutant,no3‒,nitrate pollutant,TP,llm match output: yes. a.
+42,resource,"ammonia, high-purity nh4cl",sustainable ammonia (nh3) synthesis,ammonia,TP,llm match output: yes. a.
+42,resource,"ammonia, high-purity nh4cl",high-purity nh4cl,high-purity nh4cl,TP,string exact match

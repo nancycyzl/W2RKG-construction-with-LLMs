@@ -1,0 +1,14 @@
+i,type,ground-truth,prediction,resolved,label,note
+4,waste,"plastic waste, municipal solid waste",plastic waste,plastic waste,TP,string exact match
+4,waste,"plastic waste, municipal solid waste",municipal solid waste,municipal solid waste,TP,string exact match
+4,resource,"hydrogen, chemical, syngas",syngas,syngas,TP,string exact match
+4,resource,"hydrogen, chemical, syngas",hydrogen,hydrogen,TP,string exact match
+4,resource,"hydrogen, chemical, syngas",chemical,chemical,TP,string exact match
+11,waste,"biowastes, coffee residue, bracts and peels of various fruit",sustainable method,sustainable method,FP,llm match output: no.
+11,waste,"biowastes, coffee residue, bracts and peels of various fruit",harmful wastes and solvent,harmful wastes and solvent,FP,llm match output: no.
+11,resource,sorbent,natural product,sorbent,TP,llm match output: yes. a.
+11,resource,sorbent,biowastes,biowastes,FP,llm match output: no.
+23,waste,"molasses, corn steep liquor, black soldier fly larval meal",inhibitory properties due to acid-hydrolyzed black soldier fly larval meal (ia),black soldier fly larval meal,TP,llm match output: yes. c.
+23,resource,"biobutanol, butanol",biobutanol,biobutanol,TP,string exact match
+23,resource,"biobutanol, butanol",butanol-based material,butanol,TP,llm match output: yes. b.
+23,resource,"biobutanol, butanol",transportation fuel,biobutanol,TP,llm match output: yes. a.

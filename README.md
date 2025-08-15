@@ -3,6 +3,7 @@
 
 ![Sample W2R graph](helpers/graph_sample.png)
 
+W2RKG data in [`W2RKG`](W2RKG) folder of this repository.
 
 ### Extract W2R from abstracts
 

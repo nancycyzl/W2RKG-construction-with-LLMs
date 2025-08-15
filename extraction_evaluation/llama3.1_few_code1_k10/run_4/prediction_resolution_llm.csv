@@ -1,0 +1,9 @@
+i,type,ground-truth,prediction,resolved,label,note
+15,waste,"oil palm biomass, mill effluent",oil palm biomass,oil palm biomass,TP,string exact match
+15,waste,"oil palm biomass, mill effluent",mill effluent,mill effluent,TP,string exact match
+23,waste,"molasses, corn steep liquor, black soldier fly larval meal",inhibitory property,inhibitory property,FP,llm match output: no.
+23,waste,"molasses, corn steep liquor, black soldier fly larval meal",molasses variation,molasses,TP,"llm match output: list: ['a: molasses', 'b: corn steep liquor', 'c: black soldier fly larval meal']. sample: molasses variation.
+answer: yes. a."
+23,resource,"biobutanol, butanol",biobutanol,biobutanol,TP,string exact match
+23,resource,"biobutanol, butanol",butanol-based material,butanol,TP,llm match output: yes. b.
+23,resource,"biobutanol, butanol",transportation fuel,biobutanol,TP,llm match output: yes. a.

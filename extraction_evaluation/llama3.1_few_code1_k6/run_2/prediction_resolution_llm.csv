@@ -1,0 +1,43 @@
+i,type,ground-truth,prediction,resolved,label,note
+5,resource,"hydrolytic enzyme, cellulases, xylanases, β-glucosidases",pine sawdust (psd),cellulases,TP,"llm match output: list: ['a: hydrolytic enzyme', 'b: cellulases', 'c: xylanases', 'd: β-glucosidases']. sample: cellulase.
+answer: yes. b."
+5,resource,"hydrolytic enzyme, cellulases, xylanases, β-glucosidases",pretreated wheat straw and psd,hydrolytic enzyme,TP,llm match output: yes. a.
+5,resource,"hydrolytic enzyme, cellulases, xylanases, β-glucosidases",high reducing sugar yield,high reducing sugar yield,FP,"llm match output: list: ['a: hydrolytic enzyme', 'b: cellulases', 'c: xylanases', 'd: β-glucosidases']. 
+sample: high reducing sugar yield.
+answer: no."
+5,resource,"hydrolytic enzyme, cellulases, xylanases, β-glucosidases",enzymes for lignocellulosic waste valorization,hydrolytic enzyme,TP,llm match output: yes. a.
+5,resource,"hydrolytic enzyme, cellulases, xylanases, β-glucosidases",fungal enzymes for biomass valorization,hydrolytic enzyme,TP,llm match output: yes. a.
+7,resource,"ethanol, acetaldehyde, hydrogen",ethanol,ethanol,TP,string exact match
+7,resource,"ethanol, acetaldehyde, hydrogen",acetaldehyde,acetaldehyde,TP,string exact match
+7,resource,"ethanol, acetaldehyde, hydrogen",hydrogen,hydrogen,TP,string exact match
+10,resource,vitamin d3 extract,vitamin d3 extract,vitamin d3 extract,TP,string exact match
+26,waste,"biowaste, crop residue, lignocellulosic biomass",biowaste,biowaste,TP,string exact match
+26,waste,"biowaste, crop residue, lignocellulosic biomass",fossil-based resource,fossil-based resource,FP,llm match output: no.
+26,waste,"biowaste, crop residue, lignocellulosic biomass",lignin,lignocellulosic biomass,TP,llm match output: yes. c.
+26,waste,"biowaste, crop residue, lignocellulosic biomass",crop residue,crop residue,TP,string exact match
+26,resource,"phenolic compound, ferulic acid, vanillin, vanillic acid, hydroxycinnamic acid, food packaging",phenolic compound,phenolic compound,TP,string exact match
+26,resource,"phenolic compound, ferulic acid, vanillin, vanillic acid, hydroxycinnamic acid, food packaging",ferulic acid,ferulic acid,TP,string exact match
+26,resource,"phenolic compound, ferulic acid, vanillin, vanillic acid, hydroxycinnamic acid, food packaging","vanillin, vanillic acid and hydroxycinnamic acid",hydroxycinnamic acid,TP,"llm match output: yes. c, d, e."
+38,waste,waste activated sludge,waste activated sludge (was),waste activated sludge,TP,llm match output: yes. a.
+38,waste,waste activated sludge,partially oxidised wa,waste activated sludge,TP,llm match output: yes. a
+38,resource,short-chain organic acid,short-chain organic acids (scfas),short-chain organic acid,TP,llm match output: yes. a.
+38,resource,short-chain organic acid,acetic acid,short-chain organic acid,TP,llm match output: yes. a.
+38,resource,short-chain organic acid,toc,short-chain organic acid,TP,llm match output: yes. a.
+43,waste,"bio-sourced waste feedstock, agricultural corncob-derived biochar",bio-sourced waste feedstock,bio-sourced waste feedstock,TP,string exact match
+43,waste,"bio-sourced waste feedstock, agricultural corncob-derived biochar",nonrenewable fossil feedstock utilization,nonrenewable fossil feedstock utilization,FP,llm match output: no.
+43,resource,biochar-based composite,biochar-based composite,biochar-based composite,TP,string exact match
+43,resource,biochar-based composite,paraffinic pcm (n-hexadecane),biochar-based composite,TP,llm match output: yes. a.
+43,resource,biochar-based composite,corncob biochar/hexadecane composite,biochar-based composite,TP,llm match output: yes. a.
+43,resource,biochar-based composite,exfoliated graphene nanoplatelets,exfoliated graphene nanoplatelets,FP,llm match output: no.
+44,waste,municipal solid waste,legacy waste,municipal solid waste,TP,llm match output: yes. a.
+44,waste,municipal solid waste,combustible fraction,municipal solid waste,TP,llm match output: yes. a.
+44,waste,municipal solid waste,dry legacy waste,municipal solid waste,TP,llm match output: yes. a.
+44,resource,electrical energy,energy generation potential,electrical energy,TP,llm match output: yes. a.
+44,resource,electrical energy,resource recovery,electrical energy,TP,llm match output: yes. a.
+44,resource,electrical energy,reclamation of resource,reclamation of resource,FP,llm match output: no.
+47,waste,"food waste, carrot pulp waste",food waste,food waste,TP,string exact match
+47,waste,"food waste, carrot pulp waste",carrot pulp waste,carrot pulp waste,TP,string exact match
+47,resource,"fuel, chemical, syngas",fuels and chemical,chemical,TP,"llm match output: list: ['a: fuel', 'b: chemical', 'c: syngas']. sample: fuels and chemical.
+answer: yes. a, b."
+47,resource,"fuel, chemical, syngas",syngas production,syngas,TP,llm match output: yes. c.
+47,resource,"fuel, chemical, syngas",co formation,chemical,TP,llm match output: yes. b.

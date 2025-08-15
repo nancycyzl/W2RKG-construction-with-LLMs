@@ -1,0 +1,23 @@
+i,type,ground-truth,prediction,resolved,label,note
+2,waste,"textile residue, end-of-life fire-protecting t-shirt, protective clothing with meta-aramid fiber",textile residue,textile residue,TP,string exact match
+2,waste,"textile residue, end-of-life fire-protecting t-shirt, protective clothing with meta-aramid fiber",end-of-life fire-protecting t-shirt,end-of-life fire-protecting t-shirt,TP,string exact match
+2,resource,"reinforcement materials in cement-based matrix, recycled fiber, laminated fabric-reinforced cementitious matrix",laminated fabric-reinforced cementitious matrices (frcms),reinforcement materials in cement-based matrix,TP,llm match output: yes. a
+2,resource,"reinforcement materials in cement-based matrix, recycled fiber, laminated fabric-reinforced cementitious matrix",cement-based matrices with recycled fibers as reinforcement,reinforcement materials in cement-based matrix,TP,llm match output: yes. a.
+3,resource,,recycled resource,recycled resource,FP,"llm match output: list: []. 
+sample: recycled resource. 
+answer: no."
+18,waste,waste products from chemical industry,waste material,waste products from chemical industry,TP,llm match output: yes. a.
+18,waste,waste products from chemical industry,portland cement consumption in the manufacture of nonstructural masonry unit,portland cement consumption in the manufacture of nonstructural masonry unit,FP,llm match output: no.
+18,waste,waste products from chemical industry,hollow concrete blocks (hcbs),hollow concrete blocks (hcbs),FP,llm match output: no.
+18,waste,waste products from chemical industry,chemical industry waste product,waste products from chemical industry,TP,llm match output: yes. a.
+18,waste,waste products from chemical industry,fresh waste material from the warehouse,fresh waste material from the warehouse,FP,llm match output: no.
+18,resource,"hollow concrete block, mortar, masonry unit",masonry unit,masonry unit,TP,string exact match
+18,resource,"hollow concrete block, mortar, masonry unit",mortars with fresh waste material,mortar,TP,llm match output: yes. b.
+18,resource,"hollow concrete block, mortar, masonry unit",hollow concrete blocks (hcbs),hollow concrete block,TP,llm match output: yes. a.
+18,resource,"hollow concrete block, mortar, masonry unit",commercially available unit,hollow concrete block,TP,llm match output: yes. a.
+18,resource,"hollow concrete block, mortar, masonry unit",walls manufactured with these masonry unit,hollow concrete block,TP,llm match output: yes. a.
+37,waste,water treatment sludge,water treatment sludge (wts) disposal in landfills and estuary,water treatment sludge,TP,llm match output: yes. a.
+38,resource,short-chain organic acid,scfas,short-chain organic acid,TP,llm match output: yes. a.
+38,resource,short-chain organic acid,acetic acid,short-chain organic acid,TP,llm match output: yes. a.
+41,waste,"dam sediment, marble waste",dam sediment,dam sediment,TP,string exact match
+41,waste,"dam sediment, marble waste",marble waste,marble waste,TP,string exact match

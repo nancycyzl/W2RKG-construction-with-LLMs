@@ -1,0 +1,4 @@
+{'waste': [], 'transforming_process': [], 'transformed_resource': []}
+
+----------
+

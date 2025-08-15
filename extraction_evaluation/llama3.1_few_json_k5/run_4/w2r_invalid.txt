@@ -1,0 +1,23 @@
+{
+    "waste": [
+        "date pits",
+        "peanut shells",
+        "coffee grounds",
+        "tea waste"
+    ],
+    "transforming_process": [
+        "pyrolysis",
+        "co-pyrolysis",
+        "sorption using hydroxyapatite modified clay" (not present in the paragraph)
+    ],
+    "transformed_resource": [
+        "char",
+        "hydrogen-rich gas",
+        "biofertilizers",
+        "carbon materials",
+        "solid fuels"
+    ]
+}
+
+----------
+

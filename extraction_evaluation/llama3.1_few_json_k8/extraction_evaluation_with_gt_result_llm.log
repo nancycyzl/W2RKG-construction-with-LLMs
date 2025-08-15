@@ -1,0 +1,300 @@
+Parameters:
+method=llm
+model=llama3.1
+thre=0.8
+gt_file=extraction_groundtruth.json
+pr_file=None
+pr_folder=result/llama3.1_few_json_k8
+save_dir=result/llama3.1_few_json_k8
+metrics_update_file=
+comment=
+Evaluating files in result/llama3.1_few_json_k8
+No metrics update file is given, metrics will be saved to result/llama3.1_few_json_k8\metrics_all_runs.csv
+------------------------------------------------------------
+Evaluating run: run_0
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 0 / 50
+Saved prediction result resolution to result/llama3.1_few_json_k8\run_0\prediction_resolution_llm.csv
+Weighted micro precision: 0, recall: 0, f1: 0
+Weighted macro precision: 0.0, recall: 0.0, f1: 0.0
+Averaged jaccard: 0.0
+------------------------------------------------------------
+Evaluating run: run_1
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 0 / 50
+Saved prediction result resolution to result/llama3.1_few_json_k8\run_1\prediction_resolution_llm.csv
+Weighted micro precision: 0, recall: 0, f1: 0
+Weighted macro precision: 0.0, recall: 0.0, f1: 0.0
+Averaged jaccard: 0.0
+------------------------------------------------------------
+Evaluating run: run_2
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 0 / 50
+Saved prediction result resolution to result/llama3.1_few_json_k8\run_2\prediction_resolution_llm.csv
+Weighted micro precision: 0, recall: 0, f1: 0
+Weighted macro precision: 0.0, recall: 0.0, f1: 0.0
+Averaged jaccard: 0.0
+------------------------------------------------------------
+Evaluating run: run_3
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 0 / 50
+Saved prediction result resolution to result/llama3.1_few_json_k8\run_3\prediction_resolution_llm.csv
+Weighted micro precision: 0, recall: 0, f1: 0
+Weighted macro precision: 0.0, recall: 0.0, f1: 0.0
+Averaged jaccard: 0.0
+------------------------------------------------------------
+Evaluating run: run_4
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 0 / 50
+Saved prediction result resolution to result/llama3.1_few_json_k8\run_4\prediction_resolution_llm.csv
+Weighted micro precision: 0, recall: 0, f1: 0
+Weighted macro precision: 0.0, recall: 0.0, f1: 0.0
+Averaged jaccard: 0.0
+Mean metrics across all runs: [0. 0. 0. 0. 0. 0. 0.]
+Standard deviation of metrics across all runs: [0. 0. 0. 0. 0. 0. 0.]
+Mean and standard deviation of metrics saved to result/llama3.1_few_json_k8\metrics_summary.csv

@@ -1,0 +1,9 @@
+i,type,ground-truth,prediction,resolved,label,note
+7,waste,biomass waste,biomass waste,biomass waste,TP,string exact match
+7,resource,"ethanol, acetaldehyde, hydrogen",ethanol,ethanol,TP,string exact match
+7,resource,"ethanol, acetaldehyde, hydrogen",acetaldehyde,acetaldehyde,TP,string exact match
+42,waste,nitrate pollutant,pollution,pollution,FP,llm match output: no.
+42,waste,nitrate pollutant,no3‒,nitrate pollutant,TP,llm match output: yes. a.
+42,resource,"ammonia, high-purity nh4cl",sustainable ammonia (nh3) synthesis,ammonia,TP,llm match output: yes. a.
+42,resource,"ammonia, high-purity nh4cl",high-purity nh4cl,high-purity nh4cl,TP,string exact match
+42,resource,"ammonia, high-purity nh4cl",valuable ammonia product,ammonia,TP,llm match output: yes. a.

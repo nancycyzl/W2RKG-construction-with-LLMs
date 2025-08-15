@@ -1,0 +1,5 @@
+i,type,ground-truth,prediction,resolved,label,note
+20,waste,"cellulose-rich residue, food waste",cellulose-rich residue after agar extraction,cellulose-rich residue,TP,llm match output: yes. a.
+20,waste,"cellulose-rich residue, food waste",grape marc extract,grape marc extract,FP,llm match output: no.
+20,resource,"gelatin film, food packaging",revalorized cellulose,revalorized cellulose,FP,llm match output: no.
+20,resource,"gelatin film, food packaging",food packaging,food packaging,TP,string exact match

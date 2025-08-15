@@ -1,0 +1,89 @@
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ... existing code ...
+
+text = """
+    w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+    text = "The pyrolysis and co-pyrolysis characteristics of large abundant bio-wastes, namely date pits (DP), peanut shells (PS), coffee grounds (CG), and tea waste (TW) were investigated in detail. The TG/DTG and pyrolysis procedures were used to examine the thermal pyrolysis behavior of these agro-wastes and their blends (50%CG/50%DP, 50%CG/50%PS, 50%DP/50%PS, 50%TW/50% DP,50%TW/50%PS and 50%CG/50% TW by weight). The characterization of these feedstock has shown their suitability for energy and material valorization. Experiments were carried out in a batch pyrolysis at a medium heating rate of 10 °C/min. The goal was to identify the best combination aiming to produce either char or hydrogen-rich gas, which can contribute to the development of the circular bio-economy. It was demonstrated that pyrolysis favored the liquid product, fluctuating from 34.31% (TW) to 50.92% (DP), while the co-pyrolysis greatly increased the gaseous product, which ranged between 42.02% (TW-DP) and 55.17% (PS-TW). The blending of CG and PS resulted in heightened reactivity, leading to an enhanced generation of H2 (34.44%). The optimal mixture was found to be CG-TW, showcasing superior performance in terms of gas quality (38.39% H2) and yield (53.74%). This outcome underscores the potential of CG and TW as a synergistic blend for efficient hydrogen-rich gas production. The FTIR findings revealed that the recovered biochars have the potential to serve as solid fuels, biofertilizers, or carbon materials. Additionally, they could be used as eco-friendly precursors for chemical and related industries. By analyzing various waste mixtures and their respective pyrolysis properties, this research aims to contribute to the development of sustainable waste management practices as well as efficient energy and material production methods. 
+"""
+
+# Regular expression patterns
+waste_pattern = r"(?:\b\w+\s*waste(?:\(.*?\))?)"
+transforming_process_pattern = r"pyrolysis|co-pyrolysis|thermal pyrolysis behavior|TG/DTG|batch pyrolysis|heating rate"
+transformed_resource_pattern = r"\b(biochar|biofertilizer|carbon material|solid fuel|eco-friendly precursor)\s*(?:for chemical industries)"
+
+# Find all occurrences of patterns in the text
+waste_matches = re.findall(waste_pattern, text)
+transforming_process_matches = re.findall(transforming_process_pattern, text)
+transformed_resource_matches = re.findall(transformed_resource_pattern, text)
+
+# Add matches to dictionaries
+for match in waste_matches:
+    w2r["waste"].append(match.strip())
+
+for match in transforming_process_matches:
+    w2r["transforming_process"].append(match)
+
+for match in transformed_resource_matches:
+    w2r["transformed_resource"].append(match)
+```
+
+----------
+
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = """
+    w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+    text = "Background: Valorizing waste residues is crucial to reaching sustainable development goals and shifting from a linear fossil-based economy to a circular economy. Fungal cell factories, due to their versatility and robustness, are instrumental in driving the bio-transformation of waste residues. The present work isolated a potent strain, i.e., Aspergillus fumigatus (ZS_AF), from an ancient Złoty Stok gold mine, which showcased distinctive capabilities for efficient hydrolytic enzyme production from lignocellulosic wastes. Results: The present study optimized hydrolytic enzyme production (cellulases, xylanases, and β-glucosidases) from pine sawdust (PSD) via solid-state fermentation using Aspergillus fumigatus (ZS_AF). The optimization, using response surface methodology (RSM), produced a twofold increase with maximal yields of 119.41 IU/gds for CMCase, 1232.23 IU/gds for xylanase, 63.19 IU/gds for β-glucosidase, and 31.08 IU/gds for FPase. The secretome profiling validated the pivotal role of carbohydrate-active enzymes (CAZymes) and auxiliary enzymes in biomass valorization. A total of 77% of carbohydrate-active enzymes (CAZymes) were constituted by glycoside hydrolases (66%), carbohydrate esterases (9%), auxiliary activities (3%), and polysaccharide lyases (3%). The saccharification of pretreated wheat straw and PSD generated high reducing sugar yields of 675.36 mg/g and 410.15 mg/g, respectively. Conclusion: These findings highlight the significance of an efficient, synergistic, and cost-effective arsenal of fungal enzymes for lignocellulosic waste valorization and their potential to contribute to waste-to-wealth creation through solid-waste management. The utilization of Aspergillus fumigatus (ZS_AF) from an unconventional origin and optimization strategies embodies an innovative approach that holds the potential to propel current waste valorization methods forward, directing the paradigm toward improved efficiency and sustainability. 
+"""
+
+# Extracting waste
+w2r["waste"] = re.findall(r"waste residues|lignocellulosic wastes|lignocellulosic waste", text)
+
+# Extracting transforming process
+transforming_processes = ["bio-transformation", "hydrolytic enzyme production", "solid-state fermentation", "response surface methodology", "saccharification"]
+for process in transforming_processes:
+    if process not in w2r["waste"]:
+        w2r["transforming_process"].append(process)
+
+# Extracting transformed resource
+transformed_resources = ["enzymes", "pine sawdust", "pretreated wheat straw"]
+for resource in transformed_resources:
+    if resource not in w2r["waste"]:
+        w2r["transformed_resource"].append(resource)
+```
+
+----------
+
+w2r["waste"].append("sorghum waste")
+w2r["transforming_process"].extend(["one-pot synthesis", "functionalization agent", "templating or pore-directing agent", "swelling agent", "anion exchanger"])
+w2r["transformed_resource"].append("Cr(VI) adsorbent")
+
+----------
+
+```python
+import re
+
+# ...
+
+waste = []
+transforming_process = ["Anaerobic digestion (AD)", "co-digestion with multiple feedstocks"]
+transformed_resource = ["biogas", "methane (CH4)", "fuels"]
+
+for key, value in w2r.items():
+    if key == "waste":
+        waste = [word for word, freq in re.findall(r"([A-Za-z]+)(?=\s+of\s+[A-Za-z]+)", text) if word not in transforming_process]
+    elif key == "transforming_process":
+        transforming_process = [re.search(r"(Anaerobic\sdigestion|co-digestion)(\(AD|\))", text).group()]
+    elif key == "transformed_resource":
+        transformed_resource = re.findall(r"([A-Za-z]+)\s+(CH4|biogas|fuels)", text)
+```
+
+----------
+

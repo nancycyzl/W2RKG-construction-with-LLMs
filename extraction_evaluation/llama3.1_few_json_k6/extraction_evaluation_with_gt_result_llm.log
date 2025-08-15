@@ -1,0 +1,401 @@
+Parameters:
+method=llm
+model=llama3.1
+thre=0.8
+gt_file=extraction_groundtruth.json
+pr_file=None
+pr_folder=result/llama3.1_few_json_k6
+save_dir=result/llama3.1_few_json_k6
+metrics_update_file=
+comment=
+Evaluating files in result/llama3.1_few_json_k6
+No metrics update file is given, metrics will be saved to result/llama3.1_few_json_k6\metrics_all_runs.csv
+------------------------------------------------------------
+Evaluating run: run_0
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['cellulose-rich residue', 'food waste']
+Resolving: cellulose-rich residue after agar extraction
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['cellulose-rich residue']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['gelatin film', 'food packaging']
+Resolving: revalorized cellulose
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['revalorized cellulose']
+------------------------------------------------------------
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 1 / 50
+Saved prediction result resolution to result/llama3.1_few_json_k6\run_0\prediction_resolution_llm.csv
+Weighted micro precision: 0.01, recall: 0.005, f1: 0.006666666666666667
+Weighted macro precision: 0.01, recall: 0.005, f1: 0.006666666666666666
+Averaged jaccard: 0.005
+------------------------------------------------------------
+Evaluating run: run_1
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['cellulose-rich residue', 'food waste']
+Resolving: cellulose-rich residue after agar extraction
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: grape marc
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. b.
+Resolved prediction: ['cellulose-rich residue', 'food waste']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['gelatin film', 'food packaging']
+Resolving: revalorized cellulose
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: gelatin films with improved property
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['revalorized cellulose', 'gelatin film']
+------------------------------------------------------------
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 1 / 50
+Saved prediction result resolution to result/llama3.1_few_json_k6\run_1\prediction_resolution_llm.csv
+Weighted micro precision: 0.015, recall: 0.015, f1: 0.015
+Weighted macro precision: 0.015, recall: 0.015, f1: 0.015
+Averaged jaccard: 0.013333333333333332
+------------------------------------------------------------
+Evaluating run: run_2
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['cellulose-rich residue', 'food waste']
+Resolving: cellulose-rich residue after agar extraction
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: grape marc extract
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['cellulose-rich residue', 'grape marc extract']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['gelatin film', 'food packaging']
+Resolving: revalorized cellulose
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: food packaging
+directly matched: food packaging
+Resolved prediction: ['revalorized cellulose', 'food packaging']
+------------------------------------------------------------
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 1 / 50
+Saved prediction result resolution to result/llama3.1_few_json_k6\run_2\prediction_resolution_llm.csv
+Weighted micro precision: 0.01, recall: 0.01, f1: 0.01
+Weighted macro precision: 0.01, recall: 0.01, f1: 0.01
+Averaged jaccard: 0.006666666666666666
+------------------------------------------------------------
+Evaluating run: run_3
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['cellulose-rich residue', 'food waste']
+Resolving: cellulose-rich residue after agar extraction
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: grape marc extract
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. b.
+Resolved prediction: ['cellulose-rich residue', 'food waste']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['gelatin film', 'food packaging']
+Resolving: gelatin films with improved property
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: food packaging
+directly matched: food packaging
+Resolved prediction: ['gelatin film', 'food packaging']
+------------------------------------------------------------
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 1 / 50
+Saved prediction result resolution to result/llama3.1_few_json_k6\run_3\prediction_resolution_llm.csv
+Weighted micro precision: 0.02, recall: 0.02, f1: 0.02
+Weighted macro precision: 0.02, recall: 0.02, f1: 0.02
+Averaged jaccard: 0.02
+------------------------------------------------------------
+Evaluating run: run_4
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['cellulose-rich residue', 'food waste']
+Resolving: cellulose-rich residue after agar extraction
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: grape marc extract
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['cellulose-rich residue', 'grape marc extract']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['gelatin film', 'food packaging']
+Resolving: gelatin films with improved property
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['gelatin film']
+------------------------------------------------------------
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 1 / 50
+Saved prediction result resolution to result/llama3.1_few_json_k6\run_4\prediction_resolution_llm.csv
+Weighted micro precision: 0.013333333333333334, recall: 0.01, f1: 0.011428571428571429
+Weighted macro precision: 0.015, recall: 0.01, f1: 0.011666666666666665
+Averaged jaccard: 0.008333333333333333
+Mean metrics across all runs: [0.01366667 0.012      0.01261905 0.014      0.012      0.01266667
+ 0.01066667]
+Standard deviation of metrics across all runs: [0.00414997 0.00570088 0.00509546 0.0041833  0.00570088 0.00508265
+ 0.00607819]
+Mean and standard deviation of metrics saved to result/llama3.1_few_json_k6\metrics_summary.csv

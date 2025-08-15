@@ -1,0 +1,32 @@
+i,type,ground-truth,prediction,resolved,label,note
+15,waste,"oil palm biomass, mill effluent",mill effluent generated,mill effluent,TP,llm match output: yes. b.
+15,waste,"oil palm biomass, mill effluent",biomass and effluent,oil palm biomass,TP,llm match output: yes. a.
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",biomethane,biomethane,FP,llm match output: no.
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",biohydrogen,biohydrogen,FP,llm match output: no.
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",bio-oil,bio-oil,FP,llm match output: no.
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",jet biofuel,jet biofuel,FP,"llm match output: list: ['a: biopolymer', 'b: graphene', 'c: biocomposites', 'd: mxene', 'e: biochemicals']. 
+sample: jet biofuel.
+answer: no."
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",energy storage and supercapacitors,biocomposites,TP,"llm match output: list: ['a: biopolymer', 'b: graphene', 'c: biocomposites', 'd: mxene', 'e: biochemicals']. sample: energy storage and supercapacitors.
+yes. c."
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",biopolymer,biopolymer,TP,string exact match
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",graphene,graphene,TP,string exact match
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",biocomposites and mxene,mxene,TP,"llm match output: list: ['a: biopolymer', 'b: graphene', 'c: biocomposites', 'd: mxene', 'e: biochemicals']. sample: biocomposites and mxene.
+answer: yes. c, d."
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",biodiesel,graphene,TP,llm match output: yes. b.
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",bioethanol,biopolymer,TP,llm match output: yes. a.
+15,resource,"biopolymer, graphene, biocomposites, mxene, biochemicals",algae,algae,FP,llm match output: no.
+24,waste,biomass,biomass,biomass,TP,string exact match
+24,waste,biomass,waste,waste,FP,llm match output: no.
+25,resource,"energy, chemical",biomass,biomass,FP,llm match output: no.
+25,resource,"energy, chemical",energy,energy,TP,string exact match
+25,resource,"energy, chemical",chemical,chemical,TP,string exact match
+30,waste,combustible high-organic solid waste,high-organic solid waste (hsw),combustible high-organic solid waste,TP,llm match output: yes. a.
+30,waste,combustible high-organic solid waste,combustible,combustible high-organic solid waste,TP,llm match output: yes. a.
+30,waste,combustible high-organic solid waste,heavy metal content,heavy metal content,FP,llm match output: no.
+30,resource,char,derived chars with h-kaolin,char,TP,llm match output: yes. a.
+30,resource,char,high-performance in-furnace sorbents during pyrolysis,char,TP,llm match output: yes. a.
+39,waste,industrial effluent,industrial production effluent,industrial effluent,TP,llm match output: yes. a.
+39,waste,industrial effluent,"pollutants (oils, dyes, plaguicides, emerging organic pollutants, detergents, disinfectants, toxic metals)",industrial effluent,TP,llm match output: yes. a.
+39,resource,recovered water,effluents treatment technology,effluents treatment technology,FP,llm match output: no.
+39,resource,recovered water,pollutants elimination in industrial effluent,pollutants elimination in industrial effluent,FP,llm match output: no.

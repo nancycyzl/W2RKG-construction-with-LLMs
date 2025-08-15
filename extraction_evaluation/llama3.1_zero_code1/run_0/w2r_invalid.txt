@@ -1,0 +1,123 @@
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = "..."
+# Added code
+wastes = ["pine sawdust (PSD)", "pretreated wheat straw", "lignocellulosic wastes"]
+transforming_processes = ["solid-state fermentation", "response surface methodology (RSM)"]
+transformed_resources = ["hydrolytic enzyme production", "reducing sugar yields"]
+w2r["waste"] = wastes
+w2r["transforming_process"] = transforming_processes
+w2r["transformed_resource"] = transformed_resources
+print(w2r)
+
+----------
+
+w2r["waste"].extend(["oil palm biomass", "mill effluent"])
+w2r["transforming_process"].extend([
+    "bioenergy co-generation",
+    "environmental remediation",
+    "biodiesel production",
+    "bioethanol production",
+    "biomethane production",
+    "biohydrogen production",
+    "bio-oil production",
+    "jet biofuel production",
+    "energy storage",
+    "supercapacitors",
+    "green process",
+    "eco-friendly process"])
+w2r["transformed_resource"].extend([
+    "biodiesel",
+    "bioethanol",
+    "biomethane",
+    "biohydrogen",
+    "bio-oil",
+    "jet biofuel",
+    "energy storage",
+    "supercapacitors",
+    "biopolymer",
+    "graphene",
+    "biocomposites",
+    "MXene",
+    "biochemicals",
+    "medical products"])
+
+----------
+
+w2r = {"waste": ["Waste cooking oil (WCO)", "chemical solid wastes"], 
+       "transforming_process": ["recycling", "reprocessing", "pyrolysis", "catalytic pyrolysis", "co-feeding process"], 
+       "transformed_resource": ["biodiesel", "bioenergy and heat", "animal feed", "chemical feedstocks", "light hydrocarbons (C1 – C4)", "syngas (CO and H2)", "liquid products"] }
+
+----------
+
+```python
+w2r = {"waste": ["syngas"], "transforming_process": ["photoheterotrophic conditions", "adaptive laboratory evolution strategy (ALE)", "photosynthesis", "CO oxidation through the CO-dehydrogenase enzyme complex"], "transformed_resource": ["hydrogen (H2)", "polyhydroxyalkanoates (PHA)", "poly-3-hydroxybutyrate (PHB)"]}
+```
+
+----------
+
+w2r = {"waste": ["Water treatment sludge (WTS)", "solid waste sludge"], 
+       "transforming_process": ["production of structural sintering clay bricks", "firing in an oven at 700 °C for 3 h"],
+       "transformed_resource": ["structural sintering clay bricks"]}
+
+----------
+
+```python
+# Extracting information
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = """
+Peri-urban environments are significant reservoirs of wastewater, and releasing this untreated wastewater from these resources poses severe environmental and ecological threats. 
+Wastewater mitigation through sustainable approaches is an emerging area of interest. Algae offers a promising strategy for carbon-neutral valorization and recycling of urban wastewater.
+Aiming to provide a proof-of-concept for complete valorization and recycling of urban wastewater in a peri-urban environment in a closed loop system, a newly isolated biocrust-forming cyanobacterium Desertifilum tharense BERC-3 was evaluated. 
+Here, the highest growth and lipids productivity were achieved in urban wastewater compared to BG11 and synthetic wastewater.
+D. tharense BERC-3 showed 60–95% resource recovery efficiency and decreased total dissolved solids, chemical oxygen demand, biological oxygen demand, nitrate nitrogen, ammonia nitrogen and total phosphorus contents of the water by 60.37%, 81.11%, 82.75%, 87.91%, 85.13%, 85.41%, 95.87%, respectively, making it fit for agriculture as per WHO's safety limits.
+Soil supplementation with 2% wastewater-cultivated algae as a soil amender, along with its irrigation with post-treated wastewater, improved the nitrogen content and microbial activity of the soil by 0.3–2.0-fold and 0.5-fold, respectively.
+Besides, the availability of phosphorus was also improved by 1.66-fold. 
+The complete bioprocessing pipeline offered a complete biomass utilization. This study demonstrated the first proof-of-concept of integrating resource recovery and resource recycling using cyanobacteria to develop a peri-urban algae farming system.
+This can lead to establishing wastewater-driven algae cultivation systems as novel enterprises for rural migrants moving to urban areas.
+"""
+
+# Extracting information
+w2r["waste"].extend(["untreated wastewater", "peri-urban wastewater"])
+w2r["transforming_process"].extend(["biocrust-forming cyanobacterium Desertifilum tharense BERC-3 treatment", "algae cultivation"])
+w2r["transformed_resource"].extend(["treated water", "lipids", "soil with improved nitrogen content and microbial activity"])
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = "This study proposes an environmentally sustainable approach for converting food waste into fuels and chemicals, especially focusing on syngas production. The carbon-negative aspect of the pyrolysis process was achieved by employing CO2 as the reaction medium. Carrot pulp waste (CPW) was used as an exemplary food waste in this work. In the single-stage pyrolysis of CPW, the presence of CO2 led to improved syngas generation. The introduction of CO2, rather than N2 carrier gas, resulted in substantial increase of CO formation at temperatures ≥ 400 °C, with a decrease in bio-oil production. This phenomenon was due to the chemical reactions between CO2 and the volatile organic compounds (VOCs) produced during the pyrolysis of CPW. Specifically, CO2 played a mechanistic role by providing an extra oxygen source for CO production and participating in the oxidative thermal cracking of VOCs. In-depth analysis of multi-stage pyrolysis verified the mechanistic role of CO2, particularly at temperatures ≥ 190 °C. However, CO2-induced reactions influenced the molecular size of the VOCs. To boost the CO2-induced reactions for additional syngas formation, a nickel-based catalyst was introduced during the pyrolysis of CPW, which effectively expedited the homogeneous reactions initiated by CO2, thereby indicating its potential to accelerate and optimize food waste valorization. © 2024 Elsevier Ltd"
+
+waste = ["Food waste", "Carrot pulp waste (CPW)", "CO2"]
+transforming_process = ["Pyrolysis", "Multi-stage pyrolysis", "Single-stage pyrolysis"]
+transformed_resource = ["Syngas", "Bio-oil", "CO"]
+
+w2r["waste"] = waste
+w2r["transforming_process"] = transforming_process
+w2r["transformed_resource"] = transformed_resource
+
+print(w2r)
+```
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = """
+Waste plastic (WP) and lignocellulosic biomass (LCB)
+        w2r["waste"].extend(["Low-density polyethylene (LDPE)", "Rice straw (RS)", "Plastic waste (WP)", "Lignocellulosic biomass (LCB)"])
+        w2r["transforming_process"].extend(["Anaerobic digestion (AD)", "Co-digestion", "Biogas production"])
+        w2r["transformed_resource"].extend(["Methane (CH4)", "Biofuel"])
+
+----------
+
+```python
+w2r = {"waste": ["incineration bottom ash (IBA)", "untreated IBA"], 
+       "transforming_process": ["treatment", "reusing with restrictions"], 
+       "transformed_resource": ["recycled aggregate from incineration bottom ash (R-IBA)"]}
+
+# The output is already included in the keys of the dictionary
+print(w2r)
+```
+
+----------
+

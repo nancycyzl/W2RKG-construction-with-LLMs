@@ -1,0 +1,8 @@
+i,type,ground-truth,prediction,resolved,label,note
+4,waste,"plastic waste, municipal solid waste",plastic waste,plastic waste,TP,string exact match
+4,waste,"plastic waste, municipal solid waste",municipal solid waste,municipal solid waste,TP,string exact match
+4,resource,"hydrogen, chemical, syngas",syngas,syngas,TP,string exact match
+4,resource,"hydrogen, chemical, syngas",hydrogen and chemical,syngas,TP,"llm match output: yes. a, c."
+23,waste,"molasses, corn steep liquor, black soldier fly larval meal",inhibitory properties of insect peptone obtained from acid-hydrolyzed black soldier fly larval meal (ia),black soldier fly larval meal,TP,llm match output: yes. c.
+23,resource,"biobutanol, butanol",butanol-based material,butanol,TP,llm match output: yes. b.
+23,resource,"biobutanol, butanol",biobutanol,biobutanol,TP,string exact match

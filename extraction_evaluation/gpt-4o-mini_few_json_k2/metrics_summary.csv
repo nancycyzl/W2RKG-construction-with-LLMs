@@ -1,0 +1,2 @@
+micro_precision,micro_recall,micro_f1,macro_precision,macro_recall,macro_f1,jaccard
+0.8814+-0.0147,0.7379+-0.0128,0.8032+-0.0101,0.8929+-0.0095,0.7766+-0.0137,0.8020+-0.0111,0.7383+-0.0121

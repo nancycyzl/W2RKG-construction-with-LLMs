@@ -1,0 +1,2 @@
+micro_pre,micro_rec,micro_f1,macro_pre,macro_rec,macro_f1,avg_jaccard,comment
+0.10266666666666667,0.048125,0.06553191489361702,0.0625,0.06,0.057,0.0525,

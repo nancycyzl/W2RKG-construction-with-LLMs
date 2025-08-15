@@ -1,0 +1,16 @@
+i,type,ground-truth,prediction,resolved,label,note
+2,waste,"textile residue, end-of-life fire-protecting t-shirt, protective clothing with meta-aramid fiber",recycled fiber,textile residue,TP,llm match output: yes. a.
+2,waste,"textile residue, end-of-life fire-protecting t-shirt, protective clothing with meta-aramid fiber",textile residue,textile residue,TP,string exact match
+2,waste,"textile residue, end-of-life fire-protecting t-shirt, protective clothing with meta-aramid fiber",fiber embrittlement,fiber embrittlement,FP,llm match output: no.
+2,resource,"reinforcement materials in cement-based matrix, recycled fiber, laminated fabric-reinforced cementitious matrix",laminated fabric-reinforced cementitious matrix,laminated fabric-reinforced cementitious matrix,TP,string exact match
+2,resource,"reinforcement materials in cement-based matrix, recycled fiber, laminated fabric-reinforced cementitious matrix",cement-based matrices with improved performance,reinforcement materials in cement-based matrix,TP,llm match output: yes. a.
+35,waste,"synthetic wastewater, produced sludge",turbidity (tb),produced sludge,TP,llm match output: yes. b.
+35,waste,"synthetic wastewater, produced sludge",natural organic matter,natural organic matter,FP,llm match output: no.
+35,waste,"synthetic wastewater, produced sludge",humic acid water solution,humic acid water solution,FP,llm match output: no.
+35,resource,recovered humic acid-free water,synthetic wastewater,recovered humic acid-free water,TP,llm match output: yes. a.
+35,resource,recovered humic acid-free water,recovered sludge,recovered sludge,FP,llm match output: no.
+44,waste,municipal solid waste,municipal solid waste (msw),municipal solid waste,TP,llm match output: yes. a.
+44,waste,municipal solid waste,legacy waste,municipal solid waste,TP,llm match output: yes. a.
+44,waste,municipal solid waste,combustible fraction,municipal solid waste,TP,llm match output: yes. a.
+44,resource,electrical energy,recovered resources (materials and energy),electrical energy,TP,llm match output: yes. a.
+44,resource,electrical energy,energy generation potential,electrical energy,TP,llm match output: yes. a.

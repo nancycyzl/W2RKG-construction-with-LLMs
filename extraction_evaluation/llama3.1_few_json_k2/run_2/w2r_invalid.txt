@@ -1,0 +1,22 @@
+{'waste': [], 'transforming_process': [], 'transformed_resource': []}
+
+----------
+
+{
+    "waste": [],
+    "transforming_process": [],
+    "transformed_resource": []
+}
+
+----------
+
+Here is the result:
+
+{
+    "waste": ["bio-sourced waste feedstocks", "corncob-derived biochar"],
+    "transforming_process": ["encapsulation of PCMs in solid matrices", "vacuum impregnation strategies"],
+    "transformed_resource": ["greener" biochar-based composite, "thermal energy storage materials"]
+}
+
+----------
+

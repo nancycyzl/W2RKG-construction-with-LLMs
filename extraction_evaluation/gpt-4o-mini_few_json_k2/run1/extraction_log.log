@@ -1,0 +1,162 @@
+Argument num: 50
+Argument model: gpt-4o-mini
+Argument prompt: few
+Argument save_dir: experiment/gpt-4o-mini_few/run1\gpt-4o-mini_few
+Argument save_dir_rewrite: False
+Argument shot_length: long
+Argument shot_k: 2
+Argument shot_ids: []
+-----------------------------------------------------------------
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 0, time in second: 1.163517713546753
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 1, time in second: 1.4408926963806152
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 2, time in second: 1.196265459060669
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 3, time in second: 1.1698100566864014
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 4, time in second: 0.9300882816314697
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 5, time in second: 1.1389570236206055
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 6, time in second: 1.1511330604553223
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 7, time in second: 1.1199519634246826
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 8, time in second: 1.0407862663269043
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 9, time in second: 1.4296467304229736
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 10, time in second: 1.3685154914855957
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 11, time in second: 1.3122150897979736
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 12, time in second: 1.6468563079833984
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 13, time in second: 1.6299712657928467
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 14, time in second: 2.0900015830993652
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 15, time in second: 2.879173517227173
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 16, time in second: 1.7602753639221191
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 17, time in second: 1.0107536315917969
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 18, time in second: 1.1290113925933838
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 19, time in second: 1.7510428428649902
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 20, time in second: 1.0904576778411865
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 21, time in second: 2.243450880050659
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 22, time in second: 1.215656042098999
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 23, time in second: 1.1111292839050293
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 24, time in second: 1.0533311367034912
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 25, time in second: 1.2755517959594727
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 26, time in second: 1.571387767791748
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 27, time in second: 1.0778212547302246
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 28, time in second: 1.2809174060821533
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 29, time in second: 1.3680419921875
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 30, time in second: 1.2427091598510742
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 31, time in second: 1.1853041648864746
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 32, time in second: 1.2162749767303467
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 33, time in second: 1.0906121730804443
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 34, time in second: 1.1990563869476318
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 35, time in second: 1.19089937210083
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 36, time in second: 1.0498504638671875
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 37, time in second: 1.0693247318267822
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 38, time in second: 1.1989595890045166
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 39, time in second: 1.0495378971099854
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 40, time in second: 1.0903525352478027
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 41, time in second: 1.139634370803833
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 42, time in second: 1.1599535942077637
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 43, time in second: 1.1893765926361084
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 44, time in second: 1.583528995513916
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 45, time in second: 1.9661915302276611
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 46, time in second: 1.5599782466888428
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 47, time in second: 1.0698833465576172
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 48, time in second: 1.2504026889801025
+Converted to json
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Abstract 49, time in second: 1.1106913089752197
+Converted to json
+-----------------------------------------------------------------
+Successfully extracted: 50 / 50
+Total time: 66.25913310050964, averaged time: 1.325182662010193 seconds

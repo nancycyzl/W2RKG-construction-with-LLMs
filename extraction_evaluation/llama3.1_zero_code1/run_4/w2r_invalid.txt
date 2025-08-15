@@ -1,0 +1,81 @@
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+words = text.split()
+for word in words:
+    if word.lower() in ["biomass", "mill effluent"]:
+        w2r["waste"].append(word)
+    elif word.lower() in ["conversion", "technologies", "processes", "bio-gasification"]:
+        w2r["transforming_process"].append(word)
+    elif word.lower() in ["biodiesel", "ethanol", "biomethane", "hydrogen", "bio-oil", "jet fuel"]:
+        w2r["transformed_resource"].append(word)
+    elif word.lower() in ["graphene", "biocomposites", "MXene"]:
+        w2r["transformed_resource"].append(word)
+
+print(w2r)
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = "This study investigated the catalytic pyrolysis of waste polyethylene (PE) using a ZSM-5/Al2O3 porous media catalyst in a continuous feeding mode. The findings revealed that the porous media catalyst with 100 mm height and 40 PPI (pore per inch) pore size had the supreme catalytic performance, which could obtain the highest pyrolysis oil yield and the light fraction (<C12) and aromatics in the oil, and improve the catalytic stability of the porous media catalyst. The optimal operating conditions were the pyrolysis temperature of 460 °C, the carrier gas velocity of 65 mL/min, and the plastic feeding rate of 25 g/h, of which the light fraction and aromatics in the oil were up to 95.25 % and 97.33 %. Moreover, the catalytic cycling performance of the porous media catalyst was thoroughly investigated. The catalytic activity declined and the catalyst deactivation rate decreased after multiple regeneration cycles. This study presents a comprehensive investigation of waste PE catalytic cracking using the porous media catalyst in continuous feeding mode, which can provide insightful guidance on the industrialization of plastic waste valorization. "
+
+w2r["waste"].append("waste polyethylene (PE)")
+w2r["transforming_process"].extend(["catalytic pyrolysis", "catalytic cracking", "regeneration cycles"])
+w2r["transformed_resource"].extend(["pyrolysis oil yield", "light fraction (<C12)", "aromatics in the oil"])
+
+----------
+
+w2r = {"waste": ["biowaste", "crop residues"], 
+       "transforming_process": ["conversion of lignin into phenolic compounds", "FA esterase enzyme action", 
+                                "biosynthesis of ferulic acid (FA)", "vanillin, vanillic acid and hydroxycinnamic acid production"],
+       "transformed_resource": ["phenolic compounds", "ferulic acid (FA)", "vanillin", "vanillic acid", "hydroxycinnamic acid"]}
+
+----------
+
+w2r = {"waste": ["combustible high-organic solid waste (HSW)"], 
+       "transforming_process": ["pyrolysis technology", "thermal activated-acid modified kaolin", "thermal activated-alkali modified kaolin"],
+       "transformed_resource": ["derived chars with H-kaolin"]}
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = "Developing eco-friendly construction materials is imperative from an energy and environmental standpoint. This technical study investigates the sustainable utilization of municipal solid waste incinerated fly ash (MSWIFA) as a substitute for M-sand in construction materials. This study primarily focuses on reducing landfill waste and promoting waste reuse in the construction sector. This study evaluates various thermo-physical properties of MSWIFA-based concrete, including solar reflectance index, slip and skid resistance, straightness, flatness, rectangularity, water absorption, wet transfer, and thermal performance metrics such as heat flow values for thermal comfort and solar emissivity. The proposed concrete tiles have suitable thermal emissivity (0.87), solar reflectance (0.8), and solar absorption (0.26), which are appropriate for eco-friendly building techniques. The use of MSWIFA tiles lowered the indoor temperature by 2 °C when compared to conventional roof tiles at similar ambient conditions. MSWIFA-based concrete roof tiles are promising in terms of thermal comfort, energy efficiency, environmental conservation and waste reduction and promote a more sustainable approach in the construction industry. This research emphasizes the potential of waste-to-resource strategies in achieving sustainable development goals and reducing the ecological footprint of construction materials.  "
+
+# Extracting information
+waste = ["municipal solid waste incinerated fly ash (MSWIFA)", "landfill waste"]
+transforming_process = ["incineration", "sustainable utilization", "substitute for M-sand in construction materials", "evaluation of thermo-physical properties"]
+transformed_resource = ["MSWIFA-based concrete", "concrete roof tiles"]
+
+# Adding extracted information to the dictionary
+w2r["waste"] = waste
+w2r["transforming_process"] = transforming_process
+w2r["transformed_resource"] = transformed_resource
+
+print(w2r)
+```
+
+----------
+
+```python
+wastes = ["bio-sourced waste feedstocks", "fossil feedstock utilization"]
+transforming_processes = ["vacuum impregnation strategies"]
+transformed_resources = ["phase-change materials (PCMs)", 
+                         "biobased composites",
+                         "corncob biochar/hexadecane composite",
+                         "as-synthesized composite materials"]
+
+w2r["waste"] = wastes
+w2r["transforming_process"] = transforming_processes
+w2r["transformed_resource"] = transformed_resources
+
+print(w2r)
+```
+
+----------
+
+w2r["waste"].extend(["Municipal Solid Waste (MSW)", "Combustible Fraction", "Dry Legacy Waste", "Wet Legacy Waste"])
+w2r["transforming_process"].extend(["Landfill Mining", "Incineration"])
+w2r["transformed_resource"].extend(["Reclaimed Sites", "Resources (materials and energy)", "Energy", "Greenhouse Gas (GHG) Emissions"])
+
+----------
+

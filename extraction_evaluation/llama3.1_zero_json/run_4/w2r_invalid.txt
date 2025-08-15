@@ -1,0 +1,17 @@
+{
+    "waste": [
+        "bio-sourced waste feedstocks",
+        "agricultural corncob-derived biochar"
+    ],
+    "transforming_process": [
+        "encapsulation in solid matrices",
+        "vacuum impregnation strategies"
+    ],
+    "transformed_resource": [
+        "phase-change materials (PCMs)",
+        "greener" biochar-based composite
+    ]
+}
+
+----------
+

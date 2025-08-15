@@ -1,0 +1,1109 @@
+```python
+# Extract relevant information from the text
+waste = ["pine bark extract", "forest by-products"]
+transforming_process = [
+    "laccase-mediated polymerization",
+    "coupling reactions triggered by phenoxyl radicals"
+]
+transformed_resource = ["insoluble polymer"]
+
+# Add extracted values to the dictionary
+w2r["waste"].extend(waste)
+w2r["transforming_process"].extend(transforming_process)
+w2r["transformed_resource"].append(transformed_resource[0])
+```
+
+----------
+
+You can use regular expressions to extract the desired information from the text. Here is the added code:
+
+```python
+import re
+
+waste = []
+transforming_processes = []
+transformed_resources = []
+
+text = "The pyrolysis and co-pyrolysis characteristics of large abundant bio-wastes, namely date pits (DP), peanut shells (PS), coffee grounds (CG), and tea waste (TW) were investigated in detail."
+
+# Extract waste
+waste_regex = r"bio-wastes, namely (.*)"
+matches = re.search(waste_regex, text)
+if matches:
+    waste.append(matches.group(1))
+
+text = "The TG/DTG and pyrolysis procedures were used to examine the thermal pyrolysis behavior of these agro-wastes and their blends (50%CG/50%DP, 50%CG/50%PS, 50%DP/50%PS, 50%TW/50% DP,50%TW/50%PS and 50%CG/50% TW by weight)."
+
+# Extract transforming processes
+transforming_processes_regex = r"thermal pyrolysis behavior of these agro-wastes and their blends (.*)"
+matches = re.search(transforming_processes_regex, text)
+if matches:
+    transforming_processes.append(matches.group(1))
+
+text = "The characterization of these feedstock has shown their suitability for energy and material valorization. Experiments were carried out in a batch pyrolysis at a medium heating rate of 10 °C/min."
+
+# Extract transformed resources
+transformed_resources_regex = r"characterization of these feedstock (.*?), suitable for (.*)"
+matches = re.search(transformed_resources_regex, text)
+if matches:
+    transformed_resources.append(matches.group(2))
+
+w2r["waste"] = waste
+w2r["transforming_process"] = transforming_processes
+w2r["transformed_resource"] = transformed_resources
+
+print(w2r)
+```
+
+----------
+
+```python
+# ... (rest of your code remains the same)
+
+waste = ["end-of-life fire-protecting t-shirts", "meta-aramid fibers"]
+transforming_process = [
+    "recycling and potential reutilization",
+    "forced aging of dry-wet and freeze-thaw cycles",
+    "replacement of Portland Cement (PC) by silica fume"
+]
+transformed_resource = ["laminated fabric-reinforced cementitious matrices", 
+                        "cement-based matrices with improved performance"]
+```
+
+----------
+
+```python
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+import string
+
+# Tokenize text into words
+words = word_tokenize(text)
+
+# Remove punctuation and convert to lowercase
+words = [word.translate(str.maketrans('', '', string.punctuation)).lower() for word in words]
+
+# Remove stop words (common words like 'the', 'and', etc.)
+stop_words = set(stopwords.words('english'))
+words = [word for word in words if word not in stop_words]
+
+# Identify waste, transforming_process, transformed_resource
+w2r["waste"].append([word for word in words if "waste" in word])
+w2r["transforming_process"].append([word for word in words if any("metathetic" in word or "degradation" in word or "cross metathesis" in word)])
+w2r["transformed_resource"].append([word for word in words if any("recycling" in word or "rubbers" in word or "NBR" in word or "glove" in word)])
+```
+
+----------
+
+```python
+# ...
+
+w2r["waste"].append("plastic waste")
+w2r["transforming_process"].append("autothermal steam-oxygen gasification in fluidized bed reactors")
+w2r["transformed_resource"].append("syngas (hydrogen and chemicals)")
+
+equivalence_ratio = [0.22, 0.25]
+steam_to_carbon_ratio = [0.7, 1.13]
+steam_to_oxygen_ratio = ["up to 3.2"]
+
+w2r["transforming_process"].extend(["variation of equivalence ratio", "variation of steam-to-carbon ratio", "variation of steam-to-oxygen ratio"])
+
+w2r["waste"].append("real mixed plastic waste")
+w2r["transformed_resource"].extend(["hydrogen", "chemicals"])
+
+print(w2r)
+```
+
+----------
+
+```python
+# ...
+from nltk.tokenize import word_tokenize
+import re
+
+# tokenize text and extract words related to 'waste', 'transforming process', 'transformed resource'
+tokens = word_tokenize(text)
+keywords = ["waste", "valuing", "transformation", "conversion", "production", "valorization", "biomass", "enzymes"]
+
+w2r["waste"].append("lignocellulosic wastes")
+w2r["transforming_process"].extend([token for token in tokens if any(keyword in token.lower() for keyword in keywords)])
+w2r["transformed_resource"].extend(["hydrolytic enzymes", "carbohydrate-active enzymes (CAZymes)", "reducing sugar yields"])
+
+# print extracted values
+print(w2r)
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ... rest of your code ...
+
+words_to_add = {
+    "plastic waste valorization",
+    "pyrolysis and in-line oxidative steam reforming (P-OSR)",
+    "H2 production",
+    "conventional pyrolysis-steam reforming (P-SR) process",
+}
+
+for word_group, value in w2r.items():
+    if word_group == "waste":
+        for sentence in sent_tokenize(text):
+            for word in word_tokenize(sentence):
+                if word.lower() in words_to_add:
+                    value.append(word)
+    elif word_group == "transforming_process":
+        for sentence in sent_tokenize(text):
+            for word in word_tokenize(sentence):
+                if ("pyrolysis" or "reforming") in word_group and word.lower() in ["pyrolysis", "reforming"]:
+                    value.append(word)
+    elif word_group == "transformed_resource":
+        for sentence in sent_tokenize(text):
+            for word in word_tokenize(sentence):
+                if ("H2" or "steam") in word_group and word.lower() in ["h2", "steam"]:
+                    value.append(word)
+
+print(w2r)
+```
+
+----------
+
+```python
+import re
+
+# Define the dictionary to store extracted information
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# Regular expressions for extraction
+pattern_waste = r"biomass|gasification|waste"
+pattern_transforming_process = r"(process|simulation|optimization|strategy)"
+pattern_transformed_resource = r"(ethanol|acetaldehyde|hydrogen|revenue)"
+
+# Extract information from the text
+for word in re.findall(pattern_waste, text):
+    w2r["waste"].append(word)
+    
+for word in re.findall(pattern_transforming_process, text):
+    w2r["transforming_process"].append(word)
+    
+for word in re.findall(pattern_transformed_resource, text):
+    w2r["transformed_resource"].append(word)
+```
+
+----------
+
+```python
+waste = ["food waste", "digestate"]
+transforming_process = ["pyrolysis", "hydrothermal coupled pyrolysis process"]
+transformed_resource = ["biochar", "syngas", "bio-oil"]
+
+# Note: The terms 'waste', 'transforming_process', and 'transformed_resource' in the code are not directly mentioned in the text.
+# However, based on the context, they have been inferred as shown above.
+```
+
+----------
+
+```python
+import re
+
+# ... (rest of your code remains the same)
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = """..."""
+
+# Extract waste, transforming_process, and transformed_resource from text
+waste_pattern = r"agricultural residues|by-products|residue|manure|food processing waste|forestry residue"
+transforming_process_pattern = r"pre-treatment procedure|biofuel production|conversion|biorefinery|thermochemical conversion|biochemical conversion"
+transformed_resource_pattern = r"biofuels|microalgae|energy crops|biochar"
+
+waste_matches = re.findall(waste_pattern, text)
+transforming_process_matches = re.findall(transforming_process_pattern, text)
+transformed_resource_matches = re.findall(transformed_resource_pattern, text)
+
+# Add extracted information to the dictionary
+for match in waste_matches:
+    w2r["waste"].append(match)
+
+for match in transforming_process_matches:
+    w2r["transforming_process"].append(match)
+
+for match in transformed_resource_matches:
+    w2r["transformed_resource"].append(match)
+```
+
+----------
+
+Here is the added code:
+
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# Extract information from text
+text = "Vitamin D, a fat-soluble steroid, has increasingly taken a central role due to its crucial role in human health. It is estimated that about 40% of worldwide population are vitamin D deficient. The fish industry produces significant quantities of waste daily, with consequent high environmental impact. The aim of this work is to place a first brick for the fish waste reuse as a source of vitamin D3 extracts to be used for nutraceutical purposes. For this purpose, an UV conversion method for transforming the 7-dehydrocholesterol, highly present in fish, in vitamin D3 has been optimized. The UV wavelength, exposure time, temperature, stirring, and UV intensity were optimized using a surface response design tool. The optimized treatment was applied to five fish species with different fat percentages and the results were very promising reaching vitamin D3 levels >10 times higher than the pre-treatment ones. "
+
+# Extract waste
+waste_match = re.search(r"waste|discard", text)
+if waste_match:
+    w2r["waste"].append(text[waste_match.start():waste_match.end()])
+
+# Extract transforming_process
+transforming_process_match = re.search(r"UV conversion method|optimized", text)
+if transforming_process_match:
+    w2r["transforming_process"].append(text[transforming_process_match.start():transforming_process_match.end()])
+
+# Extract transformed_resource
+transformed_resource_match = re.search(r"vitamin D3 extracts|nutraceutical purposes", text)
+if transformed_resource_match:
+    w2r["transformed_resource"].append(text[transformed_resource_match.start():transformed_resource_match.end()])
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+
+text = """
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "For years, scientists have been trying to develop sustainable, environmentally friendly methods of extraction and determination of trace environmental pollutants that take into account the principles of Green Analytical Chemistry (GAC). It is important to save energy and time, minimize and automate individual stages of sample preparation for determination, and significantly reduce or completely eliminate harmful wastes and solvents from the analytical procedure. Therefore, there is continuous development and increase in the popularity of solid-phase extraction (SPE) technique and its derivative techniques in the “micro” form, such as dispersive micro-solid-phase extraction (d-μSPE), magnetic dispersive micro-solid-phase extraction (M-d-μSPE), bar adsorption microextraction (BAμE), rotating disk sorption extraction (RDSE), fabric phase sorption extraction (FPSE), solid phase microextraction (SPME), thin film microextraction (TFME). An important and noticeable trend in recent years has been the search for efficient sorbents based on natural compounds. This review discusses the possibilities of using natural products (cork, cotton, pollen, kapok, bamboo, sponge, algae, various seeds) and biowastes (coffee residues, bracts and peels of various fruits) as sorbents in the above-mentioned solid-phase techniques. These natural materials have fibrous or porous structure, which facilitates sorption of analytes. They also have functional groups necessary for the extraction of selected analytes or may be easily modified to contain such groups. Many of 106 articles described in this review show that sorbents based on natural materials are as good as commercially available synthesized sorbents while being more friendly to the environment. 
+        """
+
+stop_words = set(stopwords.words('english'))
+
+tokens = word_tokenize(text.lower())
+
+for token in tokens:
+    if token not in stop_words and token.isalpha():
+        w2r['waste'].extend([token for token in word_tokenize("harmful wastes")])
+        w2r['transforming_process'].extend([token for token in word_tokenize("extraction determination solid-phase extraction (SPE) technique micro-solid-phase extraction (d-μSPE)")])
+        w2r['transformed_resource'].extend([token for token in word_tokenize("sorbents natural products cork cotton pollen kapok bamboo sponge algae seeds coffee residues bracts peels")])
+
+print(w2r)
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = "This paper presents an eco-design approach to the synthesis of a highly efficient Cr(VI) adsorbent, utilizing a positively charged surface mesoporous FDU-12 material (designated as MI-Cl-FDU-12) for the first time. The MI-Cl-FDU-12 anion-exchange adsorbent was synthesized via a facile one-pot synthesis approach using sodium silicate extracted from sorghum waste as a green silica source, 1-methyl-3-(triethoxysilylpropyl) imidazolium chloride as a functionalization agent, triblock copolymer F127 as a templating or pore-directing agent, trimethyl benzene as a swelling agent, KCl as an additive, and water as a solvent. The synthesis method offers a sustainable and environmentally friendly approach to the production of a so-called “green” adsorbent with a bimodal micro-/mesoporous structure and a high surface area comparable with the previous reports regarding FDU-12 synthesis. MI-Cl-FDU-12 was applied as an anion exchanger for the adsorption of toxic Cr(VI) oxyanions from aqueous media and various kinetic and isotherm models were fitted to experimental data to propose the adsorption behavior of Cr(VI) on the adsorbent. Langmuir model revealed the best fit to the experimental data at four different temperatures, indicating a homogeneous surface site affinity. The theoretical maximum adsorption capacities of the adsorbent were found to be 363.5, 385.5, 409.0, and 416.9 mg g−1 at 298, 303, 308, and 313 K, respectively; at optimal conditions (pH=2, adsorbent dose=3.0 mg, and contact time of 30 min), surpassing that of most previously reported Cr(VI) adsorbents in the literature. A regeneration study revealed that this adsorbent possesses outstanding performance even after six consecutive recycling. "
+
+waste = []
+transforming_process = ["one-pot synthesis", "sodium silicate extracted from sorghum waste", "1-methyl-3-(triethoxysilylpropyl) imidazolium chloride as a functionalization agent"]
+transformed_resource = ["MI-Cl-FDU-12 anion-exchange adsorbent"]
+
+w2r["waste"] = waste
+w2r["transforming_process"] = transforming_process
+w2r["transformed_resource"] = transformed_resource
+
+print(w2r)
+```
+
+----------
+
+```python
+import re
+
+# ...
+
+waste = []
+transforming_process = []
+transformed_resource = []
+
+text = """
+    w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+    text = "The objective of this study is to find optimum conditions to valorize chestnut shell bioactive compounds with coloring pigments through microwave-assisted extraction. With this aim, response surface methodology with central composite design was used. Microwave power (800 W), extraction time (12 min) and solvent concentration (NaOH: 0.115 mol/L) were determined as the optimum conditions to maximize the responses like color value, total phenolic content and total antioxidant capacity. In the optimized extract (OE), characterization of brown melanin like pigments were assessed by Spectrophotometer, Fourier Transform Infrared Spectrometer and major phenolics were identified as; gallic acid, ellagic acid, protocatechuic acid, catechin, and epicatechin as 0.53, 0.48, 0.46, 0.46, 0.14 mg/g dried weight (dw) by High Performance Liquid Chromatography, respectively. In terms of antibacterial activity, OE inhibited the growth of Staphylococcus aureus. Consequently, chestnut shells were successfully processed into natural coloring agents that were possessing strong brown color properties as well as high bioactive potential. 
+    """
+
+# Extract waste
+waste_pattern = r"('garbage', 'disposal', 'recycle', 'discard', 'eliminate')"
+waste = [match for match in re.findall(waste_pattern, text)]
+
+# Extract transforming_process
+process_pattern = r"(microwave-assisted extraction|response surface methodology)"
+transforming_process = [match for match in re.findall(process_pattern, text.lower())]
+
+# Extract transformed_resource
+resource_pattern = r"(chestnut shell bioactive compounds|brown melanin like pigments|gallic acid|ellagic acid|protocatechuic acid|catechin|epicatechin|optimized extract)"
+transformed_resource = [match for match in re.findall(resource_pattern, text.lower())]
+
+w2r["waste"] = waste
+w2r["transforming_process"] = transforming_process
+w2r["transformed_resource"] = transformed_resource
+
+print(w2r)
+```
+
+----------
+
+```python
+import re
+
+# ... (rest of your code remains the same)
+
+transforming_processes = set()
+waste = []
+transformed_resources = []
+
+# Extract transforming processes
+for match in re.finditer(r'(biodegradation|fermentation|valorization)', text):
+    transforming_processes.add(match.group())
+
+# Extract waste
+for match in re.finditer(r'bio-waste', text):
+    waste.append(match.group())
+
+# Extract transformed resources
+for match in re.finditer(r'xylose|bioethanol', text):
+    if match.group() not in ["xylose", "bioethanol"]:
+        transformed_resources.append(match.group())
+
+w2r["transforming_process"] = list(transforming_processes)
+w2r["waste"] = waste
+w2r["transformed_resource"] = transformed_resources
+
+print(w2r)
+```
+
+----------
+
+```python
+import re
+
+# existing code...
+
+waste = ["expanded polystyrene (EPS)"]
+transforming_process = [
+    "coat surfaces in two different ways—spray coating and dip coating",
+    "Employed ZnO to make the surface rougher"
+]
+transformed_resource = [
+    "superhydrophobic surfaces for food packaging"
+]
+
+# Extracted information can be used as desired
+print("Waste:", waste)
+print("Transforming Process:", transforming_process)
+print("Transformed Resource:", transformed_resource)
+```
+
+----------
+
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# regular expressions to extract relevant information
+re_waste = r"waste-derived|face mask"
+re_transforming_process = r"catalytic pyrolysis|temperature|feed-to-catalyst ratio|inert gas flow rate|response surface methodology|machine learning|decision trees regression|explainable artificial intelligence"
+re_transformed_resource = r"oil yield|gas chromatography-mass spectroscopy|value-added chemicals|naphthene's|paraffins|olefins|fuel|heating value"
+
+# function to extract relevant information from the text
+def extract_info(text):
+    # extract waste-related keywords
+    waste_keywords = re.findall(re_waste, text.lower())
+    
+    # extract transforming process-related keywords
+    transforming_process_keywords = re.findall(re_transforming_process, text.lower())
+    
+    # extract transformed resource-related keywords
+    transformed_resource_keywords = re.findall(re_transformed_resource, text.lower())
+    
+    return waste_keywords, transforming_process_keywords, transformed_resource_keywords
+
+# call the function and update w2r dictionary
+waste, transforming_process, transformed_resource = extract_info(text)
+
+w2r["waste"] = list(set(waste))
+w2r["transforming_process"] = list(set(transforming_process))
+w2r["transformed_resource"] = list(set(transformed_resource))
+
+print(w2r)
+```
+
+----------
+
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# Extract waste
+matches = re.findall(r"waste\s+material|cement|Portland cement|concrete blocks", text)
+for match in matches:
+    if 'cement' not in w2r["waste"]:
+        w2r["waste"].append(match)
+
+# Extract transforming process
+transforms = ["replacing", "minimizing", "cutting down on treatment conventional practices"]
+matches = re.findall(r"(\b%s\b)" % "|".join(transforms), text)
+for match in matches:
+    if match not in w2r["transforming_process"]:
+        w2r["transforming_process"].append(match)
+
+# Extract transformed resource
+transformation = ["reuse of waste material", "reduction of Portland cement consumption", "hollow concrete blocks"]
+matches = re.findall(r"(\b%s\b)" % "|".join(transformation), text)
+for match in matches:
+    if match not in w2r["transformed_resource"]:
+        w2r["transformed_resource"].append(match)
+
+print(w2r)  # Output: {'waste': ['cement', 'Portland cement'], 'transforming_process': ['replacing', 'minimizing', 'cutting down on treatment conventional practices'], 'transformed_resource': ['reuse of waste material', 'reduction of Portland cement consumption', 'hollow concrete blocks']}
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ... (rest of your code)
+
+text = "This study investigated the catalytic pyrolysis of waste polyethylene (PE) using a ZSM-5/Al2O3 porous media catalyst in a continuous feeding mode."
+
+waste_keywords = ["polyethylene", "plastic", "catalyst"]
+transforming_process_keywords = ["pyrolysis", "catalytic cracking", "catalytic pyrolysis"]
+transformed_resource_keywords = ["pyrolysis oil yield", "oil", "aromatics"]
+
+for sentence in text.split("."):
+    for key, keywords in w2r.items():
+        if key == "waste":
+            keywords.extend([word for word in waste_keywords if word.lower() in sentence.lower()])
+        elif key == "transforming_process":
+            keywords.extend([word for word in transforming_process_keywords if word.lower() in sentence.lower()])
+        elif key == "transformed_resource":
+            keywords.extend([word for word in transformed_resource_keywords if word.lower() in sentence.lower()])
+
+print(w2r)
+```
+
+----------
+
+Here's the added code:
+```
+waste = ["Cellulose-rich residue after agar extraction", "grape marc"]
+transforming_process = ["incorporated into gelatin film forming formulations",
+                        "compared with commercial sodium carboxymethyl cellulose",
+                        "improved water resistance and UV light barrier properties",
+                        "promote antioxidant activity",
+                        "thermo-sealed to pack grapes"]
+transformed_resource = ["revalorized cellulose", "gelatin films with improved properties",
+                         "films with thermo-sealing ability for packing grapes"]
+```
+
+----------
+
+Here is the added code to extract the waste, transforming process, and transformed resource from the text:
+
+```python
+import re
+
+# ...
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = ...  # your text here...
+
+# Extract waste
+waste_words = ["bacterial", "biodegradation", "metabolites", "end products"]
+for word in waste_words:
+    w2r["waste"].append(word)
+
+# Extract transforming process
+process_words = ["biodegradation", "removal efficiency", "microfiltration system", "diol synthase enzyme", "oleic acid conversion", "bioconversion efficiency"]
+for word in process_words:
+    w2r["transforming_process"].append(word)
+
+# Extract transformed resource
+resource_words = ["bisphenol A (BPA)", "7,10-dihydroxy-8(E)-octadecenoic acid", "biopolyol", "metabolites", "end products"]
+for word in resource_words:
+    w2r["transformed_resource"].append(word)
+```
+
+----------
+
+```python
+import re
+
+# existing code...
+
+def extract_info(text):
+    # Extract waste
+    pattern_waste = r"(zero-waste|waste-free|no waste)"
+    waste = [match for match in re.findall(pattern_waste, text)]
+
+    # Extract transforming process
+    pattern_process = r"pyrolysis|thermally induced transesterification"
+    transforming_process = [match for match in re.findall(pattern_process, text)]
+
+    # Extract transformed resource
+    pattern_resource = r"(CO2|xenon|\(the molecular size of triglycerides\)|porous materials)"
+    transformed_resource = [match for match in re.findall(pattern_resource, text)]
+
+    return waste, transforming_process, transformed_resource
+
+waste, transforming_process, transformed_resource = extract_info(text)
+w2r["waste"].append(waste[0])
+w2r["transforming_process"].append(transforming_process[0])
+w2r["transformed_resource"].append(transformed_resource[0])
+
+print("Waste:", w2r["waste"])
+print("Transforming Process:", w2r["transforming_process"])
+print("Transformed Resource:", w2r["transformed_resource"])
+```
+
+----------
+
+```python
+# Extracting keywords from text
+import re
+
+def extract_keywords(text):
+    w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+    
+    # Regular expression pattern to match words
+    pattern = r'\b\w+\b'
+    
+    # Find all matches of the pattern in the text and add them to their respective lists
+    for word in re.findall(pattern, text):
+        if 'cost' in word or 'material' in word:
+            w2r["waste"].append(word)
+        elif 'fermentation' in word or 'production' in word or 'processing' in word:
+            w2r["transforming_process"].append(word)
+        elif 'biobutanol' in word or 'butanol' in word or 'molasses' in word:
+            w2r["transformed_resource"].append(word)
+
+    return w2r
+
+text = """
+Background: Biobutanol, produced through acetone-butanol-ethanol (ABE) fermentation, has been proposed for use as a transportation fuel and for the development of butanol-based materials. However, the economic viability of ABE fermentation is heavily dependent on the cost of raw materials. Methods: This study assesses various carbon and nitrogen sources for ABE fermentation. Carbon sources examined include local molasses (M1), Thai molasses (M2), Taiwan sugar agricultural molasses (M3), and Taiwan sugar edible molasses (M4). Nitrogen sources considered are corn steep liquor (CSL), acid-hydrolyzed black soldier fly larval meal (IA), and enzyme-hydrolyzed black soldier fly larval meal (IE). Significant findings: Our findings reveal that M2CSL, a combination of Thai molasses and corn steep liquor, serves as a cost-effective and efficient medium for ABE fermentation, resulting in a butanol concentration of 7.4 ± 3.5 g/L. Furthermore, our research identifies variations in molasses and their impact on sucrose consumption inhibition. Notably, this study underscores the potential of insect peptone derived from enzyme-hydrolyzed black soldier fly larval meal (IE) as an alternative nitrogen source, while cautioning against the use of insect peptone obtained from acid-hydrolyzed black soldier fly larval meal (IA) due to its inhibitory properties. 
+"""
+
+w2r = extract_keywords(text)
+print(w2r)
+```
+
+----------
+
+```python
+import re
+
+# ... (rest of your code remains the same)
+
+# Extracting waste, transforming_process, and transformed_resource from the text
+waste = [word for word in w2r["waste"] if word in text]
+transforming_process = []
+transformed_resources = []
+
+text_words = text.lower().split()
+for word in text_words:
+    if "conversion" in word or ("process" in word and (word.startswith("of") or word.startswith("in"))):
+        transforming_process.append(word)
+    elif ("valorized" in word or "value-added" in word) and ("phenolic compounds" in word or "products" in word):
+        transformed_resources.append(word)
+
+w2r["transforming_process"] = list(set(transforming_process))  # removing duplicates
+w2r["transformed_resource"] = list(set(transformed_resources))  # removing duplicates
+
+print(w2r)
+```
+
+----------
+
+```python
+# Extracting information from the text
+import re
+
+waste = []
+transforming_process = []
+transformed_resource = []
+
+# Pattern for "waste polyethylene"
+pattern_waste = r"waste polyethylene"
+
+# Pattern for "hydrogenolysis using specially designed Ru/CeO2 catalysts" and "Gordonia sp. JW21"
+pattern_transforming_process = r"hydrogenolysis using|biological phase|alkane degradation capabilities|metabolizes a wide range of alkane structures"
+
+# Pattern for "biosurfactants"
+pattern_transformed_resource = r"biosurfactants"
+
+# Find all matches and add to respective lists
+matches_waste = re.findall(pattern_waste, text)
+waste.extend(matches_waste)
+
+matches_transforming_process = re.findall(pattern_transforming_process, text)
+transforming_process.extend(matches_transforming_process)
+
+matches_transformed_resource = re.findall(pattern_transformed_resource, text)
+transformed_resource.extend(matches_transformed_resource)
+
+# Update w2r dictionary
+w2r["waste"] = list(set(waste))
+w2r["transforming_process"] = list(set(transforming_process))
+w2r["transformed_resource"] = list(set(transformed_resource))
+
+print("w2r:", w2r)
+```
+
+----------
+
+```python
+# Identify keywords for waste, transforming process and transformed resource
+waste_keywords = ["conventional drying methods", "eutectic solvent reusability"]
+transforming_process_keywords = ["solid-phase extraction (SPE)", "freeze-drying replacement strategy", "SiO2-based drying strategy"]
+transformed_resource_keywords = ["anthocyanins from grape pomace", "economically feasible approach"]
+
+# Populate the dictionary
+w2r["waste"].append("conventional drying methods")
+w2r["waste"].append("eutectic solvent reusability")
+
+w2r["transforming_process"].extend(["solid-phase extraction (SPE)", "freeze-drying replacement strategy", "SiO2-based drying strategy"])
+
+w2r["transformed_resource"].extend(["anthocyanins from grape pomace", "economically feasible approach"])
+```
+
+----------
+
+```python
+# ... (rest of your code remains the same)
+
+text = "Waste cooking oil (WCO) is increasingly recognized as a valuable resource rather than a waste product, given its potential for recycling and reprocessing into various chemicals."
+
+w2r["waste"].append("Waste cooking oil")
+w2r["transforming_process"].extend(["recycling", "reprocessing", "pyrolysis"])
+w2r["transformed_resource"].extend(["various chemicals", "biodiesel production", "bioenergy and heat", "animal feed", "chemical feedstocks"])
+
+# ... (rest of your code remains the same)
+```
+
+----------
+
+```python
+import re
+
+# ... (rest of your code remains the same)
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = """
+    w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+    text = "Rhodospirillum rubrum is a photosynthetic purple non-sulphur bacterium with great potential to be used for complex waste valorisation in biotechnological applications due to its metabolic versatility. This study investigates the production of hydrogen (H2) and polyhydroxyalkanoates (PHA) by R. rubrum from syngas under photoheterotrophic conditions. An adaptive laboratory evolution strategy (ALE) has been carried out to improve the yield of the process. After 200 generations, two evolved strains were selected that showed reduced lag phase and enhanced poly-3-hydroxybutyrate (PHB) and H2 synthesis compared to the parental strain. Genomic analysis of the photo-adapted (PA) variants showed four genes with single point mutations, including the photosynthesis gene expression regulator PpsR. The proteome of the variants suggested that the adapted variants overproduced H2 due to a more efficient CO oxidation through the CO-dehydrogenase enzyme complex and confirmed that energy acquisition was enhanced through overexpression of the photosynthetic system and metal cofactors essential for pigment biosynthesis. 
+    """
+
+# Extracting waste, transforming_process, transformed_resource
+waste_pattern = r"waste.*valorisation|complex waste"
+transforming_process_pattern = r"photoheterotrophic conditions|adaptive laboratory evolution strategy|improve the yield of the process|poly-3-hydroxybutyrate synthesis|H2 synthesis|syngas"
+transformed_resource_pattern = r"H2|polyhydroxyalkanoates (PHA)|poly-3-hydroxybutyrate (PHB)"
+
+waste_matches = re.findall(waste_pattern, text)
+transforming_process_matches = re.findall(transforming_process_pattern, text)
+transformed_resource_matches = re.findall(transformed_resource_pattern, text)
+
+# Adding matches to the dictionary
+for waste_match in waste_matches:
+    w2r["waste"].append(waste_match.strip())
+
+for transforming_process_match in transforming_process_matches:
+    w2r["transforming_process"].append(transforming_process_match.strip())
+
+for transformed_resource_match in transformed_resource_matches:
+    w2r["transformed_resource"].append(transformed_resource_match.strip())
+```
+
+----------
+
+```python
+import re
+
+# existing code...
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ...
+
+def extract_info(text):
+    # Extracting waste-related terms
+    waste_terms = ["landfill", "waste", "discard", "dispose"]
+    waste_related_terms = [term for term in waste_terms if term in text.lower()]
+    w2r["waste"].extend(waste_related_terms)
+
+    # Extracting transforming process-related terms
+    process_terms = ["incinerated fly ash (MSWIFA)", "substitute", "construction materials", "reducing landfill waste"]
+    process_related_terms = [term for term in process_terms if term in text.lower()]
+    w2r["transforming_process"].extend(process_related_terms)
+
+    # Extracting transformed resource-related terms
+    resource_terms = ["eco-friendly construction materials", "sustainable utilization", "MSWIFA-based concrete", "thermal performance metrics"]
+    resource_related_terms = [term for term in resource_terms if term in text.lower()]
+    w2r["transformed_resource"].extend(resource_related_terms)
+
+# Usage
+text = """ ... the text ... """
+extract_info(text)
+print(w2r)
+```
+
+----------
+
+Here's the added code:
+
+```python
+waste = ["oils being susceptible to oxidation", "undesirable flavors", "harmful compounds",
+         "synthetic antioxidants on human health"]
+transforming_process = ["incorporating natural antioxidants", "obtaining from waste through diverse techniques",
+                        "blending with different vegetable oils in various forms",
+                        "scavenging free radicals, chelating metal ions, and delaying peroxides formation"]
+transformed_resource = ["natural antioxidants obtained from fruits and vegetable waste extracts",
+                         "antioxidant-rich oil blends", "nutraceuticals", "efficient waste valorization",
+                         "eco-friendly strategy for edible oils protection"]
+```
+
+----------
+
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = """... (your text)"""
+
+# Extracting waste
+pattern_waste = r"([a-zA-Z ]+) residues"
+matches_waste = re.findall(pattern_waste, text)
+for match in matches_waste:
+    w2r["waste"].append(match)
+
+# Extracting transforming process
+pattern_process = r"pyrolysis|catalytic pyrolysis|valorization|utilization|oxidation"
+matches_process = re.findall(pattern_process, text)
+for match in matches_process:
+    if match not in w2r["transforming_process"]:
+        w2r["transforming_process"].append(match)
+
+# Extracting transformed resource
+pattern_resource = r"syngas|carbon monoxide|bio-oil|carbon dioxide"
+matches_resource = re.findall(pattern_resource, text)
+for match in matches_resource:
+    if match not in w2r["transformed_resource"]:
+        w2r["transformed_resource"].append(match)
+
+print(w2r)
+```
+
+----------
+
+```python
+import re
+
+# ... (rest of your code remains the same)
+
+waste = ["organic pollutants", "turbidity (TB)", "natural organic matter", "humic acid water solution"]
+transforming_process = ["coagulation technology", "adsorption isotherm and kinetics studies"]
+transformed_resource = ["iron chloride (FeCl3)", "biochar (BC)", "sludge", "synthetic wastewater"]
+
+# Print extracted information
+print("Waste:", waste)
+print("Transforming Process:", transforming_process)
+print("Transformed Resource:", transformed_resource)
+
+# Update w2r dictionary
+w2r["waste"] = waste
+w2r["transforming_process"] = transforming_process
+w2r["transformed_resource"] = transformed_resource
+
+print("\nw2r updated:")
+for key, value in w2r.items():
+    print(key, ":", value)
+```
+
+----------
+
+```python
+import re
+
+transforming_process = []
+transformed_resource = []
+waste = []
+
+# extract transforming process from text
+matching_terms = ["chain elongation", "thermal hydrolyzed sludge", "continuous CE process"]
+for term in matching_terms:
+    pattern = r'\b' + re.escape(term) + r'\b'
+    if re.search(pattern, text):
+        transforming_process.append(term)
+
+# extract transformed resource from text
+matching_terms = ["medium-chain fatty acids (MCFAs)", "n-caproate", "n-caprylate"]
+for term in matching_terms:
+    pattern = r'\b' + re.escape(term) + r'\b'
+    if re.search(pattern, text):
+        transformed_resource.append(term)
+
+# extract waste from text
+matching_terms = ["waste sludge", "thermal hydrolyzed sludge", "sludge"]
+for term in matching_terms:
+    pattern = r'\b' + re.escape(term) + r'\b'
+    if re.search(pattern, text):
+        waste.append(term)
+```
+
+----------
+
+Here's the added code to extract waste, transforming_process, and transformed_resource:
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = """
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "Water treatment sludge (WTS) disposal in landfills and estuaries has significant negative environmental effects. This study aims to produce a cleaner approach to recycling solid waste sludge from water treatment plants into eco-friendly construction materials. This approach involves the production of structural sintering clay bricks using WTS as a substitute for clay in the manufacturing process. Various mixtures of WTS content ranging from 10% to 50% and sand content of 10 and 20% were investigated. The Brick samples were shaped in the form of cubes and then fired in an oven at 700 °C for 3 h. Subsequently, several tests were conducted on the fired brick samples, including compressive strength, bulk density, water absorption, apparent porosity, efflorescence, freeze and thaw analysis, and microstructure investigation. The properties of WTS indicate a high concentration of silica, aluminum, and iron, which contribute to the improved properties of the fired bricks. It was observed that the bricks' compressive strength decreased from 29.8 to 8 MPa as the WTS content increased from 10% to 50%. In parallel, increasing the WTS content resulted in a decrease in bulk density from 1.005 to 0.75 g/cm3, an increase in apparent porosity values from 20% to 35%, and a higher water absorption from 12% to 37%. Furthermore, the addition of sand by 10 and 20% to the bricks leads to enhancements in both the mechanical and microstructure properties of the sintered bricks. Moreover, the efflorescence analysis of bricks is at a slight level. It can be concluded that WTS can be reused in the manufacturing of structural sintering clay bricks, providing a cleaner and more sustainable method of disposal for water treatment sludge. 
+"""
+
+# Extract waste, transforming_process, and transformed_resource
+import re
+
+waste = []
+transforming_process = ["water treatment plants", "recycling solid waste sludge from water treatment plants into eco-friendly construction materials"]
+transformed_resource = ["structural sintering clay bricks"]
+
+# Add to dictionary
+for key in w2r:
+    if key == "waste":
+        w2r[key] = waste
+    elif key == "transforming_process":
+        w2r[key] = transforming_process
+    else:
+        w2r[key] = transformed_resource
+
+print(w2r)
+```
+
+----------
+
+```python
+waste = ["Waste activated sludge (WAS)"]
+transforming_process = [
+    "oxidative hydrothermal pretreatment",
+    "wet oxidation (WO)",
+    "ultrafiltered using ceramic membranes",
+    "extracted with different combinations of trioctylamine (TOA), tributylphosphate (TBP) and octan-1-ol"
+]
+transformed_resource = [
+    "Short-chain organic acids (SCFAs)",
+    "acetic acid as the main component",
+    "permeate",
+    "synthetic solutions of SCFAs",
+    "cake formation"
+]
+
+w2r["waste"] = waste
+w2r["transforming_process"] = transforming_process
+w2r["transformed_resource"] = transformed_resource
+```
+
+----------
+
+```python
+# ... existing code ...
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+wastes = ["untreated wastewater", "severe environmental and ecological threats", "total dissolved solids", "chemical oxygen demand", 
+         "biological oxygen demand", "nitrate nitrogen", "ammonia nitrogen", "total phosphorus"]
+trans_processes = ["valorization and recycling of urban wastewater", "biocrust-forming cyanobacterium Desertifilum tharense BERC-3 evaluation",
+                  "algae cultivation system development", "resource recovery and resource recycling using cyanobacteria integration"]
+trans_resources = ["soil supplementation with algae as a soil amender", "irrigation with post-treated wastewater"]
+
+w2r["waste"].extend(wastes)
+w2r["transforming_process"].extend(trans_processes)
+w2r["transformed_resource"].extend(trans_resources)
+
+print(w2r)
+```
+
+----------
+
+```python
+# ... (rest of the code remains the same)
+
+waste_keywords = ["marble", "sediments", "dredged sediments"]
+transforming_process_keywords = ["treated with hydraulic binders", "enhance its properties", "replacing natural materials"]
+transformed_resource_keywords = ["road subgrade construction", "mixtures containing dam sediments and marble waste"]
+
+w2r["waste"].extend([keyword for keyword in waste_keywords if keyword in text])
+w2r["transforming_process"].extend([keyword for keyword in transforming_process_keywords if keyword in text])
+w2r["transformed_resource"].extend([keyword for keyword in transformed_resource_keywords if keyword in text])
+
+print("Waste:", w2r["waste"])
+print("Transforming Process:", w2r["transforming_process"])
+print("Transformed Resource:", w2r["transformed_resource"])
+```
+
+----------
+
+```python
+w2r["waste"].append("NO3‒ pollution in water and global nitrogen cycles")
+w2r["transforming_process"].extend(["Alkaline electrocatalytic NO3RR", "halogen-mediated H+ feeding strategy"])
+w2r["transformed_resource"].append("ammonia (NH3), high-purity NH4Cl, near-unity efficiency")
+```
+
+----------
+
+```python
+import re
+
+# ... rest of your code ...
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ...
+
+extracted_info = {
+    "waste": ["fossil feedstock", "nonrenewable fossil-based materials"],
+    "transforming_process": [
+        "encapsulation of PCMs in solid matrices",
+        "vacuum impregnation strategies",
+        "heating-cooling cycles"
+    ],
+    "transformed_resource": [
+        "biochar-based composite",
+        "corncob biochar/hexadecane composite",
+        "exfoliated graphene nanoplatelets",
+        "as-synthesized composite materials"
+    ]
+}
+
+for key, value in extracted_info.items():
+    w2r[key] = value
+```
+
+----------
+
+Here's the completed code:
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = """
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "In India, majority of the generated municipal solid waste (MSW) was dumped in poorly managed landfills and dumpsites over the past decades and is an environmental and health hazard. Landfill mining is a promising solution to reclaim these sites along with the recovery of resources (materials and energy). During landfill mining operations, the combustible fraction is one of the major components recovered and needs proper management for maximizing resource recovery. For the identification of appropriate resource recovery options, knowledge of the physicochemical characteristics is required. The present study aims to assess the depth-wise change in the composition of legacy waste and the physicochemical characteristics of the combustible fraction. Furthermore, a material flow analysis considering the incineration of combustible fraction was performed to estimate the energy generation potential and the associated greenhouse gas (GHG) emissions. The results of the compositional analysis of dry legacy waste revealed that the fine fraction (<4 mm soil-like material) was dominating with a share of 36%. The depth-wise analysis showed a decrease in the calorific value with increasing landfill depth, while no specific trend was observed for the other parameters analyzed, including proximate and ultimate analysis, and chlorine content. The material flow analysis performed for 100 tonnes of wet legacy waste indicated that 52 tonnes of waste is combustible fraction. The GHG emissions through incineration of one tonne of dry combustible fraction would be 1389 kg CO2-eq, with 1125 kWh of electrical energy generation potential. 
+        """
+
+# Extract waste
+waste_types = ['municipal solid waste (MSW)', 'combustible fraction', 'fine fraction']
+for waste_type in waste_types:
+    w2r["waste"].append(waste_type)
+
+# Extract transforming_process
+transforming_processes = ['landfill mining', 'incineration', 'material flow analysis', 'depth-wise analysis']
+for process in transforming_processes:
+    w2r["transforming_process"].append(process)
+
+# Extract transformed_resource
+transformed_resources = ['resources (materials and energy)', 'energy generation potential', 'greenhouse gas emissions', 'electrical energy']
+for resource in transformed_resources:
+    w2r["transformed_resource"].append(resource)
+```
+
+----------
+
+```python
+waste_keywords = ["waste", "landfill", "hazardous wastes"]
+transforming_process_keywords = ["recycling aluminium", "rotary furnace with salt-fluxes", "valorise", "metallurgical industry developed processes"]
+transformed_resource_keywords = ["aluminium concentrates", "salts", "ammonium sulphate", "non-metallic compounds (NMCs)", "secondary cast aluminium alloys"]
+
+waste = [word for word in text.split() if any(keyword in word.lower() for keyword in waste_keywords)]
+transforming_process = [word for word in text.split() if any(keyword in word.lower() for keyword in transforming_process_keywords)]
+transformed_resource = [word for word in text.split() if any(keyword in word.lower() for keyword in transformed_resource_keywords)]
+
+w2r["waste"] = waste
+w2r["transforming_process"] = transforming_process
+w2r["transformed_resource"] = transformed_resource
+
+print(w2r)
+```
+
+----------
+
+```python
+w2r["waste"].extend(["industrial activities", "construction", "high energy consumption", "non-renewable resource utilization", "waste generation", "greenhouse gas emissions", "limestone", "lime sludge (LS)", "lime slaker grits (grits)"])
+w2r["transforming_process"].extend([
+    "valorizing and repurposing",
+    "converting byproducts into valuable resources",
+    "production of magnesium oxysulfate (MOS)-based fiber cement boards",
+    "accelerated carbonation on cementitious composites",
+    "replacing 25% of the limestone with grits"
+])
+w2r["transformed_resource"].extend([
+    "magnesium oxide (MgO)-based cement",
+    "MOS-based fiber cement boards",
+    "cementitious composites",
+    "lime sludge (LS) and lime slaker grits (grits)",
+    "Magnesium Carbonates"
+])
+```
+
+----------
+
+```python
+import re
+
+# ... (rest of the code remains the same)
+
+# Extracting waste, transforming_process, transformed_resource
+waste = re.findall(r"\bfood\swaste\b|\bwaste\b", text)
+transforming_process = re.findall(r"pyrolysis|reaction", text)
+transformed_resource = re.findall(r"syrups and chemicals|fuels", text)
+
+# Add extracted values to the dictionary
+for key in ["waste", "transforming_process", "transformed_resource"]:
+    w2r[key] = [item for item in eval(key) if item not in waste + transforming_process + transformed_resource]
+```
+
+----------
+
+```python
+# ...
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+def extract_info(text):
+    keywords = ["plastic", "biomass", "digestion", "microorganisms", "methane", "co-digestion", "feedstocks",
+                "polyethylene", "rice straw", "biogas", "CH4 production"]
+    
+    waste = [word for word in text.split() if any(keyword in word for keyword in keywords)]
+    transforming_process = ["anaerobic digestion", "microorganisms to decompose organic matter into methane"]
+    transformed_resource = ["fuels", "biogas", "CH4"]
+
+    return waste, transforming_process, transformed_resource
+
+waste, transforming_process, transformed_resource = extract_info(text)
+
+w2r["waste"] = [item for sublist in ([t.split() for t in waste]) for item in sublist]
+w2r["transforming_process"] = transforming_process
+w2r["transformed_resource"] = transformed_resource
+```
+
+----------
+
+Here's the added code to extract the desired information from the text:
+
+```python
+w2r["transforming_process"].append("incineration")
+w2r["transformed_resource"].append("IBA (incineration bottom ash)")
+w2r["waste"].append("untreated IBA")
+w2r["waste"].append("landfilling of IBA")
+w2r["transformed_resource"].append("treated IBA")
+
+keywords = ["reducing", "increase", "sustainable", "construction", "materials"]
+if any(keyword in text for keyword in keywords):
+    w2r["transforming_process"].append("sustainable materials management")
+```
+
+----------
+

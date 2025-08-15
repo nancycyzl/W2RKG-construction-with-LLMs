@@ -1,0 +1,26 @@
+i,type,ground-truth,prediction,resolved,label,note
+2,waste,"textile residue, end-of-life fire-protecting t-shirt, protective clothing with meta-aramid fiber",textile residue,textile residue,TP,string exact match
+2,waste,"textile residue, end-of-life fire-protecting t-shirt, protective clothing with meta-aramid fiber",end-of-life fire-protecting t-shirt,end-of-life fire-protecting t-shirt,TP,string exact match
+2,resource,"reinforcement materials in cement-based matrix, recycled fiber, laminated fabric-reinforced cementitious matrix",laminated fabric-reinforced cementitious matrices (frcms),laminated fabric-reinforced cementitious matrix,TP,llm match output: yes. c.
+2,resource,"reinforcement materials in cement-based matrix, recycled fiber, laminated fabric-reinforced cementitious matrix",shredded fibers recovered from protective clothing,recycled fiber,TP,llm match output: yes. b.
+17,waste,face mask,face mask,face mask,TP,string exact match
+17,waste,face mask,spent adsorbent based catalyst,spent adsorbent based catalyst,FP,llm match output: no.
+17,resource,"oil, fuel",oil yield,oil,TP,llm match output: yes. a.
+17,resource,"oil, fuel",silica compound,silica compound,FP,llm match output: no.
+17,resource,"oil, fuel",hydrocarbons with carbon numbers in the range of gasoline and diesel,hydrocarbons with carbon numbers in the range of gasoline and diesel,FP,"llm match output: list: ['a: oil', 'b: fuel']. sample: hydrocarbons with carbon numbers in the range of gasoline and diesel.
+answer: no."
+35,waste,"synthetic wastewater, produced sludge",organic pollutant,organic pollutant,FP,llm match output: no.
+35,waste,"synthetic wastewater, produced sludge",humic acid water solution,produced sludge,TP,llm match output: yes. b.
+36,waste,thermal hydrolyzed sludge,thermal hydrolyzed sludge (ths),thermal hydrolyzed sludge,TP,llm match output: yes. a.
+36,resource,"medium-chain fatty acid, n-caproate, n-caprylate",medium-chain fatty acids (mcfas),medium-chain fatty acid,TP,llm match output: yes. a
+36,resource,"medium-chain fatty acid, n-caproate, n-caprylate","ethanol, acetate, mcfas (n-caproate and n-caprylate), acetyl-coa",medium-chain fatty acid,TP,llm match output: yes. a.
+43,waste,"bio-sourced waste feedstock, agricultural corncob-derived biochar",bio-sourced waste feedstock,bio-sourced waste feedstock,TP,string exact match
+43,waste,"bio-sourced waste feedstock, agricultural corncob-derived biochar",fossil feedstock utilization,fossil feedstock utilization,FP,llm match output: no.
+43,resource,biochar-based composite,greener biochar-based composite,biochar-based composite,TP,llm match output: yes. a.
+43,resource,biochar-based composite,corncob biochar/hexadecane composite,biochar-based composite,TP,llm match output: yes. a.
+44,waste,municipal solid waste,municipal solid waste,municipal solid waste,TP,string exact match
+44,waste,municipal solid waste,legacy waste,municipal solid waste,TP,llm match output: yes. a.
+44,waste,municipal solid waste,combustible fraction,municipal solid waste,TP,llm match output: yes. a.
+44,resource,electrical energy,recovered resources (materials and energy),electrical energy,TP,llm match output: yes. a.
+44,resource,electrical energy,energy generation potential,electrical energy,TP,llm match output: yes. a.
+44,resource,electrical energy,greenhouse gas emission,greenhouse gas emission,FP,llm match output: no.

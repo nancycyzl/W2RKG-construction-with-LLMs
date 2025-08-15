@@ -1,0 +1,1190 @@
+Here is the added code:
+
+```python
+def extract_info(text):
+    w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+    # Extract Waste
+    for line in text.split('\n'):
+        if 'forest by-products' or 'pine bark extract' in line:
+            w2r["waste"].append(line)
+
+    # Extract Transforming Process
+    for sentence in text.split('. '):
+        if 'reaction was conducted under an oxygen atmosphere at 50°C for 60 min and followed by UV–Vis, fluorescence intensity, phenol content, and viscosity measurements' in sentence:
+            w2r["transforming_process"].append(sentence)
+
+    # Extract Transformed Resource
+    for phrase in text.split('. '):
+        if 'insoluble polymer was obtained after 45 min' or 'polymers showed a marked increase in thermal stability compared with the precursor pine bark extract' in phrase:
+            w2r["transformed_resource"].append(phrase)
+
+extract_info(text)
+print(w2r)
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ... (text remains the same)
+
+waste = ["date pits", "peanut shells", "coffee grounds", "tea waste"]
+transforming_process = ["thermal pyrolysis", "co-pyrolysis", "batch pyrolysis", "TG/DTG"]
+transformed_resource = ["char", "hydrogen-rich gas", "liquid product", "gaseous product"]
+
+w2r["waste"] = waste
+w2r["transforming_process"] = transforming_process
+w2r["transformed_resource"] = transformed_resource
+
+print(w2r)
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ... (rest of your code)
+
+def extract_w2r(text):
+    # Waste: terms related to waste management and recycling
+    w2r["waste"].append("recycled fibers")
+    w2r["waste"].append("textile residues")
+    
+    # Transforming_process: processes involved in transforming waste into a resource
+    w2r["transforming_process"].extend([
+        "utilizing recycled fibers as reinforcement",
+        "reycling and potential reutilization of textile residues",
+        "cement-based matrices",
+        "laminated fabric-reinforced cementitious matrices (FRCMs)",
+        "Portland Cement (PC) matrix"
+    ])
+    
+    # Transformed_resource: final products or materials obtained from the transforming process
+    w2r["transformed_resource"].extend([
+        "panels and cladding elements for buildings",
+        "FRCMs containing 4 and 6 nonwoven fabric layers",
+        "shredded fibers recovered from protective clothing"
+    ])
+
+extract_w2r(text)
+```
+
+----------
+
+```python
+import re
+
+# ... (rest of your code remains the same)
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = """
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "Advanced thermochemical technologies for plastic waste valorization represent an interesting alternative to waste-to-energy options. They are particularly appealing for waste-to-hydrogen and waste-to-chemicals applications, with autothermal steam-oxygen gasification in fluidized bed reactors showing the greatest market potential. The study describes a series of experimental tests carried out on a large pilot-scale fluidized bed gasifier, using steam and O2-enriched air, with increasing fractions of oxygen. Different values of the main operating parameters are varied: equivalence ratio (0.22–0.25), steam-to-carbon ratio (0.7–1.13), and steam-to-oxygen ratio (up to 3.2). The fuel consists of real mixed plastic waste coming from separate collection of municipal solid wastes. The data obtained are used to investigate in depth the role of the main operating parameters and to improve and validate a recently developed one-dimensional kinetic model for waste gasification. The validation shows a good agreement between experimental data and model results, suggesting the reliability of the model to predict the reactor behavior under conditions of pure steam-oxygen gasification, relevant to many industrial applications. It has been found that the equivalence ratio is the parameter that most affects the syngas composition. At a constant equivalent ratio, the molar fraction of oxygen in the enriched air shows a limited influence on syngas composition while the steam is crucial in controlling the temperature along the reactor. Provided that the steam-to-carbon molar ratio is larger than 1.5, steam affects mainly the reactor temperature rather than the syngas composition, qualifying the steam-to-oxygen molar ratio as an instrumental parameter for smooth plant operation. 
+"""
+
+# Regular expressions to match waste, transforming_process, and transformed_resource
+waste_pattern = r"plastic\swaste|waste-to-energy|waste-to-hydrogen|waste-to-chemicals"
+transforming_process_pattern = r"autothermal\steam-oxygen\ gasification|fluidized bed reactors|gasifier|kinetic model for waste gasification"
+transformed_resource_pattern = r"waste gasification|syngas composition"
+
+# Compile the regular expressions
+waste_regex = re.compile(waste_pattern)
+transforming_process_regex = re.compile(transforming_process_pattern)
+transformed_resource_regex = re.compile(transformed_resource_pattern)
+
+# Extract text matches for each category
+waste_matches = waste_regex.findall(text.lower())
+transforming_process_matches = transforming_process_regex.findall(text.lower())
+transformed_resource_matches = transformed_resource_regex.findall(text.lower())
+
+# Add the extracted values to the w2r dictionary
+w2r["waste"].extend(waste_matches)
+w2r["transforming_process"].extend(transforming_process_matches)
+w2r["transformed_resource"].extend(transformed_resource_matches)
+```
+
+----------
+
+```python
+# Extracting information from the text
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = """ ... """
+
+# Added code to extract relevant information from the text
+w2r["waste"].append("lignocellulosic wastes", "pine sawdust (PSD)", "pretreated wheat straw")
+w2r["transforming_process"].extend(["solid-state fermentation", "response surface methodology"])
+w2r["transformed_resource"].extend(["hydrolytic enzyme production", "cellulases", "xylanases", "β-glucosidases"])
+
+print(w2r)
+```
+
+----------
+
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# Extracting waste, transforming_process and transformed_resource
+w2r["waste"].extend(re.findall(r"plastic|HDPE", text))
+w2r["transforming_process"].append("pyrolysis and in-line oxidative steam reforming")
+w2r["transforming_process"].append("conventional pyrolysis-steam reforming")
+w2r["transformed_resource"].append("H2")
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = """
+The upcycling of biomass waste gasification process for ethanol and acetaldehyde production has been augmented by integrating secondary and tertiary processes. A simulation model using Aspen Plus, developed from experimental investigations to assess the viability of this proposed system. Furthermore, this model has been utilized to create an Artificial Neural Network (ANN) prediction model. Process sustainability analysis demonstrated an energy efficiency of 64 % while economic viability up to 80 % process efficiency with an Internal Rate of Return (IRR) of 6 % and a payback period of 2107 days. An optimization strategy and an artificial neural network (ANN)-based predictive model have been developed. Optimization results revealed that a gasifier temperature of around 600 °C, a gasifying agent ratio of 2.0, and an acetaldehyde reactor temperature of 300 °C yield better process outcomes and revenue. The ANN model exhibited robust performance with coefficient of determination (R2) values ranging from 0.92 to 0.98 for acetaldehyde, hydrogen, and total revenue. Mean absolute error (MAE) and mean absolute percentage error (MAPE) fell within the range of 0.03–0.1 and 0.1–1.12 %, respectively. Consequently, given the favorable sustainability and predictive model performance, this study can be used for similar endeavors. 
+"""
+
+words = text.lower().split()
+waste_processes = ["gasification", "aspen plus", "simulation"]
+transforming_processes = ["upcycling", "optimization strategy", "artificial neural network"]
+transformed_resources = ["ethanol", "acetaldehyde", "hydrogen"]
+
+for word in words:
+    if word in waste_processes:
+        w2r["waste"].append(word)
+    elif word in transforming_processes:
+        w2r["transforming_process"].append(word)
+    elif word in transformed_resources:
+        w2r["transformed_resource"].append(word)
+
+print(w2r)
+```
+
+----------
+
+```python
+waste = ["food waste", "NOX emissions"]
+transforming_process = ["pyrolysis", "hydrothermal coupled pyrolysis process", "anaerobic digestion", "biochar production"]
+transformed_resource = ["bio-oil", "syngas", "biochar"]
+
+# ... (rest of the code remains the same)
+```
+
+----------
+
+```python
+import re
+
+# existing code...
+transforming_processes = ["converting various types of agricultural residues and by-products into biofuels", 
+                           "pre-treatment procedures", "biofuel production", "thermochemical and biochemical conversion methods"]
+agricultural_wastes = ["crop residues (such as straw, husks, and shells)", "animal manure", "food processing waste", "forestry residues"]
+
+w2r["transforming_process"].extend(transforming_processes)
+w2r["waste"].extend(agricultural_wastes)
+
+# extract transformed resources
+transformed_resources = ["biofuels", "biochar"]
+w2r["transformed_resource"].extend(transformed_resources)
+```
+
+----------
+
+```python
+import re
+
+# existing code...
+
+waste = []
+transforming_process = []
+transformed_resource = []
+
+# Extract waste
+for sentence in text.split('. '):
+    if any(keyword in sentence for keyword in ['waste', 'recycle', 'recovery']):
+        waste.append(sentence)
+
+# Extract transforming process
+pattern = r"UV conversion method|optimized using|stirring|temperature"
+transforming_process.extend(re.findall(pattern, text))
+
+# Extract transformed resource
+resources = re.findall(r"vitamin D3|7-dehydrocholesterol", text)
+if resources:
+    transformed_resource.append(resources[0])
+else:
+    transformed_resource.append('Unknown')
+
+w2r = {"waste": waste, "transforming_process": transforming_process, "transformed_resource": transformed_resource}
+```
+
+----------
+
+```python
+import re
+
+# ...
+
+waste = []
+transforming_process = []
+transformed_resource = []
+
+text = "..."
+...
+...
+
+pattern_waste = r"save energy and time, minimize|harmful wastes|reduce or completely eliminate"
+matches_waste = re.findall(pattern_waste, text)
+for match in matches_waste:
+    if 'waste' in match.lower():
+        waste.append(match)
+
+pattern_transforming_process = r"determination of trace environmental pollutants|solid-phase extraction technique"
+matches_transforming_process = re.findall(pattern_transforming_process, text)
+for match in matches_transforming_process:
+    transforming_process.append(match)
+
+pattern_transformed_resource = r"sorbents based on natural compounds|natural products|biowastes|commercially available synthesized sorbents"
+matches_transformed_resource = re.findall(pattern_transformed_resource, text)
+for match in matches_transformed_resource:
+    transformed_resource.append(match)
+
+w2r = {"waste": waste, "transforming_process": transforming_process, "transformed_resource": transformed_resource}
+print(w2r)
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ... (rest of your code remains the same)
+
+# Extract information from text
+import re
+
+text = """
+    w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "This paper presents an eco-design approach to the synthesis of a highly efficient Cr(VI) adsorbent, utilizing a positively charged surface mesoporous FDU-12 material (designated as MI-Cl-FDU-12) for the first time. The MI-Cl-FDU-12 anion-exchange adsorbent was synthesized via a facile one-pot synthesis approach using sodium silicate extracted from sorghum waste as a green silica source, 1-methyl-3-(triethoxysilylpropyl) imidazolium chloride as a functionalization agent, triblock copolymer F127 as a templating or pore-directing agent, trimethyl benzene as a swelling agent, KCl as an additive, and water as a solvent. The synthesis method offers a sustainable and environmentally friendly approach to the production of a so-called “green” adsorbent with a bimodal micro-/mesoporous structure and a high surface area comparable with the previous reports regarding FDU-12 synthesis. MI-Cl-FDU-12 was applied as an anion exchanger for the adsorption of toxic Cr(VI) oxyanions from aqueous media and various kinetic and isotherm models were fitted to experimental data to propose the adsorption behavior of Cr(VI) on the adsorbent. Langmuir model revealed the best fit to the experimental data at four different temperatures, indicating a homogeneous surface site affinity. The theoretical maximum adsorption capacities of the adsorbent were found to be 363.5, 385.5, 409.0, and 416.9 mg g−1 at 298, 303, 308, and 313 K, respectively; at optimal conditions (pH=2, adsorbent dose=3.0 mg, and contact time of 30 min), surpassing that of most previously reported Cr(VI) adsorbents in the literature. A regeneration study revealed that this adsorbent possesses outstanding performance even after six consecutive recycling. 
+    """
+
+# Patterns to match
+pattern_waste = r"sorghum waste|sodium silicate"
+pattern_process = r"(synthesized via|applied as|regeneration study)"
+pattern_resource = r"MI-Cl-FDU-12|Cr(VI) adsorbent"
+
+# Find matches and add to dictionaries
+for key in w2r:
+    if key == "waste":
+        w2r[key] += re.findall(pattern_waste, text)
+    elif key == "transforming_process":
+        w2r[key] += re.findall(pattern_process, text)
+    else:
+        w2r[key] += re.findall(pattern_resource, text)
+
+# Print results
+for key in w2r:
+    print(key + ":")
+    for item in w2r[key]:
+        print(item)
+    print("\n")
+```
+
+----------
+
+```python
+import re
+
+transforming_processes = []
+transformed_resources = []
+wastes = []
+
+# Extract transforming processes
+for sentence in text.split('. '):
+    if 'used' in sentence:
+        transforming_processes.append(sentence)
+    
+# Extract transformed resources
+for sentence in text.split('. '):
+    if 'identified as;' in sentence or 'assessed by' in sentence:
+        transformed_resources.extend(re.findall(r'\w+ acid|Catechin|Epicatechin', sentence))
+
+# Extract wastes
+for sentence in text.split('. '):
+    if 'inhibited the growth of Staphylococcus aureus' not in sentence and 'processed into natural coloring agents' not in sentence:
+        words = re.findall(r'\b\w+\b', sentence)
+        for word in words:
+            if word.lower() == "growth" or word.lower() == "extract":
+                continue
+            w2r["waste"].append(word)
+
+print("Transforming Processes:")
+for process in transforming_processes:
+    print(process)
+
+print("\nTransformed Resources:")
+for resource in transformed_resources:
+    print(resource)
+
+print("\nwastes:")
+for waste in wastes:
+    print(waste)
+```
+
+----------
+
+Here's the added code:
+
+```python
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+
+text = "The concept of bioenergy co-generation with environmental remediation has gone through tectonic paradigm shift with the perspective that wealth and economic activities can be created through biomass utilization and conversion and waste valorization. In this review, the concept of Integrated Algal-Oil Palm Biorefinery as a cost-effective and innovative solution to address the Climate-Energy-Food-Water-Socio/Economy Nexus for sustainable energy production, and developments of bioproducts are elaborated. Different types of oil palm biomass and mill effluent generated are highlighted, and the technologies for environmental remediation with clean/bio-energy co-generation based on biodiesel, bioethanol, biomethane, biohydrogen, bio-oil, and jet biofuel with energy storage and supercapacitors are discussed. The conversion of biomass and effluent into biopolymer, graphene, biocomposites and MXene, and into biochemicals and for biomedical applications are highlighted. The importance of utilizing green and eco-friendly processes is detailed out. Finally, economical integrated algal cultivation within oil palm industrial setting for aquaculture application, with inclusive community development programs based on HEESBA philosophy to meet the agenda of global sustainable development goals is promoted. 2024 Elsevier B.V."
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# Tokenize the text
+tokens = word_tokenize(text)
+
+# Remove stop words
+stop_words = set(stopwords.words('english'))
+filtered_tokens = [word for word in tokens if word not in stop_words]
+
+for token in filtered_tokens:
+    if 'waste' in token.lower():
+        w2r["waste"].append(token)
+    elif 'process' in token.lower() or 'conversion' in token.lower():
+        w2r["transforming_process"].append(token)
+    elif 'biomass' in token.lower() or 'bioproducts' in token.lower() or 'biofuel' in token.lower():
+        w2r["transformed_resource"].append(token)
+
+print("Waste:", w2r['waste'])
+print("Transforming Process:", w2r['transforming_process'])
+print("Transformed Resource:", w2r['transformed_resource'])
+```
+
+----------
+
+Here's the added code to extract `waste`, `transforming_process`, and `transformed_resource`:
+
+```python
+import re
+
+# ...
+
+def extract_entities(text):
+    entities = {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": []
+    }
+
+    # ...
+    
+    def add_to_entity_list(entity, key):
+        entities[key].append(entity)
+
+    waste_pattern = r"(\w+) waste|expanded polystyrene (EPS) waste"
+    transforming_process_pattern = r"(coating|spray coating|dip coating)"
+    transformed_resource_pattern = r"superhydrophobic surface|food packaging"
+
+    # ...
+
+    waste_match = re.search(waste_pattern, text)
+    if waste_match:
+        add_to_entity_list(waste_match.group(), "waste")
+
+    transforming_process_match = re.search(transforming_process_pattern, text)
+    if transforming_process_match:
+        add_to_entity_list(transforming_process_match.group(), "transforming_process")
+
+    transformed_resource_match = re.search(transformed_resource_pattern, text)
+    if transformed_resource_match:
+        add_to_entity_list(transformed_resource_match.group(), "transformed_resource")
+
+    return entities
+
+w2r = extract_entities(text)
+
+print("Waste:", w2r["waste"])
+print("Transforming Process:", w2r["transforming_process"])
+print("Transformed Resource:", w2r["transformed_resource"])
+```
+This code will add the extracted waste, transforming process and transformed resource to the `w2r` dictionary. The output should be:
+```
+Waste: ['expanded polystyrene (EPS) waste']
+Transforming Process: ['coating', 'spray coating', 'dip coating']
+Transformed Resource: ['superhydrophobic surface', 'food packaging']
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# existing code...
+
+# extract relevant information from text and add to w2r dictionary
+w2r["waste"].append("face masks")
+w2r["waste"].extend(["spent adsorbent based catalyst"])
+w2r["transforming_process"].append("catalytic pyrolysis")
+w2r["transformed_resource"].append("energy-dense oil")
+w2r["transformed_resource"].extend(["gasoline", "diesel"])
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = """
+... (same text as before)
+"""
+
+# Extracting waste, transforming process, and transformed resource from the text
+w2r["waste"].extend(["Portland cement consumption", "hollow concrete blocks"])
+w2r["transforming_process"].extend([
+    "replacing cement with waste products",
+    "preparing mortars with fresh waste material",
+    "design mixtures for producing hollow concrete blocks"
+])
+w2r["transformed_resource"].extend([
+    "HCBs (hollow concrete blocks) manufactured with reduced Portland cement consumption",
+    "masonry units made from waste material and having lower water absorption and slightly superior thermal conductivity"
+])
+
+print(w2r)
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ... (rest of your code remains the same)
+
+waste_keywords = ["polyethylene", "plastic waste"]
+transforming_process_keywords = ["catalytic pyrolysis", "continuous feeding mode", "porous media catalyst"]
+transformed_resource_keywords = ["pyrolysis oil yield", "light fraction", "aromatics in the oil"]
+
+for sentence in text.split("."):
+    sentence = sentence.strip()
+    if any(keyword in sentence for keyword in waste_keywords):
+        w2r["waste"].append(sentence)
+    elif any(keyword in sentence for keyword in transforming_process_keywords):
+        w2r["transforming_process"].append(sentence)
+    elif any(keyword in sentence for keyword in transformed_resource_keywords):
+        w2r["transformed_resource"].append(sentence)
+
+print(w2r)
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = "Cellulose-rich residue after agar extraction was incorporated into gelatin film forming formulations in order to revalorize it and improve film properties. This revalorized cellulose was compared with the commercial sodium carboxymethyl cellulose, also employed in gelatin films. Cellulose addition improved water resistance and UV light barrier properties of films, contributing to food shelf life extension. Additionally, grape marc extract was incorporated into cellulose-containing gelatin film forming formulations to promote antioxidant activity. These films showed the ability to be thermo-sealed and were used to pack grapes, thus, closing the loop from food waste to food packaging. 2024 The Authors"
+
+# Regular expression patterns for extracting relevant information
+pattern_waste = r"residue|waste|discard|remove|discard|garbage|scraps"
+pattern_transforming_process = r"included|incorporated|added|employed|used|formulations|mix|combine|blend"
+pattern_transformed_resource = r"film|packaging|gelatin film|seal|package|cellulose|films"
+
+# Add relevant information to the dictionary
+w2r["waste"].append(re.findall(pattern_waste, text))
+w2r["transforming_process"].extend(re.findall(pattern_transforming_process, text))
+w2r["transformed_resource"].extend(re.findall(pattern_transformed_resource, text))
+
+print(w2r)
+```
+
+----------
+
+Here's the completed code:
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = """
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "The present work examined the biodegradation of bisphenol A (BPA) under batch and continuous modes using hydrocarbonoclastic bacterium, Pseudomonas aeruginosa PR3. The strain showed great biodegradation potential under batch shake flask and stirred tank reactor. Bacterial growth was considerably inhibited at initial BPA concentrations > 50 mg/L. Further, membrane bioreactor (MBR) for BPA biodegradation was also evaluated under different inlet BPA concentration and hydraulic retention time (HRT) and the maximum BPA removal efficiency of 94.4 % was attained with an influent BPA concentration of 25 mg/L at 5 d of HRT. MBR also showed better performance under shock loading conditions. Identification of BPA biodegraded pathways was also performed using liquid chromatography-mass spectrometry, elucidating the different metabolites and end products formed. A subsequent enhancement in BPA removal efficieny was also observed owing to the microfiltration system of MBR that was applied to separate bacterial biomass from effluent. The maximum removal efficiency was further enhanced to 98.5 % under the same operational schedule. As the strain has the ability to produce extracellular diol synthase enzyme which transforms oleic acid into the biopolyol 7,10-dihydroxy-8(E)-octadecenoic acid, the effluent containing the enzymes was supplemented with 1 % (v/v) oleic acid under whole cell and cell-free approaches. Cell-free technique showed an enhanced bioconversion efficiency in comparison to the traditional whole cell approach. Further, the produced biopolyol was characterized using Fourier transform infrared spectroscopy, thermogravimetry, differential scanning calorimetry, and 1H nuclear magnetic resonance analyses and also depicted the antibacterial activity. 2024 Elsevier B.V."
+        """
+
+import re
+
+# Extract waste
+pattern_waste = r"(biodegradation|degradation|removal|elimination)\s+of\s+(bisphenol\s+a|bpa)"
+for match in re.finditer(pattern_waste, text):
+    w2r["waste"].append(match.group())
+
+# Extract transforming_process
+pattern_transforming_process = r"using\s+(hydrocarbonoclastic|pseudomonas\s+aeruginosa)\s+pr3|batch\s+shake\s+flask|stirred\s+tank\s+reactor|membrane\s+bioreactor"
+for match in re.finditer(pattern_transforming_process, text):
+    w2r["transforming_process"].append(match.group())
+
+# Extract transformed_resource
+pattern_transformed_resource = r"(metabolites|end\s+products|biopolyol)"
+for match in re.finditer(pattern_transformed_resource, text):
+    w2r["transformed_resource"].append(match.group())
+```
+
+----------
+
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ...
+
+text = "... (rest of the text remains the same)"
+
+def extract_info(text):
+    # Define patterns for waste, transforming process, and transformed resource
+    w_pattern = r"waste|residue|CO2 reduction"
+    t_pattern = r"pyrolysis|thermally induced transesterification|transesterification|reaction kinetics"
+    tr_pattern = r"DASBs|biochars|porous materials"
+
+    # Extract text using regular expressions
+    w_text = re.findall(w_pattern, text)
+    t_text = re.findall(t_pattern, text)
+    tr_text = re.findall(tr_pattern, text)
+
+    return w_text, t_text, tr_text
+
+waste, transforming_process, transformed_resource = extract_info(text)
+
+# Add extracted info to the dictionary
+for item in waste:
+    if item not in w2r["waste"]:
+        w2r["waste"].append(item)
+
+for item in transforming_process:
+    if item not in w2r["transforming_process"]:
+        w2r["transforming_process"].append(item)
+
+for item in transformed_resource:
+    if item not in w2r["transformed_resource"]:
+        w2r["transformed_resource"].append(item)
+```
+
+----------
+
+```python
+# Extracting waste, transforming_process, and transformed_resource
+waste = ["raw materials"]
+transforming_process = [
+    "ABE fermentation",
+    "assessing various carbon and nitrogen sources for ABE fermentation"
+]
+transformed_resource = ["biobutanol", "butanol-based materials"]
+
+# Adding extracted values to w2r dictionary
+w2r["waste"].extend(waste)
+w2r["transforming_process"].extend(transforming_process)
+w2r["transformed_resource"].extend(transformed_resource)
+
+print(w2r)  # Output: {'waste': ['raw materials'], 'transforming_process': ['ABE fermentation', 'assessing various carbon and nitrogen sources for ABE fermentation'], 'transformed_resource': ['biobutanol', 'butanol-based materials']}
+```
+
+----------
+
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = """
+    w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+    text = "Microwave-assisted pyrolysis (MAP) has been perceived as a promising technology for biomass and waste conversion due to its distinctive features, including fast, even, and precise heating. This results in higher energy efficiency when compared to conventional pyrolysis via thermal heating. However, the scaling up of MAP of biomass and waste poses challenges, with investigations ongoing to uncover not only the technological aspect, but also both the environmental impacts and economic feasibility associated with this process/technology. The possible environmental impacts associated with MAP processes can be analyzed through systematic life-cycle assessment (LCA), while the economic feasibility can be evaluated via techno-economic analysis (TEA). This paper presents an overview of the current research trend in MAP and the products produced, as well as the LCA and TEA of the pyrolysis technologies. The LCA study reported a 2.5 folds reduction in energy consumption and up to 62% reduction in global warming potential. TEA study revealed that conventional pyrolysis has a greater profit for long-term assessment due to a higher maturity and less complexity technology; however, MAP may be more economically feasible in the future owing to the increased maturity and more established technology. Finally, the challenges and future perspectives for LCA and TEA in MAP are elucidated. 
+"""
+
+waste_regex = r"(biomass|waste|byproduct)"
+transforming_process_regex = r"(pyrolysis|MAP|life-cycle assessment|TEA)"
+transformed_resource_regex = r"(products|output)"
+
+for sentence in text.split(". "):
+    if re.search(waste_regex, sentence):
+        w2r["waste"].append(re.findall(waste_regex, sentence)[0])
+    if re.search(transforming_process_regex, sentence):
+        w2r["transforming_process"].append(re.findall(transforming_process_regex, sentence)[0])
+    if re.search(transformed_resource_regex, sentence):
+        w2r["transformed_resource"].append(re.findall(transformed_resource_regex, sentence)[0])
+
+print(w2r)
+```
+
+----------
+
+```python
+import re
+
+# ... (rest of your code remains the same)
+
+text = "Agriculture and industries related to the agriculture sector generate a large amount of waste each year. These wastes are usually burned or dumped, causing damage to the environment, the economy and society. Due to their composition, they have great potential for obtaining high value-added products in biorefineries. This fact, added to the growing demand for energy and chemicals from fossil resources, is driving the interest of the scientific community in them. Biorefinery processes are hardly profitable when applied individually, so a better alternative is to develop integrated multi-feedstock and multi-product biorefinery schemes using all biomass fractions in a zero-waste approach. However, for industrial scale application, extensive research, scale-up studies, and techno-economic and environmental feasibility analyses are needed. This review compiles information on integrated multi-biorefinery processes from agro-industrial wastes to shed light on the path towards sustainable development and circular bioeconomy. 2024 The Authors"
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# Regular expressions to extract relevant text
+pattern_waste = r"waste|WASTE"
+pattern_transforming_process = r"biorefinery|processes|scheme|application"
+pattern_transformed_resource = r"products|resource|energy"
+
+matches_waste = re.findall(pattern_waste, text)
+matches_transforming_process = re.findall(pattern_transforming_process, text)
+matches_transformed_resource = re.findall(pattern_transformed_resource, text)
+
+w2r["waste"] = matches_waste
+w2r["transforming_process"] = matches_transforming_process
+w2r["transformed_resource"] = matches_transformed_resource
+
+print(w2r)
+```
+
+----------
+
+```python
+import re
+
+# ...
+
+waste = []
+transforming_process = []
+transformed_resource = []
+
+text = "The production of chemicals/products so far relies on fossil-based resources with the creation of several environmental problems at the global level."
+
+words_to_find = ["fossil-based", "environmental", "problems"]
+for word in words_to_find:
+    waste.append(word)
+
+text = "Production of biowaste from various processing industries also creates environmental issues which would be valorized for the production of industrially important reactive and bioactive compounds."
+
+transforming_process.extend(re.findall(r"\b(transforming|processing)\b", text))
+
+text = "Lignin acts as a vital part in biowaste composition which can be converted into a wide range of phenolic compounds."
+
+words_to_find = ["biowaste", "composition", "phenolic", "compounds"]
+for word in words_to_find:
+    transformed_resource.append(word)
+
+print(w2r)
+```
+
+----------
+
+You can extract the required information from the text using regular expressions and natural language processing techniques in Python as follows:
+
+```python
+import re
+
+# existing code...
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = "... (your text)"
+
+# Extract waste
+wastes = [word.strip() for word in re.findall(r'\b\w+\b', text)]
+waste_list = [item for item in wastes if 'polyethylene' in item.lower()]
+w2r["waste"].extend(waste_list)
+
+# Extract transforming process
+processes = ["hydrogenolysis", "Ru/CeO2 catalysts", "microbial processes"]
+w2r["transforming_process"].extend(processes)
+# Add more specific transforming process extracted from text if needed
+
+# Extract transformed resource
+resources = ["alkanes", "biosurfactants"]
+w2r["transformed_resource"].extend(resources)
+
+print(w2r)
+```
+
+Note: You might need to adjust this code based on the specifics of your input text and desired output.
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ...
+
+def extract_info(text):
+    w2r["waste"].append("conventional drying methods")
+    w2r["transforming_process"].extend([
+        "purification strategies to separate the extract from the eutectic solvent",
+        "solid-phase extraction (SPE) with C18-based adsorbent material",
+        "freeze-drying replacement strategy using SiO2 particles"
+    ])
+    w2r["transformed_resource"].append("anthocyanins recovered from grape pomace")
+
+extract_info(text)
+```
+
+----------
+
+You can add the following code to extract waste, transforming_process, and transformed_resource from the text:
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ... rest of your code ...
+
+text = "The mandated waste classification poses challenges for the eco-friendly disposal of combustible high-organic solid waste (HSW), characterized by elevated heavy metal content and a low ash proportion. Fortunately, pyrolysis technology for HSW is emerging as a promising direction for achieving waste-to-resource conversion."
+
+for sentence in text.split('. '):
+    if "waste" in sentence:
+        w2r["waste"].append(sentence.strip())
+    elif "pyrolysis" in sentence or "conversion" in sentence:
+        w2r["transforming_process"].append(sentence.strip())
+    elif "chars" in sentence or "derived chars" in sentence or "adsorption" in sentence:
+        w2r["transformed_resource"].append(sentence.strip())
+
+print("Waste:", w2r["waste"])
+print("Transforming Process:", w2r["transforming_process"])
+print("Transformed Resource:", w2r["transformed_resource"])
+```
+
+This code will split the text into sentences, and then check each sentence to see if it contains any keywords related to waste, transforming process, or transformed resource. If a keyword is found, it adds the corresponding sentence to the relevant list in the dictionary `w2r`.
+
+----------
+
+```python
+import re
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ... (previous code)
+
+text = """
+    w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+    text = "Rhodospirillum rubrum is a photosynthetic purple non-sulphur bacterium with great potential to be used for complex waste valorisation in biotechnological applications due to its metabolic versatility. This study investigates the production of hydrogen (H2) and polyhydroxyalkanoates (PHA) by R. rubrum from syngas under photoheterotrophic conditions. An adaptive laboratory evolution strategy (ALE) has been carried out to improve the yield of the process. After 200 generations, two evolved strains were selected that showed reduced lag phase and enhanced poly-3-hydroxybutyrate (PHB) and H2 synthesis compared to the parental strain. Genomic analysis of the photo-adapted (PA) variants showed four genes with single point mutations, including the photosynthesis gene expression regulator PpsR. The proteome of the variants suggested that the adapted variants overproduced H2 due to a more efficient CO oxidation through the CO-dehydrogenase enzyme complex and confirmed that energy acquisition was enhanced through overexpression of the photosynthetic system and metal cofactors essential for pigment biosynthesis. 
+    """
+
+waste = re.findall(r'waste valorisation|complex waste', text)
+transforming_process = re.findall(r'syngas under photoheterotrophic conditions|photoheterotrophic conditions|adaptive laboratory evolution strategy|ALE|laboratory evolution', text)
+transformed_resource = re.findall(r'hydrogen (H2)|polyhydroxyalkanoates (PHA)|poly-3-hydroxybutyrate (PHB)|H2 synthesis', text)
+
+w2r["waste"] = waste
+w2r["transforming_process"] = transforming_process
+w2r["transformed_resource"] = transformed_resource
+
+print(w2r)
+```
+
+----------
+
+```python
+import re
+
+# ... (rest of your code remains the same)
+
+transforming_processes = ["incinerated fly ash", "construction materials", "MSWIFA-based concrete"]
+waste = ["municipal solid waste", "landfill waste"]
+
+transformed_resources = [
+    "M-sand",
+    "MSWIFA",
+    "solar reflectance index",
+    "slip and skid resistance",
+    "straightness",
+    "flatness",
+    "rectangularity",
+    "water absorption",
+    "wet transfer",
+    "thermal performance metrics",
+    "heat flow values for thermal comfort",
+    "solar emissivity",
+    "MSWIFA-based concrete tiles"
+]
+
+w2r["transforming_process"] = transforming_processes
+w2r["waste"] = waste
+w2r["transformed_resource"] = transformed_resources
+
+print(w2r)
+```
+
+----------
+
+```python
+import re
+
+# ... (previous code)
+
+text = "In this study, we aimed to develop a sustainable valorization platform for agricultural residues, mainly focusing on harnessing these residues as a renewable energy source. We conducted a case study involving the pyrolysis of coconut husk to create a sustainable pathway for its valorization. To enhance environmental compatibility, carbon dioxide (CO2) was employed as the reaction medium. CO2 acted as a partial oxidant, leading to the oxidation of carbons in the bio-oil and the formation of carbon monoxide (CO). In detail, this study experimentally proved the mechanistic contribution of CO2 to shifting carbon in pyrogenic oil into gases, particularly CO. To enhance the reactivity of CO2, the catalytic pyrolysis of coconut husk was conducted using a nickel-based egg-shell-type (Ni-ES) catalyst. Catalyst introduction resulted in the increased concentration of syngas compared with conditions without a catalyst in the presence of CO2. In particular, syngas production from catalytic pyrolysis under CO2 conditions was enhanced by >6.5-fold compared with that from single-stage pyrolysis under N2 conditions. Simultaneously, the evolution of pyrogenic oil was significantly reduced under CO2 condition in the presence of the Ni-ES catalyst. This confirms the catalytic potential in further optimizing the valorization of agricultural residues for sustainable energy production. "
+
+# Regular expressions to extract waste, transforming_process and transformed_resource
+waste = re.findall(r'(residue|waste)', text)
+transforming_process = re.findall(r'pyrolysis|catalytic pyrolysis', text)
+transformed_resource = re.findall(r'syngas|bio-oil|carbon monoxide|carbon dioxide', text)
+
+# Add the extracted information to w2r dictionary
+for key, value in zip(['waste', 'transforming_process', 'transformed_resource'], [waste, transforming_process, transformed_resource]):
+    if not isinstance(value[0], str):
+        raise ValueError(f"Expected a list of strings but got {type(value)}")
+    w2r[key] = value
+```
+
+----------
+
+```python
+# Extracting information from text
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+def extract_info(text):
+    # Waste
+    waste_keywords = ["pollutants", "wastewater", "sludge"]
+    for keyword in waste_keywords:
+        if keyword in text.lower():
+            w2r["waste"].append(keyword)
+    
+    # Transforming Process
+    transforming_process_keywords = ["coagulation technology", "removing turbidity (TB)", "adsorbent with abundant functional groups", "adsorption of HA from aqueous solution"]
+    for keyword in transforming_process_keywords:
+        if keyword in text.lower():
+            w2r["transforming_process"].append(keyword)
+    
+    # Transformed Resource
+    transformed_resource_keywords = ["humic acid water solution", "synthetic wastewater", "recovered sludge", "adsorption isotherm and kinetics studies"]
+    for keyword in transformed_resource_keywords:
+        if keyword in text.lower():
+            w2r["transformed_resource"].append(keyword)
+
+extract_info(text)
+print(w2r)
+```
+
+----------
+
+Here's the completed code:
+
+```python
+# Define the dictionary to store extracted values
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# Extract relevant information from the text
+text = """
+Thermal hydrolyzed sludge (THS) exhibits considerable promise in generating medium-chain fatty acids (MCFAs) through chain elongation (CE) technology.
+This study developed a novel continuous CE process using THS as the substrate, achieving an optimal ethanol loading rate (5.8 g COD/L/d) and stable MCFA production at 10.9 g COD/L, with a rate of 3.6 g COD/L/d.
+The MCFAs primarily comprised n-caproate and n-caprylate, representing 41.5 % and 54.3 % of the total MCFAs, respectively.
+Utilization efficiencies for ethanol and acetate were nearly complete at 100 % and 92.8 %, respectively.
+Key microbial taxa identified under these optimal conditions included Alcaligenes, SRB2, Sporanaerobacter, and Kurthia, which were instrumental in critical pathways such as the generation of acetyl-CoA, the initial carboxylation of acetyl-CoA, the fatty acid biosynthesis cycle, and energy metabolism.
+This research provides a theoretical and technical blueprint for converting waste sludge into valuable MCFAs, promoting sustainable waste-to-resource strategies. 
+"""
+
+# Add code to extract relevant information
+transforming_process = ["chain elongation (CE) technology", "novel continuous CE process"]
+transformed_resource = ["medium-chain fatty acids (MCFAs)", "n-caproate and n-caprylate"]
+
+w2r["transforming_process"].extend(transforming_process)
+w2r["transformed_resource"].extend(transformed_resource)
+
+# Extract waste information
+waste_info = "Thermal hydrolyzed sludge (THS)"
+if isinstance(waste_info, str):
+    w2r["waste"].append(waste_info.lower())
+```
+
+This code will now populate the `w2r` dictionary with the extracted values.
+
+----------
+
+Here's how you can extract the required information from the text:
+
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = """
+    w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "Short-chain organic acids (SCFAs) are widely used in the chemical and food industries. However, their conventional production relies heavily on fossil raw materials, necessitating sustainable alternatives. Waste activated sludge (WAS) can serve as a renewable feedstock for SCFA production through oxidative hydrothermal pretreatment. Thus, the aim of this work was to optimize the production and recovery of SCFAs from partially oxidised WAS. To achieve this, WAS was treated by wet oxidation (WO) at different temperatures (160–200 °C) and ultrafiltered using ceramic membranes (50 and 1 kDa) to pre-purify the SCFAs. Subsequently, these acids were extracted with different combinations of trioctylamine (TOA), tributylphosphate (TBP) and octan-1-ol in the temperature range 25–50 °C. WO at 160 °C for 240 min maximized the SCFA production, obtaining a concentration of 6.07 g/L, with acetic acid as the main component (28.2 %). Membrane ultrafiltration operating in total recycle mode achieved rejections of 39% for TOC and 73% for colour, with a low SCFA rejection (4%) effectively pre-purifying the SCFAs present in the WAS. The main fouling mechanism was cake formation. The highest extraction yields of SCFAs at room temperature were achieved with a mixture of TOA and TBP at 10 % in octan-1-ol, extracting 34 % of the total SCFAs present in the 1 kDa permeate. Lower extraction yields were obtained with the pre-purified WAS compared to synthetic solutions of SCFAs, showing the detrimental effect of the matrix in liquid–liquid extraction. Increasing the temperature within the range of 25–50 °C generally had a favourable effect on the SCFA extraction. 
+    """
+
+# Extracting waste
+waste_regex = r"Waste(?: activated )?sludge"
+matches_waste = re.findall(waste_regex, text)
+if matches_waste:
+    w2r["waste"].append(matches_waste[0])
+
+# Extracting transforming_process
+transforming_processes = ["oxidative hydrothermal pretreatment", "wet oxidation"]
+for process in transforming_processes:
+    if process in text:
+        w2r["transforming_process"].append(process)
+
+# Extracting transformed_resource
+resources = ["SCFAs", "acetic acid", "TOC", "colour"]
+for resource in resources:
+    if resource in text:
+        w2r["transformed_resource"].append(resource)
+```
+
+This code uses regular expressions to find the specified information from the text and store it in the dictionary `w2r`.
+
+----------
+
+```python
+# Extracting information from the text
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+words_to_add = [
+    "oils", "dyes", "plaguicides", "emerging organic pollutants", "detergents", 
+    "disinfectants", "toxic metals", "industrial production", "effluents", "wastes",
+    "sustainable industrial production", "circular economy", "process intensification",
+    "water reuse"
+]
+
+for word in words_to_add:
+    if word not in w2r["waste"]:
+        w2r["waste"].append(word)
+
+transforming_processes = [
+    "treatment of industrial effluents",
+    "sustainable industrial production",
+    "effluents treatment",
+    "water reuse"
+]
+
+for process in transforming_processes:
+    if process not in w2r["transforming_process"]:
+        w2r["transforming_process"].append(process)
+
+transformed_resources = [
+    "industrial water", 
+    # Add other transformed resources from the text
+]
+for resource in transformed_resources:
+    if resource not in w2r["transformed_resource"]:
+        w2r["transformed_resource"].append(resource)
+```
+
+----------
+
+Here is the added code:
+
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = """
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "Peri-urban environments are significant reservoirs of wastewater, and releasing this untreated wastewater from these resources poses severe environmental and ecological threats. Wastewater mitigation through sustainable approaches is an emerging area of interest. Algae offers a promising strategy for carbon-neutral valorization and recycling of urban wastewater. Aiming to provide a proof-of-concept for complete valorization and recycling of urban wastewater in a peri-urban environment in a closed loop system, a newly isolated biocrust-forming cyanobacterium Desertifilum tharense BERC-3 was evaluated. Here, the highest growth and lipids productivity were achieved in urban wastewater compared to BG11 and synthetic wastewater. D. tharense BERC-3 showed 60–95% resource recovery efficiency and decreased total dissolved solids, chemical oxygen demand, biological oxygen demand, nitrate nitrogen, ammonia nitrogen and total phosphorus contents of the water by 60.37%, 81.11%, 82.75%, 87.91%, 85.13%, 85.41%, 95.87%, respectively, making it fit for agriculture as per WHO's safety limits. Soil supplementation with 2% wastewater-cultivated algae as a soil amender, along with its irrigation with post-treated wastewater, improved the nitrogen content and microbial activity of the soil by 0.3–2.0-fold and 0.5-fold, respectively. Besides, the availability of phosphorus was also improved by 1.66-fold. The complete bioprocessing pipeline offered a complete biomass utilization. This study demonstrated the first proof-of-concept of integrating resource recovery and resource recycling using cyanobacteria to develop a peri-urban algae farming system. This can lead to establishing wastewater-driven algae cultivation systems as novel enterprises for rural migrants moving to urban areas. 
+        """
+
+# Extract waste
+waste_pattern = r"wastewater|untreated wastewater|pollution|ecological threats|chemical oxygen demand|biological oxygen demand"
+for match in re.finditer(waste_pattern, text):
+    w2r["waste"].append(match.group())
+
+# Extract transforming process
+transforming_process_pattern = r"recycling|valorization|mitigation|resource recovery|closed loop system|biocrust-forming cyanobacterium|algae cultivation"
+for match in re.finditer(transforming_process_pattern, text):
+    w2r["transforming_process"].append(match.group())
+
+# Extract transformed resource
+transformed_resource_pattern = r"post-treated wastewater|cultivated algae|nitrogen content|microbial activity|phosphorus availability"
+for match in re.finditer(transformed_resource_pattern, text):
+    w2r["transformed_resource"].append(match.group())
+```
+
+----------
+
+```python
+import re
+
+# ... (rest of your code)
+
+waste = []
+transforming_process = ["mixing sediments and marble waste", "treating with hydraulic binders"]
+transformed_resource = ["dam sediments and marble waste mixtures"]
+
+for word in text.split():
+    if re.search(r"waste|sediment|marble", word):
+        waste.append(word)
+    elif re.search(r"mixing|combining|treated|prepared", word):
+        transforming_process.append(word)
+    elif re.search(r"mixture|mixture containing", word):
+        transformed_resource.append(word)
+
+w2r = {"waste": waste, "transforming_process": transforming_process, "transformed_resource": transformed_resource}
+```
+
+----------
+
+Here is the completed code to extract waste, transforming_process, and transformed_resource:
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = "Bio-based composites fabricated from bio-sourced waste feedstocks have attracted increasing interest and have shown potential applications in sustainable energy infrastructure development. Thermal management using phase-change materials (PCMs) has appeared as an innovative approach for energy storage and cooling, where pure PCMs that lack thermal stability are encapsulated in solid matrices to ensure the charge/discharge of the latent heat of the composite. However, their energy storage density, thermal stability, and durability are reduced after multiple thermal cycles, besides the complicated and expensive nonrenewable fossil feedstock utilization. Biochar, mostly used for soil remediation, can be redirected and repurposed for the encapsulation of PCMs in renewable energy storage infrastructures. In this study, a “greener” biochar-based composite was fabricated from agricultural corncob-derived biochar (88.9 % mesopore proportion) and a commercially available paraffinic PCM (n-hexadecane) following vacuum impregnation strategies. Corncob biochar combined with hexadecane exhibited an efficient energy per unit mass of 250.6 kJ kg−1 and a latent heat retention of 110.3 % after 500 consecutive thermal cycles. In addition, the corncob biochar/hexadecane composite demonstrated high fractional crystallinity and relative latent heat efficiency (98.9 %). The composite exhibited promising chemical compatibility with composite components, stability, and competitive energy density even compared with a composite made of nonrenewable fossil-based materials, like exfoliated graphene nanoplatelets, which demonstrated reduced latent heat retention after multiple heating-cooling cycles. Intermolecular interactions, such as hydrogen bonding, between the guest molecular chains and host materials played a significant role in the thermal performance of the as-synthesized composite materials. This approach will contribute to overcoming the complexities and costs of composite PCM development in thermal management and thermal energy storage applications and support and advance the UN's sustainable development goal (affordable and clean energy)."
+
+# Extract waste
+w2r["waste"].append("nonrenewable fossil feedstock utilization")
+w2r["waste"].append("complicated nonrenewable fossil feedstock")
+
+# Extract transforming_process
+processes = [
+    "encapsulated in solid matrices",
+    "vacuum impregnation strategies",
+    "exhibited an efficient energy per unit mass",
+    "demonstrated high fractional crystallinity and relative latent heat efficiency"
+]
+for p in processes:
+    w2r["transforming_process"].append(p)
+
+# Extract transformed_resource
+resources = [
+    "biochar-based composite",
+    "corncob biochar/hexadecane composite",
+    "graphene nanoplatelets composite"
+]
+for r in resources:
+    w2r["transformed_resource"].append(r)
+```
+
+----------
+
+Here's the added code:
+
+```python
+waste = ["municipal solid waste (MSW)", "combustible fraction", "dry legacy waste", "fine fraction (<4 mm soil-like material)"]
+transforming_process = ["landfill mining operations", "incineration of combustible fraction", "recovery of resources (materials and energy)"]
+transformed_resource = ["energy generation potential", "greenhouse gas (GHG) emissions reduction", "resource recovery options"]
+
+w2r["waste"].extend(waste)
+w2r["transforming_process"].extend(transforming_process)
+w2r["transformed_resource"].extend(transformed_resource)
+```
+
+----------
+
+Here's the added code:
+
+```python
+import re
+
+# ...
+
+waste = []
+transforming_process = []
+transformed_resource = []
+
+sentences = text.split(". ")
+for sentence in sentences:
+    words = re.findall(r'\b\w+\b', sentence.lower())
+    
+    if any(word in ["waste", "pollution", "emissions"] for word in words):
+        waste.append(sentence)
+        
+    elif any(word in ["convert", "valorize", "repurpose", "produce"] for word in words):
+        transforming_process.append(sentence)
+        
+    elif any(word in ["magnesium oxide", "cement boards", "fiber cement boards", "magnesite producer"] for word in words):
+        transformed_resource.append(sentence)
+
+w2r = {"waste": waste, "transforming_process": transforming_process, "transformed_resource": transformed_resource}
+print(w2r)
+```
+
+This code will extract the sentences related to waste, transforming process, and transformed resource from the given text.
+
+----------
+
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# Extract keywords and phrases related to waste, transforming process, and transformed resource
+pattern_waste = r'waste|dump|discard|dispose|recycle|valorization'
+pattern_transforming_process = r'pyrolysis|conversion|generation|production|synthesis|catalysis'
+pattern_transformed_resource = r'syngas|fuel|chemicals'
+
+text = "This study proposes an environmentally sustainable approach for converting food waste into fuels and chemicals, especially focusing on syngas production. The carbon-negative aspect of the pyrolysis process was achieved by employing CO2 as the reaction medium. Carrot pulp waste (CPW) was used as an exemplary food waste in this work. In the single-stage pyrolysis of CPW, the presence of CO2 led to improved syngas generation. The introduction of CO2, rather than N2 carrier gas, resulted in substantial increase of CO formation at temperatures ≥ 400 °C, with a decrease in bio-oil production. This phenomenon was due to the chemical reactions between CO2 and the volatile organic compounds (VOCs) produced during the pyrolysis of CPW. Specifically, CO2 played a mechanistic role by providing an extra oxygen source for CO production and participating in the oxidative thermal cracking of VOCs. In-depth analysis of multi-stage pyrolysis verified the mechanistic role of CO2, particularly at temperatures ≥ 190 °C. However, CO2-induced reactions influenced the molecular size of the VOCs. To boost the CO2-induced reactions for additional syngas formation, a nickel-based catalyst was introduced during the pyrolysis of CPW, which effectively expedited the homogeneous reactions initiated by CO2, thereby indicating its potential to accelerate and optimize food waste valorization. 2024 Elsevier Ltd"
+
+waste = re.findall(pattern_waste, text.lower())
+transforming_process = re.findall(pattern_transforming_process, text.lower())
+transformed_resource = re.findall(pattern_transformed_resource, text.lower())
+
+w2r["waste"] = list(set(waste))
+w2r["transforming_process"] = list(set(transforming_process))
+w2r["transformed_resource"] = list(set(transformed_resource))
+
+print("Waste:", w2r["waste"])
+print("Transforming Process:", w2r["transforming_process"])
+print("Transformed Resource:", w2r["transformed_resource"])
+```
+
+----------
+
+```python
+import re
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# Add extracted information to w2r dictionary
+w2r["waste"].append("plastic, lignocellulosic biomass")
+w2r["transforming_process"].append("anaerobic digestion (AD)")
+w2r["transformed_resource"].append("biogas, methane (CH4), CH4 production, volatile solid removal")
+```
+
+----------
+
+```python
+import re
+
+# ... (rest of your code remains the same)
+
+waste = []
+transforming_process = []
+transformed_resource = []
+
+words_to_extract = ["waste", "incineration bottom ash", "IBA", "landfilling"]
+
+text_words = text.split()
+
+for word in text_words:
+    if word.lower() in words_to_extract:
+        if word.lower() == "waste":
+            w2r["waste"].append(word)
+        elif word.lower() == "incineration bottom ash" or word.lower() == "IBA":
+            transforming_process.append(word)
+        elif word.lower() == "landfilling":
+            transformed_resource.append(word)
+
+words_to_extract = ["secondary materials", "natural aggregates", "pavement layers", "roads"]
+
+text_words = text.split()
+
+for word in text_words:
+    if word.lower() in words_to_extract:
+        if word.lower() == "secondary materials":
+            transforming_process.append(word)
+        elif word.lower() == "natural aggregates":
+            transforming_process.append(word)
+        elif word.lower() == "pavement layers" or word.lower() == "roads":
+            transformed_resource.append(word)
+
+words_to_extract = ["treated IBA", "reuse in road construction"]
+
+text_words = text.split()
+
+for word in text_words:
+    if word.lower() in words_to_extract:
+        if word.lower() == "treated IBA":
+            transforming_process.append(word)
+        elif word.lower() == "reuse in road construction":
+            transformed_resource.append(word)
+
+print("Waste:", w2r["waste"])
+print("Transforming Process:", transforming_process)
+print("Transformed Resource:", transformed_resource)
+```
+
+----------
+

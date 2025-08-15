@@ -1,0 +1,763 @@
+Parameters:
+method=llm
+model=llama3.1
+thre=0.8
+gt_file=extraction_groundtruth.json
+pr_file=None
+pr_folder=result/llama3.1_few_code1_k5
+save_dir=result/llama3.1_few_code1_k5
+metrics_update_file=
+comment=
+Evaluating files in result/llama3.1_few_code1_k5
+No metrics update file is given, metrics will be saved to result/llama3.1_few_code1_k5\metrics_all_runs.csv
+------------------------------------------------------------
+Evaluating run: run_0
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['biomass waste']
+Resolving: biomass
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['biomass waste']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['ethanol', 'acetaldehyde', 'hydrogen']
+Resolving: ethanol
+directly matched: ethanol
+Resolving: acetaldehyde
+directly matched: acetaldehyde
+Resolving: hydrogen
+directly matched: hydrogen
+Resolving: total revenue
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['ethanol', 'acetaldehyde', 'hydrogen', 'total revenue']
+------------------------------------------------------------
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['thermal hydrolyzed sludge']
+Resolving: sludge
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: waste sludge
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['thermal hydrolyzed sludge', 'thermal hydrolyzed sludge']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['medium-chain fatty acid', 'n-caproate', 'n-caprylate']
+Resolving: medium-chain fatty acids (mcfas)
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: ethanol
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: n-caproate
+directly matched: n-caproate
+Resolving: n-caprylate
+directly matched: n-caprylate
+Resolved prediction: ['medium-chain fatty acid', 'ethanol', 'n-caproate', 'n-caprylate']
+------------------------------------------------------------
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 2 / 50
+Saved prediction result resolution to result/llama3.1_few_code1_k5\run_0\prediction_resolution_llm.csv
+Weighted micro precision: 0.032, recall: 0.04, f1: 0.035555555555555556
+Weighted macro precision: 0.035, recall: 0.04, f1: 0.037142857142857144
+Averaged jaccard: 0.035
+------------------------------------------------------------
+Evaluating run: run_1
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['waste vulcanized rubber', 'waste vulcanized natural rubber', 'waste vulcanized emulsion type butadiene-based rubber', 'waste vulcanized nitrile-butadiene rubber glove', 'waste vulcanized emulsion type diene-based rubber']
+Resolving: waste vulcanized emulsion type butadiene-based rubber
+directly matched: waste vulcanized emulsion type butadiene-based rubber
+Resolved prediction: ['waste vulcanized emulsion type butadiene-based rubber']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: []
+Resolving: nbr glove
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. d.
+Resolved prediction: ['nbr glove']
+------------------------------------------------------------
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['grape pomace']
+Resolving: conventional drying method
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: conventional spe
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: eutectic solvent reusability
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['conventional drying method', 'conventional spe', 'eutectic solvent reusability']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['anthocyanins']
+Resolving: anthocyanins from grape pomace
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: alternative low-energy demanding approach using sio2 particle
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: freeze-drying replacement strategy
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['anthocyanins', 'alternative low-energy demanding approach using sio2 particle', 'freeze-drying replacement strategy']
+------------------------------------------------------------
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['dam sediment', 'marble waste']
+Resolving: sediment
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: marble waste
+directly matched: marble waste
+Resolved prediction: ['dam sediment', 'marble waste']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['road subgrade material']
+Resolving: road subgrade construction material
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['road subgrade material']
+------------------------------------------------------------
+Evaluating 42 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['nitrate pollutant']
+Resolving: pollution
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: no3\u2012
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['nitrate pollutant', 'nitrate pollutant']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['ammonia', 'high-purity nh4cl']
+Resolving: sustainable ammonia (nh3) synthesis
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: high-purity nh4cl
+directly matched: high-purity nh4cl
+Resolved prediction: ['ammonia', 'high-purity nh4cl']
+------------------------------------------------------------
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 4 / 50
+Saved prediction result resolution to result/llama3.1_few_code1_k5\run_1\prediction_resolution_llm.csv
+Weighted micro precision: 0.045714285714285714, recall: 0.04923076923076923, f1: 0.047407407407407405
+Weighted macro precision: 0.05333333333333333, recall: 0.052000000000000005, f1: 0.04833333333333334
+Averaged jaccard: 0.04533333333333333
+------------------------------------------------------------
+Evaluating run: run_2
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['lignocellulosic waste', 'pine sawdust', 'wheat straw']
+Resolving: pine sawdust (psd)
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. b.
+Resolving: lignocellulosic waste
+directly matched: lignocellulosic waste
+Resolving: pretreated wheat straw
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. c.
+Resolving: solid-waste management
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. b.
+Resolved prediction: ['pine sawdust', 'lignocellulosic waste', 'wheat straw', 'pine sawdust']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['hydrolytic enzyme', 'cellulases', 'xylanases', '\u03b2-glucosidases']
+Resolving: hydrolytic enzyme production
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: cellulases, xylanases, and \u03b2-glucosidases
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. b, c, d.
+Resolving: carbohydrate-active enzymes (cazymes)
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: reducing sugar yield
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. c.
+Resolved prediction: ['hydrolytic enzyme', '\u03b2-glucosidases', 'hydrolytic enzyme', 'xylanases']
+------------------------------------------------------------
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['molasses', 'corn steep liquor', 'black soldier fly larval meal']
+Resolving: raw material
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['molasses']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['biobutanol', 'butanol']
+Resolved prediction: []
+------------------------------------------------------------
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Evaluating 43 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['bio-sourced waste feedstock', 'agricultural corncob-derived biochar']
+Resolved prediction: []
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['biochar-based composite']
+Resolving: corncob biochar/hexadecane composite
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: composite made of nonrenewable fossil-based material
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['biochar-based composite', 'composite made of nonrenewable fossil-based material']
+------------------------------------------------------------
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 3 / 50
+Saved prediction result resolution to result/llama3.1_few_code1_k5\run_2\prediction_resolution_llm.csv
+Weighted micro precision: 0.05333333333333333, recall: 0.032, f1: 0.04
+Weighted macro precision: 0.035, recall: 0.030833333333333334, f1: 0.030238095238095238
+Averaged jaccard: 0.025833333333333333
+------------------------------------------------------------
+Evaluating run: run_3
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Evaluating 4 / 50
+Evaluating 5 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['lignocellulosic waste', 'pine sawdust', 'wheat straw']
+Resolving: pine sawdust
+directly matched: pine sawdust
+Resolving: lignocellulosic waste
+directly matched: lignocellulosic waste
+Resolving: pretreated wheat straw
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. c.
+Resolving: pretreated pine sawdust
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. b.
+Resolved prediction: ['pine sawdust', 'lignocellulosic waste', 'wheat straw', 'pine sawdust']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['hydrolytic enzyme', 'cellulases', 'xylanases', '\u03b2-glucosidases']
+Resolved prediction: []
+------------------------------------------------------------
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['lignocellulosic biomass', 'bio-waste material', 'agri-food waste']
+Resolving: lignocellulosic biomass
+directly matched: lignocellulosic biomass
+Resolving: bio-waste material
+directly matched: bio-waste material
+Resolving: agri-food waste
+directly matched: agri-food waste
+Resolved prediction: ['lignocellulosic biomass', 'bio-waste material', 'agri-food waste']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['bioethanol', 'xylose']
+Resolving: xylose
+directly matched: xylose
+Resolving: bioethanol
+directly matched: bioethanol
+Resolved prediction: ['xylose', 'bioethanol']
+------------------------------------------------------------
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['urban wastewater']
+Resolving: untreated wastewater from peri-urban environment
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: total dissolved solid
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: chemical oxygen demand
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: biological oxygen demand
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: nitrate nitrogen
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: ammonia nitrogen
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: total phosphorus
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['urban wastewater', 'urban wastewater', 'urban wastewater', 'urban wastewater', 'urban wastewater', 'urban wastewater', 'urban wastewater']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['recovered water for algriculture', 'soil amender']
+Resolving: post-treated wastewater
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: microbial activity of the soil improved by 0.5-fold
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: availability of phosphorus was also improved by 1.66-fold
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: biomass utilization
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['recovered water for algriculture', 'microbial activity of the soil improved by 0.5-fold', 'recovered water for algriculture', 'biomass utilization']
+------------------------------------------------------------
+Evaluating 41 / 50
+Evaluating 42 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['nitrate pollutant']
+Resolving: nitrate (no3\u2012) pollution
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: insufficient proton (h+) supply in high ph condition
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['nitrate pollutant', 'insufficient proton (h+) supply in high ph condition']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['ammonia', 'high-purity nh4cl']
+Resolving: sustainable ammonia (nh3) synthesis
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: valuable ammonia product
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: high-purity nh4cl
+directly matched: high-purity nh4cl
+Resolved prediction: ['ammonia', 'ammonia', 'high-purity nh4cl']
+------------------------------------------------------------
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 4 / 50
+Saved prediction result resolution to result/llama3.1_few_code1_k5\run_3\prediction_resolution_llm.csv
+Weighted micro precision: 0.065, recall: 0.05777777777777778, f1: 0.06117647058823529
+Weighted macro precision: 0.05833333333333333, recall: 0.065, f1: 0.060666666666666674
+Averaged jaccard: 0.0575
+------------------------------------------------------------
+Evaluating run: run_4
+Evaluating 0 / 50
+Evaluating 1 / 50
+Evaluating 2 / 50
+Evaluating 3 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['waste vulcanized rubber', 'waste vulcanized natural rubber', 'waste vulcanized emulsion type butadiene-based rubber', 'waste vulcanized nitrile-butadiene rubber glove', 'waste vulcanized emulsion type diene-based rubber']
+Resolving: vulcanized rubber
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: waste vulcanized emulsion type butadiene-based rubber
+directly matched: waste vulcanized emulsion type butadiene-based rubber
+Resolved prediction: ['waste vulcanized rubber', 'waste vulcanized emulsion type butadiene-based rubber']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: []
+Resolving: recycling as resource
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: opening the door for the waste-to-resources approach of all waste vulcanized emulsion type diene-based rubber
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: nitrile-butadiene rubber (nbr) glove
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['recycling as resource', 'opening the door for the waste-to-resources approach of all waste vulcanized emulsion type diene-based rubber', 'nitrile-butadiene rubber (nbr) glove']
+------------------------------------------------------------
+Evaluating 4 / 50
+Evaluating 5 / 50
+Evaluating 6 / 50
+Evaluating 7 / 50
+Evaluating 8 / 50
+Evaluating 9 / 50
+Evaluating 10 / 50
+Evaluating 11 / 50
+Evaluating 12 / 50
+Evaluating 13 / 50
+Evaluating 14 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['lignocellulosic biomass', 'bio-waste material', 'agri-food waste']
+Resolving: biomass valorization
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: agri-food waste
+directly matched: agri-food waste
+Resolving: lignocellulolytic enzyme
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['lignocellulosic biomass', 'agri-food waste', 'lignocellulolytic enzyme']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['bioethanol', 'xylose']
+Resolving: xylose
+directly matched: xylose
+Resolving: bioethanol
+directly matched: bioethanol
+Resolving: hemicellulose hydrolysis
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: thermostable xylanase and \u03b2-xylosidase activity
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['xylose', 'bioethanol', 'bioethanol', 'thermostable xylanase and \u03b2-xylosidase activity']
+------------------------------------------------------------
+Evaluating 15 / 50
+Evaluating 16 / 50
+Evaluating 17 / 50
+Evaluating 18 / 50
+Evaluating 19 / 50
+Evaluating 20 / 50
+Evaluating 21 / 50
+Evaluating 22 / 50
+Evaluating 23 / 50
+Evaluating 24 / 50
+Evaluating 25 / 50
+Evaluating 26 / 50
+Evaluating 27 / 50
+Evaluating 28 / 50
+Evaluating 29 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['waste cooking oil']
+Resolved prediction: []
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['biodiesel', 'light hydrocarbon', 'syngas', 'co', 'h2', 'liquid product', 'bioenergy and heat', 'animal feed']
+Resolving: biodiesel production, bioenergy and heat, animal feed, chemical feedstocks, and their derivative
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. h.
+Resolved prediction: ['animal feed']
+------------------------------------------------------------
+Evaluating 30 / 50
+Evaluating 31 / 50
+Evaluating 32 / 50
+Evaluating 33 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['fruit waste', 'vegetable waste']
+Resolving: oil oxidation
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: loss of nutritional value
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: undesirable flavor
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: harmful compound
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: synthetic antioxidants on human health
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolved prediction: ['oil oxidation', 'loss of nutritional value', 'undesirable flavor', 'harmful compound', 'synthetic antioxidants on human health']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['natural antioxidant', 'nutritional enhancement of oil']
+Resolving: antioxidant-rich waste extract
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: enhanced edible vegetable oil
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. b.
+Resolving: nutraceuticals
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['natural antioxidant', 'nutritional enhancement of oil', 'natural antioxidant']
+------------------------------------------------------------
+Evaluating 34 / 50
+Evaluating 35 / 50
+Evaluating 36 / 50
+Evaluating 37 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['water treatment sludge']
+Resolving: water treatment sludge (wts)
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['water treatment sludge']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['sintering clay brick']
+Resolving: structural sintering clay bricks with improved property
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a
+Resolving: sintered bricks with enhanced mechanical and microstructure property
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolving: eco-friendly construction material
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['sintering clay brick', 'sintering clay brick', 'sintering clay brick']
+------------------------------------------------------------
+Evaluating 38 / 50
+Evaluating 39 / 50
+Evaluating 40 / 50
+Evaluating 41 / 50
+Evaluating 42 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['nitrate pollutant']
+Resolving: insufficient proton (h+) supply in high ph condition
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: no.
+Resolving: restricting no3\u2012-to-nh3 activity
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a
+Resolved prediction: ['insufficient proton (h+) supply in high ph condition', 'nitrate pollutant']
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['ammonia', 'high-purity nh4cl']
+Resolving: high-purity nh4cl with near-unity efficiency
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. b.
+Resolving: near-100% nh3 faradaic efficiency (ph = 14) with a current density of 2 a cm–2 and enables an over 99% no3–-to-nh3 conversion efficiency
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a.
+Resolved prediction: ['high-purity nh4cl', 'ammonia']
+------------------------------------------------------------
+Evaluating 43 / 50
+Evaluating 44 / 50
+Evaluating 45 / 50
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['packaging', 'dross', 'incinerator bottom ash', 'salt-slag/salt-cake hazardous waste']
+Resolved prediction: []
+------------------------------------------------------------
+Using method: llm
+Using model: llama3.1
+Ground-truth list: ['recyclable salt', 'aluminium concentrate', 'ammonium sulphate', 'non-metallic compounds (nmcs)', 'secondary cast aluminium alloy']
+Resolving: recyclable salts and aluminium concentrate
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+use LLM, match_result: yes. a, b.
+Resolving: secondary cast aluminium alloy
+directly matched: secondary cast aluminium alloy
+Resolving: ammonium sulphate
+directly matched: ammonium sulphate
+Resolving: non-metallic compounds (nmcs)
+directly matched: non-metallic compounds (nmcs)
+Resolved prediction: ['aluminium concentrate', 'secondary cast aluminium alloy', 'ammonium sulphate', 'non-metallic compounds (nmcs)']
+------------------------------------------------------------
+Evaluating 46 / 50
+Evaluating 47 / 50
+Evaluating 48 / 50
+Evaluating 49 / 50
+Total valid abstract: 7 / 50
+Saved prediction result resolution to result/llama3.1_few_code1_k5\run_4\prediction_resolution_llm.csv
+Weighted micro precision: 0.08689655172413795, recall: 0.06810810810810812, f1: 0.07636363636363637
+Weighted macro precision: 0.08833333333333332, recall: 0.07991666666666666, f1: 0.07815873015873016
+Averaged jaccard: 0.06991666666666667
+Mean metrics across all runs: [0.05658883 0.04942333 0.05210061 0.054      0.05355    0.05090794
+ 0.04671667]
+Standard deviation of metrics across all runs: [0.02075313 0.0142419  0.01668274 0.0219089  0.01954709 0.01911274
+ 0.01753445]
+Mean and standard deviation of metrics saved to result/llama3.1_few_code1_k5\metrics_summary.csv

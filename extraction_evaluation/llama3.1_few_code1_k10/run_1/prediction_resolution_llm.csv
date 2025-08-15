@@ -1,0 +1,14 @@
+i,type,ground-truth,prediction,resolved,label,note
+1,waste,"date pit, peanut shell, coffee ground, tea waste",date pits (dp),date pit,TP,llm match output: yes. a.
+1,waste,"date pit, peanut shell, coffee ground, tea waste",peanut shells (ps),peanut shell,TP,llm match output: yes. b.
+1,waste,"date pit, peanut shell, coffee ground, tea waste",coffee grounds (cg),coffee ground,TP,llm match output: yes. c.
+1,waste,"date pit, peanut shell, coffee ground, tea waste",tea waste (tw),tea waste,TP,llm match output: yes. d.
+38,waste,waste activated sludge,waste activated sludge (was),waste activated sludge,TP,llm match output: yes. a.
+38,waste,waste activated sludge,fossil raw material,fossil raw material,FP,llm match output: no.
+38,resource,short-chain organic acid,short-chain organic acids (scfas),short-chain organic acid,TP,llm match output: yes. a.
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",packaging,packaging,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",dross,dross,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",incinerator bottom ash,incinerator bottom ash,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",salt-slag/salt-cake hazardous waste,salt-slag/salt-cake hazardous waste,TP,string exact match
+49,waste,incineration bottom ash,iba,incineration bottom ash,TP,llm match output: yes. a.
+49,waste,incineration bottom ash,natural aggregate,natural aggregate,FP,llm match output: no.

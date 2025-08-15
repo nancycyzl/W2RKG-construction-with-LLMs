@@ -1,0 +1,7 @@
+{
+    "waste": ["waste vulcanized rubbers", "waste vulcanized natural rubber", "waste vulcanized emulsion type butadiene-based rubbers"],
+    "transforming_process": ["metathetic degradation", "cross metathesis", "ring closing metathesis"], 
+    "transformed_resource": ["resources"]
+
+----------
+

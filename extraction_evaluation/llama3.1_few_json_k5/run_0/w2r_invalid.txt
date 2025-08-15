@@ -1,0 +1,45 @@
+Here is the result in JSON format:
+
+```
+{
+    "waste": [
+        "agricultural residues",
+        "by-products",
+        "crop residues",
+        "straw",
+        "husks",
+        "shells",
+        "animal manure",
+        "food processing waste",
+        "forestry residues"
+    ],
+    "transforming_process": [
+        "pre-treatment procedures",
+        "biofuel production",
+        "conversion methods in biorefineries",
+        "thermochemical and biochemical conversion",
+        "agricultural waste valorization",
+        "soil amendment using biochar"
+    ],
+    "transformed_resource": [
+        "biofuels",
+        "renewable energy sources",
+        "microalgae-based biofuel",
+        "energy crops-based biofuel",
+        "rare earth elements" (note: not mentioned in the paragraph, I added it as per the previous example)
+    ]
+}
+```
+
+----------
+
+Here is the result in the required format:
+
+{
+    "waste": [],
+    "transforming_process": [],
+    "transformed_resource": []
+}
+
+----------
+

@@ -1,0 +1,448 @@
+The laccase-mediated polymerization of tannins from pine bark extract resulted in:
+
+* An insoluble polymer formation within 45 minutes
+* A marked increase in thermal stability (less than 12% mass loss at up to 500°C)
+* High antioxidant activity (85% DPPH activity)
+* Photoprotective properties (60% attenuation of singlet oxygen release upon light irradiation)
+
+This is the first reported case of insoluble polymer formation from a direct enzymatic reaction of an aqueous tannin extract, suggesting potential applications in flame retardant materials and other industries.
+
+----------
+
+The main results of the study are:
+
+* Pyrolysis favored the liquid product in all feedstocks, with a range from 34.31% (TW) to 50.92% (DP).
+* Co-pyrolysis increased the gaseous product, ranging from 42.02% (TW-DP) to 55.17% (PS-TW).
+* The blending of CG and PS resulted in heightened reactivity, leading to an enhanced generation of H2 (34.44%).
+* The optimal mixture was found to be CG-TW, showcasing superior performance in terms of gas quality (38.39% H2) and yield (53.74%).
+* The recovered biochars have the potential to serve as solid fuels, biofertilizers, or carbon materials.
+* The FTIR findings suggest that the biochars could be used as eco-friendly precursors for chemical and related industries.
+
+These results highlight the potential of co-pyrolysis of agro-wastes such as date pits, peanut shells, coffee grounds, and tea waste to produce hydrogen-rich gas and valuable solid products.
+
+----------
+
+It appears that the research resulted in the following:
+
+* Average maximum tensile strength of 3.7 MPa with associated toughness index superior to 25 kJ/m2, and mean modulus of rupture of 11.6 MPa with a fracture energy index of 4.3 kJ/m2 for FRCMs containing 6 nonwoven fabric layers obtained from end-of-life fire-protecting t-shirts.
+* Post-cracking performance decreased (on average, 40% in toughness and 11% in strength) after dry-wet accelerated aging due to fiber embrittlement.
+* Mechanical properties of shredded fibers recovered from protective clothing (mainly consisting of meta-aramid fibers) were improved by more than 10% after replacing partially Portland Cement by silica fume (between 30% and 50%).
+
+----------
+
+This text appears to be a scientific article discussing research on metathetic degradation, specifically exploring its application on waste vulcanized emulsion type butadiene-based rubber.
+
+There is no specific question or problem provided in the text for me to solve. It seems to be a report of existing research and its findings.
+
+If you would like me to extract some information from this text, I can try to summarize the main points for you.
+
+----------
+
+There is no result to provide, as this appears to be a paragraph from a scientific paper or article, and there is no problem or question being asked. If you'd like to discuss the content of the paragraph, I can certainly try to help with that!
+
+----------
+
+Here are the results of the study mentioned in the paragraph:
+
+**Optimized Hydrolytic Enzyme Production**
+
+* Cellulase (CMCase): 119.41 IU/gds (twofold increase)
+* Xylanase: 1232.23 IU/gds
+* β-Glucosidase: 63.19 IU/gds
+* FPase: 31.08 IU/gds
+
+**Saccharification of Pretreated Biomass**
+
+* Wheat straw: 675.36 mg/g reducing sugar yield
+* Pine sawdust (PSD): 410.15 mg/g reducing sugar yield
+
+----------
+
+The result is:
+
+**25.0 wt% H2 production with only 28.6% lower yield compared to conventional pyrolysis-steam reforming (P-SR) process**.
+
+----------
+
+There is no result to provide as this appears to be a passage or paragraph of text without a specific question or problem being asked. It seems to be an excerpt from a research article discussing the upcycling of biomass waste gasification process for ethanol and acetaldehyde production, along with the development of a simulation model, artificial neural network (ANN) prediction model, and analysis of process sustainability and economic viability. If you could provide a specific question or problem related to this text, I would be happy to help!
+
+----------
+
+This study proposes a new process called "hydrothermal coupled pyrolysis" that reduces NOX emissions and improves the quality of biochar produced from food waste digestate, making it a more efficient and environmentally friendly way to utilize this material.
+
+----------
+
+There is no result, as this appears to be a paragraph of text discussing the topic of biofuel production from agricultural waste materials, rather than a question or problem that would have a specific answer or outcome. The paragraph appears to be discussing research and findings related to this topic.
+
+----------
+
+It seems like you provided a paragraph of text, but didn't ask a question or request a specific result. If you'd like to clarify what result you are looking for, I can try to help.
+
+However, based on the content of the paragraph, it appears that the main outcome of this work is:
+
+**Optimization of UV conversion method for transforming 7-dehydrocholesterol in fish waste into vitamin D3 with promising results.**
+
+----------
+
+There is no result, only a paragraph summarizing the importance and development of sustainable methods for extracting trace environmental pollutants using solid-phase extraction techniques with natural compounds as sorbents.
+
+----------
+
+It appears you provided a paragraph from a research paper and are asking for a result, but it's not clear what specific result you are looking for (e.g. the synthesis of a highly efficient Cr(VI) adsorbent was successful, the adsorbent showed high surface area comparable to previous reports, etc.). Here is a possible interpretation based on the content:
+
+**Result:** A highly efficient and eco-friendly Cr(VI) adsorbent has been successfully synthesized using positively charged surface mesoporous FDU-12 material (MI-Cl-FDU-12), showing superior performance in removing toxic Cr(VI) oxyanions from aqueous media, with high theoretical maximum adsorption capacities and outstanding regeneration properties.
+
+----------
+
+It seems you want me to summarize the paragraph.
+
+The study's objective was to find the best conditions for extracting bioactive compounds from chestnut shells using microwaves. They used a specific method and found that using 800 W of microwave power, 12 minutes of extraction time, and a certain concentration of NaOH resulted in the most effective extraction. The optimal extract (OE) had strong brown coloring properties and high bioactivity, containing compounds like gallic acid and ellagic acid. This OE also showed antibacterial activity against Staphylococcus aureus.
+
+----------
+
+The study has found that Geobacillus stearothermophilus GF16 is a promising microorganism for lignocellulose degradation, due to its thermostable glycoside hydrolases (GHs) and high production efficiency. The concentrated secretome of this strain showed significant xylanase and β-xylosidase activities, and was able to hydrolyze hemicellulose in various agri-food wastes, resulting in a 300-fold increase in xylose release compared to a commercially available cocktail.
+
+----------
+
+There is no result as this appears to be a reference or citation from an academic paper. The paragraph provided is likely an abstract or introduction to a research article, and there is no numerical answer or "result" in the classical sense. 
+
+However, if you are looking for key takeaways or main points from the text, I can provide those:
+
+* The concept of bioenergy co-generation with environmental remediation has undergone significant changes.
+* An Integrated Algal-Oil Palm Biorefinery is proposed as a cost-effective and innovative solution to address various sustainability challenges.
+* Technologies for energy production (e.g., biodiesel, biomethane) and environmental remediation are discussed.
+* The conversion of biomass into various products (e.g., biopolymer, graphene) is highlighted.
+* Eco-friendly processes and inclusive community development programs are emphasized.
+
+----------
+
+The use of expanded polystyrene (EPS) waste as a functional material remains a challenge. Despite its potential to create superhydrophobic surfaces, the combination of ZnO and EPS waste only results in hydrophobic surfaces. Spray coating and dip coating methods produce surfaces with maximum water contact angles of 119° and 125°, respectively, but fail to meet the standards for acetic acid stimulant migration testing for food packaging, exceeding the maximum allowed value of 10 mg/dm2.
+
+----------
+
+Here is the result of the paragraph analysis:
+
+**Summary:** A study was conducted to optimize the catalytic pyrolysis of face masks using a waste-derived catalyst and analyze the effect of process parameters on oil yield.
+
+**Key Findings:**
+
+1. Temperature, feed-to-catalyst ratio, and inert gas flow rate were studied as process parameters.
+2. Response surface methodology (R2-0.95) and machine learning (decision trees regression, R2-0.83) showed high prediction accuracy.
+3. Experimental oil yield was 13.5% at optimized parameters, which matched predictions of 13.7% through response surface methodology and 13.12% through decision trees regression.
+4. Gas chromatography-mass spectroscopy analysis revealed the presence of silica compounds that can be extracted as value-added chemicals.
+5. The oil composition consisted of approximately 40.5% naphthene's, paraffins, and olefins, with a high heating value of 36.56 MJ/kg, making it suitable for use as fuel.
+
+**Conclusion:** The study demonstrates the feasibility of valorizing face masks into energy-dense oil comparable to commercial range fuel using a spent adsorbent based catalyst.
+
+----------
+
+This study aims to reduce Portland cement consumption by replacing it with waste products from the chemical industry, making nonstructural masonry units more sustainable. The results show that mortars made with waste material have suitable compressive strength, low water absorption, and slightly higher thermal conductivity than commercial units. This method reduces the carbon footprint of the final product by minimizing treatment costs and Portland cement usage.
+
+----------
+
+This study found that:
+
+* The ZSM-5/Al2O3 porous media catalyst with a height of 100 mm and pore size of 40 PPI had the best catalytic performance.
+* This optimal catalyst configuration resulted in:
+	+ Highest pyrolysis oil yield
+	+ Light fraction (<C12) and aromatics in the oil at 95.25% and 97.33%, respectively
+* The optimal operating conditions were:
+	+ Pyrolysis temperature of 460 °C
+	+ Carrier gas velocity of 65 mL/min
+	+ Plastic feeding rate of 25 g/h
+* The catalytic cycling performance showed that the catalyst's activity declined, but the deactivation rate decreased after multiple regeneration cycles.
+
+----------
+
+Cellulose-rich residues can be revalorized and utilized in gelatin film formulations, improving their properties and reducing environmental impact.
+
+----------
+
+The study found that:
+
+* The bacterium Pseudomonas aeruginosa PR3 showed great potential for biodegrading bisphenol A (BPA) under batch and continuous modes.
+* Bacterial growth was inhibited at high initial BPA concentrations (>50 mg/L).
+* A membrane bioreactor (MBR) achieved a maximum BPA removal efficiency of 94.4% with an influent concentration of 25 mg/L and hydraulic retention time (HRT) of 5 days.
+* MBR also performed well under shock loading conditions.
+* Identification of BPA biodegradation pathways revealed different metabolites and end products formed.
+* Microfiltration in the MBR increased BPA removal efficiency to 98.5%.
+* The bacterium produced extracellular diol synthase enzyme, which transformed oleic acid into a biopolyol with antibacterial activity.
+* Cell-free enzymatic approach showed higher bioconversion efficiency than whole cell approach.
+* Characterization of the produced biopolyol using various analytical techniques confirmed its properties and potential applications.
+
+----------
+
+Here is a summary of the study's findings:
+
+* The use of CO2 as a reaction medium in pyrolysis processing of defatted apricot seeds (DAS) enhances the formation of CO and influences the morphological properties of DAS biochars (DASBs).
+* CO2-processed DASBs have larger pore sizes than those processed under N2, making them suitable for thermally induced transesterification.
+* The presence of alkaline metals in DASBs accelerates thermally induced transesterification.
+* The use of CO2 in the fabrication of DASB results in faster reaction kinetics at ≤ 330 °C compared to processing under N2.
+
+----------
+
+It seems like you're providing a summary of a scientific study about biobutanol production through ABE fermentation. Here's a rewritten version in a more formal tone, with the requested format:
+
+**Result**
+
+The present study investigates various carbon and nitrogen sources for acetone-butanol-ethanol (ABE) fermentation to produce biobutanol. The findings indicate that Thai molasses (M2) combined with corn steep liquor (CSL), denoted as M2CSL, serves as a cost-effective and efficient medium for ABE fermentation. This combination resulted in a butanol concentration of 7.4 ± 3.5 g/L.
+
+Furthermore, the study highlights the impact of molasses variations on sucrose consumption inhibition. Notably, enzyme-hydrolyzed black soldier fly larval meal (IE) was found to be a viable alternative nitrogen source for ABE fermentation. Conversely, acid-hydrolyzed black soldier fly larval meal (IA) exhibited inhibitory properties and is not recommended as a nitrogen source.
+
+These results contribute to the understanding of biobutanol production through ABE fermentation and provide insights into optimizing the raw materials used in this process.
+
+----------
+
+There is no result as this appears to be a paragraph from an academic paper discussing the topic of Microwave-Assisted Pyrolysis (MAP) rather than a problem or question that requires a numerical answer or outcome. The paragraph provides information on the benefits and challenges associated with MAP, including its potential for higher energy efficiency, environmental impacts, and economic feasibility.
+
+----------
+
+The text appears to be a scientific abstract or introduction to a research paper, likely in the field of environmental science or agriculture. 
+
+Here is a neutral summary:
+
+Agricultural waste can be processed into high-value products in biorefineries, reducing environmental and economic impacts. However, individual processes are often unprofitable, making integrated multi-feedstock and product approaches more viable for industrial scale-up.
+
+----------
+
+This text appears to be a scientific article discussing the conversion of lignin, a component of biowaste, into valuable phenolic compounds. The main points of the text can be summarized as follows:
+
+* The production of chemicals and products currently relies on fossil-based resources, causing environmental problems.
+* A sustainable and circular economy model is needed to mitigate these issues.
+* Lignin in biowaste can be converted into a wide range of phenolic compounds with various applications.
+* Crop residues are a renewable resource for the biosynthesis of ferulic acid (FA), which can be further converted into other valuable compounds like vanillin and hydroxycinnamic acid.
+* Valorizing lignin and processing biowastes towards sustainability is essential for global industrial development.
+* The article reviews approaches for converting lignin into value-added phenolic compounds, which can have antioxidant, antimicrobial, and anticancer properties.
+* These valorized products can be used in functional foods and active food packaging applications.
+
+The result of this text appears to be a review or summary of the current state of research on lignin conversion and its potential applications.
+
+----------
+
+There is no result as this appears to be a research paragraph and not a question or problem that would have a specific numerical answer. 
+
+However, if you are looking for the main points from the paragraph, here they are:
+
+* An innovative chemical-biological approach was developed to convert waste polyethylene into biosurfactants.
+* Hydrogenolysis using Ru/CeO2 catalysts efficiently converted polyethylene into alkanes with low methane selectivity.
+* The produced intermediates were directly used in a microbial process that generated high-value biosurfactants.
+* This synergistic strategy offers an effective solution for polyethylene waste management and sustainable production of biosurfactants.
+
+----------
+
+The study found that:
+
+* Conventional drying methods are not economically feasible for anthocyanin recovery from grape pomace.
+* Purification strategies using solid-phase extraction (SPE) with C18-based adsorbent material are also not cost-effective due to the economic infeasibility of reusing eutectic solvents.
+* A low-energy demanding approach using SiO2 particles is a financially viable alternative to conventional drying methods, addressing energy requirements and raw materials circularity.
+
+----------
+
+There is no result, just a paragraph discussing the potential of waste cooking oil (WCO) pyrolysis for chemical feedstocks.
+
+----------
+
+It seems like you're asking me to summarize or extract information from a scientific article. Based on the provided paragraph, here is a concise result:
+
+**Key Findings:**
+
+1. Pyrolysis technology can convert combustible high-organic solid waste into resources.
+2. Thermal activated-acid modified kaolin (H-kaolin) and thermal activated-alkali modified kaolin (OH-kaolin) were prepared to immobilize heavy metals during pyrolysis.
+3. H-kaolin outperformed OH-kaolin in immobilizing, stabilizing, and adsorbing heavy metals.
+4. Theoretical calculations showed that AlIII-O and SiIII-O sites in H-kaolin and OH-kaolin, respectively, were responsible for binding with heavy metals.
+
+**Conclusion:**
+
+This research suggests that H-kaolin is a promising high-performance in-furnace sorbent for pyrolysis, which can safely be used to adsorb pollutants and improve soil quality.
+
+----------
+
+It appears you haven't asked a specific question but instead provided text. If you're looking to extract information or summarize it, I can assist with that.
+
+However, if you'd like me to answer a question based on the text, please provide one, and I'll be happy to help!
+
+----------
+
+This paragraph does not contain a question that requires a numerical answer, so there is no result to report.
+
+However, if you'd like me to extract some information from this text, I can tell you that:
+
+* The study aims to reduce landfill waste and promote waste reuse in the construction sector.
+* MSWIFA-based concrete tiles have suitable thermal emissivity (0.87), solar reflectance (0.8), and solar absorption (0.26).
+* The use of MSWIFA tiles lowered the indoor temperature by 2 °C compared to conventional roof tiles.
+
+Let me know if you'd like me to extract anything else!
+
+----------
+
+There is no specific question or problem that I can solve, so there is no "result" in the classical sense. However, I can summarize the main points of the paragraph as follows:
+
+The paragraph discusses the importance of edible oils for human nutrition and their susceptibility to oxidation during handling, cooking, and storage. It highlights the need for natural antioxidants due to the potential harm caused by synthetic ones. The review aims to provide an overview of recent research on using natural antioxidants derived from fruit and vegetable waste to enhance oil stability. These antioxidants are found to be effective in preventing oxidation and have nutraceutical properties, making them a safer alternative to synthetic counterparts.
+
+----------
+
+It appears that this paragraph is a research study on developing a sustainable method to convert agricultural residues (such as coconut husk) into renewable energy sources. The main findings are:
+
+* The use of carbon dioxide (CO2) as a reaction medium enhances the environmental compatibility and efficiency of the pyrolysis process.
+* CO2 acts as a partial oxidant, leading to the formation of carbon monoxide (CO) in the bio-oil.
+* The introduction of a nickel-based egg-shell-type (Ni-ES) catalyst significantly increases the production of syngas (>6.5-fold increase compared to single-stage pyrolysis under N2 conditions).
+* The use of CO2 and the Ni-ES catalyst also reduces the evolution of pyrogenic oil, making the process more efficient.
+
+The result of this study is a potential method for sustainable energy production from agricultural residues, using a combination of CO2 as a reaction medium and a nickel-based catalyst.
+
+----------
+
+Here are the results mentioned in the paragraph:
+
+* The novel biochar/ferric chloride-based coagulant (BC–FeCl3) showed high removal of:
+	+ Turbidity (TB): 100% removal within 10 minutes of settling period
+	+ Humic acid (HA): 100% removal within 10 minutes of settling period at pH 7.5
+* The recovered sludge had good performance in adsorbing HA from aqueous solution.
+* Adsorption isotherm and kinetics studies:
+	+ Pseudo-second-order model best described kinetic adsorption
+	+ Freundlich model dominated the adsorption isotherm
+
+----------
+
+This study found that Thermal Hydrolyzed Sludge (THS) can be converted into Medium-Chain Fatty Acids (MCFAs) through a novel continuous Chain Elongation process.
+
+ Key findings:
+
+* Optimal ethanol loading rate achieved: 5.8 g COD/L/d
+* Stable MCFA production rate achieved: 3.6 g COD/L/d
+* Primary MCFAs produced: n-caproate and n-caprylate, representing 41.5% and 54.3% of total MCFAs, respectively
+* Utilization efficiencies for ethanol and acetate: 100% and 92.8%, respectively
+* Key microbial taxa involved in MCFA production: Alcaligenes, SRB2, Sporanaerobacter, and Kurthia
+
+----------
+
+It appears you're sharing research findings on reusing Water Treatment Sludge (WTS) to produce eco-friendly construction materials.
+
+**Key Findings:**
+
+1. **Compressive Strength**: Decreased from 29.8 MPa to 8 MPa as WTS content increased from 10% to 50%.
+2. **Bulk Density**: Decreased from 1.005 g/cm³ to 0.75 g/cm³ with increasing WTS content.
+3. **Apparent Porosity**: Increased from 20% to 35% with increasing WTS content.
+4. **Water Absorption**: Increased from 12% to 37% with increasing WTS content.
+5. **Efflorescence Analysis**: Slightly elevated, indicating some moisture loss during the firing process.
+
+**Conclusion:**
+The study demonstrates that Water Treatment Sludge (WTS) can be effectively reused in the production of structural sintering clay bricks, providing a cleaner and more sustainable disposal method for WTS.
+
+----------
+
+It seems you're asking for the result or outcome of the research described in the paragraph.
+
+Based on the text, the main results are:
+
+1. **Optimized conditions for SCFA production**: The best temperature for producing short-chain organic acids (SCFAs) through wet oxidation was found to be 160 °C.
+2. **Pre-purification of SCFAs**: Membrane ultrafiltration with a total recycle mode achieved rejections of 39% for Total Organic Carbon (TOC), 73% for color, and only 4% for SCFAs, effectively pre-purifying the SCFAs in the waste activated sludge.
+3. **Effective extraction of SCFAs**: The best combination of solvents for extracting SCFAs was found to be a mixture of trioctylamine (TOA) and tributylphosphate (TBP) at 10% in octan-1-ol, which extracted 34% of the total SCFAs present in the pre-purified permeate.
+4. **Challenges and limitations**: The research highlighted the detrimental effect of the matrix in liquid–liquid extraction on SCFA extraction, as well as issues with fouling mechanism (cake formation) during membrane ultrafiltration.
+
+These results indicate that the study was successful in optimizing the production and recovery of SCFAs from waste activated sludge, but also identified some challenges and limitations that need to be addressed for further improvement.
+
+----------
+
+There is no result, as this appears to be a paragraph from a scientific article or review rather than a mathematical problem or question. If you'd like me to extract specific information or summarize the content, I can try to assist you!
+
+----------
+
+There is no problem or question in the text, so there is no result. The text appears to be a research study describing an experiment with a newly isolated cyanobacterium that can efficiently process and recycle urban wastewater, making it suitable for agricultural use.
+
+----------
+
+The study's findings indicate that using dam sediments and marble waste in road construction can have a significant positive impact on the environment, specifically reducing:
+
+* Energy consumption by at least 40%
+* Greenhouse gas emissions by at least 28%
+
+Additionally, the research highlights the viability of recovering and utilizing these materials as valuable resources for sustainable construction practices.
+
+----------
+
+There is no result as this appears to be a scientific paper's introduction or abstract and not a question that requires a numerical answer. If you'd like me to extract any information from the paragraph, I can do so in a non-numerical format.
+
+----------
+
+There is no "result" as this appears to be a scientific research paper discussing the fabrication and properties of a biochar-based composite for thermal energy storage. The text does not mention any specific numerical result, but rather describes the composition, performance, and benefits of the composite material.
+
+----------
+
+It seems you're looking for a result from the paragraph provided. Based on the context, here's what I think is a reasonable answer:
+
+**Result:** The combustion fraction of the legacy waste can generate 1125 kWh of electrical energy per tonne, with associated greenhouse gas emissions of 1389 kg CO2-equivalent.
+
+----------
+
+This study explores the environmental benefits and drawbacks of recycling aluminum in rotary furnaces with salt-fluxes by comparing two salt-slag management approaches: valorisation or landfilling.
+
+Key Findings:
+
+1. **Net Environmental Profits**: Recycling aluminum in rotary furnaces brings about significant net environmental benefits.
+2. **Increased Benefits through Valorisation**: The process becomes even more environmentally friendly if the salt-slag is valorised.
+3. **Major Benefits from Secondary Cast Aluminum Alloys**: Production of secondary cast aluminum alloys contributes to the high energy intensity of primary aluminum production, making it a significant benefit.
+4. **Hotspots for Optimisation**:
+	* Production of by-products
+	* Consumption of energy/fuels
+	* Avoidance of landfilling waste
+5. **Environmental Indicators Improved**: Valorisation of salt-slag improves indicators related to mineral resource scarcity, human carcinogenic toxicity, and terrestrial ecotoxicity.
+6. **Sensitivity Analysis**: The global warming potential of aluminum recycling routes is heavily influenced by metal yield assumptions.
+
+This study provides valuable insights for the metallurgical industry to optimize their processes while minimizing environmental impacts associated with salt-slag management in aluminum recycling.
+
+----------
+
+The result of this research study is:
+
+* The valorization of waste from kraft pulp mills, specifically lime sludge (LS) and lime slaker grits (grits), can be used to produce magnesium oxysulfate (MOS)-based fiber cement boards.
+* Replacing 25% of the limestone with grits showed no noticeable differences in the properties of the boards.
+* The physical-mechanical performance of the boards decreased with the use of LS and higher concentrations of grits, associated with Na2SO4.XH2O formation and ITZ structure formed around the aggregated particle.
+* Accelerated carbonation led to a decrease in mechanical strength of the boards after the curing process, but also reduced water absorption of the boards.
+* The thermal decomposition of Hydrated Magnesium Carbonates (HMCs) formed during accelerated carbonation contributed to the changes in physical properties of the composites.
+
+----------
+
+There is no result as this seems to be a research paper or paragraph discussing a scientific study rather than asking for a calculation or problem solution. If you would like me to summarize the main points, I can do that.
+
+However, if you are looking for specific information such as:
+
+* What is the focus of the study?
+* What was used as an exemplary food waste in this work?
+* How did CO2 affect the pyrolysis process?
+
+I can provide those details.
+
+----------
+
+There are no specific results mentioned in the text, but rather a summary of a study's findings. However, I can extract some quantitative data from the paragraph:
+
+* Cumulative CH4 production for different AD tests:
+	+ AD-1: 154.9 NmL/g VS
+	+ AD-2: 177.4 NmL/g VS
+	+ AD-3: 52.0 NmL/g VS
+	+ AD-4: 81.2 NmL/g VS
+	+ AD-5: 98.43 NmL/g VS
+	+ AD-6: 135.15 NmL/g VS
+* Methane energy yields:
+	+ AD-1: 2.29 MJ/m3
+	+ AD-2: 7.64 MJ/m3 (not clear which AD is associated with this value)
+* βece values:
+	+ AD-1: 17.6 %
+	+ AD-2: 58.8 % (not clear which AD is associated with this value)
+
+Please note that these results are specific to the study mentioned in the paragraph and might not be generalizable to other contexts.
+
+----------
+
+The study's main result is that incorporating Incineration Bottom Ash (IBA) in road layers can significantly reduce environmental impacts, but only if treated or reused with restrictions.
+
+Here are some specific results from the study:
+
+* Reusing IBA in road layers can reduce global warming impact by over 35%.
+* Untreated IBA can increase human carcinogenic toxicity by more than 28%, making it unsuitable for road layer reuse.
+* Treated IBA is the most sustainable approach and remains effective up to a transportation distance of d + 15 km.
+* Reusing IBA with restrictions is recommended if treatment is not feasible, up to a transportation distance of d + 5 km.
+
+----------
+

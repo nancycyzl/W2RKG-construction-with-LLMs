@@ -1,0 +1,31 @@
+i,type,ground-truth,prediction,resolved,label,note
+4,waste,"plastic waste, municipal solid waste",plastic waste,plastic waste,TP,string exact match
+4,waste,"plastic waste, municipal solid waste",mixed plastic waste,plastic waste,TP,llm match output: yes. a.
+4,waste,"plastic waste, municipal solid waste",municipal solid waste,municipal solid waste,TP,string exact match
+4,resource,"hydrogen, chemical, syngas",syngas,syngas,TP,string exact match
+4,resource,"hydrogen, chemical, syngas",hydrogen,hydrogen,TP,string exact match
+4,resource,"hydrogen, chemical, syngas",chemical,chemical,TP,string exact match
+8,waste,digestate from anaerobic digestion of food waste,food waste,digestate from anaerobic digestion of food waste,TP,llm match output: yes. a.
+8,waste,digestate from anaerobic digestion of food waste,digestate resulting from anaerobic digestion of food waste,digestate from anaerobic digestion of food waste,TP,llm match output: yes. a.
+8,resource,"biochar, syngas, bio-oil",biochar,biochar,TP,string exact match
+8,resource,"biochar, syngas, bio-oil",syngas,syngas,TP,string exact match
+8,resource,"biochar, syngas, bio-oil",bio-oil,bio-oil,TP,string exact match
+22,waste,"defatted apricot seed, oil-bearing biomass",defatted residue,defatted apricot seed,TP,llm match output: yes. a.
+22,waste,"defatted apricot seed, oil-bearing biomass",oil extraction residue,oil-bearing biomass,TP,llm match output: yes. b.
+22,resource,biochar,co,co,FP,llm match output: no.
+22,resource,biochar,dasbs (biochars),biochar,TP,llm match output: yes. a.
+22,resource,biochar,apricot oil,apricot oil,FP,llm match output: no.
+30,waste,combustible high-organic solid waste,hsw,combustible high-organic solid waste,TP,llm match output: yes. a.
+30,waste,combustible high-organic solid waste,high-organic solid waste,combustible high-organic solid waste,TP,llm match output: yes. a.
+30,resource,char,derived char,char,TP,llm match output: yes. a.
+30,resource,char,h-kaolin,h-kaolin,FP,llm match output: no.
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",hazardous waste,salt-slag/salt-cake hazardous waste,TP,llm match output: yes. d.
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",salt-slag/salt-cake,salt-slag/salt-cake hazardous waste,TP,llm match output: yes. d.
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",packaging,packaging,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",dross,dross,TP,string exact match
+45,waste,"packaging, dross, incinerator bottom ash, salt-slag/salt-cake hazardous waste",incinerator bottom ash,incinerator bottom ash,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",valuable alloy,secondary cast aluminium alloy,TP,llm match output: yes. e.
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",secondary cast aluminium alloy,secondary cast aluminium alloy,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",salts and aluminium concentrate,ammonium sulphate,TP,"llm match output: yes. a, c."
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",ammonium sulphate,ammonium sulphate,TP,string exact match
+45,resource,"recyclable salt, aluminium concentrate, ammonium sulphate, non-metallic compounds (nmcs), secondary cast aluminium alloy",non-metallic compounds (nmcs),non-metallic compounds (nmcs),TP,string exact match

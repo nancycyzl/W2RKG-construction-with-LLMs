@@ -1,0 +1,12 @@
+Here is the result in JSON format:
+
+```
+{
+    "waste": [],
+    "transforming_process": [],
+    "transformed_resource": []
+}
+```
+
+----------
+

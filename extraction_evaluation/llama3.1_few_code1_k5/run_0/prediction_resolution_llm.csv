@@ -1,0 +1,12 @@
+i,type,ground-truth,prediction,resolved,label,note
+7,waste,biomass waste,biomass,biomass waste,TP,llm match output: yes. a.
+7,resource,"ethanol, acetaldehyde, hydrogen",ethanol,ethanol,TP,string exact match
+7,resource,"ethanol, acetaldehyde, hydrogen",acetaldehyde,acetaldehyde,TP,string exact match
+7,resource,"ethanol, acetaldehyde, hydrogen",hydrogen,hydrogen,TP,string exact match
+7,resource,"ethanol, acetaldehyde, hydrogen",total revenue,total revenue,FP,llm match output: no.
+36,waste,thermal hydrolyzed sludge,sludge,thermal hydrolyzed sludge,TP,llm match output: yes. a.
+36,waste,thermal hydrolyzed sludge,waste sludge,thermal hydrolyzed sludge,TP,llm match output: yes. a.
+36,resource,"medium-chain fatty acid, n-caproate, n-caprylate",medium-chain fatty acids (mcfas),medium-chain fatty acid,TP,llm match output: yes. a.
+36,resource,"medium-chain fatty acid, n-caproate, n-caprylate",ethanol,ethanol,FP,llm match output: no.
+36,resource,"medium-chain fatty acid, n-caproate, n-caprylate",n-caproate,n-caproate,TP,string exact match
+36,resource,"medium-chain fatty acid, n-caproate, n-caprylate",n-caprylate,n-caprylate,TP,string exact match

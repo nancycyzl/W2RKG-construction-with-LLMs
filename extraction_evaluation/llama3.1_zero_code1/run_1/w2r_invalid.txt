@@ -1,0 +1,123 @@
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = """
+Biofuel production using agricultural waste materials as a source of energy sustainability is an important and promising approach to address both energy and environmental challenges. This process involves converting various types of agricultural residues and by-products into biofuels, which can be used as renewable and cleaner alternatives to fossil fuels 
+This study focuses on different pre-treatment procedures, biofuel production, and agricultural waste materials as a biomass source of biofuel production, feedstocks, and technology conversion, the combination of thermochemical and biochemical conversion methods in biorefineries can enhance productivity, reduce waste, and increase resource use, while reducing environmental impact and energy consumption. 
+This study investigates some of the difficulties associated with agricultural waste materials are diverse and can include crop residues (such as straw, husks, and shells), animal manure, food processing waste, forestry residues, and more. Researchers and companies are actively working to improve the efficiency and viability of agricultural waste-to-biofuel processes. 
+The study suggests that incorporating agricultural waste valorization, such as biochar as a soil amendment, can enhance the sustainability of biofuel production. This approach can mitigate climate change and promote sustainable agriculture. The circular economy strategy can minimize waste byproducts. 
+The study also suggests that governmental interventions can support sustainable practices and prioritize renewable energy sources. 
+The study revealed that biofuel production from microalgae and energy crops is the most profitable and effective method, with commercial-scale production potential due to genetic engineering advancements. However, large-scale production remains challenging, necessitating new technologies to boost biofuel production and meet energy needs.
+"""
+
+def extract_waste_transform_process_resource(text):
+    w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+    for word in text.split():
+        if word.lower() in ["residues", "by-products", "manure", "processing waste", "forestry residues"]:
+            w2r["waste"].append(word)
+        elif word.lower() in ["pre-treatment procedures", "biofuel production", "biorefineries", "valorization", "conversion methods"]:
+            w2r["transforming_process"].append(word)
+        elif word.lower() in ["biofuels", "biochar", "soil amendment", "microalgae", "energy crops", "biofuel"]:
+            w2r["transformed_resource"].append(word)
+
+    return w2r
+
+w2r = extract_waste_transform_process_resource(text)
+print(w2r)
+
+----------
+
+w2r["waste"].extend(["harmful wastes", "solvents"])
+w2r["transforming_process"].extend(["solid-phase extraction (SPE)", "dispersive micro-solid-phase extraction (d-μSPE)", "magnetic dispersive micro-solid-phase extraction (M-d-μSPE)", "bar adsorption microextraction (BAμE)", "rotating disk sorption extraction (RDSE)", "fabric phase sorption extraction (FPSE)", "solid phase microextraction (SPME)", "thin film microextraction (TFME)"])
+w2r["transformed_resource"].extend(["coffee residues", "bracts and peels of various fruits", "cork", "cotton", "pollen", "kapok", "bamboo", "sponge", "algae", "various seeds"])
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = "...sodium silicate extracted from sorghum waste..."; 
+sorghum_waste = "sorghum waste"
+transforming_processes = ["one-pot synthesis", "functionalization", "templating"]
+transformed_resources = ["Cr(VI) adsorbent", "MI-Cl-FDU-12 anion-exchange adsorbent"]
+w2r["waste"].append(sorghum_waste)
+w2r["transforming_process"] = transforming_processes
+w2r["transformed_resource"] = transformed_resources
+print(w2r)
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = """
+The production of chemicals/products so far relies on fossil-based resources with the creation of several environmental problems at the global level. In this situation, a sustainable and circular economy model is necessitated to mitigate global environmental issues. Production of biowaste from various processing industries also creates environmental issues which would be valorized for the production of industrially important reactive and bioactive compounds. Lignin acts as a vital part in biowaste composition which can be converted into a wide range of phenolic compounds. The phenolic compounds have attracted much attention, owing to their influence on diverse not only organoleptic parameters, such as taste or color, but also active agents for active packaging systems. Crop residues of varied groups, which are an affluent source of lignocellulosic biomass could serve as a renewable resource for the biosynthesis of ferulic acid (FA). FA is obtained by the FA esterase enzyme action, and it can be further converted into various tail end phenolic flavor green compounds like vanillin, vanillic acid and hydroxycinnamic acid. Lignin being renewable in nature, processing and management of biowastes towards sustainability is the need as far as the global industrial point is concerned. This review explores all the approaches for conversion of lignin into value-added phenolic compounds that could be included to packaging applications. These valorized products can exhibit the antioxidant, antimicrobial, cardioprotective, anti-inflammatory and anticancer properties, and due to these features can emerge to incorporate them into production of functional foods and be utilization of them at active food packaging application. These approaches would be an important step for utilization of the recovered bioactive compounds at the nutraceutical and food industrial sectors. 
+"""
+
+w2r["waste"].extend(["biowaste", "fossil-based resources", "crop residues"])
+w2r["transforming_process"].extend(["conversion into phenolic compounds", "biosynthesis of ferulic acid (FA)", "conversion into various tail end phenolic flavor green compounds"])
+w2r["transformed_resource"].extend(["phenolic compounds", "ferulic acid (FA)", "vanillin", "vanillic acid", "hydroxycinnamic acid"])
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = "Waste cooking oil (WCO) is increasingly recognized as a valuable resource rather than a waste product, given its potential for recycling and reprocessing into various chemicals. The utilization of WCO has grown significantly, driven by environmental concerns, the push for renewable energy sources, and technological advancements in recycling processes. Applications of WCO include biodiesel production, bioenergy and heat, animal feed, chemical feedstocks, and their derivatives."
+
+w2r["waste"].extend(["Waste cooking oil (WCO)"])
+w2r["transforming_process"].extend(["recycling", "reprocessing", "pyrolysis", "catalytic pyrolysis", "co-feeding process"])
+w2r["transformed_resource"].extend(["biodiesel", "bioenergy and heat", "animal feed", "chemical feedstocks", "light hydrocarbons (C1 – C4)", "syngas (CO and H2)", "liquid products"])
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = "The mandated waste classification poses challenges for the eco-friendly disposal of combustible high-organic solid waste (HSW), characterized by elevated heavy metal content and a low ash proportion. Fortunately, pyrolysis technology for HSW is emerging as a promising direction for achieving waste-to-resource conversion. To further mitigate secondary pollution, thermal activated-acid modified kaolin (H-kaolin) and thermal activated-alkali modified kaolin (OH-kaolin) were separately prepared, and their enhanced effects of immobilization and stabilization on heavy metals during pyrolysis were contrastively explored. Characterization results demonstrated that dehydroxy-dealuminization and zeolite NaA formation were intrinsic reasons for improvements in physical properties (specific surface area, pore volume) of H-kaolin and OH-kaolin, respectively. Experimental results revealed that H-kaolin outperformed OH-kaolin, showcasing its potential as a high-performance in-furnace adsorbent. Compared with other natural mineral-based sorbents reported in the literature, H-kaolin exhibited leading levels of immobilization, stabilization, and adsorption efficiency for heavy metals. Theoretical calculations illustrated that AlIII-O generated via dealuminization and SiIII-O in zeolite NaA were the main adsorption sites of H-kaolin and OH-kaolin, respectively, correspondingly binding with heavy metals to form oxides and silicates. The differences in active sites, electron transfer directions and bonding types during adsorption of H-kaolin and OH-kaolin were the intrinsic reasons for their distinct adsorption efficiency. Furthermore, derived chars with H-kaolin were deemed safe for application in pollutant adsorption in industrial field and soil improvement in gardens or parks. This research presented new ideas for developing high-performance in-furnace sorbents during pyrolysis, and explored the feasible safety application fields for pyrolytic derived-char. © 2024 Elsevier Ltd"
+
+w2r["waste"].append("combustible high-organic solid waste (HSW)")
+w2r["transforming_process"].extend(["pyrolysis", "thermal activated-acid modified kaolin", "thermal activated-alkali modified kaolin"])
+w2r["transformed_resource"].extend(["derived chars with H-kaolin", "zeolite NaA"])
+
+print(w2r)
+```
+
+----------
+
+```python
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+# ... (rest of the code)
+
+text = "..."
+
+words = text.split()
+wastes = ["Waste activated sludge", "fossil raw materials"]
+transforming_processes = [
+    "oxidative hydrothermal pretreatment",
+    "wet oxidation",
+    "ultrafiltered using ceramic membranes",
+    "extracted with different combinations of trioctylamine, tributylphosphate and octan-1-ol"
+]
+transformed_resources = ["Short-chain organic acids (SCFAs)", "acetic acid", "octan-1-ol"]
+
+w2r["waste"] = wastes
+w2r["transforming_process"] = transforming_processes
+w2r["transformed_resource"] = transformed_resources
+
+print(w2r)
+```
+
+----------
+
+```python
+w2r["waste"].extend(["lime sludge (LS)", "lime slaker grits", "cement production emissions"])
+w2r["transforming_process"].extend([
+    "conversion of waste to magnesium oxysulfate",
+    "valorization of kraft pulp mill waste",
+    "accelerated carbonation on cementitious composites"
+])
+w2r["transformed_resource"].extend([
+    "magnesium oxysulfate (MOS)-based fiber cement boards",
+    "kraft pulp mill waste products",
+    "hydrated magnesium carbonates (HMCs)"
+])
+```
+
+----------
+

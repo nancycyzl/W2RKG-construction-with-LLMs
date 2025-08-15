@@ -1,0 +1,178 @@
+w2r = {"waste": ["plastic waste", "mixed plastic waste"], 
+       "transforming_process": ["autothermal steam-oxygen gasification", "fluidized bed gasifier"], 
+       "transformed_resource": ["hydrogen", "chemicals", "syngas"]}
+
+----------
+
+```python
+wastes = ["oil palm biomass", "mill effluent", "biomass"]
+transforming_processes = ["biodiesel production", "bioethanol production", "biomethane production",
+                          "biohydrogen production", "bio-oil production", "jet biofuel production",
+                          "energy storage and supercapacitors", "graphene synthesis",
+                          "biocomposites production", "MXene production", "biopolymer production"]
+transformed_resources = ["biodiesel", "bioethanol", "biomethane", "biohydrogen", "bio-oil",
+                         "jet biofuel", "energy storage", "supercapacitors", "graphene",
+                         "biocomposites", "MXene", "biopolymer"]
+
+w2r["waste"] = wastes
+w2r["transforming_process"] = transforming_processes
+w2r["transformed_resource"] = transformed_resources
+
+print(w2r)
+```
+
+----------
+
+w2r["waste"].extend(["cellulose-rich residue", "grape marc"])
+w2r["transforming_process"].extend(["incorporated into gelatin film forming formulations", "thermo-sealed"])
+w2r["transformed_resource"].extend(["gelatin film", "films used to pack grapes"])
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = """
+...
+"""
+
+wastes = ["Bisphenol A (BPA)", "oleic acid"]
+transforming_processes = ["biodegradation", "diol synthase enzyme reaction", "microfiltration system", "bioconversion"]
+transformed_resources = ["7,10-dihydroxy-8(E)-octadecenoic acid", "biopolyol"]
+
+w2r["waste"] = wastes
+w2r["transforming_process"] = transforming_processes
+w2r["transformed_resource"] = transformed_resources
+
+print(w2r)
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = """
+Background: Biobutanol, produced through acetone-butanol-ethanol (ABE) fermentation, has been proposed for use as a transportation fuel and for the development of butanol-based materials. However, the economic viability of ABE fermentation is heavily dependent on the cost of raw materials. Methods: This study assesses various carbon and nitrogen sources for ABE fermentation. Carbon sources examined include local molasses (M1), Thai molasses (M2), Taiwan sugar agricultural molasses (M3), and Taiwan sugar edible molasses (M4). Nitrogen sources considered are corn steep liquor (CSL), acid-hydrolyzed black soldier fly larval meal (IA), and enzyme-hydrolyzed black soldier fly larval meal (IE). Significant findings: Our findings reveal that M2CSL, a combination of Thai molasses and corn steep liquor, serves as a cost-effective and efficient medium for ABE fermentation, resulting in a butanol concentration of 7.4 ± 3.5 g/L. Furthermore, our research identifies variations in molasses and their impact on sucrose consumption inhibition. Notably, this study underscores the potential of insect peptone derived from enzyme-hydrolyzed black soldier fly larval meal (IE) as an alternative nitrogen source, while cautioning against the use of insect peptone obtained from acid-hydrolyzed black soldier fly larval meal (IA) due to its inhibitory properties. 
+"""
+
+w2r["waste"].extend(["corn steep liquor residues", "black soldier fly larval meal residues"])
+w2r["transforming_process"].extend(["ABE fermentation", "acid-hydrolysis of black soldier fly larval meal", "enzyme-hydrolysis of black soldier fly larval meal"])
+w2r["transformed_resource"].extend(["biobutanol", "insect peptone"])
+
+----------
+
+w2r = {"waste": ["biomass", "waste"], 
+       "transforming_process": ["microwave-assisted pyrolysis (MAP)"],
+       "transformed_resource": ["pyrolysis oil, gas and biochar"]}
+
+----------
+
+w2r["waste"].extend([
+    "agro-industrial wastes",
+    "burned waste",
+    "dumped waste"
+])
+
+w2r["transforming_process"].extend([
+    "biorefinery processes",
+    "scale-up studies",
+    "techno-economic and environmental feasibility analyses"
+])
+
+w2r["transformed_resource"].extend([
+    "high value-added products",
+    "energy",
+    "chemicals"
+])
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = "Waste cooking oil (WCO) is increasingly recognized as a valuable resource rather than a waste product, given its potential for recycling and reprocessing into various chemicals."
+w2r["waste"].extend(["Waste cooking oil"])
+w2r["transforming_process"].extend(["recycling", "reprocessing", "pyrolysis", "catalytic pyrolysis", "co-feeding method"])
+w2r["transformed_resource"].extend(["chemicals", "biodiesel", "bioenergy and heat", "animal feed", "chemical feedstocks", "light hydrocarbons (C1 – C4)", "syngas (CO and H2)", "liquid products"])
+
+----------
+
+w2r["waste"].extend(["Municipal solid waste", "Incinerated fly ash"])
+w2r["transforming_process"].extend(["Incineration", "Waste reuse in construction sector"])
+w2r["transformed_resource"].extend(["MSWIFA-based concrete", "Concrete roof tiles"])
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+fruits_and_vegetable_waste = "Fruits and vegetable waste"
+techniques = ["diverse techniques"]
+extracts = ["free extracts", "encapsulated extracts", "nano-encapsulated extracts", "nano-emulsion oil extracts"]
+natural_antioxidants = "antioxidant-rich waste extracts"
+
+w2r["waste"].append(fruits_and_vegetable_waste)
+w2r["transforming_process"].extend(techniques)
+w2r["transformed_resource"].extend(extracts)
+
+print(w2r)
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+text = "The deep removal of organic pollutants is challenging for coagulation technology in drinking water and wastewater treatment plants to satisfy the rising water standards. Iron (III) chloride (FeCl3) is a popular inorganic coagulant; although it has good performance in removing the turbidity (TB) in water at an alkaline medium, it cannot remove dissolved pollutants and natural organic matter such as humic acid water solution. Additionally, its hygroscopic nature complicates determining the optimal dosage for effective coagulation. Biochar (BC), a popular adsorbent with abundant functional groups, porous structure, and relatively high surface area, can adsorb adsorbates from water matrices. Therefore, combining BC with FeCl3 presents a potential solution to address the challenges associated with iron chloride. Consequently, this study focused on preparing and characterizing a novel biochar/ferric chloride-based coagulant (BC–FeCl3) for efficient removal of turbidity (TB) and natural organic matter, specifically humic acid (HA), from synthetic wastewater. The potential solution for the disposal of produced sludge was achieved by its recovering and recycling, then used in adsorption of HA from aqueous solution. The novel coagulant presented high TB and HA removal within 10 min of settling period at pH solution of 7.5. Furthermore, the recovered sludge presented a good performance in the adsorption of HA from aqueous solution. Adsorption isotherm and kinetics studies revealed that the Pseudo-second-order model best described kinetic adsorption, while the Freundlich model dominated the adsorption isotherm."
+
+w2r["waste"].extend(["synthetic wastewater", "produced sludge"])
+w2r["transforming_process"].extend([
+    "coagulation technology",
+    "adsorbent with abundant functional groups",
+    "combining BC with FeCl3",
+    "preparing and characterizing a novel biochar/ferric chloride-based coagulant (BC–FeCl3)",
+    "recovering and recycling the produced sludge"
+])
+w2r["transformed_resource"].extend([
+    "turbidity-free water",
+    "humic acid-free water",
+    "recovered sludge with good adsorption performance"
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = "..."
+...
+words = text.split()
+
+for word in words:
+    if word == 'wastewater':
+        w2r["waste"].append('urban wastewater')
+        w2r["waste"].append('peri-urban wastewater')
+    elif word == 'valorization' or word == 'recycling':
+        w2r["transforming_process"].append('algae-based carbon-neutral valorization and recycling')
+    elif word == 'lipids' or word == 'biomass' or word == 'algal biomass':
+        w2r["transformed_resource"].append('algae oil')
+        w2r["transformed_resource"].append('lipid-rich algal biomass')
+        w2r["transformed_resource"].append('algae-based soil amender')
+
+----------
+
+```python
+w2r = {"waste": ["municipal solid waste (MSW)", "combustible fraction"], 
+       "transforming_process": ["landfill mining", "incineration"], 
+       "transformed_resource": ["energy", "greenhouse gas emissions"]}
+```
+
+----------
+
+w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+
+text = """
+The increasing global waste generated by industrial activities poses significant environmental challenges. Eco-waste management emerges as an economically viable solution for converting, valorizing, and repurposing these byproducts, aligning with circular economy principles, and aiming to reduce greenhouse gas emissions. Construction, known for its unsustainability due to high energy consumption, non-renewable resource utilization, waste generation, and greenhouse gas emissions, particularly from cement production, has led to the exploration of alternative materials. Magnesium oxide (MgO)-based cement, an alternative to Ordinary Portland Cement (OPC), has gained attention, leveraging Brazil's prominence as a major magnesite producer. This study explores the valorization of waste from kraft pulp mills of the paper industry, specifically lime sludge (LS) and lime slaker grits (grits), to produce magnesium oxysulfate (MOS)-based fiber cement boards. The effect of accelerated carbonation on cementitious composites produced with formulations containing grits and LS was investigated. Replacing 25% of the limestone with grits showed no noticeable differences in the properties of the boards, and MOR values close to 11.17 MPa were obtained. However, the physical-mechanical performance showed a decrease with the use of LS and higher concentrations of grits, associated with Na2SO4.XH2O formation in the system and ITZ structure formed around the aggregated particle, respectively. Carbonation in a saturated atmosphere led to the carbonation of the 5–1–7 phase, which was related to the decrease in mechanical strength of the boards after the curing process. The thermal decomposition of the Hydrated Magnesium Carbonates (HMCs) formed during accelerated carbonation corroborated with the changes in the physical properties of the composites, demonstrating that the carbonation products are formed within the voids and pores of the material and contribute to the reduction in water absorption of the boards. 
+"""
+
+w2r["waste"].append("lime sludge (LS)")
+w2r["waste"].append("lime slaker grits")
+w2r["waste"].append("kraft pulp mill waste")
+
+w2r["transforming_process"].extend(["valorization", "carbonation", "thermal decomposition"])
+
+w2r["transformed_resource"].extend([
+    "magnesium oxysulfate (MOS)-based fiber cement boards",
+    "Hydrated Magnesium Carbonates (HMCs)",
+])
+
+----------
+

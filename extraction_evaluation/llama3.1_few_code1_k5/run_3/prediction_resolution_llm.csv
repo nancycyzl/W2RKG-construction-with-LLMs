@@ -1,0 +1,26 @@
+i,type,ground-truth,prediction,resolved,label,note
+5,waste,"lignocellulosic waste, pine sawdust, wheat straw",pine sawdust,pine sawdust,TP,string exact match
+5,waste,"lignocellulosic waste, pine sawdust, wheat straw",lignocellulosic waste,lignocellulosic waste,TP,string exact match
+5,waste,"lignocellulosic waste, pine sawdust, wheat straw",pretreated wheat straw,wheat straw,TP,llm match output: yes. c.
+5,waste,"lignocellulosic waste, pine sawdust, wheat straw",pretreated pine sawdust,pine sawdust,TP,llm match output: yes. b.
+14,waste,"lignocellulosic biomass, bio-waste material, agri-food waste",lignocellulosic biomass,lignocellulosic biomass,TP,string exact match
+14,waste,"lignocellulosic biomass, bio-waste material, agri-food waste",bio-waste material,bio-waste material,TP,string exact match
+14,waste,"lignocellulosic biomass, bio-waste material, agri-food waste",agri-food waste,agri-food waste,TP,string exact match
+14,resource,"bioethanol, xylose",xylose,xylose,TP,string exact match
+14,resource,"bioethanol, xylose",bioethanol,bioethanol,TP,string exact match
+40,waste,urban wastewater,untreated wastewater from peri-urban environment,urban wastewater,TP,llm match output: yes. a.
+40,waste,urban wastewater,total dissolved solid,urban wastewater,TP,llm match output: yes. a.
+40,waste,urban wastewater,chemical oxygen demand,urban wastewater,TP,llm match output: yes. a.
+40,waste,urban wastewater,biological oxygen demand,urban wastewater,TP,llm match output: yes. a.
+40,waste,urban wastewater,nitrate nitrogen,urban wastewater,TP,llm match output: yes. a.
+40,waste,urban wastewater,ammonia nitrogen,urban wastewater,TP,llm match output: yes. a.
+40,waste,urban wastewater,total phosphorus,urban wastewater,TP,llm match output: yes. a.
+40,resource,"recovered water for algriculture, soil amender",post-treated wastewater,recovered water for algriculture,TP,llm match output: yes. a.
+40,resource,"recovered water for algriculture, soil amender",microbial activity of the soil improved by 0.5-fold,microbial activity of the soil improved by 0.5-fold,FP,llm match output: no.
+40,resource,"recovered water for algriculture, soil amender",availability of phosphorus was also improved by 1.66-fold,recovered water for algriculture,TP,llm match output: yes. a.
+40,resource,"recovered water for algriculture, soil amender",biomass utilization,biomass utilization,FP,llm match output: no.
+42,waste,nitrate pollutant,nitrate (no3‒) pollution,nitrate pollutant,TP,llm match output: yes. a.
+42,waste,nitrate pollutant,insufficient proton (h+) supply in high ph condition,insufficient proton (h+) supply in high ph condition,FP,llm match output: no.
+42,resource,"ammonia, high-purity nh4cl",sustainable ammonia (nh3) synthesis,ammonia,TP,llm match output: yes. a.
+42,resource,"ammonia, high-purity nh4cl",valuable ammonia product,ammonia,TP,llm match output: yes. a.
+42,resource,"ammonia, high-purity nh4cl",high-purity nh4cl,high-purity nh4cl,TP,string exact match
