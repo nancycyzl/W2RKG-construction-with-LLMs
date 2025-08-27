@@ -1,0 +1,181 @@
+[
+    {
+        "waste": [
+            "Clothing sample waste",
+            "post-consumer waste",
+            "non-wearable fractions"
+        ],
+        "transforming_process": [
+            "sorting",
+            "chemical-based recycling",
+            "conversion of waste cotton into viscose"
+        ],
+        "transformed_resource": [
+            "wearable clothing",
+            "viscose"
+        ],
+        "reference": "10.1016/j.cogsc.2022.100685_chunk7"
+    },
+    {
+        "waste": [
+            "waste cotton",
+            "waste textiles",
+            "wastepaper",
+            "PET textiles"
+        ],
+        "transforming_process": [
+            "depolymerise",
+            "blending",
+            "chemical recycling",
+            "recycling"
+        ],
+        "transformed_resource": [
+            "viscose",
+            "virgin cotton",
+            "cellulose",
+            "recycled PET"
+        ],
+        "reference": "10.1016/j.cogsc.2022.100685_chunk8"
+    },
+    {
+        "waste": [
+            "traditional solvents",
+            "ionic liquids",
+            "contaminated wastes",
+            "waste fibres",
+            "cellulosic materials",
+            "cotton",
+            "polycotton"
+        ],
+        "transforming_process": [
+            "chemical recycling",
+            "dissolution of waste fibres"
+        ],
+        "transformed_resource": [
+            "recycled solvents",
+            "non-toxic solvents",
+            "bio-based solvents"
+        ],
+        "reference": "10.1016/j.cogsc.2022.100685_chunk9"
+    },
+    {
+        "waste": [
+            "textile waste",
+            "polymer waste",
+            "PET-based products"
+        ],
+        "transforming_process": [
+            "solvent-based recycling",
+            "chemical recycling",
+            "fermentation",
+            "thermochemical processes",
+            "gasification",
+            "microwaves"
+        ],
+        "transformed_resource": [
+            "polyester",
+            "pyrolysis oils",
+            "syngas"
+        ],
+        "reference": "10.1016/j.cogsc.2022.100685_chunk12"
+    },
+    {
+        "waste": [
+            "waste textiles",
+            "old clothes",
+            "PET waste"
+        ],
+        "transforming_process": [
+            "chemical recycling",
+            "depolymerisation",
+            "hydrolysis",
+            "aminolysis",
+            "alcoholysis"
+        ],
+        "transformed_resource": [
+            "monomers",
+            "dimethyl terephthalate",
+            "ethylene glycol",
+            "useful compounds"
+        ],
+        "reference": "10.1016/j.cogsc.2022.100685_chunk13"
+    },
+    {
+        "waste": [
+            "PET waste",
+            "cotton waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "electrocatalysis",
+            "recycling"
+        ],
+        "transformed_resource": [
+            "commodity chemicals",
+            "hydrogen",
+            "biomass chemicals"
+        ],
+        "reference": "10.1016/j.cogsc.2022.100685_chunk15"
+    },
+    {
+        "waste": [
+            "paper mill waste streams",
+            "excess cereal straws",
+            "waste cotton"
+        ],
+        "transforming_process": [
+            "cellulose-to-chemicals processes",
+            "clean-up of the waste",
+            "preferential dissolution of the polyester",
+            "preferentially dissolved cotton"
+        ],
+        "transformed_resource": [
+            "chemicals",
+            "clean cotton"
+        ],
+        "reference": "10.1016/j.cogsc.2022.100685_chunk16"
+    },
+    {
+        "waste": [
+            "cotton waste",
+            "fabric wastes"
+        ],
+        "transforming_process": [
+            "valorisation",
+            "pyrolysis",
+            "conversion",
+            "production"
+        ],
+        "transformed_resource": [
+            "valuable chemicals",
+            "phenols",
+            "syngas",
+            "ketones",
+            "furans",
+            "aldehydes",
+            "porous carbonaceous solids",
+            "levoglucosenone",
+            "green solvents"
+        ],
+        "reference": "10.1016/j.cogsc.2022.100685_chunk17"
+    },
+    {
+        "waste": [
+            "used clothes",
+            "fabric waste"
+        ],
+        "transforming_process": [
+            "recycling",
+            "reuse",
+            "conversion",
+            "simplification of upstream processing"
+        ],
+        "transformed_resource": [
+            "new clothes",
+            "valuable chemicals",
+            "monomers",
+            "new synthetic materials"
+        ],
+        "reference": "10.1016/j.cogsc.2022.100685_chunk23"
+    }
+]

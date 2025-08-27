@@ -1,0 +1,101 @@
+[
+    {
+        "waste": [
+            "food residues",
+            "lignocellulosic wastes",
+            "discarded husks",
+            "leaves",
+            "seeds"
+        ],
+        "transforming_process": [
+            "thermochemical routes",
+            "biochemical process",
+            "selective degradation of biomass fractions"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "bio-crude",
+            "fermentable sugars",
+            "ethanol",
+            "value-added products"
+        ],
+        "reference": "10.1016/j.ultsonch.2020.105455_chunk1"
+    },
+    {
+        "waste": [
+            "biomass",
+            "triglycerides from vegetable oil",
+            "toxic substances used in oil extraction"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "biomass gasification",
+            "steam gasification",
+            "partial oxidation",
+            "transesterification reaction"
+        ],
+        "transformed_resource": [
+            "energy-dense product",
+            "fuels",
+            "solvents",
+            "polymers derivatives",
+            "fatty acid alkyl esters (biodiesel)"
+        ],
+        "reference": "10.1016/j.ultsonch.2020.105455_chunk20"
+    },
+    {
+        "waste": [
+            "biomass",
+            "lignocellulosic wastes"
+        ],
+        "transforming_process": [
+            "biomass conversion",
+            "US-assisted biofuels production",
+            "extraction of value-added products"
+        ],
+        "transformed_resource": [
+            "value-added products",
+            "essential oils",
+            "polyphenols"
+        ],
+        "reference": "10.1016/j.ultsonch.2020.105455_chunk28"
+    },
+    {
+        "waste": [
+            "lignocellulosic waste"
+        ],
+        "transforming_process": [
+            "valorization",
+            "conventional solid-liquid extraction",
+            "accelerated solvent extraction",
+            "supercritical CO2 extraction",
+            "subcritical water extraction"
+        ],
+        "transformed_resource": [
+            "essential oils",
+            "polyphenols",
+            "flavonoids",
+            "anthocyanins",
+            "renewable products"
+        ],
+        "reference": "10.1016/j.ultsonch.2020.105455_chunk29"
+    },
+    {
+        "waste": [
+            "residual materials",
+            "food wastes",
+            "lignocellulosic materials"
+        ],
+        "transforming_process": [
+            "demoulding procedures",
+            "cutting procedures",
+            "US-assisted extraction",
+            "extraction protocols"
+        ],
+        "transformed_resource": [
+            "reused materials",
+            "biomass valorization"
+        ],
+        "reference": "10.1016/j.ultsonch.2020.105455_chunk37"
+    }
+]

@@ -101,12 +101,13 @@ def process_fulltext(args):
     result_invalid_file = os.path.join(args.save_dir, "w2r_fulltext_invalid.txt")
     result_invalid_doi_file = os.path.join(args.save_dir, "w2r_fulltext_invalid_doi.txt")
 
-    result_json_list_final = []
+    # result_json_list_final = []    # do not use this: as the list expands, the speed gets slow
     result_invalid_str = ""
     result_invalid_doi_list = []
 
     total_time = 0
     fulltext_available = 0
+    extraction_count = 0
 
     # create subfolder to store results for each review paper
     each_paper_save_dir = os.path.join(args.save_dir, "review_papers")
@@ -146,7 +147,8 @@ def process_fulltext(args):
                 for result_json_item, chunk_id in zip(result_json_list, chunk_id_list):
                     result_json_item["reference"] = "{}_chunk{}".format(doi, chunk_id)
                     result_json_list_i.append(result_json_item)
-                    result_json_list_final.append(result_json_item)
+                    # result_json_list_final.append(result_json_item)
+                    extraction_count += 1
 
                     # save results for each fulltext
                     result_json_file_i = os.path.join(each_paper_save_dir, "w2r_fulltext_results_{}.json".format(i))
@@ -159,9 +161,9 @@ def process_fulltext(args):
             
             logging.info(f"Processed {doi}, time in seconds: {time_i}")
 
-    # save final results
-    with open(result_json_file, 'w') as file:
-        json.dump(result_json_list_final, file, indent=4)
+    # # save final results
+    # with open(result_json_file, 'w') as file:
+    #     json.dump(result_json_list_final, file, indent=4)
 
     try:
         with open(result_invalid_file, 'w') as file:
@@ -176,8 +178,8 @@ def process_fulltext(args):
 
     logging.info("-------------"*5)
     logging.info(f"Fulltext available: {fulltext_available} / {len(review_papers)}")
-    logging.info(f"Successfully extracted: {len(result_json_list_final)}")
-    logging.info(f"Total time: {total_time}, averaged time: {total_time/len(result_json_list_final) if result_json_list_final else 0} seconds")
+    logging.info(f"Successfully extracted: {extraction_count}")
+    logging.info(f"Total time: {total_time}, averaged time: {total_time/extraction_count if extraction_count else 0} seconds")
 
 
 def main(args):

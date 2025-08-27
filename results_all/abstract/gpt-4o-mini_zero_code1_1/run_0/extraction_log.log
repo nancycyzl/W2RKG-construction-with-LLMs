@@ -1,0 +1,149 @@
+Argument num: -1
+Argument start_index: 4491
+Argument model: gpt-4o-mini
+Argument prompt: zero
+Argument style: code1
+Argument temperature: 1
+Argument save_dir: result_all\gpt-4o-mini_zero_code1\run_0
+Argument save_dir_rewrite: False
+Argument shot_k: 2
+Argument shot_ids: []
+Argument repeat: 1
+-----------------------------------------------------------------
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+----------------------------------
+Processing abstract 0
+Coded abstract: 
+
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "The processing of Citrofortunella mircocarpa fruit juice generates large volume of solid waste, causing disposal problem. Several studies have demonstrated that wastes from agricultural and food processing industries such as fruit and vegetable peels contain high amount of polysaccharides that can be transformed into useful chemicals, including lactic acid, through fermentation. Lactic acid is widely used in various industries, such as in the manufacture of biodegradable plastic, and the demand for this chemical justifies the search of renewable feedstock for its biotechnological production. This study aimed to produce lactic acid from C. microcarpa fruit waste biomass through fermentation with Lactobacillus plantarum. The hydrolysate from C. microcarpa fruit waste was prepared, inoculated with different amounts of L. plantarum cell suspension, and incubated for three days. Lactic acid production was monitored daily. The lactic acid produced from the fermentation was recovered as calcium lactate and lactic acid crystals. The identity of the crystals was evaluated using Fourier transform infrared spectroscopy (FTIR) spectroscopy and paper chromatography. The highest lactic acid production was observed in fermentation mixtures containing the highest number of L. plantarum cells. Within three days of fermentation, the amount of lactic acid production increased with increasing period of incubation. Partial characterization of the crystals recovered from the fermentation mixtures by FTIR spectroscopy showed that the peaks in the spectrum were consistent with the chemical structure of lactate. Paper chromatography results likewise confirmed that the crystals are lactate. C. microcarpa fruit waste can afford lactic acid when fermented with L. plantarum. The results of the study may serve as basis for the development of technology for the utilization of C. microcarpa fruit waste biomass as renewable resource for industrial production of lactic acid."
+        
+LLM response: 
+```python
+w2r["waste"] = ["C. microcarpa fruit waste", "fruit and vegetable peels"]
+w2r["transforming_process"] = ["fermentation with Lactobacillus plantarum", "preparation of hydrolysate", "incubation"]
+w2r["transformed_resource"] = ["lactic acid", "calcium lactate", "lactic acid crystals"]
+```
+Extracted w2r: 
+{'waste': ['C. microcarpa fruit waste', 'fruit and vegetable peels'], 'transforming_process': ['fermentation with Lactobacillus plantarum', 'preparation of hydrolysate', 'incubation'], 'transformed_resource': ['lactic acid', 'calcium lactate', 'lactic acid crystals'], 'reference': '10.12911/22998993/74308'}
+Time taken: 1.48 seconds
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+----------------------------------
+Processing abstract 1
+Coded abstract: 
+
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "Food waste, as a major part of the municipal solid waste has been generated increasingly worldwide. Efficient and feasible utilization of this waste material for productivity process is significant for both economical and environmental reasons. In the present study, Musca domestica larva was used as the carrier to conduct a bioconversion with food waste to get the value-added maggot protein, oil and organic fertilizers. Methods of adult flies rearing, culture medium adjuvant selection, maggot culture conditions, stocking density and the valorization of the waste have been explored. From the experimental results, every 1000 g culture mediums (700 g food waste and 300 g adjuvant) could be disposed by 1.5 g M. domestica eggs under proper culture conditions after emergence in just 4 days, 42.95 ± 0.25% of which had been consumed and the culture medium residues could be used as good organic fertilizers, accompanying with the food waste consumption, \u223c53.08 g dried maggots that contained 57.06 ± 2.19% protein and 15.07 ± 2.03% oil had been produced. The maggot protein for its outstanding pharmacological activities is regarded as a good raw material in the field of medicine and animal feeding. Meanwhile, the maggot oil represents a potential alternative feedstock for biodiesel production. In our study, the maggot biodiesel was obtained after the procedure of transesterification reaction with methanol and the productivity was 87.71%. © 2016 Elsevier Ltd"
+        
+LLM response: 
+```python
+w2r["waste"] = ["food waste"]
+w2r["transforming_process"] = ["bioconversion", "transesterification reaction"]
+w2r["transformed_resource"] = ["maggot protein", "maggot oil", "organic fertilizers", "biodiesel"]
+```
+Extracted w2r: 
+{'waste': ['food waste'], 'transforming_process': ['bioconversion', 'transesterification reaction'], 'transformed_resource': ['maggot protein', 'maggot oil', 'organic fertilizers', 'biodiesel'], 'reference': '10.1016/j.wasman.2016.10.054'}
+Time taken: 1.13 seconds
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+----------------------------------
+Processing abstract 2
+Coded abstract: 
+
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "In this study, raw attapulgite (APT) and a novel adsorbent, struvite/attapulgite (MAP/APT) obtained from nutrient-rich wastewater treated by MgO modified APT, were applied as the absorbent for Cd(II) ion removal from aqueous solution. The two adsorbents were characterized by BET, SEM-EDS, XRD, FT-IR. Raw APT and MAP/APT separately presented the maximum Cd(II) adsorption capacities of 10.38 mg/g and 121.14 mg/g at pH of 5.45. The Cd(II) adsorption on raw APT and MAP/APT could be well fitted by Freundlich isotherm and Langmuir isotherm, respectively. Pseudo-second order equation was able to properly describe the kinetics of Cd(II) adsorption by raw APT and MAP/APT. The calculated thermodynamic parameters indicated that Cd(II) adsorption onto raw APT and MAP/APT were spontaneous and endothermic. An economic evaluation revealed that the treatment costs of the adsorption process by raw APT and MPA/APT were 0.013 $ per 1000 mg Cd and 0.004 $ per 1000 mg Cd, respectively. © 2017 Elsevier B.V."
+        
+LLM response: 
+```python
+w2r["waste"] = ["nutrient-rich wastewater", "raw attapulgite (APT)"]
+w2r["transforming_process"] = ["treatment by MgO modified APT", "adsorption process"]
+w2r["transformed_resource"] = ["struvite/attapulgite (MAP/APT)", "Cd(II) ion removal"]
+```
+Extracted w2r: 
+{'waste': ['nutrient-rich wastewater', 'raw attapulgite (APT)'], 'transforming_process': ['treatment by MgO modified APT', 'adsorption process'], 'transformed_resource': ['struvite/attapulgite (MAP/APT)', 'Cd(II) ion removal'], 'reference': '10.1016/j.jhazmat.2017.01.025'}
+Time taken: 1.52 seconds
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+----------------------------------
+Processing abstract 3
+Coded abstract: 
+
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "Furfural residue (FR) is a low-cost by-product generated in the furfural production from corncobs, which is mainly composed of cellulose and lignin. In this report, hydrothermal carbonization (HTC) of deashed FR was conducted at various reaction temperatures (200, 220 and 240 °C) and reaction times (1-24 h). The chemical and structural properties of obtained biochars were investigated by elemental analysis, high-resolution solid-state 13C NMR, and X-ray photoelectron spectroscopy (XPS). Our experiments indicated that the biochar yields declined with increasing of reaction temperature and time. According to results from NMR and XPS, 240 °C is an essential temperature for biochar formation. At this temperature, changes in the surface properties initiated within 1 h, and the major transformation occurred within 8 h. The dominating change was cellulose fraction reaction forming furanic and aromatic structures in the biochar, which is faster at higher temperatures. In addition, these biochars showed high thermal stability below 300 °C according to thermogravimetric analysis. This study can provide a valuable approach for FR utilization. © 2017 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim"
+        
+LLM response: 
+```python
+w2r["waste"] = ["furfural residue"]
+w2r["transforming_process"] = ["hydrothermal carbonization"]
+w2r["transformed_resource"] = ["biochar"]
+```
+Extracted w2r: 
+{'waste': ['furfural residue'], 'transforming_process': ['hydrothermal carbonization'], 'transformed_resource': ['biochar'], 'reference': '10.1002/slct.201602026'}
+Time taken: 0.99 seconds
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+----------------------------------
+Processing abstract 4
+Coded abstract: 
+
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "Industrial wastes such as fly ash often have a relatively high content of valuable metals. Many waste valorisation processes are based on hydrometallurgical methods, including leaching to dissolve and recover the desired elements, but this can change the waste's properties. If the residual waste cannot be reused after valorisation, its management and environmental costs could make the process unprofitable or unacceptable from an environmental point of view. This paper explores the possibility of reusing germanium-rich fly ash as a cement replacement in the construction industry after hydrometallurgical valorisation to recover germanium. Several properties of the fly ash were compared before and after leaching, including chemical composition, density and particle size. Different fly ash-cement mixtures were then prepared, and the pozzolanicity, volume stability/expansion and setting time of the mixtures were compared. Next, the mechanical properties of mortars made from the mixtures were determined. The mortars containing processed fly ash were not significantly different from the control mortar, proving that the reuse of valorised fly ash in the construction industry is viable. © 2017 ICE Publishing. All rights reserved."
+        
+LLM response: 
+```python
+w2r["waste"] = ["fly ash"]
+w2r["transforming_process"] = ["hydrometallurgical methods", "leaching"]
+w2r["transformed_resource"] = ["germanium-rich fly ash", "cement replacement"]
+```
+Extracted w2r: 
+{'waste': ['fly ash'], 'transforming_process': ['hydrometallurgical methods', 'leaching'], 'transformed_resource': ['germanium-rich fly ash', 'cement replacement'], 'reference': '10.1680/jensu.16.00060'}
+Time taken: 1.33 seconds
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+----------------------------------
+Processing abstract 5
+Coded abstract: 
+
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "This study evaluated the use of three solid brewery wastes: brewer's spent grain, hot trub and residual brewer's yeast, as alternative media for the cultivation of lactic acid bacteria to evaluate their potential for proteolytic enzyme production. Initially, a mixture experimental design was used to evaluate the effect of each residue, as well as different mixtures (with the protein content set at 4 %) in the enzyme production. At predetermined intervals, the solid and liquid fractions were separated and the extracellular proteolytic activity was determined. After selecting the best experimental conditions, a second experiment, factorial experimental design, was developed in order to evaluate the protein content in the media (1 to 7 %) and the addition of fermentable sugar (glucose, 1 to 7 %). Among the wastes, residual yeast showed the highest potential for the production of extracellular enzymes, generating a proteolytic extract with 2.6 U/mL in 3 h. However, due to the low content of the fermentable sugars in the medium, the addition of glucose also had a positive effect, increasing the proteolytic activity to 4.9 U/mL. The best experimental conditions of each experimental design were reproduced for comparison, and the enzyme content was separated by ethanol precipitation. The best medium produced a precipitated protein with proteolytic activity of 145.5 U/g."
+        
+LLM response: 
+w2r["waste"] = ["brewer's spent grain", "hot trub", "residual brewer's yeast"]
+w2r["transforming_process"] = ["cultivation of lactic acid bacteria", "separation of solid and liquid fractions", "determination of extracellular proteolytic activity", "addition of fermentable sugar", "ethanol precipitation"]
+w2r["transformed_resource"] = ["proteolytic enzyme", "proteolytic extract", "precipitated protein"]
+Extracted w2r: 
+{'waste': ["brewer's spent grain", 'hot trub', "residual brewer's yeast"], 'transforming_process': ['cultivation of lactic acid bacteria', 'separation of solid and liquid fractions', 'determination of extracellular proteolytic activity', 'addition of fermentable sugar', 'ethanol precipitation'], 'transformed_resource': ['proteolytic enzyme', 'proteolytic extract', 'precipitated protein'], 'reference': '10.17113/ftb.55.02.17.4378'}
+Time taken: 1.60 seconds
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+----------------------------------
+Processing abstract 6
+Coded abstract: 
+
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "Valorisation of bread waste for hydroxymethylfurfural (HMF) synthesis was examined in dimethyl sulfoxide (DMSO)-, tetrahydrofuran (THF)-, acetonitrile (ACN)-, and acetone-water (1:1 v/v), under heating at 140 °C with SnCl4 as the catalyst. The overall rate of the process was the fastest in ACN/H2O and acetone/H2O, followed by DMSO/H2O and THF/H2O due to the rate-limiting glucose isomerisation. However, the formation of levulinic acid (via rehydration) and humins (via polymerisation) was more significant in ACN/H2O and acetone/H2O. The constant HMF maxima (26–27 mol%) in ACN/H2O, acetone/H2O, and DMSO/H2O indicated that the rates of desirable reactions (starch hydrolysis, glucose isomerisation, and fructose dehydration) relative to undesirable pathways (HMF rehydration and polymerisation) were comparable among these mediums. They also demonstrated higher selectivity towards HMF production over the side reactions than THF/H2O. This study differentiated the effects of polar aprotic solvent-water mediums on simultaneous pathways during biomass conversion. © 2017 Elsevier Ltd"
+        
+LLM response: 
+```python
+w2r["waste"] = ["bread waste"]
+w2r["transforming_process"] = ["valorisation", "synthesis", "heating", "glucose isomerisation", "rehydration", "polymerisation", "starch hydrolysis", "fructose dehydration"]
+w2r["transformed_resource"] = ["hydroxymethylfurfural (HMF)", "levulinic acid", "humins"]
+```
+Extracted w2r: 
+{'waste': ['bread waste'], 'transforming_process': ['valorisation', 'synthesis', 'heating', 'glucose isomerisation', 'rehydration', 'polymerisation', 'starch hydrolysis', 'fructose dehydration'], 'transformed_resource': ['hydroxymethylfurfural (HMF)', 'levulinic acid', 'humins'], 'reference': '10.1016/j.biortech.2017.08.170'}
+Time taken: 1.57 seconds
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+----------------------------------
+Processing abstract 7
+Coded abstract: 
+
+        w2r = {"waste": [], "transforming_process": [], "transformed_resource": []}
+        text = "The activated carbon is acknowledged as a promising adsorbent to be applied in various applications due to its low cost, well-developed pore structures, and high adsorption capacity. At present, the increasing abundance of oil palm wastes has resulted in various environmental problems. Accordingly, these agro wastes can be employed as potential low-cost precursors for the activated carbon production. This review paper presents a comprehensive overview on the recent advancement in the utilisation of oil palm wastes as the origin of the activated carbon production, specifically from the year 2011 to the present. Throughout this review paper, a strong emphasis is put on the recent activation methodology towards the oil palm residues. This includes the types of thermal heating mode: conventional furnace-heating and microwave-heating. The experimental designs applied in fabricating the activated carbons from the oil palm wastes are discussed. Overall, this review paper assists researchers to move forward in exploring a simple and economically-viable technique to produce oil palm wastes-based activated carbon with outstanding physiochemical properties and excellent adsorption capacity. © 2016 Elsevier B.V."
+        
+LLM response: 
+```python
+w2r["waste"] = ["oil palm wastes"]
+w2r["transforming_process"] = ["activated carbon production", "conventional furnace-heating", "microwave-heating"]
+w2r["transformed_resource"] = ["activated carbon"]
+```
+Extracted w2r: 
+{'waste': ['oil palm wastes'], 'transforming_process': ['activated carbon production', 'conventional furnace-heating', 'microwave-heating'], 'transformed_resource': ['activated carbon'], 'reference': '10.1016/j.cej.2016.11.059'}
+Time taken: 1.29 seconds
+-----------------------------------------------------------------
+Successfully extracted: 8 / 8
+Total time: 10.916017770767212, averaged time: 1.3645022213459015 seconds

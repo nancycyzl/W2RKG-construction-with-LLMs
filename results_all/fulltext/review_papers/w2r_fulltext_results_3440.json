@@ -1,0 +1,924 @@
+[
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "extraction",
+            "fermentation",
+            "solid-state fermentation"
+        ],
+        "transformed_resource": [
+            "biopolymers"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk1"
+    },
+    {
+        "waste": [
+            "effluents from food oil",
+            "food waste"
+        ],
+        "transforming_process": [
+            "bacterial fermentation"
+        ],
+        "transformed_resource": [
+            "PHA"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk4"
+    },
+    {
+        "waste": [
+            "wastes from food industries",
+            "skins from cattle",
+            "skins from pigs",
+            "bones from abattoirs",
+            "fish wastes",
+            "scales",
+            "bones",
+            "eggshells",
+            "chicken processing waste"
+        ],
+        "transforming_process": [
+            "production of collagen"
+        ],
+        "transformed_resource": [
+            "collagen",
+            "Type I collagen",
+            "gelatine"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk7"
+    },
+    {
+        "waste": [
+            "food wastes",
+            "cheese whey",
+            "spent malt grains",
+            "citrus wastes",
+            "agro-industrial by-products"
+        ],
+        "transforming_process": [
+            "production of xanthan gum",
+            "synthesis of PHA"
+        ],
+        "transformed_resource": [
+            "xanthan gum",
+            "PHA"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk11"
+    },
+    {
+        "waste": [
+            "seafood production waste",
+            "trimmings",
+            "fins",
+            "heads",
+            "skin",
+            "shells",
+            "viscera"
+        ],
+        "transforming_process": [
+            "deproteinization by alkali treatment",
+            "demineralization by acidic treatments",
+            "bleaching with reagents"
+        ],
+        "transformed_resource": [
+            "chitin",
+            "chitosan"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk13"
+    },
+    {
+        "waste": [
+            "crustacean shell",
+            "shrimp shell waste"
+        ],
+        "transforming_process": [
+            "enzymatic process",
+            "fermentation",
+            "deproteinization"
+        ],
+        "transformed_resource": [
+            "chitosan",
+            "chitin"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk14"
+    },
+    {
+        "waste": [
+            "dried shrimp shells",
+            "shrimp shells",
+            "shrimp waste",
+            "crustacean shell waste"
+        ],
+        "transforming_process": [
+            "demineralization with 1 N HCl",
+            "deproteinization with 3.5% NaOH",
+            "demineralization with 5% HCl",
+            "deproteinization with 5% NaOH",
+            "microbial fermentation",
+            "pre-treatment by atmospheric pressure dielectric barrier discharge plasma"
+        ],
+        "transformed_resource": [
+            "chitosan",
+            "chitin",
+            "carotenoids",
+            "protein"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk15"
+    },
+    {
+        "waste": [
+            "prawn shell",
+            "crab shell"
+        ],
+        "transforming_process": [
+            "deproteinization",
+            "demineralization",
+            "deacetylation",
+            "plasma treatment"
+        ],
+        "transformed_resource": [
+            "chitin",
+            "chitosan"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk16"
+    },
+    {
+        "waste": [
+            "crab shells",
+            "crayfish shells",
+            "shrimp shells"
+        ],
+        "transforming_process": [
+            "demineralization with 7% HCl",
+            "deproteinization with 5% NaOH",
+            "isolation with NaClO",
+            "changing concentration of NaOH",
+            "changing concentration of HCl"
+        ],
+        "transformed_resource": [
+            "chitin"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk17"
+    },
+    {
+        "waste": [
+            "crab shell wastes",
+            "lobster shell wastes"
+        ],
+        "transforming_process": [
+            "fermentation using protease producing Bacillus strains",
+            "fermentation using protease producing bacteria and organic acid-producing bacterium"
+        ],
+        "transformed_resource": [
+            "chitin"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk18"
+    },
+    {
+        "waste": [
+            "agro-wastes",
+            "discarded parts of chicken",
+            "egg",
+            "fish",
+            "non-collagenous protein",
+            "skin and fins of fishes",
+            "bone"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "acid hydrolyses",
+            "enzymatic hydrolyses",
+            "hydrolyze"
+        ],
+        "transformed_resource": [
+            "chitin",
+            "collagen"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk19"
+    },
+    {
+        "waste": [
+            "fish waste",
+            "poultry wastes",
+            "chicken feet skin",
+            "non-collagenous proteins",
+            "chicken skin"
+        ],
+        "transforming_process": [
+            "extraction with 0.45 M NaCl",
+            "extraction with 0.5 M acetic acid",
+            "extraction with 0.1% pepsin",
+            "mixing with 0.1 N NaOH",
+            "defatting with butyl alcohol",
+            "soaking in 0.1 N HCl"
+        ],
+        "transformed_resource": [
+            "collagen",
+            "salt soluble collagen",
+            "acid-soluble collagen",
+            "pepsin soluble collagen"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk20"
+    },
+    {
+        "waste": [
+            "chicken skin",
+            "fat",
+            "non-collagenous protein",
+            "sugarcane bagasse"
+        ],
+        "transforming_process": [
+            "treating with acetic acid and pepsin",
+            "removing with ethanol and NaOH",
+            "optimization study for extraction"
+        ],
+        "transformed_resource": [
+            "type I collagen",
+            "lignin",
+            "hemicelluloses"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk21"
+    },
+    {
+        "waste": [
+            "bagasse",
+            "straw"
+        ],
+        "transforming_process": [
+            "alkaline treatment",
+            "sequential extraction",
+            "graded precipitation with ethanol",
+            "hydrogen peroxide treatment"
+        ],
+        "transformed_resource": [
+            "hemicelluloses",
+            "alkali-soluble lignin"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk23"
+    },
+    {
+        "waste": [
+            "cheese whey",
+            "citrus waste",
+            "apple pomace",
+            "grape pomace",
+            "jackfruit seed powder",
+            "peptone",
+            "citric acid",
+            "K2HPO4",
+            "KH2PO4",
+            "starch"
+        ],
+        "transforming_process": [
+            "using X. campestris",
+            "production of xanthan",
+            "production of xanthan gum",
+            "slicing",
+            "washing",
+            "enzymatic processing"
+        ],
+        "transformed_resource": [
+            "xanthan gum",
+            "biopolymers"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk26"
+    },
+    {
+        "waste": [
+            "potato starch waste",
+            "malt",
+            "potato waste",
+            "kitchen waste hydrolysate",
+            "chicken feather peptone",
+            "coconut shell"
+        ],
+        "transforming_process": [
+            "enzymatic hydrolysis",
+            "solid-state fermentation",
+            "submerged fermentation",
+            "semi-solid state fermentation",
+            "batch fermentation"
+        ],
+        "transformed_resource": [
+            "glucose",
+            "xanthan gum"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk27"
+    },
+    {
+        "waste": [
+            "coconut shell",
+            "cocoa husks",
+            "food waste",
+            "waste substrates"
+        ],
+        "transforming_process": [
+            "minimal supplementation of urea and potassium",
+            "chemical processing",
+            "biological processing"
+        ],
+        "transformed_resource": [
+            "xanthan gum",
+            "PHA"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk28"
+    },
+    {
+        "waste": [
+            "dairy waste",
+            "soluble organics",
+            "suspended solids",
+            "trace organics",
+            "fats",
+            "oils",
+            "grease",
+            "minerals",
+            "phosphates"
+        ],
+        "transforming_process": [
+            "production of PHA"
+        ],
+        "transformed_resource": [
+            "poly 3-hydroxybutyric acid (PHB)",
+            "3-hydroxybutyrate"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk29"
+    },
+    {
+        "waste": [
+            "dairy waste",
+            "potato waste",
+            "barley malt",
+            "buttermilk",
+            "saccharified waste potato"
+        ],
+        "transforming_process": [
+            "microbial fermentation",
+            "fermentation using Alcaligenes eutrophus",
+            "fermentation using Ralstonia eutropha"
+        ],
+        "transformed_resource": [
+            "biopolymer",
+            "PHB"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk30"
+    },
+    {
+        "waste": [
+            "saccharified waste potato",
+            "sugarcane bagasse",
+            "fish waste",
+            "waste fish oil",
+            "glycerol"
+        ],
+        "transforming_process": [
+            "PHB production",
+            "utilization of sugarcane bagasse as a carbon substrate",
+            "production of PHA"
+        ],
+        "transformed_resource": [
+            "PHB",
+            "PHA"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk31"
+    },
+    {
+        "waste": [
+            "waste fish oil",
+            "fish sauce",
+            "fish solid waste",
+            "chicken feather hydrolysate",
+            "waste frying oil"
+        ],
+        "transforming_process": [
+            "production of PHB",
+            "production of PHA"
+        ],
+        "transformed_resource": [
+            "PHB",
+            "PHA"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk32"
+    },
+    {
+        "waste": [
+            "chicken feather waste",
+            "poultry litter",
+            "olive oil distillate",
+            "used cooking oil",
+            "biodiesel fatty acids by-product"
+        ],
+        "transforming_process": [
+            "microwave-assisted alkaline hydrolysis",
+            "fermentation using Pseudomonas putida KT2440",
+            "biodegradation",
+            "supplementation with CO2"
+        ],
+        "transformed_resource": [
+            "mcl-PHA",
+            "PHB",
+            "P(3HB-co-3HV) copolymer",
+            "fatty acids"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk33"
+    },
+    {
+        "waste": [
+            "fats from refinery waste",
+            "sludge",
+            "margarine",
+            "waste frying oil",
+            "waste water from oil mills",
+            "fatty wastes"
+        ],
+        "transforming_process": [
+            "PHA production",
+            "bacterial fermentation"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "polymers"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk34"
+    },
+    {
+        "waste": [
+            "used cooking oil",
+            "UCO",
+            "sugar-containing wastes",
+            "fat-containing wastes"
+        ],
+        "transforming_process": [
+            "bacterial fermentation",
+            "PHA production",
+            "online monitoring process"
+        ],
+        "transformed_resource": [
+            "PHA"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk35"
+    },
+    {
+        "waste": [
+            "crude glycerol",
+            "glycerol from biodiesel",
+            "slaughterhouse waste",
+            "fatty acid residues",
+            "lipid-rich surplus streams"
+        ],
+        "transforming_process": [
+            "chemical transformation into crude glycerol phase",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "copolymers P(3HB-co-3HV)",
+            "scl-PHA",
+            "mcl-PHA",
+            "homopolyester PHB"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk36"
+    },
+    {
+        "waste": [
+            "saturated biodiesel fraction (SFAE)",
+            "glycerol",
+            "waste cooking oil"
+        ],
+        "transforming_process": [
+            "fermentation using saturated biodiesel fraction (SFAE)",
+            "fermentation using glycerol",
+            "fermentation by Cupriavidus necator",
+            "fermentation by Ps. Citronellolis",
+            "fermentation by Ps. Chlororaphis"
+        ],
+        "transformed_resource": [
+            "homopolyester PHB",
+            "P(3HB-co-3HV)",
+            "3-hydroxyoctanoate (3-HO)",
+            "3-hydroxydecanoate (3-HD)",
+            "3-hydroxydodecanoate (3-DD)",
+            "3-hydroxynonanoate (3-HN)",
+            "3-hydroxyhexanoate (3-HHx)",
+            "3-hydroxyheptanoate (3-HHp)"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk37"
+    },
+    {
+        "waste": [
+            "waste cooking oil",
+            "used cooking oil",
+            "waste frying oil",
+            "waste frying rapeseed oil"
+        ],
+        "transforming_process": [
+            "PHA production",
+            "chemical mutagenesis",
+            "mutation of wild type strain",
+            "aeration regulation",
+            "redox balance regulation",
+            "mild oxidative stress conditions"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "PHB"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk38"
+    },
+    {
+        "waste": [
+            "waste frying oil",
+            "pure vegetable oil",
+            "residual oil traces",
+            "high free fatty acids",
+            "soil",
+            "slaughterhouse waste"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "growth on oils",
+            "uptake of fatty acid by C. necator into the \u03b2-fatty acid oxidation cycle"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "PHB"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk39"
+    },
+    {
+        "waste": [
+            "slaughterhouse waste",
+            "waste cooking oil",
+            "commercial lard",
+            "tallow",
+            "palm oil mill waste",
+            "residual oil",
+            "lignocellulosic materials"
+        ],
+        "transforming_process": [
+            "isolating strains",
+            "growing on waste cooking oil",
+            "anaerobically treated"
+        ],
+        "transformed_resource": [
+            "polymer",
+            "carbon",
+            "nitrogen",
+            "mixed organic acids",
+            "PHA"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk40"
+    },
+    {
+        "waste": [
+            "palm oil mill effluent",
+            "residual glycerol by-product from palm oil",
+            "waste frying oil",
+            "castor oil",
+            "jatropha oil",
+            "whey",
+            "olive oil mill waste"
+        ],
+        "transforming_process": [
+            "biosynthesis of homopolymer and copolymer of P(3HB) and P(3HB-co-3HV)",
+            "production of PHB using native strains",
+            "growing Bacillus megaterium in combined substrate system using glycerol"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "PHB"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk41"
+    },
+    {
+        "waste": [
+            "olive oil distillate",
+            "oil mill wastewater",
+            "cheese whey",
+            "whey sugars",
+            "glycerol",
+            "rice bran",
+            "starch",
+            "sunflower meal hydrolysates",
+            "crude glycerol",
+            "levulinic acid"
+        ],
+        "transforming_process": [
+            "cultivated on olive oil distillate",
+            "produced from oil mill wastewater",
+            "recovered from cheese whey",
+            "recovered from whey sugars",
+            "recovered from glycerol",
+            "recovered from rice bran",
+            "recovered from starch",
+            "used as sole feedstock for the production of PHB and P(3HB-co-3HV)"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "PHBHV",
+            "PHB",
+            "P(3HB-co-3HV)"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk42"
+    },
+    {
+        "waste": [
+            "levulinic acid",
+            "SFM",
+            "crude glycerol",
+            "fruit and vegetable wastes",
+            "tomato processing wastes",
+            "lemon processing wastes",
+            "residues from fruit juice industries",
+            "crop residues",
+            "vegetable wastes",
+            "tomato",
+            "carrot",
+            "fennel"
+        ],
+        "transforming_process": [
+            "fed-batch fermentation"
+        ],
+        "transformed_resource": [
+            "PHB",
+            "P(3HB-co-3HV)"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk43"
+    },
+    {
+        "waste": [
+            "vegetable wastes",
+            "tomato",
+            "carrot",
+            "fennel",
+            "lemon",
+            "wine lees",
+            "crude glycerol"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "PHB production"
+        ],
+        "transformed_resource": [
+            "bacterial biomass",
+            "biopolymers",
+            "PHB"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk44"
+    },
+    {
+        "waste": [
+            "food waste",
+            "pomaces from apricot",
+            "pomaces from grapes",
+            "pomaces from cherries",
+            "wasted frying oil",
+            "hydrolyzed pomace",
+            "enzyme pre-treated grape pomace",
+            "winery waste"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "biorefining",
+            "using Pseudomonas strains",
+            "using C. necator for carbon source"
+        ],
+        "transformed_resource": [
+            "PHB",
+            "mcl -PHA",
+            "PHA"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk45"
+    },
+    {
+        "waste": [
+            "grape pomace",
+            "food wastes"
+        ],
+        "transforming_process": [
+            "used as a carbon source by C. necator for the production of PHA",
+            "anaerobically digested under batch acidogenic conditions",
+            "supplemented with fatty acids for PHA accumulation",
+            "2-step fermentation strategy"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "volatile fatty acids",
+            "biopolymers",
+            "mcl-PHA"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk46"
+    },
+    {
+        "waste": [
+            "Gew\u00fcrztraminer white grape pomace",
+            "soluble fractions from apple pulp waste",
+            "pea shells",
+            "potato peels",
+            "onion peels",
+            "apple pomaces"
+        ],
+        "transforming_process": [
+            "production of mcl-PHA",
+            "hydrolysis of biowaste",
+            "defined mixed culture of Bacillus spp."
+        ],
+        "transformed_resource": [
+            "mcl-PHA",
+            "PHA",
+            "PHB"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk47"
+    },
+    {
+        "waste": [
+            "biowastes",
+            "volatile fatty acid-rich effluents",
+            "agro-food industrial by-products",
+            "leguminous processing water",
+            "fruit processing water",
+            "spent coffee grounds"
+        ],
+        "transforming_process": [
+            "production of PHA",
+            "PHA production using marine bacterial species Halomonas i4786"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "biopolymers"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk48"
+    },
+    {
+        "waste": [
+            "spent coffee grounds",
+            "waste frying oils",
+            "rapeseed oil",
+            "palm oil",
+            "sunflower oil"
+        ],
+        "transforming_process": [
+            "using oil derived from spent coffee grounds for PHB production",
+            "supercritical carbon dioxide extraction of oil from spent coffee grounds"
+        ],
+        "transformed_resource": [
+            "PHB",
+            "PHA"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk49"
+    },
+    {
+        "waste": [
+            "spent coffee ground hydrolysate",
+            "spent coffee grounds"
+        ],
+        "transforming_process": [
+            "detoxification by ethanol",
+            "hydrolysis",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "P(3HB-co-3HV)",
+            "PHB homopolymer",
+            "fermentable sugars"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk50"
+    },
+    {
+        "waste": [
+            "SCG hydrolysates",
+            "defatted SCGs",
+            "coffee waste"
+        ],
+        "transforming_process": [
+            "hydrolysis with 4 vol.% H 2 SO 4",
+            "detoxification with polymeric non-ionic exchanger (Amberlite XAD4)"
+        ],
+        "transformed_resource": [
+            "released saccharides",
+            "PHB",
+            "value-added products",
+            "low cost substitutes",
+            "intermediates for confectionaries",
+            "use in medical, cosmetics, food packaging industries"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk51"
+    },
+    {
+        "waste": [
+            "coffee wastes",
+            "bran",
+            "straw",
+            "wheat straw",
+            "molasses",
+            "rice bran",
+            "plant saps",
+            "volatile fatty acids"
+        ],
+        "transforming_process": [
+            "use in medical, cosmetics, food packaging",
+            "preparation of composite materials",
+            "PHB production",
+            "PHA production",
+            "conversion of carbon sources from wastewater"
+        ],
+        "transformed_resource": [
+            "consumer goods",
+            "composite materials",
+            "PHB",
+            "PHA"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk52"
+    },
+    {
+        "waste": [
+            "wastewater",
+            "rice grain distillery wastewater",
+            "wheat bran",
+            "wheat straw",
+            "sugarcane molasses",
+            "flax fibers"
+        ],
+        "transforming_process": [
+            "PHAs accumulation in mixed cell culture",
+            "fermentation",
+            "bleaching and sulfuric acid-catalyzed acetylation"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "PHB",
+            "cellulose acetate"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk53"
+    },
+    {
+        "waste": [
+            "whey",
+            "invert sugar",
+            "potato waste"
+        ],
+        "transforming_process": [
+            "fermentation process",
+            "synthesis by Cupriavidus necator",
+            "production of lactic acid using microbes"
+        ],
+        "transformed_resource": [
+            "cellulose acetate",
+            "P(3HB-co-3HV)",
+            "lactic acid"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk54"
+    },
+    {
+        "waste": [
+            "potato waste",
+            "sewage solids",
+            "food waste",
+            "potato peel waste",
+            "gelatinized PPW",
+            "un-gelatinized PPW"
+        ],
+        "transforming_process": [
+            "mixed culture fermentation",
+            "anaerobic fermentation"
+        ],
+        "transformed_resource": [
+            "lactic acid",
+            "PLA"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk55"
+    },
+    {
+        "waste": [
+            "potato residues",
+            "fish scales"
+        ],
+        "transforming_process": [
+            "fermentation with Lactobacillus casei",
+            "thermophilic bacteria Geobacillus stearothermophilus",
+            "acid or alkaline hydrolysis"
+        ],
+        "transformed_resource": [
+            "lactic acid",
+            "gelatin"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk56"
+    },
+    {
+        "waste": [
+            "food wastes"
+        ],
+        "transforming_process": [
+            "production of biopolymers",
+            "explore scalability",
+            "investigate process modeling",
+            "develop experiments employing green techniques"
+        ],
+        "transformed_resource": [
+            "biopolymers"
+        ],
+        "reference": "10.1016/j.heliyon.2020.e04891_chunk64"
+    }
+]

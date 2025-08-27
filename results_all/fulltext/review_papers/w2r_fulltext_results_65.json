@@ -1,0 +1,52 @@
+[
+    {
+        "waste": [
+            "vegetable waste",
+            "beetroot remnants",
+            "carrot remnants"
+        ],
+        "transforming_process": [
+            "valorization"
+        ],
+        "transformed_resource": [
+            "bioactive compounds",
+            "\u03b2-carotene",
+            "betalains"
+        ],
+        "reference": "10.1016/j.nut.2024.112452_chunk7"
+    },
+    {
+        "waste": [
+            "food waste",
+            "discarded by-products"
+        ],
+        "transforming_process": [
+            "food waste management",
+            "reuse",
+            "recycling processes"
+        ],
+        "transformed_resource": [
+            "nutritional potential",
+            "PVA carotenoids",
+            "biofortified ingredients"
+        ],
+        "reference": "10.1016/j.nut.2024.112452_chunk33"
+    },
+    {
+        "waste": [
+            "food waste",
+            "biomaterials",
+            "waste and byproducts"
+        ],
+        "transforming_process": [
+            "repurposing food waste",
+            "leveraging nutritional potential"
+        ],
+        "transformed_resource": [
+            "human consumption",
+            "food security",
+            "bioresources"
+        ],
+        "reference": "10.1016/j.nut.2024.112452_chunk34"
+    }
+]

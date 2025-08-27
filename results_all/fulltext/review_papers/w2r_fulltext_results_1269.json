@@ -1,0 +1,149 @@
+[
+    {
+        "waste": [
+            "plastic wastes"
+        ],
+        "transforming_process": [
+            "biodegradation",
+            "action of enzymes"
+        ],
+        "transformed_resource": [
+            "smaller molecules",
+            "monomers"
+        ],
+        "reference": "10.1016/j.biortech.2023.128772_chunk4"
+    },
+    {
+        "waste": [
+            "plastic wastes"
+        ],
+        "transforming_process": [
+            "landfilling",
+            "incineration"
+        ],
+        "transformed_resource": [
+            "water",
+            "carbon dioxide",
+            "energy"
+        ],
+        "reference": "10.1016/j.biortech.2023.128772_chunk8"
+    },
+    {
+        "waste": [
+            "plastic wastes"
+        ],
+        "transforming_process": [
+            "incinerating",
+            "recycling",
+            "mechanical recycling",
+            "sorting",
+            "washing",
+            "drying",
+            "grinding",
+            "re-granulating"
+        ],
+        "transformed_resource": [
+            "new plastic products"
+        ],
+        "reference": "10.1016/j.biortech.2023.128772_chunk10"
+    },
+    {
+        "waste": [
+            "plastic wastes"
+        ],
+        "transforming_process": [
+            "chemical recycling"
+        ],
+        "transformed_resource": [
+            "liquid oils with high heating values",
+            "carbon-based materials",
+            "hydrogen",
+            "syngas"
+        ],
+        "reference": "10.1016/j.biortech.2023.128772_chunk12"
+    },
+    {
+        "waste": [
+            "plastic wastes",
+            "synthetic plastics",
+            "PET"
+        ],
+        "transforming_process": [
+            "plastic biodegradation"
+        ],
+        "transformed_resource": [
+            "terephthalic acid",
+            "PET bottles"
+        ],
+        "reference": "10.1016/j.biortech.2023.128772_chunk32"
+    },
+    {
+        "waste": [
+            "post-consumer PET wastes",
+            "synthetic plastics (e.g., HDPE, LDPE, PP, PS, and PVC)"
+        ],
+        "transforming_process": [
+            "biological production",
+            "bioconversion",
+            "one-pot depolymerization"
+        ],
+        "transformed_resource": [
+            "various aromatics",
+            "aromatic-derived compounds",
+            "vanillin"
+        ],
+        "reference": "10.1016/j.biortech.2023.128772_chunk33"
+    },
+    {
+        "waste": [
+            "HDPE",
+            "LDPE",
+            "PP",
+            "PS",
+            "PVC",
+            "styrene"
+        ],
+        "transforming_process": [
+            "chemical depolymerization",
+            "biotransformation",
+            "enzyme cascade reactions",
+            "pyrolysis",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "mandelic acid",
+            "fatty acids"
+        ],
+        "reference": "10.1016/j.biortech.2023.128772_chunk34"
+    },
+    {
+        "waste": [
+            "plastic wastes"
+        ],
+        "transforming_process": [
+            "biodegradation",
+            "biotransformation",
+            "multi-enzyme cascade systems",
+            "one-pot systems"
+        ],
+        "transformed_resource": [
+            "value-added products",
+            "useful substances"
+        ],
+        "reference": "10.1016/j.biortech.2023.128772_chunk41"
+    },
+    {
+        "waste": [
+            "synthetic plastics",
+            "plastic wastes"
+        ],
+        "transforming_process": [
+            "biodegradation",
+            "upcycling"
+        ],
+        "transformed_resource": [
+            "value-added products"
+        ],
+        "reference": "10.1016/j.biortech.2023.128772_chunk46"
+    }
+]

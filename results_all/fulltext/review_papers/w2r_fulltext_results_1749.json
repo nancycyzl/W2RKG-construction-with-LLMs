@@ -1,0 +1,539 @@
+[
+    {
+        "waste": [
+            "organic renewable carbon-sourced waste",
+            "carbohydrates",
+            "proteins",
+            "lipids"
+        ],
+        "transforming_process": [
+            "conversion",
+            "biorefinery"
+        ],
+        "transformed_resource": [
+            "bio-commodities",
+            "energy",
+            "fuels",
+            "chemicals",
+            "polymers",
+            "food",
+            "feed"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk2"
+    },
+    {
+        "waste": [
+            "agro-food wastes",
+            "glucan",
+            "hemicelluloses",
+            "lignin"
+        ],
+        "transforming_process": [
+            "biorefinery process",
+            "manufacturing"
+        ],
+        "transformed_resource": [
+            "biofuels",
+            "bioproducts",
+            "pharmaceuticals",
+            "cosmetics",
+            "nutrients",
+            "chemicals",
+            "fertilizers",
+            "materials"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk5"
+    },
+    {
+        "waste": [
+            "agro-food wastes",
+            "avocado peel",
+            "avocado seed"
+        ],
+        "transforming_process": [
+            "valorization",
+            "processing"
+        ],
+        "transformed_resource": [
+            "antioxidant compounds",
+            "polyphenols",
+            "vitamins",
+            "oils",
+            "proteins",
+            "phenols",
+            "flavonoids",
+            "saponins",
+            "tannins",
+            "steroids"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk6"
+    },
+    {
+        "waste": [
+            "avocado industry residues",
+            "avocado wastes"
+        ],
+        "transforming_process": [
+            "valorization",
+            "biorefinery implementation"
+        ],
+        "transformed_resource": [
+            "economic profitability",
+            "environmental benefits"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk7"
+    },
+    {
+        "waste": [
+            "avocado by-products"
+        ],
+        "transforming_process": [
+            "solubilization",
+            "biomass processing"
+        ],
+        "transformed_resource": [
+            "bioactive compounds",
+            "nutraceuticals",
+            "energy",
+            "biofuel",
+            "starch",
+            "pectin"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk11"
+    },
+    {
+        "waste": [
+            "avocado wastes"
+        ],
+        "transforming_process": [
+            "extract bioactive compounds",
+            "processed under harsher conditions",
+            "hydrothermal treatment at 150 \u00b0C"
+        ],
+        "transformed_resource": [
+            "bioactive compounds",
+            "solid residue",
+            "polysaccharides",
+            "oligosaccharides",
+            "phenolic compounds"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk12"
+    },
+    {
+        "waste": [
+            "avocado seeds",
+            "avocado peels",
+            "avocado leaves",
+            "avocado pomace"
+        ],
+        "transforming_process": [
+            "autohydrolysis",
+            "chemical extraction",
+            "physicochemical extraction",
+            "hydrothermal pretreatment",
+            "thermochemical pretreatment",
+            "physical pretreatment",
+            "biological pretreatment"
+        ],
+        "transformed_resource": [
+            "bioactive compounds",
+            "lipids enriched in terpenoids",
+            "biofuels",
+            "fine chemicals",
+            "lignin",
+            "antioxidant compounds",
+            "efficient adsorbent",
+            "cellulose"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk13"
+    },
+    {
+        "waste": [
+            "avocado peels",
+            "seeds",
+            "rotten fruit"
+        ],
+        "transforming_process": [
+            "biological pretreatment",
+            "saccharification",
+            "fermentation",
+            "transesterification",
+            "liquefaction",
+            "torrefaction",
+            "pyrolysis",
+            "gasification",
+            "extraction"
+        ],
+        "transformed_resource": [
+            "ethanol",
+            "xylitol",
+            "biodiesel",
+            "bio-oil",
+            "biochar",
+            "syngas",
+            "value-added compounds"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk14"
+    },
+    {
+        "waste": [
+            "dried avocado raw material",
+            "avocado peels",
+            "avocado seeds"
+        ],
+        "transforming_process": [
+            "maceration",
+            "hydro-distillation",
+            "liquid\u2013liquid extraction",
+            "ultrasound",
+            "microwave-assisted extraction",
+            "supercritical fluid extraction",
+            "pressurized liquid extraction"
+        ],
+        "transformed_resource": [
+            "extract enriched in antioxidant phenolics",
+            "minerals",
+            "phenolic compounds",
+            "flavonoids",
+            "lipids"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk15"
+    },
+    {
+        "waste": [
+            "avocado peels",
+            "avocado seeds",
+            "avocado wastes"
+        ],
+        "transforming_process": [
+            "microwave technology",
+            "vacuum microwave-assisted aqueous extraction",
+            "ultrasounds",
+            "pressurized liquid extraction",
+            "accelerated solvent extraction"
+        ],
+        "transformed_resource": [
+            "total phenolic compounds",
+            "polyphenolic compounds",
+            "antioxidant compounds"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk17"
+    },
+    {
+        "waste": [
+            "avocado wastes",
+            "avocado seeds",
+            "avocado peels"
+        ],
+        "transforming_process": [
+            "ultrasound-assisted batch extraction",
+            "ultrasound-assisted continuous extraction",
+            "ultrasound-assisted extraction",
+            "PLE"
+        ],
+        "transformed_resource": [
+            "antioxidant compounds",
+            "polyphenols",
+            "bioactive molecules",
+            "4-hydroxybenzoic acid",
+            "chlorogenic acid",
+            "benzoic acid",
+            "p-coumaric acid"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk18"
+    },
+    {
+        "waste": [
+            "avocado peels",
+            "avocado by-products",
+            "Mexican waste biomasses",
+            "avocado seeds",
+            "avocado wastes"
+        ],
+        "transforming_process": [
+            "conventional extraction method",
+            "aqueous processing",
+            "hydrothermal treatment",
+            "autohydrolysis",
+            "using green solvents"
+        ],
+        "transformed_resource": [
+            "phenolic compounds",
+            "starch",
+            "oligosaccharides",
+            "pectin",
+            "bioenergy",
+            "fine chemicals",
+            "lipid"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk19"
+    },
+    {
+        "waste": [
+            "avocado wastes",
+            "avocado seed"
+        ],
+        "transforming_process": [
+            "direct use of solid fuel",
+            "water pretreatment",
+            "alkali pretreatment",
+            "enzymatic saccharification",
+            "hydrothermal-microwave processing",
+            "distilled water extraction"
+        ],
+        "transformed_resource": [
+            "biofuels",
+            "solid fuel",
+            "ethanol",
+            "biogas",
+            "starch",
+            "fermentable sugars"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk20"
+    },
+    {
+        "waste": [
+            "avocado seed",
+            "food processing waste",
+            "biowaste"
+        ],
+        "transforming_process": [
+            "extraction using distilled water containing sodium metabisulfite",
+            "batch extraction of oil"
+        ],
+        "transformed_resource": [
+            "edible films",
+            "biodegradable films",
+            "biodiesel",
+            "high-value marketable biochemicals"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk21"
+    },
+    {
+        "waste": [
+            "avocado by-products",
+            "avocado residues"
+        ],
+        "transforming_process": [
+            "biorefinery design",
+            "conversion"
+        ],
+        "transformed_resource": [
+            "phenolic extracts",
+            "succinic acid",
+            "pectooligosaccharides"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk22"
+    },
+    {
+        "waste": [
+            "avocado peel"
+        ],
+        "transforming_process": [
+            "hydrothermal processing"
+        ],
+        "transformed_resource": [
+            "prebiotic ingredients",
+            "POS"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk23"
+    },
+    {
+        "waste": [
+            "seed by-products",
+            "peel by-products",
+            "avocado peel",
+            "avocado seed"
+        ],
+        "transforming_process": [
+            "extraction of phenolic compounds",
+            "autohydrolysis treatment",
+            "fermentation",
+            "conventional extraction",
+            "ethanol extraction"
+        ],
+        "transformed_resource": [
+            "antioxidant compounds",
+            "phenolic compounds"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk25"
+    },
+    {
+        "waste": [
+            "avocado seeds",
+            "avocado peels",
+            "walnut shells",
+            "almond shells",
+            "sugar beet pulp"
+        ],
+        "transforming_process": [
+            "hot water treatment",
+            "autohydrolysis",
+            "microwave extraction"
+        ],
+        "transformed_resource": [
+            "pectooligosaccharides",
+            "starch"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk26"
+    },
+    {
+        "waste": [
+            "AP",
+            "AS"
+        ],
+        "transforming_process": [
+            "hydrothermal processing",
+            "autohydrolysis treatment",
+            "biotechnological processes"
+        ],
+        "transformed_resource": [
+            "pectooligosaccharides",
+            "starch",
+            "glucose",
+            "SA"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk27"
+    },
+    {
+        "waste": [
+            "residual glucan of AP",
+            "residual glucan of AS",
+            "waste streams generated by wineries",
+            "winery wastes",
+            "molasses",
+            "citrus peel waste"
+        ],
+        "transforming_process": [
+            "producing SA from residual glucan",
+            "biorefinery scheme using waste streams",
+            "designing a biorefinery for bacterial cellulose and SA",
+            "valorization of molasses into SA and fructooligosaccharides",
+            "biorefinery platform for obtaining essential oils and pectins"
+        ],
+        "transformed_resource": [
+            "SA",
+            "crude phenolic-rich extract",
+            "grape-seed oil",
+            "calcium tartrate",
+            "crude tannin-rich extract",
+            "bacterial cellulose",
+            "fructooligosaccharides",
+            "essential oils",
+            "pectins"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk28"
+    },
+    {
+        "waste": [
+            "avocado waste"
+        ],
+        "transforming_process": [
+            "conversion of avocado waste into bioproducts"
+        ],
+        "transformed_resource": [
+            "essential oils",
+            "pectins",
+            "SA",
+            "marketable bioproducts",
+            "materials"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk29"
+    },
+    {
+        "waste": [
+            "avocado waste"
+        ],
+        "transforming_process": [
+            "integrating the production of bioproducts",
+            "valorization strategies",
+            "manufacturing of high value-added products"
+        ],
+        "transformed_resource": [
+            "microencapsulated phenolic compounds extract",
+            "ethanol",
+            "oil",
+            "xylitol",
+            "essential oils",
+            "polyphenols",
+            "starch",
+            "pectin",
+            "oligosaccharides",
+            "aromatic compounds from lignin",
+            "nanocrystalline cellulose"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk30"
+    },
+    {
+        "waste": [
+            "CO2",
+            "ethanol",
+            "avocado fruit",
+            "waste avocado seeds"
+        ],
+        "transforming_process": [
+            "recovery",
+            "extraction",
+            "processing"
+        ],
+        "transformed_resource": [
+            "phenolics",
+            "bio-based products",
+            "avocado oil",
+            "microencapsulated phenolic compounds",
+            "ethanol",
+            "xylitol",
+            "starch"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk34"
+    },
+    {
+        "waste": [
+            "waste avocado seeds"
+        ],
+        "transforming_process": [
+            "starch extraction",
+            "microwave technology extraction",
+            "ultrasound extraction",
+            "conventional extraction"
+        ],
+        "transformed_resource": [
+            "starch"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk35"
+    },
+    {
+        "waste": [
+            "avocado waste"
+        ],
+        "transforming_process": [
+            "valorization",
+            "production of levulinic acid",
+            "production of furfural",
+            "production of lignin"
+        ],
+        "transformed_resource": [
+            "levulinic acid",
+            "furfural",
+            "lignin"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk37"
+    },
+    {
+        "waste": [
+            "avocado processing by-products",
+            "residues"
+        ],
+        "transforming_process": [
+            "co-production of bioactive compounds",
+            "conversion into high-value products"
+        ],
+        "transformed_resource": [
+            "bioactive compounds",
+            "biofuels",
+            "bioenergy",
+            "high-value products"
+        ],
+        "reference": "10.1016/j.biortech.2022.128034_chunk39"
+    }
+]

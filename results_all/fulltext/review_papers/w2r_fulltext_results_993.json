@@ -1,0 +1,951 @@
+[
+    {
+        "waste": [
+            "Agro-industrial waste",
+            "Liquid waste",
+            "Solid waste",
+            "Peels",
+            "Seeds",
+            "Pomace",
+            "Byproduct streams"
+        ],
+        "transforming_process": [
+            "Submerged fermentation",
+            "Solid-state fermentation"
+        ],
+        "transformed_resource": [
+            "Pigments",
+            "Bioactive compounds",
+            "Enzymes",
+            "Biofuels"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk1"
+    },
+    {
+        "waste": [
+            "organic matter",
+            "food waste",
+            "biowaste"
+        ],
+        "transforming_process": [
+            "recovery",
+            "recycling",
+            "bioconversion"
+        ],
+        "transformed_resource": [
+            "food",
+            "fodder",
+            "biofuels",
+            "power",
+            "thermal energy",
+            "construction materials"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk3"
+    },
+    {
+        "waste": [
+            "biowaste",
+            "agro-industry biowaste",
+            "agricultural waste",
+            "agricultural biomass"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "processing"
+        ],
+        "transformed_resource": [
+            "biomaterials",
+            "valuable metabolites",
+            "energy",
+            "materials",
+            "bioproduct technologies"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk4"
+    },
+    {
+        "waste": [
+            "biowaste",
+            "agro-industrial wastes",
+            "biomass",
+            "paper industry wastes"
+        ],
+        "transforming_process": [
+            "converting",
+            "decomposing",
+            "valorization"
+        ],
+        "transformed_resource": [
+            "biomaterials"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk5"
+    },
+    {
+        "waste": [
+            "wood",
+            "solid waste",
+            "sludge",
+            "diterpenes",
+            "chlorinated resin acids",
+            "juvabione",
+            "unsaturated fatty acids"
+        ],
+        "transforming_process": [
+            "pulping",
+            "deinking",
+            "wastewater treatment",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "pulp",
+            "specialty rayon",
+            "paper",
+            "photographic film",
+            "energy"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk6"
+    },
+    {
+        "waste": [
+            "food waste",
+            "animal waste",
+            "manure",
+            "meat processing byproducts",
+            "flesh",
+            "fur",
+            "tallow debris",
+            "meat",
+            "skeletons",
+            "plumes",
+            "municipal solid wastes"
+        ],
+        "transforming_process": [
+            "convert food waste into biofuels",
+            "conversion to biomaterials"
+        ],
+        "transformed_resource": [
+            "biofuels",
+            "enzymes",
+            "nutraceuticals",
+            "biomaterials"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk8"
+    },
+    {
+        "waste": [
+            "municipal solid waste"
+        ],
+        "transforming_process": [
+            "landfills",
+            "recycling",
+            "thermal treatments",
+            "biological treatments",
+            "waste-to-energy"
+        ],
+        "transformed_resource": [
+            "energy"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk9"
+    },
+    {
+        "waste": [
+            "waste"
+        ],
+        "transforming_process": [
+            "biological treatment process",
+            "biochemical conversion processes",
+            "anaerobic digestion",
+            "alcohol fermentation",
+            "photobiological methods"
+        ],
+        "transformed_resource": [
+            "fuels",
+            "biological chemicals",
+            "materials",
+            "biofuels"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk10"
+    },
+    {
+        "waste": [
+            "green waste",
+            "agricultural waste",
+            "food waste",
+            "manure",
+            "human feces"
+        ],
+        "transforming_process": [
+            "alcohol fermentation",
+            "photobiological methods",
+            "composting"
+        ],
+        "transformed_resource": [
+            "biofuels",
+            "compost"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk11"
+    },
+    {
+        "waste": [
+            "liquid organic matter",
+            "solid organic matter",
+            "agricultural solid wastes",
+            "municipal solid wastes",
+            "industrial food waste",
+            "slaughterhouse waste",
+            "sewage sludge",
+            "energy crops",
+            "algal biomass"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "fermentation",
+            "hydrolysis",
+            "methanogenesis"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "digestate"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk12"
+    },
+    {
+        "waste": [
+            "biomass",
+            "cellulose",
+            "hemicellulose",
+            "glycogen",
+            "cellulose",
+            "starch"
+        ],
+        "transforming_process": [
+            "methanogenesis",
+            "alcoholic fermentation",
+            "hydrolysis"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "bioethanol"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk14"
+    },
+    {
+        "waste": [
+            "polysaccharides",
+            "residual solid waste"
+        ],
+        "transforming_process": [
+            "hydrolysis",
+            "enzymatic processes",
+            "distillation",
+            "thermochemical processes"
+        ],
+        "transformed_resource": [
+            "monosaccharides",
+            "ethanol",
+            "valuable byproducts"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk15"
+    },
+    {
+        "waste": [
+            "granular lipid content"
+        ],
+        "transforming_process": [
+            "esterification",
+            "transesterification",
+            "enzymatic esterification reactions"
+        ],
+        "transformed_resource": [
+            "biodiesel",
+            "fatty acid alkyl esters"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk19"
+    },
+    {
+        "waste": [
+            "Mangifera indica oil",
+            "Pongamia pinnata crude oil"
+        ],
+        "transforming_process": [
+            "conversion using heterogenous catalysts",
+            "one-step direct transesterification",
+            "transesterification-transesterification techniques"
+        ],
+        "transformed_resource": [
+            "biodiesel"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk20"
+    },
+    {
+        "waste": [
+            "biowaste",
+            "waste plastics"
+        ],
+        "transforming_process": [
+            "thermochemical conversion",
+            "gasification",
+            "pyrolysis",
+            "liquefaction",
+            "direct transesterification"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "syngas",
+            "oxygen-enriched bio-oil",
+            "energy",
+            "biofuels"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk21"
+    },
+    {
+        "waste": [
+            "biomass",
+            "water vapor",
+            "smoke",
+            "oxygen",
+            "hydrogen"
+        ],
+        "transforming_process": [
+            "torrefaction",
+            "combustion"
+        ],
+        "transformed_resource": [
+            "value-added biofuels",
+            "biochar",
+            "solid fuel",
+            "co-combustion agent"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk22"
+    },
+    {
+        "waste": [
+            "organic waste"
+        ],
+        "transforming_process": [
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "pyrolysis oil",
+            "bio-oil",
+            "biochar"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk23"
+    },
+    {
+        "waste": [
+            "biowaste"
+        ],
+        "transforming_process": [
+            "gasification"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "bio-oil",
+            "combustible syngas",
+            "hydrogen gas",
+            "biofuel",
+            "biomethane",
+            "heat",
+            "electricity",
+            "chemicals"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk25"
+    },
+    {
+        "waste": [
+            "lignocellulosic waste",
+            "high sulfur content",
+            "bandages",
+            "biological waste",
+            "cytotoxic medicines",
+            "antibiotics",
+            "laboratory trash containing biomolecules or organisms"
+        ],
+        "transforming_process": [
+            "hydrothermal gasification",
+            "plasma gasification",
+            "Liquefaction",
+            "hydrothermal liquefaction"
+        ],
+        "transformed_resource": [
+            "hydrogen",
+            "methane",
+            "syngas",
+            "ash",
+            "bio-oils"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk27"
+    },
+    {
+        "waste": [
+            "high-moisture-content biomass",
+            "chemicals dissolved in water",
+            "solid sediments",
+            "gases"
+        ],
+        "transforming_process": [
+            "hydrothermal liquefaction"
+        ],
+        "transformed_resource": [
+            "bio-oil",
+            "bio-oil from algae",
+            "bio-oil from woody biomass"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk28"
+    },
+    {
+        "waste": [
+            "woody biomass",
+            "deoiled Jatropha cake",
+            "algae",
+            "municipal waste"
+        ],
+        "transforming_process": [
+            "hydrothermal transformation (HTL)",
+            "low-temperature HTL",
+            "high-temperature HTL",
+            "hydrodenitrogenation",
+            "hydrodeoxygenation"
+        ],
+        "transformed_resource": [
+            "bio-oil",
+            "high-energy bio-crude",
+            "bio-crude oil",
+            "conventional gasoline"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk29"
+    },
+    {
+        "waste": [
+            "biomass",
+            "municipal waste",
+            "solid waste",
+            "various types of biomass",
+            "MSW"
+        ],
+        "transforming_process": [
+            "high-temperature airflow and air/steam thermochemical transformation",
+            "drying",
+            "pyrolysis",
+            "gasification",
+            "combustion"
+        ],
+        "transformed_resource": [
+            "biofuels",
+            "hydrogen",
+            "syngas",
+            "electricity",
+            "fuel"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk30"
+    },
+    {
+        "waste": [
+            "biomass",
+            "MSW",
+            "organic matter",
+            "waste"
+        ],
+        "transforming_process": [
+            "converting biomass and MSW to fuel",
+            "gasification",
+            "high-level thermal conversion",
+            "hybrid thermo-biochemical process"
+        ],
+        "transformed_resource": [
+            "fuel",
+            "fuel gas",
+            "clean-burning fuel"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk31"
+    },
+    {
+        "waste": [
+            "solid organic waste",
+            "food scraps",
+            "yard trimmings",
+            "sewage sludge",
+            "animal manure"
+        ],
+        "transforming_process": [
+            "incineration",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "ash",
+            "biogas"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk34"
+    },
+    {
+        "waste": [
+            "carbonaceous solid wastes",
+            "biowaste",
+            "solid wastes"
+        ],
+        "transforming_process": [
+            "pre-treatments",
+            "gasification",
+            "incineration",
+            "AD"
+        ],
+        "transformed_resource": [
+            "thermal energy",
+            "marketable gases (CO, CO2, H2, CH4)",
+            "significant commodities",
+            "energy"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk35"
+    },
+    {
+        "waste": [
+            "solid wastes",
+            "biodegradable food waste",
+            "dry solid waste",
+            "wood chips"
+        ],
+        "transforming_process": [
+            "dispersed anoxic gasification/digestion",
+            "monolithic incineration",
+            "gasifier",
+            "distributed AD reactor",
+            "gasification"
+        ],
+        "transformed_resource": [
+            "biological energy",
+            "thermal energy",
+            "biogas",
+            "producer gas",
+            "heat"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk36"
+    },
+    {
+        "waste": [
+            "meat processing wastes",
+            "pig flesh",
+            "bovine hides",
+            "swine bones",
+            "cattle bones"
+        ],
+        "transforming_process": [
+            "recovering collagen",
+            "heating collagen to make gelatin",
+            "casting",
+            "extrusion",
+            "electrospinning"
+        ],
+        "transformed_resource": [
+            "collagen",
+            "gelatin",
+            "biodegradable materials",
+            "biopolymers"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk38"
+    },
+    {
+        "waste": [
+            "animal skin",
+            "bone",
+            "scale",
+            "cartilage",
+            "fish",
+            "echinoderms",
+            "jellyfish",
+            "dinoflagellates",
+            "cephalopods",
+            "starfish",
+            "various fish"
+        ],
+        "transforming_process": [
+            "mechanical processes",
+            "pH modification",
+            "homogenization",
+            "sonication",
+            "acids",
+            "saline",
+            "enzymatic processes"
+        ],
+        "transformed_resource": [
+            "collagen type I",
+            "collagen type II",
+            "collagen type IV"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk39"
+    },
+    {
+        "waste": [
+            "organic portion of fish waste",
+            "biowaste",
+            "mineralized shrimp waste",
+            "leftover shrimp",
+            "fish scales",
+            "crab shells"
+        ],
+        "transforming_process": [
+            "collagen degradation",
+            "enzymatic deproteinization"
+        ],
+        "transformed_resource": [
+            "collagen",
+            "chitin",
+            "chitosan",
+            "protein hydrolysate rich in nutrients"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk41"
+    },
+    {
+        "waste": [
+            "leftover shrimp",
+            "fish scales",
+            "crab shells",
+            "crustacean shell",
+            "shrimp shell waste"
+        ],
+        "transforming_process": [
+            "recovering biowaste",
+            "producing biodegradable polymers",
+            "extracting chitin",
+            "transforming chitin to chitosan"
+        ],
+        "transformed_resource": [
+            "competent polymers",
+            "chitin",
+            "chitosan"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk42"
+    },
+    {
+        "waste": [
+            "shrimp shell waste",
+            "squid shell waste",
+            "crab shells",
+            "lobster shells",
+            "krill",
+            "prawns",
+            "crabs",
+            "shrimp carapaces"
+        ],
+        "transforming_process": [
+            "isolation of chitin",
+            "removing protein",
+            "removing inorganic components",
+            "removing coloring agents",
+            "deproteinization",
+            "solvent extraction"
+        ],
+        "transformed_resource": [
+            "chitin"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk43"
+    },
+    {
+        "waste": [
+            "shrimp shells"
+        ],
+        "transforming_process": [
+            "deproteinization",
+            "demineralization",
+            "delignification using ethanol",
+            "extraction process"
+        ],
+        "transformed_resource": [
+            "chitosan",
+            "N-sulfonated chitin",
+            "O-sulfonated chitin",
+            "dibutyryl-chitin",
+            "carboxymethyl-chitin"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk44"
+    },
+    {
+        "waste": [
+            "animal carcasses",
+            "eggshells",
+            "seashells",
+            "fish scales",
+            "algae",
+            "bovine bones",
+            "swine bones",
+            "fish bones"
+        ],
+        "transforming_process": [
+            "washing in an alkaline solution",
+            "calcining",
+            "thermal breakdown",
+            "subcritical water",
+            "alkaline hydrothermal processes"
+        ],
+        "transformed_resource": [
+            "hydroxyapatite"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk45"
+    },
+    {
+        "waste": [
+            "discarded eggshells"
+        ],
+        "transforming_process": [
+            "breakdown",
+            "subcritical water process",
+            "alkaline hydrothermal process",
+            "recycling",
+            "calcination process"
+        ],
+        "transformed_resource": [
+            "eggshell ash",
+            "ground limestone",
+            "lime"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk46"
+    },
+    {
+        "waste": [
+            "mussel shells",
+            "limestone",
+            "eggshells"
+        ],
+        "transforming_process": [
+            "calcination process",
+            "heat treatment",
+            "valorization",
+            "repurposing",
+            "recycling"
+        ],
+        "transformed_resource": [
+            "lime",
+            "fumaric acid",
+            "adsorbent",
+            "hydroxyapatite"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk47"
+    },
+    {
+        "waste": [
+            "eggshell waste"
+        ],
+        "transforming_process": [
+            "decomposition",
+            "recycling",
+            "processing",
+            "thermal processing",
+            "chemical modification",
+            "physical treatment"
+        ],
+        "transformed_resource": [
+            "CaCO3 powder",
+            "plastic fillers",
+            "shelled CaCO3 dust"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk48"
+    },
+    {
+        "waste": [
+            "waste of gilded catfish (Brachyplatystoma rousseauxii)"
+        ],
+        "transforming_process": [
+            "extracting myofibrillar proteins",
+            "mixing with aqueous glycerol",
+            "casting onto silicone supports"
+        ],
+        "transformed_resource": [
+            "novel plastic materials"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk50"
+    },
+    {
+        "waste": [
+            "leftover lignocellulosic biomass",
+            "orange waste"
+        ],
+        "transforming_process": [
+            "obtained from leftover lignocellulosic biomass",
+            "recovered from orange waste",
+            "solvent-free co-polymerization of e-caprolactone and glycidol"
+        ],
+        "transformed_resource": [
+            "tannic acid",
+            "citric acid",
+            "ethyl citrate",
+            "bioethanol",
+            "polycaprolactone"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk53"
+    },
+    {
+        "waste": [
+            "biowaste",
+            "rice husks"
+        ],
+        "transforming_process": [
+            "preparing silica and silicate salts",
+            "extracting biogenic silica"
+        ],
+        "transformed_resource": [
+            "hydrated amorphous silica",
+            "bio-silica",
+            "silica-rich byproducts"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk54"
+    },
+    {
+        "waste": [
+            "rice husk",
+            "sugarcane bagasse",
+            "bamboo culm",
+            "biowaste",
+            "egg shells",
+            "oyster shells"
+        ],
+        "transforming_process": [
+            "acidic pre-treatments",
+            "pyrolytic operations",
+            "microwave-assisted solid-state ashing",
+            "MW-mediated magnesiothermic reduction",
+            "chemical extraction"
+        ],
+        "transformed_resource": [
+            "biogenic silica",
+            "pure crystalline Si",
+            "biogenic silicates",
+            "silicate salts"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk55"
+    },
+    {
+        "waste": [
+            "shells",
+            "biomass residues"
+        ],
+        "transforming_process": [
+            "producing silicate salts",
+            "laser ablation",
+            "arc discharge",
+            "electrochemical reactions",
+            "hydrothermal processes",
+            "thermal processes",
+            "microwave-aided processes"
+        ],
+        "transformed_resource": [
+            "Ca",
+            "carbon dots"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk56"
+    },
+    {
+        "waste": [
+            "biomass residues",
+            "fruit waste",
+            "fish bones",
+            "RHs",
+            "citrus maxima peel",
+            "orange seed coat debris"
+        ],
+        "transforming_process": [
+            "hydrothermally aided processing",
+            "heating aqueous dispersions"
+        ],
+        "transformed_resource": [
+            "carbon dots"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk57"
+    },
+    {
+        "waste": [
+            "geese plumage",
+            "leather waste",
+            "goat flesh cutting"
+        ],
+        "transforming_process": [
+            "microwave-assisted hydrothermal approach",
+            "dialysis",
+            "ignition at temperatures"
+        ],
+        "transformed_resource": [
+            "carbon dots",
+            "collagen"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk58"
+    },
+    {
+        "waste": [
+            "goat flesh cutting",
+            "raw cowhide trimming waste"
+        ],
+        "transforming_process": [
+            "ignition at temperatures ranging from 500 \u00b0C to 1000 \u00b0C in an argon flow",
+            "moderate ignition (401 \u00b0C, 12 h) before freeze-drying"
+        ],
+        "transformed_resource": [
+            "recovered collagen",
+            "Onion-shaped C-based nanostructures",
+            "collagen fibrils"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk59"
+    },
+    {
+        "waste": [
+            "agro-industrial recyclable waste",
+            "biowaste"
+        ],
+        "transforming_process": [
+            "classification and proper repository design",
+            "assessment of extraction efficiency",
+            "assessment of the retrieval procedures"
+        ],
+        "transformed_resource": [
+            "biomaterials"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk62"
+    },
+    {
+        "waste": [
+            "biowaste",
+            "agro-industrial biowastes"
+        ],
+        "transforming_process": [
+            "commodifying biowaste",
+            "upcycling into high-value goods",
+            "converting agro-industrial biowastes into biomaterials"
+        ],
+        "transformed_resource": [
+            "biomaterials"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk63"
+    },
+    {
+        "waste": [
+            "biowaste"
+        ],
+        "transforming_process": [
+            "conversion of biowaste into resources",
+            "biorefinery",
+            "recycling technologies",
+            "bioconversion"
+        ],
+        "transformed_resource": [
+            "biomaterials",
+            "collagens",
+            "hydroxyapatite",
+            "bioplastics",
+            "chitosan",
+            "chitin",
+            "polyhydroxyalkanoates",
+            "pure silica"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk65"
+    },
+    {
+        "waste": [
+            "biowaste"
+        ],
+        "transforming_process": [
+            "treatment methods",
+            "converting biowaste into valuable biomaterials"
+        ],
+        "transformed_resource": [
+            "biomaterials"
+        ],
+        "reference": "10.1016/j.cec.2023.100050_chunk68"
+    }
+]

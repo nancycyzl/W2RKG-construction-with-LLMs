@@ -1,0 +1,380 @@
+[
+    {
+        "waste": [
+            "biomass waste substrates",
+            "organopesticides",
+            "residues of pharmaceutical products"
+        ],
+        "transforming_process": [
+            "microbial degradation",
+            "earthworm activities",
+            "breakdown of organopesticides and residues"
+        ],
+        "transformed_resource": [
+            "vermicompost",
+            "vermicompost-tea",
+            "vermiwash",
+            "nutrient medium for hydroponic production",
+            "growth enhancement of Amaranthus viridis"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk1"
+    },
+    {
+        "waste": [
+            "biomass waste"
+        ],
+        "transforming_process": [
+            "biochemical breakdown",
+            "physical and mechanical breakdown",
+            "vermitechnology",
+            "composting",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "nutrient rich fertilizer",
+            "vermicompost",
+            "biochar",
+            "compost"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk2"
+    },
+    {
+        "waste": [
+            "biomass waste"
+        ],
+        "transforming_process": [
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "biochar"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk3"
+    },
+    {
+        "waste": [
+            "biomass",
+            "organic waste",
+            "domestic waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "vermicomposting"
+        ],
+        "transformed_resource": [
+            "greenhouse gases",
+            "earthworms",
+            "organic fertilizer"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk4"
+    },
+    {
+        "waste": [
+            "domestic waste",
+            "biomass materials",
+            "organic waste"
+        ],
+        "transforming_process": [
+            "vermicomposting",
+            "batch vermicomposting",
+            "continuous feed vermicomposting"
+        ],
+        "transformed_resource": [
+            "organic fertilizer"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk5"
+    },
+    {
+        "waste": [
+            "agricultural waste",
+            "biomass waste"
+        ],
+        "transforming_process": [
+            "vermicomposting",
+            "bioconversion"
+        ],
+        "transformed_resource": [
+            "vermicompost"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk8"
+    },
+    {
+        "waste": [
+            "biomass waste",
+            "organic wastes"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "vermicomposting",
+            "microbial decomposition"
+        ],
+        "transformed_resource": [
+            "vermicompost"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk9"
+    },
+    {
+        "waste": [
+            "biomass waste",
+            "wastes"
+        ],
+        "transforming_process": [
+            "microbial decomposition",
+            "earthworms burrowing",
+            "biomass ingestion",
+            "maturation phase"
+        ],
+        "transformed_resource": [
+            "vermicompost",
+            "vermicast"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk10"
+    },
+    {
+        "waste": [
+            "cow dung",
+            "wheat straw",
+            "biomass material"
+        ],
+        "transforming_process": [
+            "vermicomposting",
+            "vermicconversion"
+        ],
+        "transformed_resource": [
+            "vermicompost",
+            "humic acids",
+            "high nutrients (N, P, K) containing substances"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk12"
+    },
+    {
+        "waste": [
+            "fresh waste",
+            "vermicompost",
+            "undigested biomass waste"
+        ],
+        "transforming_process": [
+            "earthworm consumption",
+            "microbial degradation",
+            "aging",
+            "maturation"
+        ],
+        "transformed_resource": [
+            "vermicompost"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk14"
+    },
+    {
+        "waste": [
+            "biomass wastes"
+        ],
+        "transforming_process": [
+            "batch process",
+            "continuous process",
+            "vermireactors"
+        ],
+        "transformed_resource": [
+            "vermicomposts"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk21"
+    },
+    {
+        "waste": [
+            "fresh biomass waste"
+        ],
+        "transforming_process": [
+            "vermicomposting",
+            "decomposition by earthworms and symbiotic microbes"
+        ],
+        "transformed_resource": [
+            "mature compost"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk23"
+    },
+    {
+        "waste": [
+            "cow manure",
+            "organic waste"
+        ],
+        "transforming_process": [
+            "continuous substrate feeding",
+            "vermicomposting"
+        ],
+        "transformed_resource": [
+            "vermicompost",
+            "nutrients (nitrogen, phosphorus, potassium)"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk27"
+    },
+    {
+        "waste": [
+            "organic waste",
+            "biomass materials"
+        ],
+        "transforming_process": [
+            "vermicomposting",
+            "batch process",
+            "simultaneous addition of substrate and earthworms",
+            "windrow method"
+        ],
+        "transformed_resource": [
+            "vermicomposts",
+            "nutrients"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk28"
+    },
+    {
+        "waste": [
+            "wastes",
+            "earthworms"
+        ],
+        "transforming_process": [
+            "vermicomposting"
+        ],
+        "transformed_resource": [
+            "vermicomposts"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk29"
+    },
+    {
+        "waste": [
+            "organic waste",
+            "bio-waste"
+        ],
+        "transforming_process": [
+            "composting process",
+            "vermicomposting technology",
+            "windrow vermicomposting"
+        ],
+        "transformed_resource": [],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk31"
+    },
+    {
+        "waste": [
+            "horse manure",
+            "pineapple peal",
+            "cattle manure"
+        ],
+        "transforming_process": [
+            "vermicomposting",
+            "precomposting"
+        ],
+        "transformed_resource": [
+            "vermicompost",
+            "macronutrients (NPK)"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk33"
+    },
+    {
+        "waste": [
+            "rabbit manure",
+            "organic waste",
+            "bio-waste"
+        ],
+        "transforming_process": [
+            "continuous feeding system",
+            "bioconversion",
+            "batch process",
+            "treating with earthworms and water"
+        ],
+        "transformed_resource": [
+            "vermicompost",
+            "useful fertilizers"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk35"
+    },
+    {
+        "waste": [
+            "substrate",
+            "waste"
+        ],
+        "transforming_process": [
+            "vermicomposting",
+            "harvesting"
+        ],
+        "transformed_resource": [
+            "vermicompost",
+            "odour-free gases",
+            "earthworms with high biomass"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk37"
+    },
+    {
+        "waste": [
+            "fresh waste",
+            "precomposted substrate",
+            "biomass waste",
+            "sheep bedding",
+            "cattle manure"
+        ],
+        "transforming_process": [
+            "batch vermicomposting",
+            "composting and vermicomposting"
+        ],
+        "transformed_resource": [
+            "vermicompost",
+            "nutrient compositions"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk39"
+    },
+    {
+        "waste": [
+            "fruits and vegetable wastes",
+            "activated sludge",
+            "paper mill sludge",
+            "green manure plants",
+            "cow dung",
+            "palm oil mill effluent",
+            "palm pressed fibre"
+        ],
+        "transforming_process": [
+            "vermicomposting",
+            "addition of excess activated sludge",
+            "treatment with green manure plants and cow dung",
+            "mixing ratio"
+        ],
+        "transformed_resource": [
+            "vermicompost",
+            "nitrogen",
+            "phosphorus",
+            "macronutrient compositions",
+            "nutrient contents"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk43"
+    },
+    {
+        "waste": [
+            "plastic",
+            "coir pith plant biomass",
+            "green manure plant",
+            "cow dung",
+            "municipal solid waste"
+        ],
+        "transforming_process": [
+            "precomposting",
+            "blending",
+            "vermicomposting"
+        ],
+        "transformed_resource": [
+            "vermicompost",
+            "nutrients composition",
+            "enzyme activity",
+            "vermicompost stabilization"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk44"
+    },
+    {
+        "waste": [
+            "bakery industry sludge",
+            "paper mill sludge",
+            "tea waste",
+            "cow dung"
+        ],
+        "transforming_process": [
+            "vermicomposting"
+        ],
+        "transformed_resource": [
+            "vermicompost"
+        ],
+        "reference": "10.1016/j.jenvman.2023.118585_chunk45"
+    }
+]

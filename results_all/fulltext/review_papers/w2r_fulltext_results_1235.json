@@ -1,0 +1,704 @@
+[
+    {
+        "waste": [
+            "by-products",
+            "residue streams",
+            "seafood nutrients",
+            "energy loss",
+            "elemental loss"
+        ],
+        "transforming_process": [
+            "reuse",
+            "valorisation"
+        ],
+        "transformed_resource": [
+            "renewable energy",
+            "resource efficiency"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk3"
+    },
+    {
+        "waste": [
+            "bycatch",
+            "discards",
+            "biomass produced during filleting and preparation"
+        ],
+        "transforming_process": [
+            "utilisation for the production of fishmeal",
+            "utilisation for the production of fish oil",
+            "utilisation for the production of fertilisers",
+            "utilisation for the production of biostimulants",
+            "utilisation for the production of food ingredients"
+        ],
+        "transformed_resource": [
+            "fishmeal",
+            "fish oil",
+            "fertilisers",
+            "biostimulants",
+            "food ingredients"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk12"
+    },
+    {
+        "waste": [
+            "biomass",
+            "skin",
+            "bones",
+            "trimmings",
+            "heads",
+            "offal",
+            "shells",
+            "byssal threads",
+            "stick-water",
+            "blood",
+            "mucus",
+            "residue muscle proteins"
+        ],
+        "transforming_process": [
+            "treating on-site",
+            "processing by approved animal by-product operators",
+            "valorising by-products"
+        ],
+        "transformed_resource": [
+            "food ingredients",
+            "feed grade products",
+            "value-added food ingredients"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk13"
+    },
+    {
+        "waste": [
+            "by-products",
+            "seafood by-product"
+        ],
+        "transforming_process": [
+            "valorisation",
+            "ensilage processes"
+        ],
+        "transformed_resource": [
+            "food-grade ingredients",
+            "value-added food ingredients",
+            "collagen",
+            "chitosan",
+            "proteins",
+            "low-value animal feeds",
+            "hydrolysates"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk14"
+    },
+    {
+        "waste": [
+            "by-products",
+            "bones",
+            "heads",
+            "viscera",
+            "wastewater",
+            "effluent"
+        ],
+        "transforming_process": [
+            "production of hydrolysates",
+            "production of fish mince",
+            "production of fish smoked sausages",
+            "production of fish patties",
+            "production of aquafeeds",
+            "production of fertilisers",
+            "production of biostimulants",
+            "extraction of omega-3 fatty acids"
+        ],
+        "transformed_resource": [
+            "hydrolysates",
+            "fish mince",
+            "fish smoked sausages",
+            "fish patties",
+            "aquafeeds",
+            "fertilisers",
+            "biostimulants",
+            "omega-3 fatty acids"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk15"
+    },
+    {
+        "waste": [
+            "by-products from seafood production",
+            "offal",
+            "trimmings",
+            "bones"
+        ],
+        "transforming_process": [
+            "extraction of oils",
+            "production of biofuels",
+            "valorisation processes"
+        ],
+        "transformed_resource": [
+            "biofuels",
+            "collagen",
+            "chitin",
+            "chitosan",
+            "protein hydrolysates",
+            "biogas",
+            "biodiesel"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk16"
+    },
+    {
+        "waste": [
+            "effluents from process water",
+            "sludge",
+            "aquaculture wastewater",
+            "processing and cooking effluents",
+            "biological by-products",
+            "crustacean shells",
+            "bivalve shells",
+            "offal",
+            "fish heads",
+            "fish frames",
+            "trimmings",
+            "discarded whole fish material"
+        ],
+        "transforming_process": [
+            "valorisation of liquid effluents",
+            "extraction processes"
+        ],
+        "transformed_resource": [],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk18"
+    },
+    {
+        "waste": [
+            "processing by-products",
+            "blood waters",
+            "effluents",
+            "sludge",
+            "biosolids",
+            "organic processing by-products",
+            "heads",
+            "skin",
+            "fins",
+            "bones",
+            "viscera"
+        ],
+        "transforming_process": [
+            "extraction of pigments",
+            "extraction of proteins",
+            "extraction of flavour compounds",
+            "valorisation of substances",
+            "management of sludge",
+            "generation of biogas",
+            "generation of biodiesel"
+        ],
+        "transformed_resource": [
+            "antioxidant peptides",
+            "renin",
+            "dipeptidyl peptidase",
+            "carbon",
+            "nutrients"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk19"
+    },
+    {
+        "waste": [
+            "heads",
+            "skin",
+            "fins",
+            "bones",
+            "viscera",
+            "scales"
+        ],
+        "transforming_process": [
+            "organic processing",
+            "efficient exploitation"
+        ],
+        "transformed_resource": [
+            "feed",
+            "fish meal",
+            "oils",
+            "proteins",
+            "peptides",
+            "vitamins",
+            "amino acids",
+            "collagen",
+            "chitin",
+            "enzymes",
+            "gelatine",
+            "glycosaminoglycans",
+            "polyunsaturated fatty acids",
+            "minerals",
+            "food packaging",
+            "silage",
+            "fertiliser enrichers",
+            "biofuels"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk20"
+    },
+    {
+        "waste": [
+            "seafood by-products"
+        ],
+        "transforming_process": [
+            "supercritical fluid extraction"
+        ],
+        "transformed_resource": [
+            "vitamins",
+            "flavours",
+            "essential oils",
+            "carotenoids",
+            "enzymes",
+            "amino acids",
+            "lecithin",
+            "polyunsaturated fatty acids",
+            "lipid-soluble compounds",
+            "antioxidative compounds",
+            "long-chain polysaccharides chitin",
+            "chitosan"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk24"
+    },
+    {
+        "waste": [
+            "waste by-products"
+        ],
+        "transforming_process": [
+            "use of microbial proteolytic enzymes",
+            "use of inorganic acids",
+            "use of strong alkalis",
+            "pressure membrane technology"
+        ],
+        "transformed_resource": [
+            "chitin",
+            "chitosan",
+            "purified protein/peptide",
+            "permeate fractions enriched in small bioactive peptides"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk25"
+    },
+    {
+        "waste": [
+            "cod blood",
+            "fish by-products",
+            "sardine cooking wastewater",
+            "sludge derived from seafood",
+            "activated sludge"
+        ],
+        "transforming_process": [
+            "purification",
+            "exploitation",
+            "microwave treatment",
+            "pyrolysis treatment",
+            "ultrasound treatment"
+        ],
+        "transformed_resource": [
+            "peptides",
+            "functional food ingredient",
+            "antimicrobial compounds",
+            "adsorbents",
+            "high-quality enzymes",
+            "proteins",
+            "bioplastics"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk26"
+    },
+    {
+        "waste": [
+            "small-spotted catshark viscera",
+            "scales",
+            "squid skin",
+            "seafood by-products"
+        ],
+        "transforming_process": [
+            "bacterial fermentation",
+            "microbial fermentation",
+            "production of hyaluronic acid",
+            "generation of collagenase-like enzymes",
+            "preparation of biofilms"
+        ],
+        "transformed_resource": [
+            "hyaluronic acid",
+            "collagenase-like enzymes",
+            "collagen",
+            "plasticiser"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk27"
+    },
+    {
+        "waste": [
+            "fish by-products",
+            "trimmings",
+            "heads",
+            "frames",
+            "fish offal"
+        ],
+        "transforming_process": [
+            "collection",
+            "processing",
+            "treatment to meet food grade standards"
+        ],
+        "transformed_resource": [
+            "protein hydrolysates",
+            "polyunsaturated fatty acids",
+            "functional food ingredients",
+            "bioactive peptides"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk28"
+    },
+    {
+        "waste": [
+            "marine-derived oils",
+            "omega-3 fatty acid-rich oils from fish livers"
+        ],
+        "transforming_process": [
+            "extraction",
+            "enrichment"
+        ],
+        "transformed_resource": [
+            "omega-3 fatty acid-rich supplement",
+            "functional feed ingredients",
+            "bakery and pasta products"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk29"
+    },
+    {
+        "waste": [
+            "waste parts from fish",
+            "heads",
+            "frames"
+        ],
+        "transforming_process": [
+            "assisted enzymatic extraction",
+            "enzymatic hydrolysis",
+            "cooking",
+            "separation",
+            "ultrasound combined with assisted enzymatic extraction",
+            "centrifugation",
+            "filtration"
+        ],
+        "transformed_resource": [
+            "oil",
+            "polyunsaturated fatty acids",
+            "marine oils",
+            "protein hydrolysates"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk30"
+    },
+    {
+        "waste": [
+            "boiled fish bones from Nile tilapia",
+            "animal by-products from fisheries and processing plants"
+        ],
+        "transforming_process": [
+            "incorporating into biscuits",
+            "fish meal production"
+        ],
+        "transformed_resource": [
+            "calcium and other minerals",
+            "improved fatty acids",
+            "animal feeds"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk32"
+    },
+    {
+        "waste": [
+            "red and vascularised fish flesh",
+            "seafood waste"
+        ],
+        "transforming_process": [
+            "animal feed rendering",
+            "biorefinery processes",
+            "supercritical fluid extraction"
+        ],
+        "transformed_resource": [
+            "high-quality protein source",
+            "functional ingredients for feed use",
+            "reduced fat fishmeal"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk33"
+    },
+    {
+        "waste": [
+            "aquaculture effluents",
+            "chemical and biochemical oxygen demand concentrations",
+            "potentially toxic metals",
+            "algal biomass",
+            "seafood by-products",
+            "large biomasses",
+            "biomass with deteriorated shelf-life quality"
+        ],
+        "transforming_process": [
+            "collection and recycling of nutrients",
+            "extracting high-value added compounds",
+            "producing plant fertilisers and biostimulants",
+            "valorising"
+        ],
+        "transformed_resource": [
+            "nutrients",
+            "fatty acids",
+            "pigments",
+            "polysaccharides",
+            "premium animal feeds",
+            "biobased fuels",
+            "plastics",
+            "plant fertilisers",
+            "plant biostimulants"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk37"
+    },
+    {
+        "waste": [
+            "seafood by-products",
+            "fish by-products",
+            "composted fish by-products"
+        ],
+        "transforming_process": [
+            "production of fertiliser",
+            "production of biostimulant products",
+            "composting",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "fertiliser",
+            "biostimulant products",
+            "organic fertilisers"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk39"
+    },
+    {
+        "waste": [
+            "squid feather bones",
+            "waste sludge",
+            "aquaculture-derived sludge"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "biobased fertilisers",
+            "phosphorus",
+            "fertilisers",
+            "nitrogen"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk40"
+    },
+    {
+        "waste": [
+            "sludge",
+            "equipment",
+            "toxic metals"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "sludge dewatering",
+            "microwave technology",
+            "ozonation",
+            "ultrasound",
+            "enzymatic treatment",
+            "treatments with alkalis",
+            "treatments with acids"
+        ],
+        "transformed_resource": [
+            "cadmium",
+            "chromium",
+            "copper",
+            "nickel",
+            "lead",
+            "zinc",
+            "adsorbents for metal ions",
+            "biogas"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk41"
+    },
+    {
+        "waste": [
+            "sludge",
+            "food waste",
+            "sewage sludge",
+            "organic matter"
+        ],
+        "transforming_process": [
+            "enzymatic treatment",
+            "treatments with alkalis",
+            "treatments with acids",
+            "thermal pre-treatments",
+            "high pressures",
+            "co-digestion",
+            "anaerobic digestion",
+            "gasification",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "methane",
+            "CO2"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk42"
+    },
+    {
+        "waste": [
+            "sludge",
+            "fish processing wastewater"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "gasification",
+            "pyrolysis",
+            "aerobic processes",
+            "supercritical fluid extraction"
+        ],
+        "transformed_resource": [
+            "syngas",
+            "biochar",
+            "bio-oils",
+            "biodiesel"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk43"
+    },
+    {
+        "waste": [
+            "seafood waste"
+        ],
+        "transforming_process": [
+            "valorisation",
+            "nutrient recovery"
+        ],
+        "transformed_resource": [
+            "bio-based resources"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk45"
+    },
+    {
+        "waste": [
+            "seafood waste",
+            "by-product material from seafood processing"
+        ],
+        "transforming_process": [
+            "reuse",
+            "recovery",
+            "valorisation"
+        ],
+        "transformed_resource": [
+            "sustainable seafood value chain credentials",
+            "feed ingredients",
+            "energy",
+            "fertiliser"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk46"
+    },
+    {
+        "waste": [
+            "seafood waste",
+            "bio-wastes"
+        ],
+        "transforming_process": [
+            "development of an effective waste management plan",
+            "separation of the waste into liquid/solid streams",
+            "using the best available extraction method"
+        ],
+        "transformed_resource": [
+            "value-added supply chains",
+            "nutritional component(s)",
+            "disruptive and high-value products"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk59"
+    },
+    {
+        "waste": [
+            "food waste streams",
+            "biorefining fisheries and seaweed by-products",
+            "conventional waste"
+        ],
+        "transforming_process": [
+            "developing sustainable and biorefinery practices",
+            "biorefining"
+        ],
+        "transformed_resource": [
+            "high-value bioactive compounds",
+            "novel antimicrobials for eco-packaging",
+            "immune-stimulatory ingredients",
+            "novel ingredients for fish feed"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk60"
+    },
+    {
+        "waste": [
+            "seafood by-products"
+        ],
+        "transforming_process": [
+            "development of functional foods",
+            "processing and production of feeds",
+            "production of food products from raw or waste sources"
+        ],
+        "transformed_resource": [
+            "functional foods",
+            "feeds",
+            "additives"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk63"
+    },
+    {
+        "waste": [
+            "anchovy waste",
+            "sea urchin waste"
+        ],
+        "transforming_process": [
+            "valorisation",
+            "in-vessel composting"
+        ],
+        "transformed_resource": [],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk68"
+    },
+    {
+        "waste": [
+            "trimming",
+            "offal",
+            "heads",
+            "frames",
+            "partially fish protein hydrolysate",
+            "cook water",
+            "solid waste from produced sludge"
+        ],
+        "transforming_process": [
+            "valorisation",
+            "reuse",
+            "nutrient recovery",
+            "polyculture",
+            "aquaponics",
+            "integrated multitrophic aquaculture",
+            "mechanical means"
+        ],
+        "transformed_resource": [
+            "nutrients",
+            "energy",
+            "biomass"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk73"
+    },
+    {
+        "waste": [
+            "solid waste",
+            "non-targeted species",
+            "over quotas",
+            "poor quality and unsuitable targeted species",
+            "seafood waste"
+        ],
+        "transforming_process": [
+            "solid waste recovery",
+            "regeneration of seafood waste"
+        ],
+        "transformed_resource": [
+            "valued resource",
+            "valued products"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk74"
+    },
+    {
+        "waste": [
+            "seafood waste"
+        ],
+        "transforming_process": [
+            "regeneration of nutrients"
+        ],
+        "transformed_resource": [
+            "new foods",
+            "products"
+        ],
+        "reference": "10.1016/j.jclepro.2023.136283_chunk76"
+    }
+]

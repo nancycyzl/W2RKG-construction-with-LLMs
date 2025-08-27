@@ -1,0 +1,89 @@
+[
+    {
+        "waste": [
+            "agriculture waste and residues",
+            "forest biomass",
+            "biomass-based heat and power",
+            "non-recyclable waste and residues",
+            "food waste biomass"
+        ],
+        "transforming_process": [
+            "produced",
+            "processed",
+            "used",
+            "valorization",
+            "recover",
+            "management of biofuel supply chains",
+            "biomass feedstock production",
+            "biomass logistics",
+            "biofuel distribution"
+        ],
+        "transformed_resource": [
+            "biofuel",
+            "bioactive compounds"
+        ],
+        "reference": "10.1016/j.clwas.2023.100127_chunk26"
+    },
+    {
+        "waste": [
+            "wastewater",
+            "nutrients",
+            "reclaimed water"
+        ],
+        "transforming_process": [
+            "removal of contaminants",
+            "utilization of algal biomass",
+            "recovering nutrients",
+            "water reuse for irrigation",
+            "fertigation techniques"
+        ],
+        "transformed_resource": [
+            "biofuels",
+            "food",
+            "cosmetics",
+            "fertilizers",
+            "feed for animals",
+            "bioenergy",
+            "nutrients"
+        ],
+        "reference": "10.1016/j.clwas.2023.100127_chunk28"
+    },
+    {
+        "waste": [
+            "wastewater",
+            "sludge"
+        ],
+        "transforming_process": [
+            "wastewater treatment",
+            "water reuse",
+            "energy recovery",
+            "sludge reuse",
+            "membrane engineering",
+            "optimization of water management"
+        ],
+        "transformed_resource": [
+            "reclaimed water",
+            "energy",
+            "reused sludge"
+        ],
+        "reference": "10.1016/j.clwas.2023.100127_chunk52"
+    },
+    {
+        "waste": [
+            "municipal waste"
+        ],
+        "transforming_process": [
+            "waste-to-energy paradigm",
+            "reduction",
+            "reclamation",
+            "reuse",
+            "recycling",
+            "recovery",
+            "rethink"
+        ],
+        "transformed_resource": [
+            "energy"
+        ],
+        "reference": "10.1016/j.clwas.2023.100127_chunk53"
+    }
+]

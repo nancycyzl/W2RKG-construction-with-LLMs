@@ -1,0 +1,191 @@
+[
+    {
+        "waste": [
+            "food waste",
+            "by-products",
+            "Agro-food waste",
+            "vegetable waste"
+        ],
+        "transforming_process": [
+            "transforming into novel value-added products",
+            "developing novel functional foods"
+        ],
+        "transformed_resource": [
+            "value-added products",
+            "functional foods"
+        ],
+        "reference": "10.1016/j.tifs.2021.10.002_chunk1"
+    },
+    {
+        "waste": [
+            "agro-industrial waste",
+            "by-products"
+        ],
+        "transforming_process": [
+            "valorizing",
+            "production of prebiotics"
+        ],
+        "transformed_resource": [
+            "novel prebiotics",
+            "novel functional ingredients"
+        ],
+        "reference": "10.1016/j.tifs.2021.10.002_chunk7"
+    },
+    {
+        "waste": [
+            "agro-food waste",
+            "by-products",
+            "vegetable food waste",
+            "fruit food waste"
+        ],
+        "transforming_process": [
+            "formulation of prebiotics",
+            "integrative studies",
+            "exploring non-digestible carbohydrates diversity"
+        ],
+        "transformed_resource": [
+            "novel prebiotics",
+            "sustainable prebiotics",
+            "efficient prebiotics",
+            "oligosaccharides"
+        ],
+        "reference": "10.1016/j.tifs.2021.10.002_chunk9"
+    },
+    {
+        "waste": [
+            "prebiotic rich agro-food waste",
+            "vegetable waste",
+            "by-products"
+        ],
+        "transforming_process": [
+            "integrated with advanced predictive computational approaches",
+            "valorization approach"
+        ],
+        "transformed_resource": [
+            "data",
+            "fibre",
+            "complex carbohydrates"
+        ],
+        "reference": "10.1016/j.tifs.2021.10.002_chunk10"
+    },
+    {
+        "waste": [
+            "vegetables waste",
+            "by-products",
+            "ingredients derived thereof",
+            "pectins from different citrus fruits",
+            "sugarbeet",
+            "sugarcane derived xylo-oligosaccharides"
+        ],
+        "transforming_process": [
+            "evaluation of pectins",
+            "extraction of xylo-oligosaccharides"
+        ],
+        "transformed_resource": [
+            "novel prebiotics",
+            "functional ingredients"
+        ],
+        "reference": "10.1016/j.tifs.2021.10.002_chunk17"
+    },
+    {
+        "waste": [
+            "vegetable food waste",
+            "agro-food waste",
+            "by-products",
+            "waste streams"
+        ],
+        "transforming_process": [
+            "integrating data",
+            "revealing associations",
+            "designing prebiotic ingredients"
+        ],
+        "transformed_resource": [
+            "prebiotic fibres",
+            "prebiotic ingredients",
+            "non-digestible carbohydrates",
+            "plant polysaccharides"
+        ],
+        "reference": "10.1016/j.tifs.2021.10.002_chunk21"
+    },
+    {
+        "waste": [
+            "agro-food waste",
+            "waste and by-products derived from manufacturing of citrus fruits",
+            "apple pomace",
+            "sugar beet"
+        ],
+        "transforming_process": [
+            "depolymerization"
+        ],
+        "transformed_resource": [
+            "pectin",
+            "POS"
+        ],
+        "reference": "10.1016/j.tifs.2021.10.002_chunk26"
+    },
+    {
+        "waste": [
+            "lignocellulosic biomass",
+            "agricultural waste",
+            "by-products"
+        ],
+        "transforming_process": [
+            "xylan hydrolysis",
+            "chemical methods",
+            "enzymatic methods"
+        ],
+        "transformed_resource": [
+            "XOS",
+            "prebiotics"
+        ],
+        "reference": "10.1016/j.tifs.2021.10.002_chunk31"
+    },
+    {
+        "waste": [
+            "vegetable waste"
+        ],
+        "transforming_process": [
+            "extraction",
+            "rationale design"
+        ],
+        "transformed_resource": [
+            "prebiotics",
+            "non-digestible carbohydrates"
+        ],
+        "reference": "10.1016/j.tifs.2021.10.002_chunk37"
+    },
+    {
+        "waste": [
+            "vegetable by-products",
+            "vegetable waste"
+        ],
+        "transforming_process": [
+            "analysis of available information",
+            "data mining",
+            "data analysis",
+            "genomics data analyses"
+        ],
+        "transformed_resource": [
+            "prebiotics"
+        ],
+        "reference": "10.1016/j.tifs.2021.10.002_chunk39"
+    },
+    {
+        "waste": [
+            "artichoke by-products",
+            "bergamot by-products",
+            "sunflower by-products"
+        ],
+        "transforming_process": [
+            "enzymatic treatments",
+            "partial hydrolysis"
+        ],
+        "transformed_resource": [
+            "POS mixtures",
+            "\u03b1-GOS",
+            "XOS",
+            "high uronic acids"
+        ],
+        "reference": "10.1016/j.tifs.2021.10.002_chunk57"
+    }
+]

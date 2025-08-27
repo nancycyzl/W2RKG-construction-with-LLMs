@@ -1,0 +1,369 @@
+[
+    {
+        "waste": [
+            "low-value substrates",
+            "organic waste",
+            "biowaste"
+        ],
+        "transforming_process": [
+            "bioconversion"
+        ],
+        "transformed_resource": [
+            "high-quality animal feed",
+            "organic fertilizers",
+            "high-quality protein sources"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk0"
+    },
+    {
+        "waste": [
+            "biowaste",
+            "organic residual streams",
+            "food byproducts",
+            "waste",
+            "organic waste"
+        ],
+        "transforming_process": [
+            "utilize in diets",
+            "fed",
+            "bioconversion"
+        ],
+        "transformed_resource": [
+            "biomass rich in valuable proteins",
+            "fats",
+            "vitamins",
+            "minerals",
+            "frass fertilizers",
+            "organic fertilizers"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk1"
+    },
+    {
+        "waste": [
+            "agri-food waste"
+        ],
+        "transforming_process": [
+            "bioconversion"
+        ],
+        "transformed_resource": [
+            "mineral fertilizers",
+            "organic fertilizers",
+            "frass fertilizers"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk2"
+    },
+    {
+        "waste": [
+            "agri-food waste",
+            "food waste"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "biorefinery",
+            "microbe-based approaches"
+        ],
+        "transformed_resource": [
+            "animal feed",
+            "frass fertilizers",
+            "nutraceuticals",
+            "antioxidants",
+            "bio-polymers",
+            "biopeptides",
+            "antibiotics",
+            "industrial enzymes",
+            "polysaccharides",
+            "chitosan",
+            "pigments"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk3"
+    },
+    {
+        "waste": [
+            "food waste",
+            "agri-FW"
+        ],
+        "transforming_process": [
+            "insect-based waste bioconversion"
+        ],
+        "transformed_resource": [
+            "food",
+            "feed",
+            "fertilizer"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk5"
+    },
+    {
+        "waste": [
+            "agri-FW",
+            "okra",
+            "brewer grains",
+            "corn",
+            "wheat",
+            "rice straw",
+            "fermented cornstalks",
+            "corn straw",
+            "sawdust",
+            "crop residues"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "degradation",
+            "transformation"
+        ],
+        "transformed_resource": [
+            "food",
+            "feed",
+            "fertilizer",
+            "larvae",
+            "feed sources"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk6"
+    },
+    {
+        "waste": [
+            "YMW",
+            "wheat straw",
+            "mushroom residues",
+            "residual waste",
+            "food waste",
+            "vegetative food waste"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "recycling"
+        ],
+        "transformed_resource": [
+            "frass",
+            "insect feed"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk7"
+    },
+    {
+        "waste": [
+            "vegetative food waste",
+            "restaurant waste",
+            "kitchen waste",
+            "organic waste",
+            "high fiber wastes",
+            "dairy manure",
+            "soybean curd residue"
+        ],
+        "transforming_process": [
+            "rearing BSFL",
+            "rearing HFL",
+            "bioconversion"
+        ],
+        "transformed_resource": [
+            "insect larvae",
+            "enhanced conversion",
+            "increased survival rate"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk8"
+    },
+    {
+        "waste": [
+            "curd residue",
+            "corncob",
+            "restaurant wastewater",
+            "human feces"
+        ],
+        "transforming_process": [
+            "conversion by BSFL",
+            "pretreatment with restaurant wastewater",
+            "soaking residue conversion by BSFL"
+        ],
+        "transformed_resource": [
+            "insect grease"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk9"
+    },
+    {
+        "waste": [
+            "human feces",
+            "food waste"
+        ],
+        "transforming_process": [
+            "degradation",
+            "bioconversion",
+            "substrate mixture optimization"
+        ],
+        "transformed_resource": [
+            "marketable products",
+            "recognition of human excreta as a resource"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk10"
+    },
+    {
+        "waste": [
+            "food waste",
+            "sawdust",
+            "agricultural by-products"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "rearing of BSFL"
+        ],
+        "transformed_resource": [
+            "high-nutrition products",
+            "value-added products",
+            "reduced composting time",
+            "decreased organic matter"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk11"
+    },
+    {
+        "waste": [
+            "organic waste"
+        ],
+        "transforming_process": [
+            "fed on organic waste"
+        ],
+        "transformed_resource": [
+            "insect-based feed"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk13"
+    },
+    {
+        "waste": [
+            "waste"
+        ],
+        "transforming_process": [
+            "convert waste into high-quality protein",
+            "insect rearing"
+        ],
+        "transformed_resource": [
+            "high-quality protein"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk14"
+    },
+    {
+        "waste": [
+            "food waste",
+            "waste substrates"
+        ],
+        "transforming_process": [
+            "feeding reared insects with waste substrates"
+        ],
+        "transformed_resource": [
+            "insect meal"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk16"
+    },
+    {
+        "waste": [
+            "insect frass",
+            "organic waste",
+            "BSF",
+            "YMW"
+        ],
+        "transforming_process": [
+            "BSFL converts organic waste into frass fertilizer"
+        ],
+        "transformed_resource": [
+            "stable frass fertilizer",
+            "nutrient-rich frass fertilizer"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk18"
+    },
+    {
+        "waste": [
+            "frass fertilizer",
+            "insect waste"
+        ],
+        "transforming_process": [
+            "production of frass fertilizer"
+        ],
+        "transformed_resource": [
+            "soil amendments",
+            "macronutrients",
+            "secondary nutrients",
+            "micronutrients",
+            "nitrogen",
+            "potassium"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk19"
+    },
+    {
+        "waste": [
+            "waste substrate",
+            "frass",
+            "organic fertilizer"
+        ],
+        "transforming_process": [
+            "waste degradation",
+            "composting",
+            "bioconversion"
+        ],
+        "transformed_resource": [
+            "fertilizer",
+            "frass fertilizer",
+            "organic fertilizer"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk21"
+    },
+    {
+        "waste": [
+            "agri-food waste",
+            "food waste",
+            "organic materials"
+        ],
+        "transforming_process": [
+            "decomposition of organic substrates",
+            "microbial activity",
+            "enzymatic activity",
+            "breaking down"
+        ],
+        "transformed_resource": [
+            "insect growth",
+            "larval development",
+            "metabolites"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk31"
+    },
+    {
+        "waste": [
+            "mycotoxin-contaminated agricultural food waste"
+        ],
+        "transforming_process": [
+            "detoxification",
+            "toxin degradation activity"
+        ],
+        "transformed_resource": [
+            "detoxified agricultural food waste"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk39"
+    },
+    {
+        "waste": [
+            "poultry manure",
+            "chicken manure"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "microbial activity enhancement",
+            "co-employing Bacillus subtilis"
+        ],
+        "transformed_resource": [
+            "biofertilizer",
+            "value-added larvae mass",
+            "higher quality biofertilizer"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk44"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "optimization of conversion",
+            "modulation of gut microbiome",
+            "provision of riboflavin",
+            "alteration of synthetic and metabolic pathways"
+        ],
+        "transformed_resource": [
+            "dry larval biomass",
+            "increased protein content"
+        ],
+        "reference": "10.1016/j.ese.2023.100287_chunk46"
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "waste": [
+            "agricultural wastes",
+            "industrial solid wastes",
+            "red mud",
+            "municipal wastes"
+        ],
+        "transforming_process": [
+            "synthesis of geopolymers",
+            "geopolymerization",
+            "mixing with alkali hydroxide"
+        ],
+        "transformed_resource": [
+            "geopolymers"
+        ],
+        "reference": "10.1016/j.seppur.2023.124631_chunk20"
+    },
+    {
+        "waste": [
+            "fly ash",
+            "slag",
+            "metakaolin"
+        ],
+        "transforming_process": [
+            "mixing with alkaline activator solution",
+            "curing",
+            "rinsing",
+            "drying",
+            "grinding",
+            "sieving"
+        ],
+        "transformed_resource": [
+            "metakaolin-based geopolymers",
+            "fly ash-based geopolymers",
+            "adsorbent for heavy metals"
+        ],
+        "reference": "10.1016/j.seppur.2023.124631_chunk24"
+    },
+    {
+        "waste": [
+            "biomass fly ash"
+        ],
+        "transforming_process": [
+            "hydrothermal treatment",
+            "blending with alkaline solution",
+            "formation of geopolymer slurry",
+            "insertion into polyethylene glycol medium",
+            "washing",
+            "curing"
+        ],
+        "transformed_resource": [
+            "highly-efficient porous geopolymer",
+            "spheres"
+        ],
+        "reference": "10.1016/j.seppur.2023.124631_chunk32"
+    },
+    {
+        "waste": [
+            "mud",
+            "granulated blast furnace slag",
+            "slag",
+            "fly ash",
+            "pyrophyllite",
+            "pyrophyllite mine waste",
+            "sea water"
+        ],
+        "transforming_process": [
+            "preparation of concrete",
+            "preparation of composite of slag and fly ash geopolymers",
+            "incorporation of carbon nanotube",
+            "synthesis of geopolymer"
+        ],
+        "transformed_resource": [
+            "concrete",
+            "adsorbent for MB",
+            "adsorbent for Pb(II)",
+            "adsorbent for Ni(II)",
+            "highly porous geopolymer"
+        ],
+        "reference": "10.1016/j.seppur.2023.124631_chunk65"
+    },
+    {
+        "waste": [
+            "fly ash",
+            "wastewater",
+            "hydrochloric acid"
+        ],
+        "transforming_process": [
+            "wastewater infiltration",
+            "acid neutralization",
+            "membrane filtration"
+        ],
+        "transformed_resource": [
+            "geopolymer membranes",
+            "nanofiltration membrane",
+            "low-cost membrane filters"
+        ],
+        "reference": "10.1016/j.seppur.2023.124631_chunk76"
+    },
+    {
+        "waste": [
+            "petroleum-based polymers"
+        ],
+        "transforming_process": [
+            "thermal processes",
+            "chemical processes",
+            "thermo-chemical processes"
+        ],
+        "transformed_resource": [
+            "geopolymers"
+        ],
+        "reference": "10.1016/j.seppur.2023.124631_chunk89"
+    }
+]

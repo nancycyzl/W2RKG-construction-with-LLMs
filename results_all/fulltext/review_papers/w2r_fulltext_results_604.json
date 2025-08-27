@@ -1,0 +1,549 @@
+[
+    {
+        "waste": [
+            "bio-waste"
+        ],
+        "transforming_process": [
+            "green biomanufacturing",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "biosurfactants"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk4"
+    },
+    {
+        "waste": [
+            "bio-waste",
+            "industrial wastes",
+            "household wastes",
+            "food residues",
+            "agro-industrial by-products"
+        ],
+        "transforming_process": [
+            "biosurfactant production",
+            "green synthesis"
+        ],
+        "transformed_resource": [
+            "biosurfactants"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk6"
+    },
+    {
+        "waste": [
+            "rice straw",
+            "sugarcane bagasse",
+            "corncobs",
+            "corn husk",
+            "banana stalks",
+            "cassava wastewater",
+            "pineapple peels",
+            "orange peels",
+            "beet peels",
+            "lignocellulosic biomass"
+        ],
+        "transforming_process": [
+            "fermentation bioprocess",
+            "bio-waste valorization"
+        ],
+        "transformed_resource": [
+            "biosurfactants"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk7"
+    },
+    {
+        "waste": [
+            "lignocellulosic bio-wastes"
+        ],
+        "transforming_process": [
+            "biotransformation"
+        ],
+        "transformed_resource": [
+            "biosurfactants"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk8"
+    },
+    {
+        "waste": [
+            "xylose-rich rice straw hydrolysate",
+            "oil-contaminated sites"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "co-fermentation"
+        ],
+        "transformed_resource": [
+            "glycolipids",
+            "biosurfactants"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk9"
+    },
+    {
+        "waste": [
+            "exploded sugarcane bagasse"
+        ],
+        "transforming_process": [
+            "co-fermentation",
+            "solid state fermentation",
+            "substrate pre-treatment",
+            "enzymatic hydrolysis"
+        ],
+        "transformed_resource": [
+            "bioethanol",
+            "rhamnolipids",
+            "fermentable sugars",
+            "biosurfactants"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk10"
+    },
+    {
+        "waste": [
+            "sugarcane bagasse",
+            "lignocellulosic waste from corncobs",
+            "rice straw"
+        ],
+        "transforming_process": [
+            "hydrolysis using 4% (v/v) solution of Penicillium citrinum",
+            "biosurfactant production using sugar hydrolysate in synthetic mineral water"
+        ],
+        "transformed_resource": [
+            "biosurfactant",
+            "sugar hydrolysate"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk11"
+    },
+    {
+        "waste": [
+            "crop residues",
+            "corn husk powder"
+        ],
+        "transforming_process": [
+            "fermentation bioprocess"
+        ],
+        "transformed_resource": [
+            "biosurfactants"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk12"
+    },
+    {
+        "waste": [
+            "waste engine oil",
+            "hemicellulosic corncob liquor"
+        ],
+        "transforming_process": [
+            "emulsification activity",
+            "structural characterization",
+            "microbial enhanced oil recovery",
+            "alkaline pre-treatment"
+        ],
+        "transformed_resource": [
+            "rhamnolipids",
+            "surfactin",
+            "C5 fraction"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk13"
+    },
+    {
+        "waste": [
+            "cassava wastewater"
+        ],
+        "transforming_process": [
+            "development of mannosylerythritol lipids using P. tsukubaensis",
+            "ultrafiltration",
+            "crossflow filtration"
+        ],
+        "transformed_resource": [
+            "mannosylerythritol lipids",
+            "proteins"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk14"
+    },
+    {
+        "waste": [
+            "sugarcane bagasse",
+            "fruits/vegetables wastes",
+            "food processing waste"
+        ],
+        "transforming_process": [
+            "crossflow filtration",
+            "substrate pre-treatment",
+            "enzymatic hydrolysis"
+        ],
+        "transformed_resource": [
+            "biosurfactants",
+            "fermentable sugars"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk15"
+    },
+    {
+        "waste": [
+            "Food processing waste",
+            "industrial food waste",
+            "household food waste",
+            "fruits/vegetable waste"
+        ],
+        "transforming_process": [
+            "biochemical synthesis",
+            "bio-transform"
+        ],
+        "transformed_resource": [
+            "value-added chemicals",
+            "biosurfactants"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk16"
+    },
+    {
+        "waste": [
+            "banana stalks",
+            "food waste"
+        ],
+        "transforming_process": [
+            "biosurfactant production",
+            "fermentation",
+            "strain improvement",
+            "fermentation conditions optimization",
+            "enzymatic saccharification"
+        ],
+        "transformed_resource": [
+            "biosurfactant"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk17"
+    },
+    {
+        "waste": [
+            "food waste",
+            "textile waste",
+            "bakery waste",
+            "used corn oil",
+            "hydrolyzed lipid fraction",
+            "restaurant food waste"
+        ],
+        "transforming_process": [
+            "enzymatic saccharification",
+            "hydrolysis",
+            "fed-batch fermentation"
+        ],
+        "transformed_resource": [
+            "biosurfactants",
+            "hydrolysate",
+            "free amino nitrogen",
+            "glucose",
+            "sophorolipids"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk18"
+    },
+    {
+        "waste": [
+            "restaurant food waste",
+            "orange peels"
+        ],
+        "transforming_process": [
+            "fed-batch fermentation",
+            "controlled addition"
+        ],
+        "transformed_resource": [
+            "biosurfactant"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk19"
+    },
+    {
+        "waste": [
+            "orange peels",
+            "beet peels",
+            "glycerol"
+        ],
+        "transforming_process": [
+            "synthesis of lipopeptide biosurfactant",
+            "biosurfactant production by B. subtilis",
+            "combined aeration and agitation conditions"
+        ],
+        "transformed_resource": [
+            "lipopeptide biosurfactant",
+            "crude biosurfactant"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk20"
+    },
+    {
+        "waste": [
+            "pineapple peels",
+            "apple peels extract",
+            "beet molasses",
+            "carrot peel extract"
+        ],
+        "transforming_process": [
+            "biosurfactant production",
+            "bioprocess cost reduction"
+        ],
+        "transformed_resource": [
+            "lipopeptide surfactant",
+            "iturin"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk21"
+    },
+    {
+        "waste": [
+            "renewable waste",
+            "brewery waste",
+            "bio-waste medium",
+            "bio-waste containing media",
+            "oil-contaminated soil"
+        ],
+        "transforming_process": [
+            "cultivation",
+            "production",
+            "detoxification",
+            "remediation"
+        ],
+        "transformed_resource": [
+            "lipopeptide surfactin",
+            "iturin",
+            "biosurfactants"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk22"
+    },
+    {
+        "waste": [
+            "oil-contaminated soil",
+            "potato peels powder",
+            "petroleum oil"
+        ],
+        "transforming_process": [
+            "bio-slurry experiment",
+            "bioremediation",
+            "detoxification"
+        ],
+        "transformed_resource": [
+            "biosurfactant",
+            "growth of Bacillus licheniformis",
+            "treated soil"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk23"
+    },
+    {
+        "waste": [
+            "bio-slurry",
+            "oil-contaminated soils",
+            "food waste",
+            "agro-food waste",
+            "bio-waste"
+        ],
+        "transforming_process": [
+            "treatment",
+            "utilization using green chemistry technologies",
+            "enzymatic pre-treatment",
+            "bioprocessing"
+        ],
+        "transformed_resource": [
+            "value-added compounds",
+            "biosurfactants",
+            "specialty chemicals"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk24"
+    },
+    {
+        "waste": [
+            "agro-industrial by-products",
+            "corn steep liquor",
+            "tiger nut fiber",
+            "chicken tallow",
+            "kitchen waste oil"
+        ],
+        "transforming_process": [
+            "biosurfactant production by Yarrowia lipolytica",
+            "biosurfactant production by Pseudomonas aeruginosa"
+        ],
+        "transformed_resource": [
+            "biosurfactant"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk27"
+    },
+    {
+        "waste": [
+            "kitchen waste oil-contaminated cloths",
+            "sludge",
+            "brewery waste",
+            "vinasse",
+            "whey",
+            "corn steep liquor",
+            "crude glycerol"
+        ],
+        "transforming_process": [
+            "oil removal",
+            "bio-valorization",
+            "glycol-lipopeptide production",
+            "biosurfactant production"
+        ],
+        "transformed_resource": [
+            "biosurfactant",
+            "glycol-lipopeptides"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk28"
+    },
+    {
+        "waste": [
+            "renewable wastes",
+            "agroindustrial byproducts",
+            "industrial byproducts"
+        ],
+        "transforming_process": [
+            "biosurfactant production",
+            "bioremediation"
+        ],
+        "transformed_resource": [
+            "biosurfactant",
+            "reduced surface tension of water"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk29"
+    },
+    {
+        "waste": [
+            "agro-food wastes",
+            "industrial wastes",
+            "molasses",
+            "wheat bran",
+            "tannery sludge"
+        ],
+        "transforming_process": [
+            "produce biosurfactants",
+            "foaming method",
+            "produce iron nanoparticles",
+            "study production of glycolipids"
+        ],
+        "transformed_resource": [
+            "biosurfactants",
+            "iron nanoparticles",
+            "glycolipid biosurfactant"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk38"
+    },
+    {
+        "waste": [
+            "banana peels",
+            "cassava effluent",
+            "maize bran",
+            "corn husk"
+        ],
+        "transforming_process": [
+            "utilization of affordable substrates",
+            "external synthesis of microbial by-products"
+        ],
+        "transformed_resource": [
+            "glycolipid biosurfactants",
+            "biosurfactants"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk61"
+    },
+    {
+        "waste": [
+            "corn husk",
+            "maize bran",
+            "cassava effluent",
+            "banana peels",
+            "neem seed oil"
+        ],
+        "transforming_process": [
+            "biosurfactant production"
+        ],
+        "transformed_resource": [
+            "biosurfactant"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk62"
+    },
+    {
+        "waste": [
+            "bio-waste",
+            "oil-contaminated soil",
+            "oil-contaminated water",
+            "hazardous environmental contaminants"
+        ],
+        "transforming_process": [
+            "production of biosurfactants",
+            "bioremediation",
+            "degradation and transformation methods"
+        ],
+        "transformed_resource": [
+            "biosurfactants",
+            "less/non-adverse compounds",
+            "harmless compounds"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk63"
+    },
+    {
+        "waste": [
+            "corn steep liquor",
+            "soybean waste cooking oil"
+        ],
+        "transforming_process": [
+            "microbial degradation",
+            "bioremediation"
+        ],
+        "transformed_resource": [
+            "CO2",
+            "CH4",
+            "H2O",
+            "biomass",
+            "anionic glycolipids"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk64"
+    },
+    {
+        "waste": [
+            "waste canola oil",
+            "cassava flour wastewater"
+        ],
+        "transforming_process": [
+            "production of biosurfactants"
+        ],
+        "transformed_resource": [
+            "biosurfactants",
+            "improved soil quality"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk69"
+    },
+    {
+        "waste": [
+            "agri-food waste",
+            "by-products",
+            "waste canola oil"
+        ],
+        "transforming_process": [
+            "production of concentrated glycolipid biosurfactant"
+        ],
+        "transformed_resource": [
+            "powdered product"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk76"
+    },
+    {
+        "waste": [
+            "renewable organic waste"
+        ],
+        "transforming_process": [
+            "synthesis of biosurfactants"
+        ],
+        "transformed_resource": [
+            "biosurfactants"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk86"
+    },
+    {
+        "waste": [
+            "renewable organic waste",
+            "food residues",
+            "agricultural waste",
+            "by-products",
+            "waste biomass"
+        ],
+        "transforming_process": [
+            "production of biosurfactants",
+            "downstream processing",
+            "purification"
+        ],
+        "transformed_resource": [
+            "surfactants",
+            "biosurfactants",
+            "renewable raw materials"
+        ],
+        "reference": "10.1016/j.jece.2023.111555_chunk87"
+    }
+]

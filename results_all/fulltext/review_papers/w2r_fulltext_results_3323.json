@@ -1,0 +1,241 @@
+[
+    {
+        "waste": [
+            "mine dump",
+            "acid producing mine waste",
+            "metal-contaminated soils"
+        ],
+        "transforming_process": [
+            "biological approach",
+            "degradation process",
+            "transformation process"
+        ],
+        "transformed_resource": [
+            "environmental contaminant",
+            "biochemical degradation",
+            "biochemical conversion"
+        ],
+        "reference": "10.1016/j.rineng.2020.100181_chunk37"
+    },
+    {
+        "waste": [
+            "tailings",
+            "mineralized waste rocks"
+        ],
+        "transforming_process": [
+            "tailings re-claiming",
+            "re-handling",
+            "reprocessing"
+        ],
+        "transformed_resource": [
+            "future resource"
+        ],
+        "reference": "10.1016/j.rineng.2020.100181_chunk61"
+    },
+    {
+        "waste": [
+            "mine waste",
+            "mine dumps"
+        ],
+        "transforming_process": [
+            "reuse",
+            "recycling",
+            "extraction"
+        ],
+        "transformed_resource": [
+            "valued product",
+            "treasured resource materials"
+        ],
+        "reference": "10.1016/j.rineng.2020.100181_chunk65"
+    },
+    {
+        "waste": [
+            "mine wastes",
+            "mixed mine tailings",
+            "waste rock",
+            "residual waste material"
+        ],
+        "transforming_process": [
+            "recycling",
+            "reprocessing",
+            "physical approaches",
+            "chemical approaches",
+            "biological approaches",
+            "thermal approaches"
+        ],
+        "transformed_resource": [
+            "valuable compounds",
+            "elements",
+            "minerals",
+            "energy"
+        ],
+        "reference": "10.1016/j.rineng.2020.100181_chunk66"
+    },
+    {
+        "waste": [
+            "mine wastes",
+            "impure materials"
+        ],
+        "transforming_process": [
+            "reprocessing",
+            "extraction of metals",
+            "extraction of minerals"
+        ],
+        "transformed_resource": [
+            "treasured metal",
+            "valuable materials",
+            "treasured product"
+        ],
+        "reference": "10.1016/j.rineng.2020.100181_chunk70"
+    },
+    {
+        "waste": [
+            "tailings",
+            "mining wastes"
+        ],
+        "transforming_process": [
+            "reprocessing",
+            "hydraulicking"
+        ],
+        "transformed_resource": [
+            "metal",
+            "gold"
+        ],
+        "reference": "10.1016/j.rineng.2020.100181_chunk71"
+    },
+    {
+        "waste": [
+            "tailings",
+            "gold tailings",
+            "residual tailings",
+            "crushed rock",
+            "sand",
+            "dumps of crushed rock",
+            "lowest-grade ore",
+            "old tailings"
+        ],
+        "transforming_process": [
+            "large-scale tailings hydraulicking",
+            "reprocessing of gold tailings",
+            "removal of the tailings",
+            "recovering gold and uranium",
+            "reprocessed metric tonne",
+            "advanced separation"
+        ],
+        "transformed_resource": [
+            "gold",
+            "uranium",
+            "land for improvements of houses",
+            "valued metal",
+            "diamonds"
+        ],
+        "reference": "10.1016/j.rineng.2020.100181_chunk72"
+    },
+    {
+        "waste": [
+            "tailings",
+            "diamond-bearing ore",
+            "waste dumps",
+            "tailings",
+            "slag"
+        ],
+        "transforming_process": [
+            "advanced separation process",
+            "sorting and crushing",
+            "reprocessing existing waste dumps",
+            "reprocessing",
+            "reprocessing"
+        ],
+        "transformed_resource": [
+            "diamonds",
+            "copper",
+            "magnetite"
+        ],
+        "reference": "10.1016/j.rineng.2020.100181_chunk73"
+    },
+    {
+        "waste": [
+            "slag",
+            "ore tailings",
+            "slag tailings"
+        ],
+        "transforming_process": [
+            "reprocessing",
+            "flotation process"
+        ],
+        "transformed_resource": [
+            "copper"
+        ],
+        "reference": "10.1016/j.rineng.2020.100181_chunk74"
+    },
+    {
+        "waste": [
+            "mine dump",
+            "tailing"
+        ],
+        "transforming_process": [
+            "reprocessing",
+            "extraction",
+            "geopolymerisation"
+        ],
+        "transformed_resource": [
+            "copper",
+            "gold",
+            "diamonds",
+            "rare earth elements"
+        ],
+        "reference": "10.1016/j.rineng.2020.100181_chunk75"
+    },
+    {
+        "waste": [
+            "mine tailings",
+            "mine dumps"
+        ],
+        "transforming_process": [
+            "geopolymerisation",
+            "dissolution of aluminosilicate",
+            "condensation of free silicate and aluminate species",
+            "chemical reaction"
+        ],
+        "transformed_resource": [
+            "novel raw materials for infrastructure construction"
+        ],
+        "reference": "10.1016/j.rineng.2020.100181_chunk76"
+    },
+    {
+        "waste": [
+            "mercury polluted soil",
+            "mine wastes",
+            "heat",
+            "other waste products"
+        ],
+        "transforming_process": [
+            "thermal desorption",
+            "utilization of heat",
+            "processing and interpretation of survey data"
+        ],
+        "transformed_resource": [
+            "volatilized mercury"
+        ],
+        "reference": "10.1016/j.rineng.2020.100181_chunk78"
+    },
+    {
+        "waste": [
+            "Nickel-laterite mine waste",
+            "mine dumps",
+            "acid mine drainage"
+        ],
+        "transforming_process": [
+            "mechanically fabricated",
+            "thermally fabricated",
+            "re-use",
+            "recycling",
+            "reprocessing"
+        ],
+        "transformed_resource": [
+            "geopolymer precursor",
+            "cementitious activity"
+        ],
+        "reference": "10.1016/j.rineng.2020.100181_chunk112"
+    }
+]

@@ -1,0 +1,298 @@
+[
+    {
+        "waste": [
+            "bio-wastes"
+        ],
+        "transforming_process": [
+            "new processing mechanisms",
+            "transform waste back to useable product"
+        ],
+        "transformed_resource": [
+            "bioplastics"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk2"
+    },
+    {
+        "waste": [
+            "bio-waste",
+            "food industry processing wastes",
+            "by-products"
+        ],
+        "transforming_process": [
+            "bio-waste transformation",
+            "processing mechanisms"
+        ],
+        "transformed_resource": [
+            "useable product",
+            "raw material",
+            "bioplastic"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk3"
+    },
+    {
+        "waste": [
+            "de-lignified pulp",
+            "cotton",
+            "gluten"
+        ],
+        "transforming_process": [
+            "bioethanol production",
+            "extrusion"
+        ],
+        "transformed_resource": [
+            "bioplastics",
+            "feed production"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk10"
+    },
+    {
+        "waste": [
+            "soybean oil",
+            "food wastes",
+            "by-products"
+        ],
+        "transforming_process": [
+            "bacterial cell growth",
+            "nutrient restricted growth",
+            "PHA biosynthesis"
+        ],
+        "transformed_resource": [
+            "PHA"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk14"
+    },
+    {
+        "waste": [
+            "food waste",
+            "animal origin wastes"
+        ],
+        "transforming_process": [
+            "landfilling",
+            "anaerobic digestion",
+            "composting",
+            "thermal treatment",
+            "animal feed production",
+            "recycling food wastes",
+            "food waste valorization"
+        ],
+        "transformed_resource": [
+            "functional foods",
+            "bio-products",
+            "enzymes",
+            "antibiotics",
+            "biofuels",
+            "biopolymers"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk30"
+    },
+    {
+        "waste": [
+            "food waste",
+            "by-products"
+        ],
+        "transforming_process": [
+            "generation to biofuels",
+            "recovery and extraction of value-added compounds",
+            "production of bio-adsorbents for wastewater treatment",
+            "production of biomaterials"
+        ],
+        "transformed_resource": [
+            "biofuels",
+            "value-added compounds",
+            "bio-adsorbents",
+            "biomaterials"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk31"
+    },
+    {
+        "waste": [
+            "waste biomass",
+            "food wastes"
+        ],
+        "transforming_process": [
+            "microbial fermentation",
+            "aerobic digestion",
+            "anaerobic digestion",
+            "thermal processes",
+            "carbonization",
+            "hydrothermal liquefaction",
+            "biological methods",
+            "physical methods",
+            "chemical methods",
+            "physico-chemical methods"
+        ],
+        "transformed_resource": [
+            "bio-methane",
+            "bio-hydrogen",
+            "bio-ethanol",
+            "bio-diesel"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk32"
+    },
+    {
+        "waste": [
+            "food wastes",
+            "by-products"
+        ],
+        "transforming_process": [
+            "recovery",
+            "extraction",
+            "pre-treatment",
+            "extraction operations"
+        ],
+        "transformed_resource": [
+            "value-added compounds",
+            "cosmetics",
+            "nutraceuticals",
+            "food additives",
+            "feed additives"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk33"
+    },
+    {
+        "waste": [
+            "winery wastes and by-products",
+            "tomato processing waste",
+            "apple pomace",
+            "carrot waste",
+            "pineapple peel"
+        ],
+        "transforming_process": [
+            "pretreatment",
+            "extraction",
+            "isolation process"
+        ],
+        "transformed_resource": [
+            "antioxidants",
+            "nutraceuticals",
+            "citric acid"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk34"
+    },
+    {
+        "waste": [
+            "wastewater",
+            "orange peels",
+            "grape pomace",
+            "olive pomace",
+            "coffee beans",
+            "wheat bran"
+        ],
+        "transforming_process": [
+            "flocculation",
+            "coagulation",
+            "reverse osmosis",
+            "nanofiltration",
+            "carbon adsorption",
+            "synthesis of activated carbon"
+        ],
+        "transformed_resource": [
+            "activated carbon"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk35"
+    },
+    {
+        "waste": [
+            "wastes",
+            "food waste"
+        ],
+        "transforming_process": [
+            "bind radicals, ions, atoms or molecules onto the adsorbing surface",
+            "producing bioplastics",
+            "valorizing wastes and by-products"
+        ],
+        "transformed_resource": [
+            "bio-adsorbents",
+            "value-added products",
+            "bioplastics"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk36"
+    },
+    {
+        "waste": [
+            "food waste",
+            "gluten",
+            "potato protein concentrate"
+        ],
+        "transforming_process": [
+            "direct extraction from biomass",
+            "bioplastic production via natural or genetically modified organisms",
+            "compression molding"
+        ],
+        "transformed_resource": [
+            "starch",
+            "cellulose",
+            "bioplastics"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk37"
+    },
+    {
+        "waste": [
+            "rapeseed oil industry by-products",
+            "press cake",
+            "meal",
+            "food waste"
+        ],
+        "transforming_process": [
+            "injection molding",
+            "bioplastics production",
+            "biorefinery platforms"
+        ],
+        "transformed_resource": [
+            "composite components",
+            "bioplastic",
+            "value-added products"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk38"
+    },
+    {
+        "waste": [
+            "food organic waste",
+            "other type of organic waste"
+        ],
+        "transforming_process": [
+            "pre-treatment procedures",
+            "mechanical conversion",
+            "thermal conversion",
+            "chemical conversion",
+            "biological conversion",
+            "enzymatic hydrolysis"
+        ],
+        "transformed_resource": [
+            "bioplastic"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk39"
+    },
+    {
+        "waste": [
+            "bio-wastes"
+        ],
+        "transforming_process": [
+            "pre-treatment process",
+            "conversion process",
+            "biosynthesis"
+        ],
+        "transformed_resource": [
+            "monomers",
+            "lipids",
+            "polysaccharides",
+            "proteins",
+            "bioplastic compounds"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk40"
+    },
+    {
+        "waste": [
+            "food wastes",
+            "by-products"
+        ],
+        "transforming_process": [
+            "biosynthesis of bioplastic compounds"
+        ],
+        "transformed_resource": [
+            "bioplastic compounds",
+            "PHA"
+        ],
+        "reference": "10.1016/j.scp.2020.100326_chunk41"
+    }
+]

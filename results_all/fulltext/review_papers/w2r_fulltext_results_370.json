@@ -1,0 +1,188 @@
+[
+    {
+        "waste": [
+            "polypropylene",
+            "plastic",
+            "waste plastic"
+        ],
+        "transforming_process": [
+            "pyrolysis-based bioconversion",
+            "depolymerization",
+            "plastic degradation",
+            "biological processes"
+        ],
+        "transformed_resource": [
+            "value-added fatty acids",
+            "high-quality compounds",
+            "small depolymerization products",
+            "feedstock"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk3"
+    },
+    {
+        "waste": [
+            "plastics"
+        ],
+        "transforming_process": [
+            "chemical degradation",
+            "physical pre-treatments",
+            "bacterial action",
+            "enzymatic degradation"
+        ],
+        "transformed_resource": [
+            "monomeric components",
+            "CO2",
+            "H2O",
+            "CH4",
+            "N2",
+            "biogas",
+            "organic acids"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk6"
+    },
+    {
+        "waste": [
+            "plastic",
+            "polyethylene terephthalate (PET)"
+        ],
+        "transforming_process": [
+            "genetically engineered microalgae releasing PDEs",
+            "biocatalytic upcycling of PET",
+            "enzymatic breakdown of PET",
+            "PHA production utilizing liberated monomers"
+        ],
+        "transformed_resource": [
+            "polyhydroxyalkanoates (PHAs)"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk19"
+    },
+    {
+        "waste": [
+            "PAs",
+            "PCL",
+            "low-molecular-weight oligomers",
+            "PET"
+        ],
+        "transforming_process": [
+            "depolymerization by Thc_Cut1",
+            "mutation for enhanced amidase activity",
+            "fusing a plastic-degrading enzyme with another supporting enzyme",
+            "hydrolysis by Lip-Cut",
+            "further hydrolysis by cutinase",
+            "synergistic fusion of PETase and MHETase"
+        ],
+        "transformed_resource": [
+            "soluble oligomers",
+            "low-molecular-weight oligomers"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk29"
+    },
+    {
+        "waste": [
+            "PET",
+            "terephthalic acid"
+        ],
+        "transforming_process": [
+            "biodegradation of PET",
+            "biological synthesis",
+            "biotransformation",
+            "one-pot depolymerization of PET"
+        ],
+        "transformed_resource": [
+            "animal feed",
+            "medications",
+            "cosmetics",
+            "fragrances",
+            "Terephthalic acid",
+            "gallic acid",
+            "pyrogallol",
+            "catechol",
+            "muconic acid",
+            "vanillic acid",
+            "vanillin"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk31"
+    },
+    {
+        "waste": [
+            "post-consumer PET waste",
+            "synthetic polymers",
+            "HDPE",
+            "LDPE",
+            "PVC",
+            "PS",
+            "PP"
+        ],
+        "transforming_process": [
+            "biological recycling",
+            "chemical depolymerization",
+            "bio-transformation",
+            "enzyme cascade reaction",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "high-value industrial chemical",
+            "monomers",
+            "shorter chain molecules",
+            "mandelic acid",
+            "value-added fatty acids"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk32"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "fermentation",
+            "biological recovery"
+        ],
+        "transformed_resource": [
+            "fatty alcohols",
+            "fatty acids",
+            "polyhydroxyalkanoates",
+            "new biopolymers"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk33"
+    },
+    {
+        "waste": [
+            "food waste",
+            "plastic waste",
+            "man-made polymers",
+            "rearing waste"
+        ],
+        "transforming_process": [
+            "co-feeding with food waste",
+            "microbiota breakdown",
+            "enzyme-mediated biocatalytic degradation"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "protein biomass",
+            "fertilizers",
+            "chitin/chitosan",
+            "biochar",
+            "biodiesel"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk34"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "isolating microorganisms that produce plastic-degrading enzymes",
+            "accelerate the polymer degradation process",
+            "bio-upcycling",
+            "investigation into multi-enzyme or multi-microbial strategies",
+            "systems metabolic engineering"
+        ],
+        "transformed_resource": [
+            "degraded plastic",
+            "valorized plastic"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk36"
+    }
+]

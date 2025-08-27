@@ -1,0 +1,368 @@
+[
+    {
+        "waste": [
+            "biowaste"
+        ],
+        "transforming_process": [
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "single-cell proteins",
+            "succinic acid",
+            "volatile fatty acids",
+            "polyhydroxyalkanoates",
+            "lactic acid"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk3"
+    },
+    {
+        "waste": [
+            "biowaste",
+            "animal waste",
+            "skin",
+            "meat waste",
+            "blood",
+            "hairs",
+            "bone residues",
+            "food wastes",
+            "lignocellulosic residues"
+        ],
+        "transforming_process": [
+            "production of biogas",
+            "LA fermentation",
+            "downstream processing"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "PLA"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk5"
+    },
+    {
+        "waste": [
+            "food waste",
+            "baking waste",
+            "fruit/vegetable waste",
+            "meat waste"
+        ],
+        "transforming_process": [
+            "biologically treated for biogas production"
+        ],
+        "transformed_resource": [
+            "847 kWh electricity",
+            "89 GJ heating potential"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk7"
+    },
+    {
+        "waste": [
+            "lignocellulosic biowaste",
+            "cellulosic biowaste",
+            "pectin rich biowaste"
+        ],
+        "transforming_process": [
+            "enzymatic hydrolysis",
+            "hydrolyzing amorphous cellulose",
+            "hydrolyzing cellobiose",
+            "hydrolyzes produced cellobiose",
+            "hydrolyses the xylan chains",
+            "liberation of galacturonic acid",
+            "remove sidechains containing arabinose"
+        ],
+        "transformed_resource": [
+            "fermentable sugars",
+            "glucose",
+            "xylose",
+            "arabinose",
+            "mannose",
+            "cellobiose",
+            "galacturonic acid"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk11"
+    },
+    {
+        "waste": [
+            "biowaste",
+            "food waste"
+        ],
+        "transforming_process": [
+            "enzymatic hydrolysis",
+            "fermentation",
+            "addition of exogenous glucoamylases",
+            "supplementation with \u03b1-amylase"
+        ],
+        "transformed_resource": [
+            "fermentable sugars",
+            "LA yield"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk12"
+    },
+    {
+        "waste": [
+            "animal production waste",
+            "meat",
+            "hair",
+            "nails",
+            "blood",
+            "trimming bones",
+            "meat byproducts",
+            "collagen"
+        ],
+        "transforming_process": [
+            "co-fermentation",
+            "protease treatment"
+        ],
+        "transformed_resource": [
+            "lactic acid",
+            "protein source",
+            "cell mass production"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk14"
+    },
+    {
+        "waste": [
+            "biowaste",
+            "lignocellulosic waste",
+            "food biowaste",
+            "sulphite liquor",
+            "wheat straw acid hydrolysate",
+            "rice straw"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "enzymatic hydrolysis",
+            "acidic hydrolysis",
+            "pre-treatment",
+            "hydrolysis"
+        ],
+        "transformed_resource": [
+            "lactic acid",
+            "fermentable sugars",
+            "glucose",
+            "xylose",
+            "arabinose",
+            "mannose"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk15"
+    },
+    {
+        "waste": [
+            "food waste containing starch and pectin",
+            "potato",
+            "wheat",
+            "apples",
+            "bakery"
+        ],
+        "transforming_process": [
+            "hydrolysis",
+            "enzymatic hydrolysis",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "glucose",
+            "lactic acid"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk18"
+    },
+    {
+        "waste": [
+            "bakery waste",
+            "apple waste",
+            "potato waste",
+            "swine manure",
+            "lucerne green juice"
+        ],
+        "transforming_process": [
+            "fermentation into LA",
+            "enzymatic hydrolysis",
+            "hydrolysis with protease",
+            "co-digestion",
+            "enzyme addition"
+        ],
+        "transformed_resource": [
+            "Lactic Acid"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk19"
+    },
+    {
+        "waste": [
+            "food waste",
+            "bakery waste",
+            "lignocellulosic residues",
+            "potato derived starch",
+            "apple derived starch",
+            "lucerne green juice hydrolysate"
+        ],
+        "transforming_process": [
+            "co-fermentation",
+            "batch fermentation",
+            "hydrolysis"
+        ],
+        "transformed_resource": [
+            "butyric acid",
+            "acetic acid",
+            "lactic acid",
+            "fermentable sugars",
+            "LA concentration"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk20"
+    },
+    {
+        "waste": [
+            "starch waste",
+            "bread"
+        ],
+        "transforming_process": [
+            "adding lucerne green juice",
+            "enzymatic hydrolysis",
+            "continuous fermentation"
+        ],
+        "transformed_resource": [
+            "nitrogen supplement",
+            "free glucose",
+            "increased productivity"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk21"
+    },
+    {
+        "waste": [
+            "starch waste",
+            "bread"
+        ],
+        "transforming_process": [
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "lactic acid"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk22"
+    },
+    {
+        "waste": [
+            "organic household wastes",
+            "restaurant wastes",
+            "garden wastes",
+            "industrial food wastes",
+            "starch",
+            "cellulose",
+            "hemicellulose"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "adding exogenous enzymes",
+            "inoculation with hydrolytic microbes",
+            "hydrolysis"
+        ],
+        "transformed_resource": [
+            "lactate",
+            "oligomers",
+            "monosaccharides"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk24"
+    },
+    {
+        "waste": [
+            "starchy food waste",
+            "potato",
+            "corn",
+            "wheat",
+            "rice"
+        ],
+        "transforming_process": [
+            "simultaneous hydrolysis",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "lactic acid"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk27"
+    },
+    {
+        "waste": [
+            "food waste",
+            "biowaste related food waste"
+        ],
+        "transforming_process": [
+            "decomposition",
+            "hydrolysis",
+            "simultaneous saccharification and fermentation",
+            "open culture fermentation"
+        ],
+        "transformed_resource": [
+            "lactic acid"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk28"
+    },
+    {
+        "waste": [
+            "pulp mill residue",
+            "orange peel waste"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "enzymatic hydrolysis"
+        ],
+        "transformed_resource": [
+            "L-lactic acid",
+            "D-lactic acid"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk30"
+    },
+    {
+        "waste": [
+            "inorganic salt",
+            "municipal biopulp"
+        ],
+        "transforming_process": [
+            "solvent extraction",
+            "separation with membranes",
+            "evaporation",
+            "crystallization",
+            "distillation",
+            "chromatography",
+            "ion exchange",
+            "centrifugation",
+            "ultrafiltration",
+            "activated carbon",
+            "vacuum distillation",
+            "nanofiltration"
+        ],
+        "transformed_resource": [
+            "LA"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk36"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "micro-filtration",
+            "nano-filtration",
+            "mono-polar electrodialysis",
+            "bi-polar electrodialysis",
+            "anion-exchange",
+            "cation-exchange",
+            "evaporation"
+        ],
+        "transformed_resource": [
+            "lactic acid"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk37"
+    },
+    {
+        "waste": [
+            "fermentation broth"
+        ],
+        "transforming_process": [
+            "emulsification",
+            "dispersing ELM",
+            "extraction"
+        ],
+        "transformed_resource": [
+            "lactic acid"
+        ],
+        "reference": "10.1016/j.biortech.2021.125933_chunk45"
+    }
+]

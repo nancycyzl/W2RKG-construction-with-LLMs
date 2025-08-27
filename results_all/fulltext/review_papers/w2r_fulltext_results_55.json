@@ -1,0 +1,455 @@
+[
+    {
+        "waste": [
+            "waste biomass",
+            "food waste",
+            "bread waste",
+            "corncob residues",
+            "kitchen waste",
+            "cheese whey"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "anaerobic digestion",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "biofuel",
+            "biodiesel",
+            "biogas"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk7"
+    },
+    {
+        "waste": [
+            "food waste",
+            "textile waste"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "decomposition",
+            "valorization"
+        ],
+        "transformed_resource": [
+            "biofuels",
+            "biodiesel",
+            "bioethanol"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk8"
+    },
+    {
+        "waste": [
+            "textile waste",
+            "cotton",
+            "polyester fiber",
+            "wool",
+            "waste cotton textiles"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "bioconversion",
+            "hydrothermal treatment"
+        ],
+        "transformed_resource": [
+            "bio-oil",
+            "biochar",
+            "biocrude"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk9"
+    },
+    {
+        "waste": [
+            "textile wastes",
+            "cotton-based waste textiles",
+            "microalgal biomass"
+        ],
+        "transforming_process": [
+            "treatment",
+            "mixing with alkaline chemicals",
+            "digestibility enhancement",
+            "further treatment"
+        ],
+        "transformed_resource": [
+            "biocrude",
+            "biofuel",
+            "biogas",
+            "bioethanol",
+            "sustainable bioenergy"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk10"
+    },
+    {
+        "waste": [
+            "carbon-dioxide",
+            "nitrogen oxides",
+            "sulfur dioxide",
+            "carbon-monoxide",
+            "heavy metals",
+            "water",
+            "oxygen",
+            "hydrocarbons",
+            "salinity",
+            "light",
+            "nutrients"
+        ],
+        "transforming_process": [
+            "thermochemical methods",
+            "chemical methods",
+            "biochemical methods"
+        ],
+        "transformed_resource": [
+            "biofuels",
+            "biohydrogen",
+            "biogas",
+            "biobutanol",
+            "bioethanol",
+            "biodiesel"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk11"
+    },
+    {
+        "waste": [
+            "wastewater",
+            "animal waste",
+            "livestock manures"
+        ],
+        "transforming_process": [
+            "microalgal production",
+            "harvesting",
+            "processing",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "microalgal biomass",
+            "biogas",
+            "biofuels"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk13"
+    },
+    {
+        "waste": [
+            "animal waste",
+            "livestock waste",
+            "dried manure"
+        ],
+        "transforming_process": [
+            "biogas production",
+            "biofuel production",
+            "conversion"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "digestate",
+            "heat"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk14"
+    },
+    {
+        "waste": [
+            "agricultural residues",
+            "apple waste"
+        ],
+        "transforming_process": [
+            "producing bioethanol",
+            "producing bio-hydrogen"
+        ],
+        "transformed_resource": [
+            "bioethanol",
+            "bio-hydrogen"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk15"
+    },
+    {
+        "waste": [
+            "carrot discard",
+            "molasses",
+            "potato mash",
+            "potato peels",
+            "peach seeds",
+            "non-edible parts of pomegranate fruit",
+            "grape pomace",
+            "orange residues",
+            "barley residues",
+            "wheat residues",
+            "rice straw"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "saccharification"
+        ],
+        "transformed_resource": [
+            "bioethanol"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk16"
+    },
+    {
+        "waste": [
+            "rice straw",
+            "sewage sludge"
+        ],
+        "transforming_process": [
+            "stabilization of sewage sludge"
+        ],
+        "transformed_resource": [
+            "bioethanol",
+            "energy production feedstock"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk17"
+    },
+    {
+        "waste": [
+            "sewage sludge"
+        ],
+        "transforming_process": [
+            "microbial fuel cells",
+            "anaerobic digestion",
+            "pyrolysis",
+            "thermochemical processing"
+        ],
+        "transformed_resource": [
+            "biofuel"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk18"
+    },
+    {
+        "waste": [
+            "biomass",
+            "pruned apple branches"
+        ],
+        "transforming_process": [
+            "thermochemical processing",
+            "gasification",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "bio-oil",
+            "syngas",
+            "synthetic biodiesel",
+            "biohydrogen",
+            "bio-alcohols",
+            "methanol",
+            "ethanol"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk19"
+    },
+    {
+        "waste": [
+            "pruned apple branches",
+            "seaweed",
+            "biomass"
+        ],
+        "transforming_process": [
+            "gasification",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "hydrogen-rich syngas",
+            "biogas",
+            "bio-oil",
+            "biochar"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk20"
+    },
+    {
+        "waste": [
+            "apple tree stem",
+            "biomass waste",
+            "organics"
+        ],
+        "transforming_process": [
+            "fast pyrolysis",
+            "pyrolysis",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "bio-hydrogen",
+            "bioenergy",
+            "biogas",
+            "hydrogen sulfide",
+            "ammonia"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk21"
+    },
+    {
+        "waste": [
+            "biomass",
+            "agricultural wastes",
+            "human faeces",
+            "peanut straw",
+            "organic waste materials",
+            "carbohydrates",
+            "proteins"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "co-digestion",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "methane",
+            "energy"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk23"
+    },
+    {
+        "waste": [
+            "biomass",
+            "woody biomass",
+            "round wood",
+            "stumps",
+            "forest residues"
+        ],
+        "transforming_process": [
+            "gasification",
+            "bubbling fluidized bed reactor",
+            "circulating fluidized bed gasifier"
+        ],
+        "transformed_resource": [
+            "biomethane",
+            "synthesis gas"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk31"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "AD technique",
+            "pretreatment techniques"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "CH4"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk33"
+    },
+    {
+        "waste": [
+            "bio-waste",
+            "biomass"
+        ],
+        "transforming_process": [
+            "biological processes",
+            "conversion of biomass",
+            "biofuel production"
+        ],
+        "transformed_resource": [
+            "chemicals",
+            "materials",
+            "energy",
+            "biofuels"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk38"
+    },
+    {
+        "waste": [
+            "waste biomass",
+            "wastewater"
+        ],
+        "transforming_process": [
+            "plant-scale conversion"
+        ],
+        "transformed_resource": [
+            "biofuel",
+            "bioelectricity"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk39"
+    },
+    {
+        "waste": [
+            "food waste",
+            "sugarcane bagasse"
+        ],
+        "transforming_process": [
+            "enzymatic hydrolysis",
+            "fermentation",
+            "liquefaction plus simultaneous saccharification and co-fermentation",
+            "pretreatment bioconversions"
+        ],
+        "transformed_resource": [
+            "bioethanol",
+            "ethanol",
+            "biofuel",
+            "bioelectricity"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk41"
+    },
+    {
+        "waste": [
+            "residue derived from the fermentation process",
+            "global municipal solid waste",
+            "microalgae"
+        ],
+        "transforming_process": [
+            "fermentation process",
+            "ethanol production",
+            "microalgae conversion to biodiesel",
+            "microalgal hydrogen production"
+        ],
+        "transformed_resource": [
+            "electricity",
+            "biofuel",
+            "bioelectricity",
+            "ethanol",
+            "biodiesel",
+            "jet biofuels",
+            "hydrogen"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk42"
+    },
+    {
+        "waste": [
+            "wastewater",
+            "CO2 in flue gas",
+            "volatile fatty acids",
+            "FW fermentation"
+        ],
+        "transforming_process": [
+            "microalgae cultivation",
+            "integration with waste valorization"
+        ],
+        "transformed_resource": [
+            "microalgae",
+            "microalgal lipid",
+            "biodiesel"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk43"
+    },
+    {
+        "waste": [
+            "reactor effluent",
+            "biomass"
+        ],
+        "transforming_process": [
+            "biofuel production",
+            "biomass conversion techniques"
+        ],
+        "transformed_resource": [
+            "biofuels"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk51"
+    },
+    {
+        "waste": [
+            "apple orchard wastes",
+            "spent coffee ground"
+        ],
+        "transforming_process": [
+            "conversion technologies",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "pectin",
+            "inorganic materials",
+            "valuable extracts",
+            "antioxidants",
+            "nutraceuticals",
+            "biofuels",
+            "methane"
+        ],
+        "reference": "10.1016/j.scitotenv.2024.172863_chunk52"
+    }
+]

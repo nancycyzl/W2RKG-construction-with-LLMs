@@ -1,0 +1,68 @@
+[
+    {
+        "waste": [
+            "fruit peels",
+            "pomace"
+        ],
+        "transforming_process": [
+            "hot-acid extraction"
+        ],
+        "transformed_resource": [
+            "smooth pectin",
+            "HG-rich pectin",
+            "novel pectin-based products"
+        ],
+        "reference": "10.1016/j.cej.2023.145261_chunk0"
+    },
+    {
+        "waste": [
+            "toxic waste streams",
+            "CO2 emissions",
+            "food waste",
+            "biomass feedstocks",
+            "food and agricultural wastes",
+            "co-products"
+        ],
+        "transforming_process": [
+            "extraction of pectin",
+            "Microwave-Assisted Extraction"
+        ],
+        "transformed_resource": [
+            "pectin",
+            "functional food ingredients",
+            "medicines"
+        ],
+        "reference": "10.1016/j.cej.2023.145261_chunk1"
+    },
+    {
+        "waste": [
+            "cocoa pod husk",
+            "kiwi peel",
+            "cranberry pomace",
+            "orange peel",
+            "prickly pear peel",
+            "banana rind",
+            "watermelon rind"
+        ],
+        "transforming_process": [
+            "extraction"
+        ],
+        "transformed_resource": [
+            "pectin"
+        ],
+        "reference": "10.1016/j.cej.2023.145261_chunk40"
+    },
+    {
+        "waste": [
+            "potato pulp"
+        ],
+        "transforming_process": [
+            "microwave-assisted pectin extraction",
+            "semi-continuous process"
+        ],
+        "transformed_resource": [
+            "RG1-rich pectin"
+        ],
+        "reference": "10.1016/j.cej.2023.145261_chunk70"
+    }
+]

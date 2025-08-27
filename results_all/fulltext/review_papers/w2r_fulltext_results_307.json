@@ -1,0 +1,41 @@
+[
+    {
+        "waste": [
+            "pumpkin seeds"
+        ],
+        "transforming_process": [
+            "formation of protein isolate",
+            "isolation of protein fractions"
+        ],
+        "transformed_resource": [
+            "protein isolate",
+            "protein fractions"
+        ],
+        "reference": "10.1016/j.gaost.2023.12.002_chunk7"
+    },
+    {
+        "waste": [
+            "pumpkin waste"
+        ],
+        "transforming_process": [
+            "cutting",
+            "cleaning",
+            "sun drying",
+            "roasting",
+            "boiling",
+            "fermenting",
+            "germinating",
+            "grounding"
+        ],
+        "transformed_resource": [
+            "sun dried seeds",
+            "snacks",
+            "roasted seeds",
+            "boiled seeds",
+            "fermented seeds",
+            "germinated seeds",
+            "ground seed flour"
+        ],
+        "reference": "10.1016/j.gaost.2023.12.002_chunk44"
+    }
+]

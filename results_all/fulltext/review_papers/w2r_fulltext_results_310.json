@@ -1,0 +1,37 @@
+[
+    {
+        "waste": [
+            "natural raw materials",
+            "waste materials",
+            "industrial waste"
+        ],
+        "transforming_process": [
+            "combining to produce ceramics",
+            "inclusion of industrial waste"
+        ],
+        "transformed_resource": [
+            "ceramics",
+            "fired bricks",
+            "roof tiles"
+        ],
+        "reference": "10.1016/j.oceram.2024.100537_chunk5"
+    },
+    {
+        "waste": [
+            "rice husk",
+            "sugarcane bagasse ashes",
+            "ceramic sludge",
+            "rice husk ash",
+            "sewage sludge"
+        ],
+        "transforming_process": [
+            "incorporation into soil",
+            "recycling in roof tiles industry"
+        ],
+        "transformed_resource": [
+            "soil",
+            "ceramic products"
+        ],
+        "reference": "10.1016/j.oceram.2024.100537_chunk10"
+    }
+]

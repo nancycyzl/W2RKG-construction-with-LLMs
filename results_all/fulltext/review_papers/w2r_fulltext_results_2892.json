@@ -1,0 +1,75 @@
+[
+    {
+        "waste": [
+            "wastewater",
+            "organic carbon",
+            "pollutants",
+            "CO2"
+        ],
+        "transforming_process": [
+            "extraction of energy",
+            "pollutant removal",
+            "chemical synthesis",
+            "resource recovery",
+            "microbial interactions",
+            "sustainable transformation"
+        ],
+        "transformed_resource": [
+            "energy",
+            "value-added products",
+            "renewable electricity",
+            "commodity production"
+        ],
+        "reference": "10.1016/j.isci.2021.102805_chunk0"
+    },
+    {
+        "waste": [
+            "waste streams",
+            "high value commodities",
+            "redox reagents",
+            "noble materials",
+            "toxic substances",
+            "hazardous substances"
+        ],
+        "transforming_process": [
+            "biosynthesis",
+            "bioelectrochemical system-driven electrosynthesis",
+            "BES-based electrosynthesis"
+        ],
+        "transformed_resource": [
+            "high-value products",
+            "chemicals",
+            "industrial commodities"
+        ],
+        "reference": "10.1016/j.isci.2021.102805_chunk1"
+    },
+    {
+        "waste": [
+            "ion-rich waste streams",
+            "urine"
+        ],
+        "transforming_process": [
+            "electrosynthesis",
+            "MFC electrosynthesis"
+        ],
+        "transformed_resource": [
+            "energy",
+            "nutrients"
+        ],
+        "reference": "10.1016/j.isci.2021.102805_chunk18"
+    },
+    {
+        "waste": [
+            "waste"
+        ],
+        "transforming_process": [
+            "electrochemical conversion",
+            "electro-fermentation"
+        ],
+        "transformed_resource": [
+            "fuel",
+            "value-added products"
+        ],
+        "reference": "10.1016/j.isci.2021.102805_chunk28"
+    }
+]

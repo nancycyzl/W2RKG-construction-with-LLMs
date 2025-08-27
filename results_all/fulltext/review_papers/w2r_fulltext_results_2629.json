@@ -1,0 +1,55 @@
+[
+    {
+        "waste": [
+            "tobacco waste",
+            "tobacco stems",
+            "tobacco residue"
+        ],
+        "transforming_process": [
+            "recycling",
+            "burning",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "biochar"
+        ],
+        "reference": "10.1016/j.biopha.2021.112191_chunk7"
+    },
+    {
+        "waste": [
+            "biomass",
+            "tobacco fiber"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "recycling"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "reconstituted tobacco",
+            "soil conditioner",
+            "environment remediation"
+        ],
+        "reference": "10.1016/j.biopha.2021.112191_chunk8"
+    },
+    {
+        "waste": [
+            "tobacco industry waste",
+            "N. tabacum leaves",
+            "N. tabacum flower"
+        ],
+        "transforming_process": [
+            "extracting methanol",
+            "extracting aqueous",
+            "extracting ethanol",
+            "using plant extract"
+        ],
+        "transformed_resource": [
+            "antibacterial drugs",
+            "antimicrobial activity against S. aureus",
+            "antimicrobial activity against E. coli",
+            "antimicrobial activity against biofilm forming uropathogens"
+        ],
+        "reference": "10.1016/j.biopha.2021.112191_chunk27"
+    }
+]

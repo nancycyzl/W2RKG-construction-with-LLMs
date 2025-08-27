@@ -1,0 +1,667 @@
+[
+    {
+        "waste": [
+            "agricultural waste",
+            "animal waste",
+            "sewage sludge",
+            "agricultural-field residue",
+            "agricultural-process residue",
+            "bio waste material"
+        ],
+        "transforming_process": [
+            "used as the substrate for biofertilizer",
+            "used as a secondary raw material for development of bio-based fertilizer"
+        ],
+        "transformed_resource": [
+            "biofertilizer",
+            "bio-based fertilizer"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk1"
+    },
+    {
+        "waste": [
+            "bio-waste",
+            "trash",
+            "waste"
+        ],
+        "transforming_process": [
+            "managing bio-waste",
+            "biodegrade"
+        ],
+        "transformed_resource": [
+            "biomaterials",
+            "fertilizers",
+            "bioactive compounds",
+            "nutrients",
+            "phosphorous",
+            "nitrogen"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk4"
+    },
+    {
+        "waste": [
+            "bio-waste"
+        ],
+        "transforming_process": [
+            "treated by microbes",
+            "conversion into bio-accessible forms"
+        ],
+        "transformed_resource": [
+            "phosphorous",
+            "nitrogen",
+            "potassium",
+            "organic fertilizers",
+            "biofertilizers"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk5"
+    },
+    {
+        "waste": [
+            "bio-waste"
+        ],
+        "transforming_process": [
+            "degrading by microbes",
+            "breaking down bio-waste",
+            "microbe-processing"
+        ],
+        "transformed_resource": [
+            "substrate for fertilizers",
+            "bio-based fertilizer",
+            "valuable products"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk8"
+    },
+    {
+        "waste": [
+            "bio-wastes",
+            "sludge waste",
+            "biodegradable-waste"
+        ],
+        "transforming_process": [
+            "microbe-mediated advanced techniques",
+            "microbe-processed bio-wastes",
+            "development of sustainable microbe-mediated techniques"
+        ],
+        "transformed_resource": [
+            "bio-based fertilizer",
+            "value-added goods"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk9"
+    },
+    {
+        "waste": [
+            "agriculture waste",
+            "lignocellulosic biomass"
+        ],
+        "transforming_process": [
+            "formation of value-added products"
+        ],
+        "transformed_resource": [
+            "bio-based fertilizer",
+            "food",
+            "feed",
+            "bioenergy"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk11"
+    },
+    {
+        "waste": [
+            "bio-waste",
+            "biomass residues",
+            "field residue",
+            "wheat straw",
+            "maize straw",
+            "sugarcane tops",
+            "rice straw",
+            "crop leftovers"
+        ],
+        "transforming_process": [
+            "recycled into biofertilizer"
+        ],
+        "transformed_resource": [
+            "biofertilizer"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk12"
+    },
+    {
+        "waste": [
+            "molasses",
+            "husks",
+            "seeds",
+            "roots",
+            "bagasse",
+            "leaves",
+            "stems",
+            "straw",
+            "stalks",
+            "shells",
+            "pulp",
+            "stubble",
+            "peels",
+            "inedible waste of fruit"
+        ],
+        "transforming_process": [
+            "liming",
+            "acid treatment",
+            "Soxhlet extraction",
+            "hydro-distillation",
+            "cold pressing",
+            "hand pressing",
+            "centrifugation"
+        ],
+        "transformed_resource": [
+            "fertilizers",
+            "animal feed",
+            "crude biomass",
+            "bioactive compounds",
+            "carotenoids",
+            "vitamins",
+            "essential oil",
+            "polyphenols"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk15"
+    },
+    {
+        "waste": [
+            "post-extraction residual",
+            "agricultural biomass"
+        ],
+        "transforming_process": [
+            "extraction",
+            "recovery",
+            "anaerobic digestion",
+            "vermicomposting",
+            "solid-state fermentation",
+            "pyrolysis",
+            "in-situ fermentation"
+        ],
+        "transformed_resource": [
+            "bioactive compounds",
+            "bio-adsorbent",
+            "bio-based micronutrient fertilizers",
+            "feed additives",
+            "functional food",
+            "biofertilizers"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk16"
+    },
+    {
+        "waste": [
+            "agro-based waste",
+            "lignocellulosic-derived biomass",
+            "lignin"
+        ],
+        "transforming_process": [
+            "depoymerization",
+            "conversion"
+        ],
+        "transformed_resource": [
+            "soluble sugar",
+            "small aromatic compounds",
+            "value-added products"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk19"
+    },
+    {
+        "waste": [
+            "lignin",
+            "bagasse"
+        ],
+        "transforming_process": [
+            "depolymerization",
+            "biological conversion",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "aromatic",
+            "benzene",
+            "phenol",
+            "vanillin",
+            "syringaldehyde",
+            "vanillic acid",
+            "coumaric acid",
+            "syringic acid",
+            "paper",
+            "motor fuel"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk20"
+    },
+    {
+        "waste": [
+            "lignin",
+            "hemicelluloses",
+            "cellulose",
+            "bagasse"
+        ],
+        "transforming_process": [
+            "making paper",
+            "producing motor fuel",
+            "producing cow feed",
+            "producing mushroom substrate",
+            "producing charcoal",
+            "producing nanocellulose",
+            "transforming into cellulose",
+            "converting into reducing sugars",
+            "fermenting to produce bio-ethanol",
+            "producing phosphate biofertilizers",
+            "enzymatic microbial degradation"
+        ],
+        "transformed_resource": [
+            "paper",
+            "motor fuel",
+            "cow feed",
+            "mushroom substrate",
+            "charcoal",
+            "nanocellulose",
+            "cellulose",
+            "reducing sugars",
+            "bio-ethanol",
+            "phosphate biofertilizers",
+            "biofuel"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk21"
+    },
+    {
+        "waste": [
+            "agricultural waste",
+            "animal waste"
+        ],
+        "transforming_process": [
+            "degradation by microbes",
+            "aerobic degradation",
+            "anaerobic degradation"
+        ],
+        "transformed_resource": [
+            "bio-based fertilizer"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk24"
+    },
+    {
+        "waste": [
+            "Animal waste",
+            "Manure",
+            "Poultry manure",
+            "Cattle dung",
+            "Sheep dung",
+            "Pig dung",
+            "Feathers from spilled animal feed"
+        ],
+        "transforming_process": [
+            "Recovery and use as fertilizer"
+        ],
+        "transformed_resource": [
+            "Nitrogen fertilizer",
+            "Organic matter",
+            "Valuable bacteria"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk25"
+    },
+    {
+        "waste": [
+            "poultry litter",
+            "animal waste",
+            "faeces",
+            "feathers"
+        ],
+        "transforming_process": [
+            "incineration",
+            "hydrolysis",
+            "composting",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "nitrogen",
+            "phosphorus",
+            "potassium"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk26"
+    },
+    {
+        "waste": [
+            "livestock waste",
+            "chicken litter",
+            "chicken manure",
+            "manure from raising pigs",
+            "manure from raising cattle"
+        ],
+        "transforming_process": [
+            "fertilizer synthesis",
+            "biological processes",
+            "thermal processes",
+            "microbial breakdown",
+            "compost production"
+        ],
+        "transformed_resource": [
+            "fertilizer",
+            "salt-tolerant plant growth-promoting bacteria",
+            "maize plant growth"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk27"
+    },
+    {
+        "waste": [
+            "manure from raising pigs",
+            "manure from raising cattle",
+            "cattle dung",
+            "chicken manure",
+            "sewage sludge"
+        ],
+        "transforming_process": [
+            "anaerobic co-digestion",
+            "composting",
+            "hydrolysis",
+            "anaerobic digestion",
+            "aerobic digestion",
+            "incineration"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "biofertilizer",
+            "biochar",
+            "fertilizer"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk28"
+    },
+    {
+        "waste": [
+            "sewage sludge"
+        ],
+        "transforming_process": [
+            "used to fertilize the soil"
+        ],
+        "transformed_resource": [
+            "fertilizer"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk31"
+    },
+    {
+        "waste": [
+            "moss",
+            "sawdust",
+            "wood chips",
+            "sewage sludge"
+        ],
+        "transforming_process": [
+            "composting",
+            "anaerobic digestion",
+            "drying",
+            "incineration",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "fertilizer",
+            "phosphorus",
+            "organic matter",
+            "nutrients"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk34"
+    },
+    {
+        "waste": [
+            "sewage-derived materials",
+            "cow manure",
+            "sludge",
+            "husks",
+            "sludge waste",
+            "biosolids",
+            "anaerobically digested sludge",
+            "thermally dried anaerobically digested sludge",
+            "lime stabilised anaerobically digested sludge"
+        ],
+        "transforming_process": [
+            "vermicomposting",
+            "utilization of sewage sludge"
+        ],
+        "transformed_resource": [
+            "vermicompost",
+            "increased wheat yield",
+            "increased nutritional content",
+            "increased soil nitrogen content"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk35"
+    },
+    {
+        "waste": [
+            "anaerobically digested sludge",
+            "ashes produced by burning sewage sludge",
+            "sewage sludge",
+            "volatile forms of cadmium",
+            "volatile forms of mercury",
+            "volatile forms of arsenic",
+            "volatile forms of lead"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "burning",
+            "thermo-chemical methods",
+            "precipitation with lime water",
+            "acid leaching",
+            "alkaline leaching",
+            "phosphoric acid reaction",
+            "thermal treatment"
+        ],
+        "transformed_resource": [
+            "soil nitrogen",
+            "phosphate ions",
+            "fertilizer"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk36"
+    },
+    {
+        "waste": [
+            "sewage sludge",
+            "animal waste",
+            "agricultural waste"
+        ],
+        "transforming_process": [
+            "solubilize",
+            "mineralize",
+            "mobilize nutrients"
+        ],
+        "transformed_resource": [
+            "bio-based fertilizer",
+            "dissolved orthophosphate",
+            "labile zinc"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk37"
+    },
+    {
+        "waste": [
+            "liquid digestate",
+            "animal manure",
+            "post-harvest residues"
+        ],
+        "transforming_process": [
+            "membrane filtering",
+            "anaerobic digestion",
+            "bio-digestion"
+        ],
+        "transformed_resource": [
+            "nutrients",
+            "bioenergy",
+            "fertilizer alternatives",
+            "biogas",
+            "biofertilizer",
+            "compost"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk39"
+    },
+    {
+        "waste": [
+            "animal wastes",
+            "bones",
+            "waste from slaughterhouses",
+            "leftover meat",
+            "wood",
+            "grain",
+            "fish meat and bones residual"
+        ],
+        "transforming_process": [
+            "coupling with compost",
+            "replacing phosphate rock",
+            "solubilization of hydroxyapatite in wet-process phosphoric acid",
+            "pyrolyzing",
+            "composting with the addition of a bulking agent"
+        ],
+        "transformed_resource": [
+            "phosphate fertilizers",
+            "good fertilizer material enriched in N, P, and Ca",
+            "biochar"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk40"
+    },
+    {
+        "waste": [
+            "biomasses",
+            "phosphate fertilizers",
+            "Escherichia coli fermentative biomass",
+            "agricultural waste",
+            "animal waste",
+            "sewer sludge",
+            "insoluble potassium minerals"
+        ],
+        "transforming_process": [
+            "synthesis of composite biochar",
+            "conversion of biomass into biochar",
+            "release of phosphorus compounds",
+            "action of potassium solubilizing bacteria"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "phosphorus-rich fertilizer",
+            "soluble potassium"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk41"
+    },
+    {
+        "waste": [
+            "insoluble potassium minerals",
+            "earthworm-processed waste",
+            "waste biomass"
+        ],
+        "transforming_process": [
+            "solubilization",
+            "vermicomposting",
+            "mineralization",
+            "conversion to biological nitrogen"
+        ],
+        "transformed_resource": [
+            "soluble potassium forms",
+            "exchangeable potassium",
+            "biological nitrogen"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk42"
+    },
+    {
+        "waste": [
+            "food waste",
+            "farm waste",
+            "cow manure",
+            "pig slurry",
+            "agricultural slurry",
+            "green waste",
+            "high-protein waste",
+            "feathers",
+            "wood ashes"
+        ],
+        "transforming_process": [
+            "co-digestion",
+            "anaerobic digestion",
+            "solubilization with acid"
+        ],
+        "transformed_resource": [
+            "digestate",
+            "ashes",
+            "fertilizer",
+            "nutritional composition"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk43"
+    },
+    {
+        "waste": [
+            "bio-waste"
+        ],
+        "transforming_process": [
+            "bio-waste conversion",
+            "enzymatic reactions",
+            "degradation",
+            "conversion under anaerobic conditions",
+            "conversion under aerobic conditions"
+        ],
+        "transformed_resource": [
+            "fertilizer"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk47"
+    },
+    {
+        "waste": [
+            "bio-waste",
+            "animal waste",
+            "sewage sludge",
+            "agricultural waste",
+            "sludge waste"
+        ],
+        "transforming_process": [
+            "conversion into fertilizer",
+            "microbial mobilization of nutrients",
+            "degradation by bacteria",
+            "breakdown of lignin-related chemicals by lignin peroxidase"
+        ],
+        "transformed_resource": [
+            "fertilizer",
+            "mobilized nutrients"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk48"
+    },
+    {
+        "waste": [
+            "animal by-products",
+            "poultry faeces",
+            "dead chickens",
+            "discarded feathers"
+        ],
+        "transforming_process": [
+            "enzymatically hydrolyzed",
+            "hydrolysates metabolic enzymes transformation",
+            "utilizing microbial keratinases"
+        ],
+        "transformed_resource": [
+            "feed",
+            "fertilizer",
+            "nitrogen fertilizers",
+            "bioactive peptides"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk51"
+    },
+    {
+        "waste": [
+            "dead chickens",
+            "discarded feathers"
+        ],
+        "transforming_process": [
+            "decomposition by keratinases"
+        ],
+        "transformed_resource": [
+            "N-rich fertilizers",
+            "biochar"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk52"
+    },
+    {
+        "waste": [
+            "bio-waste",
+            "agricultural waste",
+            "animal waste",
+            "sewage waste"
+        ],
+        "transforming_process": [
+            "bio-waste transformation by microbes",
+            "biological systems",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "biochar"
+        ],
+        "reference": "10.1016/j.eti.2024.103573_chunk54"
+    }
+]

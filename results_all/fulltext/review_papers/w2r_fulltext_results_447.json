@@ -1,0 +1,256 @@
+[
+    {
+        "waste": [
+            "spruce bark"
+        ],
+        "transforming_process": [
+            "extraction",
+            "washing",
+            "elution",
+            "reverse-phase column chromatography"
+        ],
+        "transformed_resource": [
+            "resveratrol"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk17"
+    },
+    {
+        "waste": [
+            "grapevine shoots",
+            "sulfur-free lignin"
+        ],
+        "transforming_process": [
+            "liquid hot water treatment",
+            "subcritical water extraction"
+        ],
+        "transformed_resource": [
+            "resveratrol",
+            "quercetin",
+            "fermentable sugars",
+            "stilbenes"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk20"
+    },
+    {
+        "waste": [
+            "vine pruning residue",
+            "pruning waste of V. vinifera"
+        ],
+        "transforming_process": [
+            "SWE",
+            "water extraction at high temperature and pressure"
+        ],
+        "transformed_resource": [
+            "trans-resveratrol",
+            "liquid extract",
+            "flavonoid content",
+            "phenolic content",
+            "resveratrol extracted"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk21"
+    },
+    {
+        "waste": [
+            "polydatin"
+        ],
+        "transforming_process": [
+            "microbial synthesis",
+            "use of Bacillus safensis to convert polydatin to resveratrol"
+        ],
+        "transformed_resource": [
+            "resveratrol"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk25"
+    },
+    {
+        "waste": [
+            "cheese whey",
+            "vine pruning residue hydrolysate"
+        ],
+        "transforming_process": [
+            "batch fermentation",
+            "co-culture production",
+            "upstream process",
+            "downstream module"
+        ],
+        "transformed_resource": [
+            "resveratrol",
+            "p-coumaric acid",
+            "glucose"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk29"
+    },
+    {
+        "waste": [
+            "grape pomace",
+            "waste resources with high carbon composition"
+        ],
+        "transforming_process": [
+            "extraction",
+            "bioproduction",
+            "valorization"
+        ],
+        "transformed_resource": [
+            "resveratrol"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk31"
+    },
+    {
+        "waste": [
+            "stems from grapes"
+        ],
+        "transforming_process": [
+            "destemming",
+            "maceration",
+            "pressurized liquid extraction",
+            "pre-treatment",
+            "crushing"
+        ],
+        "transformed_resource": [
+            "resveratrol"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk32"
+    },
+    {
+        "waste": [
+            "residual stalks",
+            "grape skins",
+            "grape pips"
+        ],
+        "transforming_process": [
+            "maceration",
+            "pressurized liquid extraction"
+        ],
+        "transformed_resource": [
+            "resveratrol"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk33"
+    },
+    {
+        "waste": [
+            "residual stalks",
+            "grape skins",
+            "grape pips"
+        ],
+        "transforming_process": [
+            "conventional extraction",
+            "high pressure extraction"
+        ],
+        "transformed_resource": [
+            "resveratrol"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk34"
+    },
+    {
+        "waste": [
+            "residue formed at the bottom of wine containers",
+            "wine lees"
+        ],
+        "transforming_process": [
+            "wine aging",
+            "extraction of resveratrol",
+            "ultrasonic assisted extraction"
+        ],
+        "transformed_resource": [
+            "enhanced quality of wines",
+            "resveratrol"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk37"
+    },
+    {
+        "waste": [
+            "wine lees"
+        ],
+        "transforming_process": [
+            "extraction stage",
+            "sterilization",
+            "sonication",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "resveratrol"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk38"
+    },
+    {
+        "waste": [
+            "peanut skin"
+        ],
+        "transforming_process": [
+            "recovery extraction processes"
+        ],
+        "transformed_resource": [
+            "antioxidants",
+            "bioactive compounds"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk39"
+    },
+    {
+        "waste": [
+            "peanut skin wastes"
+        ],
+        "transforming_process": [
+            "ultrasound-assisted surfactant extraction",
+            "microbial immobilization",
+            "preparation of cellulose gel",
+            "sterilization"
+        ],
+        "transformed_resource": [
+            "resveratrol"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk40"
+    },
+    {
+        "waste": [
+            "peanut skin waste",
+            "bark"
+        ],
+        "transforming_process": [
+            "recovery",
+            "debarking",
+            "combustion"
+        ],
+        "transformed_resource": [
+            "resveratrol",
+            "wood-based products",
+            "energy"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk43"
+    },
+    {
+        "waste": [
+            "wood bark"
+        ],
+        "transforming_process": [
+            "combustion",
+            "extraction",
+            "solid-to-liquid extraction"
+        ],
+        "transformed_resource": [
+            "resveratrol",
+            "biofuels",
+            "phenolic compounds"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk44"
+    },
+    {
+        "waste": [
+            "inactive packaging films",
+            "agricultural and forestry residues",
+            "prunings",
+            "bark",
+            "peanut shells",
+            "grape pomace"
+        ],
+        "transforming_process": [
+            "evaluating how integrating resveratrol could be beneficial",
+            "recovery of resveratrol"
+        ],
+        "transformed_resource": [
+            "antioxidant activity",
+            "health functions",
+            "sustainable agricultural practices"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168199_chunk49"
+    }
+]

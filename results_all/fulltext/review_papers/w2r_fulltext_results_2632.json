@@ -1,0 +1,158 @@
+[
+    {
+        "waste": [
+            "agricultural residues",
+            "forestry residues",
+            "biogenic materials in municipal solid waste",
+            "animal waste",
+            "human sewage",
+            "industrial wastes"
+        ],
+        "transforming_process": [
+            "thermochemical conversion",
+            "gasification",
+            "pyrolysis",
+            "combustion"
+        ],
+        "transformed_resource": [
+            "energy"
+        ],
+        "reference": "10.1016/j.xinn.2021.100180_chunk20"
+    },
+    {
+        "waste": [
+            "biomass",
+            "carbonaceous materials",
+            "vegetable oils",
+            "animal fats",
+            "triglycerides"
+        ],
+        "transforming_process": [
+            "gasification",
+            "pyrolysis",
+            "combustion",
+            "chemical conversion",
+            "esterification",
+            "transesterification"
+        ],
+        "transformed_resource": [
+            "combustible gas",
+            "synthetic gas",
+            "acids",
+            "esters",
+            "alcohols",
+            "biodiesel",
+            "methyl esters",
+            "ethyl esters"
+        ],
+        "reference": "10.1016/j.xinn.2021.100180_chunk21"
+    },
+    {
+        "waste": [
+            "manure"
+        ],
+        "transforming_process": [
+            "manure management practices",
+            "advanced in-vessel composting",
+            "reverse osmosis",
+            "producing insect proteins",
+            "producing fungal proteins"
+        ],
+        "transformed_resource": [
+            "on-farm energy",
+            "organic fertilizers",
+            "concentrated N",
+            "insect proteins",
+            "fungal proteins"
+        ],
+        "reference": "10.1016/j.xinn.2021.100180_chunk47"
+    },
+    {
+        "waste": [
+            "solid waste"
+        ],
+        "transforming_process": [
+            "thermochemical conversion",
+            "treatment of feedstocks at high temperatures"
+        ],
+        "transformed_resource": [
+            "biochar"
+        ],
+        "reference": "10.1016/j.xinn.2021.100180_chunk70"
+    },
+    {
+        "waste": [
+            "crop residues",
+            "forest residues",
+            "livestock manure",
+            "food wastes",
+            "industrial biowastes",
+            "municipal biowastes",
+            "animal carcasses",
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "hydrothermal carbonization",
+            "torrefaction",
+            "gasification",
+            "traditional carbonization"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "bio-oils",
+            "non-condensable gases"
+        ],
+        "reference": "10.1016/j.xinn.2021.100180_chunk71"
+    },
+    {
+        "waste": [
+            "organic materials",
+            "plastics",
+            "fossil-fuel-derived materials"
+        ],
+        "transforming_process": [
+            "co-pyrolysis",
+            "biochar production"
+        ],
+        "transformed_resource": [
+            "char",
+            "biochar",
+            "construction material"
+        ],
+        "reference": "10.1016/j.xinn.2021.100180_chunk72"
+    },
+    {
+        "waste": [
+            "biomass",
+            "agricultural waste"
+        ],
+        "transforming_process": [
+            "degradation of biomass",
+            "conversion of agricultural waste into biochar"
+        ],
+        "transformed_resource": [
+            "biochar"
+        ],
+        "reference": "10.1016/j.xinn.2021.100180_chunk75"
+    },
+    {
+        "waste": [
+            "biochar",
+            "wood",
+            "malleated anhydride polypropylene"
+        ],
+        "transforming_process": [
+            "mixing",
+            "valoration",
+            "replacement"
+        ],
+        "transformed_resource": [
+            "wood polypropylene composites",
+            "biocomposite materials",
+            "construction materials",
+            "ultra-high-performance concrete"
+        ],
+        "reference": "10.1016/j.xinn.2021.100180_chunk76"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "waste": [
+            "waste biomass",
+            "lignocellulosic biomass"
+        ],
+        "transforming_process": [
+            "bioconversion process",
+            "green pretreatment methods",
+            "valorization",
+            "green isolation techniques",
+            "optimizing process parameters"
+        ],
+        "transformed_resource": [
+            "nanocellulose crystals"
+        ],
+        "reference": "10.1016/j.heliyon.2024.e24732_chunk35"
+    },
+    {
+        "waste": [
+            "lignocellulosic waste"
+        ],
+        "transforming_process": [
+            "acid hydrolysis"
+        ],
+        "transformed_resource": [],
+        "reference": "10.1016/j.heliyon.2024.e24732_chunk39"
+    },
+    {
+        "waste": [
+            "waste biomass",
+            "lignocellulosic biomass",
+            "lignocellulosic materials"
+        ],
+        "transforming_process": [
+            "liquid hot water pretreatment",
+            "ionic liquids pretreatment",
+            "autohydrolysis",
+            "saccharification"
+        ],
+        "transformed_resource": [
+            "crystals",
+            "hemicellulose",
+            "polysaccharides",
+            "cellulose"
+        ],
+        "reference": "10.1016/j.heliyon.2024.e24732_chunk42"
+    },
+    {
+        "waste": [
+            "waste biomass",
+            "pomegranate leaf powder",
+            "palm kernel shell activated carbon",
+            "neem leaves",
+            "corncob"
+        ],
+        "transforming_process": [
+            "extracted",
+            "remove",
+            "adsorptive desulphurization"
+        ],
+        "transformed_resource": [
+            "green adsorbents",
+            "adsorbent",
+            "nanocellulose materials"
+        ],
+        "reference": "10.1016/j.heliyon.2024.e24732_chunk57"
+    },
+    {
+        "waste": [
+            "biomass"
+        ],
+        "transforming_process": [
+            "adsorptive desulphurization"
+        ],
+        "transformed_resource": [
+            "green adsorbents",
+            "nanocellulose crystals"
+        ],
+        "reference": "10.1016/j.heliyon.2024.e24732_chunk59"
+    }
+]

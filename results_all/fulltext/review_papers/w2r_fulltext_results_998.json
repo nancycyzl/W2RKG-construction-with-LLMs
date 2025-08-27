@@ -1,0 +1,78 @@
+[
+    {
+        "waste": [
+            "lignin"
+        ],
+        "transforming_process": [
+            "depolymerization",
+            "catalytic hydrogenolysis",
+            "catalytic oxidation",
+            "photocatalysis",
+            "pyrolysis",
+            "electrochemical oxidation",
+            "upgrading",
+            "alkylation",
+            "hydrodeoxygenation"
+        ],
+        "transformed_resource": [
+            "thymol",
+            "methylcyclohexane",
+            "propyl cyclohexane"
+        ],
+        "reference": "10.1016/j.biortech.2023.129238_chunk5"
+    },
+    {
+        "waste": [
+            "lignin",
+            "sugarcane bagasse"
+        ],
+        "transforming_process": [
+            "lignin depolymerization",
+            "acetone-based organosolv fractionation"
+        ],
+        "transformed_resource": [
+            "monomers",
+            "value-added products",
+            "biofuel-related products",
+            "fuel additives",
+            "biobased fuel"
+        ],
+        "reference": "10.1016/j.biortech.2023.129238_chunk6"
+    },
+    {
+        "waste": [
+            "lignin",
+            "alcohol solvents"
+        ],
+        "transforming_process": [
+            "biomass fractionation",
+            "evaporation of alcohols",
+            "lignin precipitation"
+        ],
+        "transformed_resource": [
+            "lignin",
+            "monohydric alcohols"
+        ],
+        "reference": "10.1016/j.biortech.2023.129238_chunk44"
+    },
+    {
+        "waste": [
+            "spent glycerol-based solvent",
+            "corn stover"
+        ],
+        "transforming_process": [
+            "valorization",
+            "co-fermentation",
+            "instant catapult steam explosion fractionation",
+            "enzymatic hydrolysis"
+        ],
+        "transformed_resource": [
+            "1,3-propanediol",
+            "microbial oil",
+            "citric acid",
+            "mannitol",
+            "fractionation liquor"
+        ],
+        "reference": "10.1016/j.biortech.2023.129238_chunk48"
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "waste": [
+            "textile wastewater",
+            "municipal wastewater",
+            "coffee-producing wastewater",
+            "pharmaceutical wastewater",
+            "petroleum processing wastewater"
+        ],
+        "transforming_process": [
+            "doping with metals and non-metals",
+            "dye sensitization",
+            "surface modification",
+            "synthesis of composites with other materials",
+            "immobilization and stabilization of support structures",
+            "photodegradation"
+        ],
+        "transformed_resource": [
+            "modified TiO 2",
+            "improved photolytic activity"
+        ],
+        "reference": "10.1016/j.nanoso.2023.101050_chunk4"
+    },
+    {
+        "waste": [
+            "Organic pollutants",
+            "TiO2",
+            "H2O2"
+        ],
+        "transforming_process": [
+            "photocatalytic degradation",
+            "oxidation",
+            "reduction"
+        ],
+        "transformed_resource": [
+            "degraded compounds",
+            "oxidation products",
+            "reduction products",
+            "H2O2",
+            "O2"
+        ],
+        "reference": "10.1016/j.nanoso.2023.101050_chunk17"
+    },
+    {
+        "waste": [
+            "metallic residue from door keys"
+        ],
+        "transforming_process": [
+            "sol-gel route"
+        ],
+        "transformed_resource": [
+            "doped TiO2 nanoparticles",
+            "improved photoactivity",
+            "resultant TiO2 hybrids"
+        ],
+        "reference": "10.1016/j.nanoso.2023.101050_chunk37"
+    },
+    {
+        "waste": [
+            "Cryptosporidium parvum oocysts",
+            "organic pollutants from sewage water",
+            "bisphenols",
+            "phthalates",
+            "parabens",
+            "highly concentrated wastewater containing nonbiodegradable toxic compounds",
+            "olive mill wastewater"
+        ],
+        "transforming_process": [
+            "photooxidation efficiency improvement",
+            "inactivation with TiO 2 slurry",
+            "removal of organic pollutants using TiO 2 coated cloth",
+            "removal of contaminants with TiO 2 nanopowder and Na 2 S 2 O 8",
+            "photocatalytic degradation of organic pollutants using TiO 2/sepiolite nanoparticles",
+            "solar irradiation treatment"
+        ],
+        "transformed_resource": [
+            "treated wastewater",
+            "detoxified water",
+            "reduced organic pollutants",
+            "purified olive mill effluent"
+        ],
+        "reference": "10.1016/j.nanoso.2023.101050_chunk67"
+    },
+    {
+        "waste": [
+            "dye-infiltrated water",
+            "organic pollutants"
+        ],
+        "transforming_process": [
+            "photocatalytic treatment",
+            "degradation using TiO2 catalysts"
+        ],
+        "transformed_resource": [
+            "water",
+            "carbon dioxide",
+            "less toxic compounds"
+        ],
+        "reference": "10.1016/j.nanoso.2023.101050_chunk75"
+    },
+    {
+        "waste": [
+            "wastewater",
+            "organic pollutants",
+            "biomass"
+        ],
+        "transforming_process": [
+            "purifying wastewater",
+            "breakdown of organic pollutants",
+            "conversion into bioenergy",
+            "conversion into biofertilizer",
+            "biomass production by microalgae"
+        ],
+        "transformed_resource": [
+            "bioenergy",
+            "biofertilizer",
+            "high-carbon material",
+            "bioethanol"
+        ],
+        "reference": "10.1016/j.nanoso.2023.101050_chunk76"
+    },
+    {
+        "waste": [
+            "livestock wastewater",
+            "total volatile solids"
+        ],
+        "transforming_process": [
+            "real-time livestock wastewater treatment",
+            "batch photocatalysis",
+            "continuous photocatalysis"
+        ],
+        "transformed_resource": [
+            "treated wastewater",
+            "removed total volatile solids"
+        ],
+        "reference": "10.1016/j.nanoso.2023.101050_chunk80"
+    }
+]

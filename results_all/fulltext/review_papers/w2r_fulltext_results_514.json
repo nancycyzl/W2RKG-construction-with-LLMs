@@ -1,0 +1,635 @@
+[
+    {
+        "waste": [
+            "textile wastes",
+            "waste fabrics"
+        ],
+        "transforming_process": [
+            "recycling of textiles",
+            "using waste fabrics in a circular economy"
+        ],
+        "transformed_resource": [
+            "new textiles",
+            "non-textiles products"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk0"
+    },
+    {
+        "waste": [
+            "industrial waste",
+            "by-products",
+            "textile waste",
+            "fibrous solid waste"
+        ],
+        "transforming_process": [
+            "open-loop recycling",
+            "closed-loop recycling",
+            "mechanical breakdown",
+            "pyrolysis",
+            "incineration",
+            "quaternary recycling",
+            "upcycling"
+        ],
+        "transformed_resource": [
+            "new polymer product",
+            "energy",
+            "heat"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk6"
+    },
+    {
+        "waste": [
+            "textile wastes",
+            "waste"
+        ],
+        "transforming_process": [
+            "recycling",
+            "mechanical recycling",
+            "chemical recycling"
+        ],
+        "transformed_resource": [
+            "useful materials",
+            "recovered resources"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk7"
+    },
+    {
+        "waste": [
+            "waste fabrics",
+            "textile waste"
+        ],
+        "transforming_process": [
+            "mechanical recycling",
+            "chemical recycling",
+            "biological methods",
+            "depolymerisation",
+            "dissolution",
+            "chemical treatment",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "cellulosic fibres",
+            "bioethanol",
+            "proteins",
+            "wood panel adhesives",
+            "products in solid state",
+            "products in liquid state",
+            "products in gaseous state"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk8"
+    },
+    {
+        "waste": [
+            "waste textiles",
+            "textile materials",
+            "organic molecule waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "thermochemical processes"
+        ],
+        "transformed_resource": [
+            "three-phase pyrolysates",
+            "hydrocarbons",
+            "alcohols",
+            "aromatic hydrocarbons",
+            "oil",
+            "tar"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk9"
+    },
+    {
+        "waste": [
+            "cotton textile waste"
+        ],
+        "transforming_process": [
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "carbon nanoball",
+            "textile waste pyrolysis char",
+            "active electrode battery materials",
+            "cotton waste pyrolytic char"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk10"
+    },
+    {
+        "waste": [
+            "cotton waste",
+            "textile waste",
+            "carbon-polymer waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "catalytic pyrolysis",
+            "hydrothermal method",
+            "hydrothermal carbonisation",
+            "hydrothermal liquefaction"
+        ],
+        "transformed_resource": [
+            "active electrode battery materials",
+            "adsorbent",
+            "functionalised char"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk11"
+    },
+    {
+        "waste": [
+            "nylon 6 net waste",
+            "polyester\u2013cotton fibre waste mixture"
+        ],
+        "transforming_process": [
+            "hydrothermal liquefaction",
+            "hydrothermal carbonisation",
+            "splitting",
+            "dispersing with organic acid catalyst"
+        ],
+        "transformed_resource": [
+            "bio-crude",
+            "caprolactam"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk12"
+    },
+    {
+        "waste": [
+            "mixed textile waste",
+            "polyethylene glycol"
+        ],
+        "transforming_process": [
+            "gasification",
+            "steam gasification"
+        ],
+        "transformed_resource": [
+            "synthesis gas",
+            "hydrogen",
+            "CO2",
+            "methane",
+            "ethylene",
+            "ash by-products"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk14"
+    },
+    {
+        "waste": [
+            "keratin-rich wastes",
+            "cotton based textile wastes",
+            "textiles",
+            "polyethylene terephthalate (PET) fibres"
+        ],
+        "transforming_process": [
+            "decomposition",
+            "enzymatic saccharification",
+            "glycolysis"
+        ],
+        "transformed_resource": [
+            "carbon",
+            "sulphur",
+            "nitrogen",
+            "energy",
+            "cellulose"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk17"
+    },
+    {
+        "waste": [
+            "PET fibre waste",
+            "polyester textiles",
+            "nylon 6"
+        ],
+        "transforming_process": [
+            "glycolising",
+            "recycling",
+            "depolymerisation"
+        ],
+        "transformed_resource": [
+            "monomeric forms",
+            "re-polymerised recycled PET (r-PET)",
+            "BHET"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk18"
+    },
+    {
+        "waste": [
+            "nylon 6",
+            "nylon 6,6",
+            "PET fibres",
+            "Nylon 6,6 carpet waste"
+        ],
+        "transforming_process": [
+            "glycolysis",
+            "ammonolysis"
+        ],
+        "transformed_resource": [
+            "bis(hydroxyethyl) adipate",
+            "hydroxyethylester",
+            "BHET"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk19"
+    },
+    {
+        "waste": [
+            "nylon 6,6",
+            "textile wastes"
+        ],
+        "transforming_process": [
+            "depolymerisation",
+            "enzymatic hydrolysis"
+        ],
+        "transformed_resource": [
+            "5-cyanovaleramide",
+            "hexamethylenediamine",
+            "adiponitrile",
+            "polyester",
+            "sugar compounds",
+            "glucose"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk20"
+    },
+    {
+        "waste": [
+            "textile waste",
+            "cotton",
+            "nylon",
+            "polyester",
+            "silk"
+        ],
+        "transforming_process": [
+            "decomposition processes",
+            "enzymatic degradation",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "monosaccharide units",
+            "glucose"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk21"
+    },
+    {
+        "waste": [
+            "PET",
+            "keratinous proteins in wool",
+            "Nylon",
+            "synthetic nylon",
+            "Nylon-6"
+        ],
+        "transforming_process": [
+            "polymer hydrolysis",
+            "degradation of PET",
+            "hydrolysis of nylon",
+            "processing of synthetic nylon"
+        ],
+        "transformed_resource": [
+            "carbon and energy source",
+            "degraded PET",
+            "hydrolysed nylon oligomers"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk23"
+    },
+    {
+        "waste": [
+            "textile waste"
+        ],
+        "transforming_process": [
+            "pretreatment",
+            "biotechnological approaches",
+            "chemical pretreatment",
+            "physico-chemical pretreatment"
+        ],
+        "transformed_resource": [
+            "bioethanol",
+            "useful bioproducts"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk25"
+    },
+    {
+        "waste": [
+            "textile waste",
+            "polyester\u2013cotton textiles"
+        ],
+        "transforming_process": [
+            "sequential combination of organo-solvent and hydrothermal pretreatment",
+            "pre-hydrolysis",
+            "alkaline pretreatment",
+            "enzymatic hydrolysis",
+            "simultaneous saccharification and fermentation"
+        ],
+        "transformed_resource": [
+            "ethanol",
+            "glucose",
+            "valuable molecules",
+            "bioproducts"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk26"
+    },
+    {
+        "waste": [
+            "cotton waste",
+            "textile waste",
+            "waste jeans"
+        ],
+        "transforming_process": [
+            "saccharification",
+            "fermentation",
+            "pretreatment with NaOH/urea",
+            "acid pre-treatment",
+            "alkali pre-treatment",
+            "hydrolysis in alkaline"
+        ],
+        "transformed_resource": [
+            "ethanol",
+            "sugars",
+            "cellulose"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk27"
+    },
+    {
+        "waste": [
+            "waste jeans",
+            "cotton and textile waste",
+            "cotton-based waste",
+            "cellulosic cotton waste",
+            "pre-treated cotton fabrics",
+            "waste textile"
+        ],
+        "transforming_process": [
+            "hydrolysis in alkaline pretreatment",
+            "fermentation using S. cerevisiae",
+            "enzymatic hydrolysis",
+            "acid pre-treatment",
+            "alkali pre-treatment"
+        ],
+        "transformed_resource": [
+            "ethanol",
+            "sugar"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk28"
+    },
+    {
+        "waste": [
+            "pre-treated cotton fabrics",
+            "waste textile products",
+            "textile waste materials",
+            "cotton",
+            "polyester",
+            "viscose"
+        ],
+        "transforming_process": [
+            "enzymatic hydrolysis",
+            "fermentation",
+            "textile pretreatment",
+            "two-stage batch process",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "bioethanol",
+            "biofuel",
+            "biogas"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk29"
+    },
+    {
+        "waste": [
+            "cotton textile waste",
+            "untreated cotton textile waste",
+            "treated cotton textile waste",
+            "cotton waste from the textile industry",
+            "recycled cotton"
+        ],
+        "transforming_process": [
+            "treatment with 0.5 M Na2CO3",
+            "anaerobic degradation",
+            "chopping into short fibres",
+            "injection moulding"
+        ],
+        "transformed_resource": [
+            "methane",
+            "biopolymer composites",
+            "recycled cotton fibres (RCFs)",
+            "bio-PET"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk31"
+    },
+    {
+        "waste": [
+            "textile wastes",
+            "low-quality cotton fibres",
+            "textile waste"
+        ],
+        "transforming_process": [
+            "using textile waste as a carbon source for SmF with filamentous fungus",
+            "hydrolysed to recover cellulase"
+        ],
+        "transformed_resource": [
+            "cellulase",
+            "fermentable sugar",
+            "remaining polyester fibre"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk32"
+    },
+    {
+        "waste": [
+            "polyester fibre",
+            "textiles",
+            "cotton fibres",
+            "wool"
+        ],
+        "transforming_process": [
+            "mechanical recycling",
+            "shredding",
+            "blending with virgin fibres"
+        ],
+        "transformed_resource": [
+            "recycled yarn",
+            "new yarn"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk33"
+    },
+    {
+        "waste": [
+            "virgin fibres",
+            "polyester waste",
+            "acrylic waste",
+            "elastane fibres",
+            "thermoplastic polyurethane",
+            "nylon 6",
+            "polyamide 6"
+        ],
+        "transforming_process": [
+            "closed-loop recycling process",
+            "fiber-to-fiber wool recycling",
+            "down-cycling",
+            "open-loop process",
+            "thermomechanical recycling",
+            "melting and respinning"
+        ],
+        "transformed_resource": [
+            "regenerated wool",
+            "non-woven fabric",
+            "insulation",
+            "new fibres",
+            "solid shapes",
+            "bars"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk34"
+    },
+    {
+        "waste": [
+            "textile waste",
+            "Nylon 6",
+            "carpets",
+            "fishing nets",
+            "PET plastic"
+        ],
+        "transforming_process": [
+            "monomer recycling",
+            "polymer chain disassembly",
+            "open-loop recycling"
+        ],
+        "transformed_resource": [
+            "monomers",
+            "new virgin polymers",
+            "new fibres",
+            "textile fibres"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk35"
+    },
+    {
+        "waste": [
+            "post-industrial PET textile waste",
+            "textile materials made of cellulose",
+            "textile materials made of wool",
+            "dyed post-consumer textile waste"
+        ],
+        "transforming_process": [
+            "recycling of post-industrial PET textile waste",
+            "monomer recycling process",
+            "shredding",
+            "dissolution with hazardous solvents",
+            "spinning and regeneration of fibres",
+            "use of bleach to remove dyes",
+            "reintroduction using ionic liquid solvents"
+        ],
+        "transformed_resource": [
+            "fibres",
+            "new lifecycle of dyed post-consumer textile waste",
+            "man-made fibres from wood pulp"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk36"
+    },
+    {
+        "waste": [
+            "post-consumer cotton",
+            "cellulosic byproducts",
+            "cotton waste clothing",
+            "post-consumer cotton waste textiles"
+        ],
+        "transforming_process": [
+            "lyocell process",
+            "chemical polymer recycling",
+            "dissolving cellulose with ionic liquids"
+        ],
+        "transformed_resource": [
+            "man-made fibres",
+            "cellulose-based textile fibres"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk37"
+    },
+    {
+        "waste": [
+            "textiles made of cellulose",
+            "cellulosic by-product",
+            "orange peel",
+            "industrial waste yarn",
+            "cotton textile waste hydrolysate",
+            "tetrahydrofuran",
+            "1,4-butanediol",
+            "succinate polymers",
+            "adipic acid"
+        ],
+        "transforming_process": [
+            "chemical polymer recycling",
+            "recycling by Orange Fiber",
+            "valuing industrial waste yarn",
+            "producing succinic acid in a fibrous bed bioreactor"
+        ],
+        "transformed_resource": [
+            "textile fibres",
+            "yarns",
+            "fabrics",
+            "succinic acid",
+            "high-value-added chemicals"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk38"
+    },
+    {
+        "waste": [
+            "textile waste"
+        ],
+        "transforming_process": [
+            "microbial fermentation",
+            "submerged fungal fermentation"
+        ],
+        "transformed_resource": [
+            "cellulase enzymes",
+            "building construction material",
+            "raw materials for thermal insulation",
+            "raw materials for noise insulation",
+            "concrete fillers"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk39"
+    },
+    {
+        "waste": [
+            "carpet waste",
+            "textile industry waste"
+        ],
+        "transforming_process": [
+            "soil reinforcement using fibrous carpet waste",
+            "repurposing textile industry waste"
+        ],
+        "transformed_resource": [
+            "fibrous inclusions",
+            "sustainable building materials",
+            "textile reinforced concrete"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk40"
+    },
+    {
+        "waste": [
+            "textile waste",
+            "recycled scraps of wool",
+            "nonwoven fibres"
+        ],
+        "transforming_process": [
+            "making ropes from textile waste",
+            "repurposing wool and nonwoven fibres into ropes",
+            "breaking down textiles"
+        ],
+        "transformed_resource": [
+            "thick ropes",
+            "usable products"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk41"
+    },
+    {
+        "waste": [
+            "textiles",
+            "fibres"
+        ],
+        "transforming_process": [
+            "recycling",
+            "valorisation technologies"
+        ],
+        "transformed_resource": [
+            "biofuel",
+            "bioplastic",
+            "chemicals",
+            "carpets",
+            "enzymes",
+            "acids",
+            "synthetic fibres",
+            "resin"
+        ],
+        "reference": "10.1016/j.crbiot.2024.100225_chunk43"
+    }
+]

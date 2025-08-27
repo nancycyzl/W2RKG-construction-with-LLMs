@@ -1,0 +1,230 @@
+[
+    {
+        "waste": [
+            "food waste",
+            "agricultural residues",
+            "discarded vegetal biomass"
+        ],
+        "transforming_process": [
+            "using discarded vegetal biomass",
+            "extraction of polymer granules from the cells"
+        ],
+        "transformed_resource": [
+            "PHA-based bioplastics"
+        ],
+        "reference": "10.1016/j.biteb.2023.101345_chunk7"
+    },
+    {
+        "waste": [
+            "biomass such as food waste",
+            "agricultural residues",
+            "wastewaters",
+            "fat waste",
+            "dairy processing waste"
+        ],
+        "transforming_process": [
+            "PHAs production"
+        ],
+        "transformed_resource": [
+            "PHAs"
+        ],
+        "reference": "10.1016/j.biteb.2023.101345_chunk8"
+    },
+    {
+        "waste": [
+            "biowaste streams",
+            "manure",
+            "food industry leftovers",
+            "wastewaters",
+            "lignocellulosic biomass"
+        ],
+        "transforming_process": [
+            "production of PHAs from waste streams",
+            "extraction of PHAs granules from microbial cells"
+        ],
+        "transformed_resource": [
+            "PHAs-based plastic",
+            "bioplastics"
+        ],
+        "reference": "10.1016/j.biteb.2023.101345_chunk9"
+    },
+    {
+        "waste": [
+            "biowaste streams"
+        ],
+        "transforming_process": [
+            "transition to the use of bioplastics",
+            "using PHAs for uses other than a plastic substitute",
+            "using the whole PHA-containing bacterial cell as final product"
+        ],
+        "transformed_resource": [
+            "bioplastics",
+            "PHA-containing bacterial cell"
+        ],
+        "reference": "10.1016/j.biteb.2023.101345_chunk10"
+    },
+    {
+        "waste": [
+            "cellular debris",
+            "non-PHA biomass"
+        ],
+        "transforming_process": [
+            "disruption of microbial cells",
+            "extraction and purification of polymer",
+            "solvent-heat treatments"
+        ],
+        "transformed_resource": [
+            "PHAs granules",
+            "PHA in pure form",
+            "recovered solvents or additives"
+        ],
+        "reference": "10.1016/j.biteb.2023.101345_chunk11"
+    },
+    {
+        "waste": [
+            "waste streams"
+        ],
+        "transforming_process": [
+            "extracted from the cell",
+            "provided when still inside bacteria",
+            "produced from waste streams"
+        ],
+        "transformed_resource": [
+            "PHBHV",
+            "PHB",
+            "SCP"
+        ],
+        "reference": "10.1016/j.biteb.2023.101345_chunk17"
+    },
+    {
+        "waste": [
+            "PHA-rich biomass",
+            "waste streams"
+        ],
+        "transforming_process": [
+            "manufacture biocomposites",
+            "direct extrusion"
+        ],
+        "transformed_resource": [
+            "biocomposites",
+            "cell-wall polysaccharides",
+            "proteins",
+            "polynucleotides",
+            "phospholipids"
+        ],
+        "reference": "10.1016/j.biteb.2023.101345_chunk26"
+    },
+    {
+        "waste": [
+            "by-products of the PHA-extraction process",
+            "soluble phase leftover proteins"
+        ],
+        "transforming_process": [
+            "cell disruption",
+            "retrieval of the PHAs granules",
+            "recovery of proteins from the supernatant"
+        ],
+        "transformed_resource": [
+            "proteins"
+        ],
+        "reference": "10.1016/j.biteb.2023.101345_chunk28"
+    },
+    {
+        "waste": [
+            "PHA-producing cell leftover material",
+            "discarded food",
+            "agricultural residues",
+            "animal waste",
+            "fish waste"
+        ],
+        "transforming_process": [
+            "extraction methods",
+            "thermal hydrolysis",
+            "chemical hydrolysis",
+            "enzymatic hydrolysis"
+        ],
+        "transformed_resource": [
+            "proteins",
+            "protein hydrolysates"
+        ],
+        "reference": "10.1016/j.biteb.2023.101345_chunk30"
+    },
+    {
+        "waste": [
+            "slaughterhouse waste",
+            "food waste",
+            "meat extracts",
+            "bone extracts",
+            "blood",
+            "spent hen",
+            "agricultural residues",
+            "paper-mill secondary-sludge",
+            "bacterial discarded biomass"
+        ],
+        "transforming_process": [
+            "release bacterial intracellular contents",
+            "soluble protein recovery",
+            "separation and destabilization of colloidal suspensions"
+        ],
+        "transformed_resource": [
+            "wood adhesives",
+            "flocculants",
+            "surfactants",
+            "cleaning products",
+            "cosmetic products",
+            "fire-extinguishing foams"
+        ],
+        "reference": "10.1016/j.biteb.2023.101345_chunk33"
+    },
+    {
+        "waste": [
+            "waste streams",
+            "supernatant"
+        ],
+        "transforming_process": [
+            "extraction of PHA granules",
+            "reuse as culture medium"
+        ],
+        "transformed_resource": [
+            "nutrients",
+            "high COD",
+            "BOD",
+            "nitrogen content"
+        ],
+        "reference": "10.1016/j.biteb.2023.101345_chunk37"
+    },
+    {
+        "waste": [
+            "rats",
+            "PHAs"
+        ],
+        "transforming_process": [
+            "substitution of rats with mealworms larvae",
+            "digestion by worms"
+        ],
+        "transformed_resource": [
+            "insect proteins",
+            "PHBs"
+        ],
+        "reference": "10.1016/j.biteb.2023.101345_chunk40"
+    },
+    {
+        "waste": [
+            "PHA-containing cells",
+            "PHA extraction by-products",
+            "biowaste streams"
+        ],
+        "transforming_process": [
+            "using PHA-containing cells to produce animal feed",
+            "upcycling PHA extraction by-products",
+            "using living organisms to extract PHAs"
+        ],
+        "transformed_resource": [
+            "animal feed",
+            "biocomposite materials",
+            "high-value products",
+            "PHAs"
+        ],
+        "reference": "10.1016/j.biteb.2023.101345_chunk42"
+    }
+]

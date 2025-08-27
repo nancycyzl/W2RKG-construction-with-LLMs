@@ -1,0 +1,235 @@
+[
+    {
+        "waste": [
+            "concrete"
+        ],
+        "transforming_process": [
+            "recycling of concrete"
+        ],
+        "transformed_resource": [
+            "material for manufacture of other products"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk1"
+    },
+    {
+        "waste": [
+            "crushed rock and gravel",
+            "sand",
+            "concrete"
+        ],
+        "transforming_process": [
+            "sand extraction",
+            "marine extraction",
+            "recycling concrete"
+        ],
+        "transformed_resource": [
+            "recycled materials"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk2"
+    },
+    {
+        "waste": [
+            "concrete waste",
+            "recycled construction demolition waste"
+        ],
+        "transforming_process": [
+            "recycling of waste concrete",
+            "producing quality coarse recycled concrete aggregate",
+            "emerging technologies based on recycled construction demolition waste"
+        ],
+        "transformed_resource": [
+            "coarse recycled concrete aggregate",
+            "fine fractions",
+            "recycled concrete products"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk10"
+    },
+    {
+        "waste": [
+            "waste concrete",
+            "very fine dust"
+        ],
+        "transforming_process": [
+            "crushing waste concrete",
+            "valorisation"
+        ],
+        "transformed_resource": [
+            "fine recycled concrete aggregate",
+            "recycled powder"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk11"
+    },
+    {
+        "waste": [
+            "very fine dust",
+            "FRCA",
+            "waste concrete",
+            "additional fines"
+        ],
+        "transforming_process": [
+            "waste concrete processing",
+            "mechanical treatments"
+        ],
+        "transformed_resource": [
+            "CRCA"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk12"
+    },
+    {
+        "waste": [
+            "produced CDW",
+            "CRCA"
+        ],
+        "transforming_process": [
+            "transformed into suitable aggregates",
+            "concrete manufacturing"
+        ],
+        "transformed_resource": [
+            "suitable aggregates",
+            "concrete made with CRCA"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk15"
+    },
+    {
+        "waste": [
+            "waste concrete",
+            "Cement kiln dust",
+            "slags",
+            "fly ash",
+            "bottom ash",
+            "industrial by products"
+        ],
+        "transforming_process": [
+            "clinker production",
+            "utilization of waste concrete",
+            "optimisation of concrete mix design"
+        ],
+        "transformed_resource": [
+            "clinker",
+            "novel concretes"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk35"
+    },
+    {
+        "waste": [
+            "concrete",
+            "limestone"
+        ],
+        "transforming_process": [
+            "optimisation of concrete mix design",
+            "clinker production",
+            "clinkerisation"
+        ],
+        "transformed_resource": [
+            "alternative raw material",
+            "normal strength concrete",
+            "road construction",
+            "high strength concrete"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk36"
+    },
+    {
+        "waste": [
+            "waste concrete",
+            "RP"
+        ],
+        "transforming_process": [
+            "clinker manufacturing",
+            "clinkerisation"
+        ],
+        "transformed_resource": [
+            "clinker",
+            "cement"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk37"
+    },
+    {
+        "waste": [
+            "waste concrete"
+        ],
+        "transforming_process": [
+            "carbonation processes"
+        ],
+        "transformed_resource": [
+            "high purity CaCO3",
+            "SCM"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk47"
+    },
+    {
+        "waste": [
+            "waste concrete",
+            "concrete rubble"
+        ],
+        "transforming_process": [
+            "carbonation",
+            "artificial carbonation"
+        ],
+        "transformed_resource": [
+            "recycled concrete aggregates",
+            "calcium carbonate"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk49"
+    },
+    {
+        "waste": [
+            "waste concrete"
+        ],
+        "transforming_process": [
+            "conversion",
+            "valorisation"
+        ],
+        "transformed_resource": [
+            "compliant resources for new construction"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk64"
+    },
+    {
+        "waste": [
+            "waste concrete"
+        ],
+        "transforming_process": [
+            "valorisation",
+            "recycling technologies"
+        ],
+        "transformed_resource": [
+            "recycled cementitious materials"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk65"
+    },
+    {
+        "waste": [
+            "waste concrete"
+        ],
+        "transforming_process": [
+            "recycling",
+            "crushing",
+            "advanced processing"
+        ],
+        "transformed_resource": [
+            "recycled cementitious materials",
+            "coarse fraction aggregate"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk67"
+    },
+    {
+        "waste": [
+            "waste concrete"
+        ],
+        "transforming_process": [
+            "crushing",
+            "valorisation",
+            "eliminating attached mortar",
+            "segregation of phases",
+            "densification"
+        ],
+        "transformed_resource": [
+            "coarse aggregate",
+            "CRCA",
+            "FRCA",
+            "RP",
+            "recycled fines"
+        ],
+        "reference": "10.1016/j.resconrec.2021.105955_chunk68"
+    }
+]

@@ -1,0 +1,330 @@
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = [] 
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+```python
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+```
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+
+w2r["waste"] = []  
+w2r["transforming_process"] = []  
+w2r["transformed_resource"] = []  
+
+----------
+
+w2r["waste"] = []
+w2r["transforming_process"] = []
+w2r["transformed_resource"] = []
+
+----------
+

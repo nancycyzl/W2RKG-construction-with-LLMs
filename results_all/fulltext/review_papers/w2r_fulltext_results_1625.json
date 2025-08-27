@@ -1,0 +1,53 @@
+[
+    {
+        "waste": [
+            "logs",
+            "organic waste"
+        ],
+        "transforming_process": [
+            "valorization",
+            "cascading"
+        ],
+        "transformed_resource": [
+            "firewood",
+            "paper",
+            "biofuel"
+        ],
+        "reference": "10.1016/j.clcb.2022.100030_chunk20"
+    },
+    {
+        "waste": [
+            "organic waste"
+        ],
+        "transforming_process": [
+            "valorization",
+            "biorefinery development",
+            "technological innovations",
+            "redeployment of technologies"
+        ],
+        "transformed_resource": [
+            "marketable products",
+            "non-waste biomass",
+            "vegetable oil",
+            "seeds",
+            "wood",
+            "algae"
+        ],
+        "reference": "10.1016/j.clcb.2022.100030_chunk21"
+    },
+    {
+        "waste": [
+            "organic waste"
+        ],
+        "transforming_process": [
+            "valorization",
+            "molecular extraction",
+            "safety testing"
+        ],
+        "transformed_resource": [
+            "non-food needs",
+            "biomass"
+        ],
+        "reference": "10.1016/j.clcb.2022.100030_chunk57"
+    }
+]

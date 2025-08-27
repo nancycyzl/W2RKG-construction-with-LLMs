@@ -1,0 +1,173 @@
+[
+    {
+        "waste": [
+            "crop residues",
+            "livestock manure",
+            "greenhouse gas",
+            "heavy metals",
+            "antibiotics",
+            "toxic substances",
+            "pathogens",
+            "weed seeds",
+            "ARGs"
+        ],
+        "transforming_process": [
+            "co-composting"
+        ],
+        "transformed_resource": [
+            "stable organic fertilizer",
+            "humic substances"
+        ],
+        "reference": "10.1016/j.jenvman.2021.114088_chunk3"
+    },
+    {
+        "waste": [
+            "lignocellulosic crop residues",
+            "farm animal manure",
+            "organic wastes"
+        ],
+        "transforming_process": [
+            "composting"
+        ],
+        "transformed_resource": [
+            "eco-compatible amendments",
+            "nutrients",
+            "improved soil fertility"
+        ],
+        "reference": "10.1016/j.jenvman.2021.114088_chunk6"
+    },
+    {
+        "waste": [
+            "biodegradable organic compounds"
+        ],
+        "transforming_process": [
+            "composting"
+        ],
+        "transformed_resource": [
+            "organic fertilizer"
+        ],
+        "reference": "10.1016/j.jenvman.2021.114088_chunk7"
+    },
+    {
+        "waste": [
+            "lignocellulosic by-products",
+            "livestock manure",
+            "barley waste",
+            "solid poultry manure",
+            "pig manure",
+            "spent mushroom substrate",
+            "rice husk",
+            "rice straw"
+        ],
+        "transforming_process": [
+            "co-composting",
+            "composting"
+        ],
+        "transformed_resource": [
+            "mature product",
+            "germination percentage for ryegrass seeds",
+            "germination index"
+        ],
+        "reference": "10.1016/j.jenvman.2021.114088_chunk10"
+    },
+    {
+        "waste": [
+            "olive mill wastewater",
+            "agricultural waste",
+            "paddy straw",
+            "poultry manure"
+        ],
+        "transforming_process": [
+            "composting",
+            "co-composting",
+            "inoculation",
+            "biodegradation"
+        ],
+        "transformed_resource": [
+            "compost",
+            "final GI"
+        ],
+        "reference": "10.1016/j.jenvman.2021.114088_chunk20"
+    },
+    {
+        "waste": [
+            "dairy manure",
+            "corn straw",
+            "chicken manure",
+            "corn stalks",
+            "pig manure"
+        ],
+        "transforming_process": [
+            "composting",
+            "inoculation with actinobacteria",
+            "windrow composting",
+            "co-composting with bacterial culture"
+        ],
+        "transformed_resource": [
+            "compost",
+            "microbial concentrations",
+            "reduced abundance of functional genes"
+        ],
+        "reference": "10.1016/j.jenvman.2021.114088_chunk35"
+    },
+    {
+        "waste": [
+            "mature compost",
+            "control compost",
+            "final compost",
+            "corn stalk\u2013swine waste compost"
+        ],
+        "transforming_process": [
+            "fungal inoculation",
+            "bacterial inoculants",
+            "degradation",
+            "maturation"
+        ],
+        "transformed_resource": [
+            "macronutrient content",
+            "calcium",
+            "phosphorus",
+            "potassium",
+            "magnesium",
+            "C/N ratio",
+            "available N",
+            "total N/P/K ratio",
+            "total potassium",
+            "GI"
+        ],
+        "reference": "10.1016/j.jenvman.2021.114088_chunk46"
+    },
+    {
+        "waste": [
+            "animal manure",
+            "chicken manure",
+            "wheat straw",
+            "swine manure"
+        ],
+        "transforming_process": [
+            "co-composting",
+            "inoculation with mature compost"
+        ],
+        "transformed_resource": [
+            "compost",
+            "thermophilic bacteria"
+        ],
+        "reference": "10.1016/j.jenvman.2021.114088_chunk57"
+    },
+    {
+        "waste": [
+            "lignocellulosic crop residues",
+            "farm animal manure"
+        ],
+        "transforming_process": [
+            "co-composting",
+            "conventional composting"
+        ],
+        "transformed_resource": [
+            "high-quality organic fertilizers",
+            "nutrients",
+            "microorganisms"
+        ],
+        "reference": "10.1016/j.jenvman.2021.114088_chunk60"
+    }
+]

@@ -1,0 +1,738 @@
+[
+    {
+        "waste": [
+            "food waste",
+            "FW"
+        ],
+        "transforming_process": [
+            "conversion into value-added products",
+            "recovery of energy"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "value-added products"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk2"
+    },
+    {
+        "waste": [
+            "food waste",
+            "waste cooking oil",
+            "cheese whey"
+        ],
+        "transforming_process": [
+            "recovery of energy",
+            "fermentation process"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "bioplastic",
+            "polyhydroxyalkanoates"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk3"
+    },
+    {
+        "waste": [
+            "waste cooking oil",
+            "cheese whey",
+            "petroleum-derived polymers"
+        ],
+        "transforming_process": [
+            "conversion of FW into PHA"
+        ],
+        "transformed_resource": [
+            "bioplastic",
+            "PHA"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk4"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "conversion of food waste into PHA",
+            "FW processing techniques"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "bioplastics"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk5"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "composting",
+            "conversion into value-added chemicals",
+            "production of bioplastics",
+            "production of bioenergy"
+        ],
+        "transformed_resource": [
+            "bioplastics",
+            "bioenergy",
+            "value-added chemicals"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk6"
+    },
+    {
+        "waste": [
+            "FW",
+            "waste biomass"
+        ],
+        "transforming_process": [
+            "bioplastics production",
+            "energy transfer through physical/chemical/biological way",
+            "conversion process"
+        ],
+        "transformed_resource": [
+            "bioplastics",
+            "bioenergy",
+            "PHA"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk7"
+    },
+    {
+        "waste": [
+            "glycerol from biodiesel production",
+            "lignocellulosic waste from the food industry",
+            "lignocellulosic waste from forestry",
+            "petrochemical plastic waste",
+            "surplus whey containing lactose",
+            "empty fruit bunch (EFB)",
+            "palm oil mill effluent (POME)",
+            "palm kernel shell (PKS)",
+            "mixed cultures",
+            "excess activated sludge"
+        ],
+        "transforming_process": [
+            "production of lactic acid",
+            "production of PLA",
+            "production of PHA",
+            "production of bioethanol",
+            "bacterial fermentation"
+        ],
+        "transformed_resource": [
+            "lactic acid",
+            "PLA",
+            "PHA",
+            "bioethanol",
+            "bioplastics"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk13"
+    },
+    {
+        "waste": [
+            "excess activated sludge",
+            "food waste"
+        ],
+        "transforming_process": [
+            "production pathway for bioplastics",
+            "recycling",
+            "collecting and sorting"
+        ],
+        "transformed_resource": [
+            "bioplastics",
+            "recycled materials"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk14"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "truck transportation",
+            "pretreatment",
+            "enzymatic hydrolysis"
+        ],
+        "transformed_resource": [
+            "fermentable substrates",
+            "bioplastics"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk17"
+    },
+    {
+        "waste": [
+            "food waste",
+            "industrial food waste mixture"
+        ],
+        "transforming_process": [
+            "enzymatic hydrolysis",
+            "fermentation",
+            "physical/acid treatment",
+            "mechanical conversion",
+            "thermal conversion"
+        ],
+        "transformed_resource": [
+            "monomers",
+            "proteins",
+            "lipids",
+            "polysaccharides",
+            "3-hydroxyvaleric acid",
+            "fermentable organic compounds"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk18"
+    },
+    {
+        "waste": [
+            "food waste",
+            "Jambul seeds",
+            "lignocellulosic waste"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "mechanical conversion",
+            "thermal conversion",
+            "pulverization",
+            "milling",
+            "heating",
+            "steam-explosion"
+        ],
+        "transformed_resource": [
+            "fermentable organic compounds",
+            "PHB",
+            "fermentable substrates",
+            "glucose",
+            "proteins",
+            "fats",
+            "fatty acids",
+            "starch",
+            "cellulose",
+            "lignin",
+            "hemicellulose"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk19"
+    },
+    {
+        "waste": [
+            "food waste",
+            "lignocellulosic materials"
+        ],
+        "transforming_process": [
+            "physical pretreatment",
+            "acid pretreatment",
+            "chemical conversion"
+        ],
+        "transformed_resource": [
+            "fermentable sugars",
+            "lignocellulose-derived byproducts"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk20"
+    },
+    {
+        "waste": [
+            "freshwater (FW)",
+            "polymeric structures",
+            "lignocellulose",
+            "animal fat",
+            "volatile suspended solids"
+        ],
+        "transforming_process": [
+            "enzymatic hydrolysis",
+            "converting polymeric structures into fermentable products",
+            "pretreatment with commercial enzymes"
+        ],
+        "transformed_resource": [
+            "fermentable products",
+            "carbohydrates",
+            "fatty acids",
+            "fermentable sugars"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk25"
+    },
+    {
+        "waste": [
+            "rice husks",
+            "food waste"
+        ],
+        "transforming_process": [
+            "alkaline pretreatment",
+            "enzymatic hydrolysis",
+            "biosynthesis conversion",
+            "solid-state fermentation"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "hydrolysates",
+            "protein-rich food waste",
+            "commercial nutrient supplements"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk26"
+    },
+    {
+        "waste": [
+            "household food waste",
+            "dried foods",
+            "bakery products"
+        ],
+        "transforming_process": [
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "succinic acid",
+            "lactic acid",
+            "fumaric acid",
+            "PHB",
+            "bioplastics"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk27"
+    },
+    {
+        "waste": [
+            "dairy waste",
+            "sea water",
+            "cellulose",
+            "proteins",
+            "fats",
+            "fatty acids",
+            "starch"
+        ],
+        "transforming_process": [
+            "conversion by Alcaligenes latus",
+            "conversion by Bacillus megaterium",
+            "conversion by Cupriavidus necator",
+            "conversion by Pseudomonas oleovorans",
+            "PHA production by Halomonas hydrothermalis and H. campaniensis LS21"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "PHB"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk28"
+    },
+    {
+        "waste": [
+            "mixed cultures",
+            "activated sludge",
+            "brewery wastewater",
+            "dairy wastewater",
+            "cheese whey",
+            "waste stabilization pond",
+            "POME",
+            "fermented FW"
+        ],
+        "transforming_process": [
+            "anaerobic-aerobic process",
+            "aerobic dynamic feeding system",
+            "fed-batch process",
+            "aerobic sequencing batch reactor"
+        ],
+        "transformed_resource": [
+            "PHA"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk31"
+    },
+    {
+        "waste": [
+            "solid waste",
+            "sugarcane molasses",
+            "pressed juice"
+        ],
+        "transforming_process": [
+            "solid-state fermentation",
+            "grinding",
+            "material classification"
+        ],
+        "transformed_resource": [
+            "value-added products"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk35"
+    },
+    {
+        "waste": [
+            "bread waste",
+            "starch-based material"
+        ],
+        "transforming_process": [
+            "chemical synthesis",
+            "purification of polysaccharides",
+            "partial acid hydrolysis",
+            "physico/chemical modification",
+            "hydrothermal treatment",
+            "chemical conversion"
+        ],
+        "transformed_resource": [
+            "starch nanocrystals",
+            "bioplastics",
+            "succinic acid",
+            "PLA"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk38"
+    },
+    {
+        "waste": [
+            "cellulose",
+            "chitin",
+            "shell waste"
+        ],
+        "transforming_process": [
+            "conversion of cellulose into polyols",
+            "physico/chemical modification of chitin",
+            "chemical modification to chitosan"
+        ],
+        "transformed_resource": [
+            "bioplastics",
+            "polyols",
+            "chitosan"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk42"
+    },
+    {
+        "waste": [
+            "sago starch",
+            "food waste",
+            "saccharides",
+            "n-alkanes"
+        ],
+        "transforming_process": [
+            "extrusion",
+            "moisture absorption",
+            "mixing",
+            "rolling"
+        ],
+        "transformed_resource": [
+            "starch-PCL blends",
+            "thin sheets",
+            "PHA"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk47"
+    },
+    {
+        "waste": [
+            "food waste",
+            "citrus wastes",
+            "potato residues",
+            "potato starch",
+            "hydrolyzed Jambul seeds"
+        ],
+        "transforming_process": [
+            "fermentation process",
+            "extraction",
+            "production of enzymes",
+            "direct fermentation"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "pectinase",
+            "citric acid",
+            "succinic acid",
+            "dietary fiber",
+            "prebiotic oligosaccharides",
+            "natural antioxidants",
+            "lactic acid"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk49"
+    },
+    {
+        "waste": [
+            "hydrolyzed Jambul seeds",
+            "pomace of apricots",
+            "pomace of cherries",
+            "pomace of Solaris grapes"
+        ],
+        "transforming_process": [
+            "PHA accumulation",
+            "fermentation with Pseudomonas"
+        ],
+        "transformed_resource": [
+            "mcl-PHA",
+            "glucose",
+            "fructose",
+            "biomass"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk50"
+    },
+    {
+        "waste": [
+            "whey hydrolysate",
+            "cheese whey",
+            "whey"
+        ],
+        "transforming_process": [
+            "bioreactor fermentation",
+            "production of poly-3(HB-co-27%-HV)",
+            "accumulation of PHB",
+            "direct transformation"
+        ],
+        "transformed_resource": [
+            "medium chain-length PHA",
+            "poly-3(HB-co-27%-HV)",
+            "PHB"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk51"
+    },
+    {
+        "waste": [
+            "whey",
+            "waste cooking oil",
+            "frying oil",
+            "rapeseed oil"
+        ],
+        "transforming_process": [
+            "transformation of whey into PHB",
+            "production of PHB using C. necator",
+            "batch cultivation system with C. necator"
+        ],
+        "transformed_resource": [
+            "PHB"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk52"
+    },
+    {
+        "waste": [
+            "used cooking oil",
+            "waste cooking oil",
+            "residual frying oil",
+            "wasted oil"
+        ],
+        "transforming_process": [
+            "cultivation",
+            "manufacture",
+            "production"
+        ],
+        "transformed_resource": [
+            "P(3HB)",
+            "PHA",
+            "biomass",
+            "PHB granules"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk53"
+    },
+    {
+        "waste": [
+            "wasted oil",
+            "used cooking oil",
+            "fatty acids",
+            "glycerol"
+        ],
+        "transforming_process": [
+            "PHA production using C. necator H16",
+            "exploitation of used cooking oil by B. thailandensis",
+            "production of poly(3-hydroxybutyrate-co-3-hydroxyhexanoate) using genetically modified C. necator H16 strains"
+        ],
+        "transformed_resource": [
+            "biomass",
+            "PHA",
+            "PHB",
+            "feedstock for microbial PHA production"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk54"
+    },
+    {
+        "waste": [
+            "glycerol",
+            "spent coffee grounds"
+        ],
+        "transforming_process": [
+            "PHA generation with glycerol",
+            "cultivating C. necator DSM 428 with extracted SCG oil"
+        ],
+        "transformed_resource": [
+            "PHA"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk55"
+    },
+    {
+        "waste": [
+            "SCG oil",
+            "hydrolysates of SCG",
+            "waste oils",
+            "wheat straw",
+            "rice straw",
+            "food process waste"
+        ],
+        "transforming_process": [
+            "production of PHA",
+            "detoxification methods",
+            "hydrolysis",
+            "extraction of oil"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "biomass",
+            "PHB",
+            "monomeric compounds",
+            "glucose",
+            "xylose"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk56"
+    },
+    {
+        "waste": [
+            "corn stover",
+            "wheat straw",
+            "animal products",
+            "cheese fats",
+            "residues from intestines"
+        ],
+        "transforming_process": [
+            "hydrolysis",
+            "co-culture fermentation",
+            "fed-batch cultivation"
+        ],
+        "transformed_resource": [
+            "crude sugars",
+            "PHA",
+            "bioplastic",
+            "biopolymers"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk58"
+    },
+    {
+        "waste": [
+            "food waste",
+            "animal waste",
+            "meat derivatives",
+            "dairy products",
+            "vegetables"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "bioplastic synthesis"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "lipids",
+            "unsaturated fatty acids"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk59"
+    },
+    {
+        "waste": [
+            "food waste",
+            "agriculture waste",
+            "biomass"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "P recycling",
+            "bioplastic production"
+        ],
+        "transformed_resource": [
+            "P",
+            "PHA",
+            "bioplastic"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk61"
+    },
+    {
+        "waste": [
+            "waste biomass",
+            "EFB",
+            "biomass waste"
+        ],
+        "transforming_process": [
+            "generation of biofuels",
+            "utilization of biomass in energy production"
+        ],
+        "transformed_resource": [
+            "biofuels",
+            "bioethanol",
+            "renewable energy sources"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk64"
+    },
+    {
+        "waste": [
+            "oil palm EFB",
+            "oil palm frond"
+        ],
+        "transforming_process": [
+            "production of bioethanol",
+            "production of xylitol",
+            "production of P(3HB)",
+            "ethanol production",
+            "biofuel production for combined heat and power plants"
+        ],
+        "transformed_resource": [
+            "bioethanol",
+            "xylitol",
+            "P(3HB)",
+            "non-food sugars",
+            "renewable sugars"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk65"
+    },
+    {
+        "waste": [
+            "banana crops",
+            "rejected agro products",
+            "wasted proportions of total banana crops",
+            "banana peels"
+        ],
+        "transforming_process": [
+            "biofuel production",
+            "ethanol production",
+            "methane recovery",
+            "composting",
+            "sugar production",
+            "starch transformation"
+        ],
+        "transformed_resource": [
+            "ethanol",
+            "methane gas",
+            "briquette",
+            "electricity",
+            "paper",
+            "biofuels",
+            "sugars",
+            "PHB"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk66"
+    },
+    {
+        "waste": [
+            "banana peels"
+        ],
+        "transforming_process": [
+            "transformation into sugars",
+            "hydrolysis",
+            "biorefinery process"
+        ],
+        "transformed_resource": [
+            "glucose",
+            "acetic acid",
+            "methane",
+            "PHB",
+            "ethanol"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk67"
+    },
+    {
+        "waste": [
+            "residual banana",
+            "sugarcane bagasse"
+        ],
+        "transforming_process": [
+            "production of PHB",
+            "production of ethanol",
+            "production of electricity"
+        ],
+        "transformed_resource": [
+            "PHB",
+            "ethanol",
+            "electricity"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk68"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "physical methodologies",
+            "thermo-chemical methodologies",
+            "biological methodologies",
+            "fermentation technologies"
+        ],
+        "transformed_resource": [
+            "bioplastics",
+            "PHA-derived products"
+        ],
+        "reference": "10.1016/j.envint.2019.03.076_chunk71"
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "waste": [
+            "lignocellulosic biomass",
+            "marine biomass",
+            "shells/exoskeletons of crustaceans and molluscus"
+        ],
+        "transforming_process": [
+            "bioprocessing",
+            "conversion"
+        ],
+        "transformed_resource": [
+            "fuels",
+            "chemicals",
+            "other products"
+        ],
+        "reference": "10.1016/j.tgchem.2023.100013_chunk0"
+    },
+    {
+        "waste": [
+            "shells/exoskeletons of crustaceans",
+            "shells/exoskeletons of molluscus",
+            "crab shells",
+            "shrimp shells"
+        ],
+        "transforming_process": [
+            "sagacious utilization",
+            "extraction of chemicals and materials"
+        ],
+        "transformed_resource": [
+            "chitin",
+            "protein",
+            "calcium carbonate",
+            "N-acetyl glucosamine"
+        ],
+        "reference": "10.1016/j.tgchem.2023.100013_chunk1"
+    },
+    {
+        "waste": [
+            "crab shell waste"
+        ],
+        "transforming_process": [
+            "direct pyrolysis"
+        ],
+        "transformed_resource": [
+            "N-doped carbon catalyst",
+            "composites of CaO and porous N-doped carbon catalyst",
+            "glucose fructose isomerization"
+        ],
+        "reference": "10.1016/j.tgchem.2023.100013_chunk24"
+    },
+    {
+        "waste": [
+            "pearl shell waste powders",
+            "chitin"
+        ],
+        "transforming_process": [
+            "wet impregnation technique",
+            "catalyse hydration of nitriles to amides",
+            "hydrogenation of arenes to cyclohexanes"
+        ],
+        "transformed_resource": [
+            "aromatic halides",
+            "nitriles",
+            "amines",
+            "cyclohexanes",
+            "Ag/chitin",
+            "Au/chitin",
+            "Pd/chitin",
+            "AuAg/chitin",
+            "PdAg/chitin",
+            "PdAuAg/chitin"
+        ],
+        "reference": "10.1016/j.tgchem.2023.100013_chunk31"
+    },
+    {
+        "waste": [
+            "chitin"
+        ],
+        "transforming_process": [
+            "catalytic preparations",
+            "depolymerization"
+        ],
+        "transformed_resource": [
+            "methacrylic acid",
+            "monomers",
+            "oligomers",
+            "chitosan",
+            "furans",
+            "amine/amide polyols",
+            "heterocyclic compounds"
+        ],
+        "reference": "10.1016/j.tgchem.2023.100013_chunk39"
+    },
+    {
+        "waste": [
+            "chitin"
+        ],
+        "transforming_process": [
+            "depolymerization",
+            "enzymatic depolymerization",
+            "chemical depolymerization"
+        ],
+        "transformed_resource": [
+            "N -acetyl glucosamine (NAG)",
+            "N, N\u2032 -diacetylchitobiose",
+            "chitosan",
+            "plant elicitor"
+        ],
+        "reference": "10.1016/j.tgchem.2023.100013_chunk40"
+    },
+    {
+        "waste": [
+            "acidic waste"
+        ],
+        "transforming_process": [
+            "enzymatic depolymerization",
+            "chemical depolymerization",
+            "acid hydrolysis",
+            "acidified molten salt hydrolysis"
+        ],
+        "transformed_resource": [
+            "N-acetylglucosamine (NAG)"
+        ],
+        "reference": "10.1016/j.tgchem.2023.100013_chunk41"
+    },
+    {
+        "waste": [
+            "chitin"
+        ],
+        "transforming_process": [
+            "aging",
+            "hydrolysis"
+        ],
+        "transformed_resource": [
+            "N-acetyl-d-glucosamine (NAG)"
+        ],
+        "reference": "10.1016/j.tgchem.2023.100013_chunk43"
+    },
+    {
+        "waste": [
+            "chitin",
+            "shrimp shells"
+        ],
+        "transforming_process": [
+            "depolymerization",
+            "dissolution",
+            "mechanochemical methods",
+            "acid hydrolysis",
+            "base hydrolysis",
+            "mechanical ball milling",
+            "deacetylation"
+        ],
+        "transformed_resource": [
+            "low molecular weight chitosan"
+        ],
+        "reference": "10.1016/j.tgchem.2023.100013_chunk44"
+    },
+    {
+        "waste": [
+            "shrimp shells",
+            "chitin"
+        ],
+        "transforming_process": [
+            "milling",
+            "reactivated aging",
+            "chitin hydrolysis",
+            "mechanical ball milling"
+        ],
+        "transformed_resource": [
+            "NAG",
+            "chito-oligosachharides"
+        ],
+        "reference": "10.1016/j.tgchem.2023.100013_chunk50"
+    },
+    {
+        "waste": [
+            "chitin"
+        ],
+        "transforming_process": [
+            "conversion of chitin to NAG using chinolytic enzyme",
+            "conversion of NAG to 3A5AF using ammonium thiocyanate as catalyst"
+        ],
+        "transformed_resource": [
+            "NAG",
+            "3A5AF"
+        ],
+        "reference": "10.1016/j.tgchem.2023.100013_chunk62"
+    },
+    {
+        "waste": [
+            "chitin"
+        ],
+        "transforming_process": [
+            "hydrolytic hydrogenation",
+            "mechano-catalysis",
+            "hydrolysis",
+            "hydrogenation",
+            "one pot synthesis"
+        ],
+        "transformed_resource": [
+            "2-acetamido-2-deoxysorbitol (ADS)",
+            "erythritol",
+            "N-acetylethanolamine"
+        ],
+        "reference": "10.1016/j.tgchem.2023.100013_chunk67"
+    },
+    {
+        "waste": [
+            "shrimp shells",
+            "chitin-containing shell waste"
+        ],
+        "transforming_process": [
+            "using deep eutectic solvents",
+            "pre-treatment of chitin-containing shell waste",
+            "enzymatic/fermentative conversion of hydrolysates"
+        ],
+        "transformed_resource": [
+            "O-malate chitin",
+            "tyrosine",
+            "l-DOPA",
+            "water-soluble chitin hydrolysate"
+        ],
+        "reference": "10.1016/j.tgchem.2023.100013_chunk74"
+    }
+]

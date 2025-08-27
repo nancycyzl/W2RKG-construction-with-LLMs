@@ -1,0 +1,323 @@
+[
+    {
+        "waste": [
+            "textile waste",
+            "synthetic waste fibers",
+            "natural waste fibers"
+        ],
+        "transforming_process": [
+            "recovery",
+            "recycling",
+            "reuse",
+            "valorization",
+            "composite material creation"
+        ],
+        "transformed_resource": [
+            "economic value",
+            "composite materials for construction",
+            "sustainable applications"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk2"
+    },
+    {
+        "waste": [
+            "textile fibrous waste",
+            "dye",
+            "organics",
+            "heavy metal concentrations"
+        ],
+        "transforming_process": [
+            "removing harmful components"
+        ],
+        "transformed_resource": [
+            "reusable textile fibers"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk16"
+    },
+    {
+        "waste": [
+            "waste cotton",
+            "synthetic polymers"
+        ],
+        "transforming_process": [
+            "recycled to produce"
+        ],
+        "transformed_resource": [
+            "carpets",
+            "geotextiles",
+            "composites"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk20"
+    },
+    {
+        "waste": [
+            "textile waste",
+            "discarded apparel",
+            "textile",
+            "home textiles",
+            "shoes",
+            "TLC"
+        ],
+        "transforming_process": [
+            "recycle",
+            "upcycle",
+            "downcycle",
+            "reuse"
+        ],
+        "transformed_resource": [
+            "recycled fibers",
+            "products made from recycled fibers",
+            "virgin materials"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk31"
+    },
+    {
+        "waste": [
+            "textile waste fiber"
+        ],
+        "transforming_process": [
+            "development of sustainable thermal and acoustic insulators",
+            "manufacturing of innovative concrete",
+            "manufacturing of plaster mortar",
+            "manufacturing of asphalt concrete",
+            "manufacturing of composite materials",
+            "improvement of subgrade soil",
+            "stabilization of engineered slopes",
+            "strengthening of physical properties of engineered backfill material"
+        ],
+        "transformed_resource": [
+            "sustainable thermal and acoustic insulators",
+            "polymer concrete",
+            "plaster mortar",
+            "asphalt concrete",
+            "composite materials",
+            "stabilized subgrade soil",
+            "engineered slopes",
+            "engineered backfill material"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk33"
+    },
+    {
+        "waste": [
+            "waste carpet",
+            "waste"
+        ],
+        "transforming_process": [
+            "adding fibers during mixing"
+        ],
+        "transformed_resource": [
+            "polypropylene fiber",
+            "recovered gamma-irradiated cotton fibers"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk34"
+    },
+    {
+        "waste": [
+            "waste blue jeans (denim)",
+            "waste fishing nets",
+            "waste polypropylene fibers"
+        ],
+        "transforming_process": [
+            "addition of recovered gamma-irradiated cotton fibers in polyester concrete",
+            "inclusion of recycled nylon fibers in cement mortars",
+            "combination of waste polypropylene fibers with palm oil fuel ash and ordinary Portland cement"
+        ],
+        "transformed_resource": [
+            "higher flexural strain",
+            "40% increase in compressive strength",
+            "7% increase in flexural strength",
+            "35% increase in tensile strength",
+            "13 times toughness",
+            "increased tensile strength of concrete",
+            "improved durability"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk35"
+    },
+    {
+        "waste": [
+            "textile waste cuttings"
+        ],
+        "transforming_process": [
+            "mixing cement, water, and textile waste cuttings",
+            "chemical treatment processes of textile fiber reinforced polymers"
+        ],
+        "transformed_resource": [
+            "composites"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk36"
+    },
+    {
+        "waste": [
+            "discarded 50/50 cotton/polyester bed linens",
+            "cotton waste",
+            "limestone powder waste",
+            "concrete",
+            "textile waste"
+        ],
+        "transforming_process": [
+            "heat compression molding",
+            "producing lightweight brick materials",
+            "using as reinforcements in pavements, columns, bridge decks and barriers, airport runways"
+        ],
+        "transformed_resource": [
+            "composites with maleic anhydride",
+            "lightweight brick materials",
+            "composite building material"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk37"
+    },
+    {
+        "waste": [
+            "textile waste",
+            "wool and polystyrene fibrous waste",
+            "woven fabric waste",
+            "acrylic spinning waste"
+        ],
+        "transforming_process": [
+            "thermally reinforcing"
+        ],
+        "transformed_resource": [
+            "thermal insulation materials"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk38"
+    },
+    {
+        "waste": [
+            "waste wool",
+            "polyester fibers",
+            "textile waste fibers"
+        ],
+        "transforming_process": [
+            "thermal and acoustic analysis",
+            "calibrating bulk density",
+            "building vertical and floor insulating mats"
+        ],
+        "transformed_resource": [
+            "medium-density insulating mats",
+            "high-density insulating mats",
+            "thermal and acoustic insulator"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk39"
+    },
+    {
+        "waste": [
+            "synthetic fibers",
+            "polypropylene",
+            "polyesters",
+            "nylons",
+            "acrylics",
+            "glass fiber"
+        ],
+        "transforming_process": [
+            "fiber reinforcement",
+            "inclusion of discrete fibers"
+        ],
+        "transformed_resource": [
+            "improved mechanical properties of soil",
+            "fiber-reinforced soil/soil composites"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk42"
+    },
+    {
+        "waste": [
+            "nylon carpet waste",
+            "polyester",
+            "lime",
+            "fly ash",
+            "expansive soil"
+        ],
+        "transforming_process": [
+            "utilized to enhance internal cohesion",
+            "improvement of soil strength"
+        ],
+        "transformed_resource": [
+            "internal cohesion",
+            "shear strength",
+            "compressive strength",
+            "load-bearing capacity"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk49"
+    },
+    {
+        "waste": [
+            "discrete fibrous waste",
+            "discrete textile fibers"
+        ],
+        "transforming_process": [
+            "cascaded usage",
+            "sorting phase of the waste retrieval process"
+        ],
+        "transformed_resource": [
+            "polymer concrete",
+            "composites",
+            "heat and sound insulation mats",
+            "asphalt concrete",
+            "fiber-reinforcement in general soil",
+            "fiber-reinforcement in subgrade soil",
+            "stabilization of engineered slopes",
+            "backfill material",
+            "rammed earth"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk60"
+    },
+    {
+        "waste": [
+            "soil mass",
+            "chopped and bound materials",
+            "mortar",
+            "old clothes",
+            "fashion and textile waste"
+        ],
+        "transforming_process": [
+            "improving thermal and acoustic insulation properties",
+            "making Kemafil ropes",
+            "mixing with mortar to form light-weight particleboards",
+            "treating and melting for recycling",
+            "reducing to desired geometry",
+            "valorizing in soil composites",
+            "reusing old clothes",
+            "breaking down into fibers"
+        ],
+        "transformed_resource": [
+            "Kemafil ropes",
+            "light-weight particleboards",
+            "recycled materials",
+            "fibers",
+            "yarns"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk62"
+    },
+    {
+        "waste": [
+            "textile waste",
+            "clothing waste"
+        ],
+        "transforming_process": [
+            "recycling",
+            "breaking down into fibers",
+            "incinerating",
+            "downcycling",
+            "cascaded use"
+        ],
+        "transformed_resource": [
+            "yarns",
+            "fabric",
+            "energy"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk63"
+    },
+    {
+        "waste": [
+            "clothing waste",
+            "textile waste"
+        ],
+        "transforming_process": [
+            "valorization",
+            "application of textile fibers in construction and geotechnical industry"
+        ],
+        "transformed_resource": [
+            "industrial by-products"
+        ],
+        "reference": "10.1016/j.clet.2022.100420_chunk64"
+    }
+]

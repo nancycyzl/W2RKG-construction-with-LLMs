@@ -1,0 +1,92 @@
+[
+    {
+        "waste": [
+            "wastes from the food industry"
+        ],
+        "transforming_process": [
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "biochars"
+        ],
+        "reference": "10.1016/j.jenvman.2023.117896_chunk2"
+    },
+    {
+        "waste": [
+            "organic carbon from the proteins",
+            "wastes from fish and meat industries",
+            "bones"
+        ],
+        "transforming_process": [
+            "pyrolysis process",
+            "valorisation",
+            "extraction of valuable compounds",
+            "conversion of bones into BC"
+        ],
+        "transformed_resource": [
+            "amorphous/graphitic C",
+            "inorganic CaPs",
+            "organic proteins and/or their derivatives",
+            "materials with advanced performance and functionalities",
+            "biomedicine/tissue engineering applications",
+            "food industry applications",
+            "environmental remediation"
+        ],
+        "reference": "10.1016/j.jenvman.2023.117896_chunk4"
+    },
+    {
+        "waste": [
+            "pork bones"
+        ],
+        "transforming_process": [
+            "pyrolysis at 450 \u00b0C",
+            "chemical treatment",
+            "pyrolysis at 800 \u00b0C"
+        ],
+        "transformed_resource": [
+            "activated materials"
+        ],
+        "reference": "10.1016/j.jenvman.2023.117896_chunk32"
+    },
+    {
+        "waste": [
+            "pig bones"
+        ],
+        "transforming_process": [
+            "amino functionalisation",
+            "condensation process"
+        ],
+        "transformed_resource": [
+            "BC powder functionalised with SiO2",
+            "modified BC"
+        ],
+        "reference": "10.1016/j.jenvman.2023.117896_chunk36"
+    },
+    {
+        "waste": [
+            "camel bones"
+        ],
+        "transforming_process": [
+            "co-precipitation process"
+        ],
+        "transformed_resource": [
+            "magnetic bone char"
+        ],
+        "reference": "10.1016/j.jenvman.2023.117896_chunk39"
+    },
+    {
+        "waste": [
+            "bones",
+            "cod fish"
+        ],
+        "transforming_process": [
+            "conversion of bones into biochar",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "phosphorus"
+        ],
+        "reference": "10.1016/j.jenvman.2023.117896_chunk47"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "reuse as animal feed",
+            "extracting valuable compounds",
+            "utilizing anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "animal feed",
+            "valuable compounds",
+            "biogas"
+        ],
+        "reference": "10.1016/j.jenvman.2024.120989_chunk1"
+    },
+    {
+        "waste": [
+            "food waste",
+            "food loss",
+            "food residues",
+            "food side stream",
+            "food side flow",
+            "vegetable waste",
+            "fruit waste",
+            "meat waste",
+            "food by-product",
+            "municipal solid waste"
+        ],
+        "transforming_process": [
+            "valorization",
+            "circular economy",
+            "recovery",
+            "recycling",
+            "resource efficiency"
+        ],
+        "transformed_resource": [
+            "bioplastic"
+        ],
+        "reference": "10.1016/j.jenvman.2024.120989_chunk8"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "conversion of food waste into human food",
+            "re-manufacturing of food waste",
+            "reuse of food waste as raw material",
+            "3D printing for food manufacturing"
+        ],
+        "transformed_resource": [
+            "human food",
+            "food ingredient",
+            "printing materials"
+        ],
+        "reference": "10.1016/j.jenvman.2024.120989_chunk19"
+    },
+    {
+        "waste": [
+            "barley straw residue",
+            "lettuce waste",
+            "food surplus",
+            "food waste"
+        ],
+        "transforming_process": [
+            "conversion of food waste to food"
+        ],
+        "transformed_resource": [
+            "human food",
+            "ingredients in food processing"
+        ],
+        "reference": "10.1016/j.jenvman.2024.120989_chunk20"
+    }
+]

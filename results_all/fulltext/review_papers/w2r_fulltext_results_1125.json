@@ -1,0 +1,129 @@
+[
+    {
+        "waste": [
+            "waste effluent",
+            "energy remaining in waste"
+        ],
+        "transforming_process": [
+            "cascade redox reactions",
+            "electron transport chain",
+            "application of external voltage",
+            "bioelectrochemical systems"
+        ],
+        "transformed_resource": [
+            "valuable product",
+            "power",
+            "fuel",
+            "chemicals"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108123_chunk1"
+    },
+    {
+        "waste": [
+            "wastewater",
+            "agro-industrial wastes",
+            "greenhouse gases",
+            "carbon dioxide"
+        ],
+        "transforming_process": [
+            "waste to power",
+            "waste to fuel",
+            "waste to chemicals"
+        ],
+        "transformed_resource": [
+            "electric energy",
+            "fuels",
+            "organic compounds"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108123_chunk2"
+    },
+    {
+        "waste": [
+            "wastewater",
+            "CO2",
+            "brewery wastewater"
+        ],
+        "transforming_process": [
+            "conversion of wastewater",
+            "conversion of CO2",
+            "waste valorization"
+        ],
+        "transformed_resource": [
+            "valuable products"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108123_chunk5"
+    },
+    {
+        "waste": [
+            "wastewater from agribusiness"
+        ],
+        "transforming_process": [
+            "bioelectrochemical approaches",
+            "MFC system"
+        ],
+        "transformed_resource": [
+            "energy",
+            "organic resources"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108123_chunk12"
+    },
+    {
+        "waste": [
+            "domestic wastewater"
+        ],
+        "transforming_process": [
+            "biofuel cells",
+            "microbial fuel cells",
+            "use of biological agents"
+        ],
+        "transformed_resource": [
+            "electricity"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108123_chunk13"
+    },
+    {
+        "waste": [
+            "wastewater containing organic compounds"
+        ],
+        "transforming_process": [
+            "catalytic oxidation",
+            "energy conversion from the breakdown of chemical bonds"
+        ],
+        "transformed_resource": [
+            "electric current"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108123_chunk14"
+    },
+    {
+        "waste": [
+            "CO2",
+            "wastewater"
+        ],
+        "transforming_process": [
+            "bioelectrochemical conversion",
+            "bioelectrosynthesis cell"
+        ],
+        "transformed_resource": [
+            "carbon compounds",
+            "bioplastics",
+            "methane",
+            "acetate"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108123_chunk18"
+    },
+    {
+        "waste": [
+            "oily coffee waste"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "enzymatic reduction"
+        ],
+        "transformed_resource": [
+            "polyhydroxyalkanoate",
+            "poly(3-hydroxybutyrate)",
+            "biodegradable bioplastics"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108123_chunk20"
+    }
+]

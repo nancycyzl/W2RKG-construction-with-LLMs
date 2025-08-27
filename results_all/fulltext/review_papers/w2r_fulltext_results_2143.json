@@ -1,0 +1,199 @@
+[
+    {
+        "waste": [
+            "organic compounds",
+            "organic residues"
+        ],
+        "transforming_process": [
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "fertilizer",
+            "value-added products"
+        ],
+        "reference": "10.1016/j.scitotenv.2022.152993_chunk0"
+    },
+    {
+        "waste": [
+            "sewage sludge",
+            "municipal by-products",
+            "industrial by-products",
+            "residuals",
+            "waste streams"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "acidogenesis",
+            "acetogenesis"
+        ],
+        "transformed_resource": [
+            "volatile fatty acids",
+            "acetic acid",
+            "propionic acid",
+            "butyric acid"
+        ],
+        "reference": "10.1016/j.scitotenv.2022.152993_chunk1"
+    },
+    {
+        "waste": [
+            "VFAs-rich effluent",
+            "grape pomace effluent",
+            "synthetic VFAs mixtures"
+        ],
+        "transforming_process": [
+            "adsorption",
+            "desorption",
+            "ion exchange",
+            "solvents evaporation technique"
+        ],
+        "transformed_resource": [
+            "VFAs"
+        ],
+        "reference": "10.1016/j.scitotenv.2022.152993_chunk12"
+    },
+    {
+        "waste": [
+            "waste streams"
+        ],
+        "transforming_process": [
+            "distillation",
+            "extractive distillation",
+            "reactive distillation"
+        ],
+        "transformed_resource": [
+            "VFAs",
+            "acetic acid"
+        ],
+        "reference": "10.1016/j.scitotenv.2022.152993_chunk16"
+    },
+    {
+        "waste": [
+            "waste-derived streams"
+        ],
+        "transforming_process": [
+            "solvent extraction",
+            "recovery"
+        ],
+        "transformed_resource": [
+            "acetic acid",
+            "volatile fatty acids (VFAs)"
+        ],
+        "reference": "10.1016/j.scitotenv.2022.152993_chunk24"
+    },
+    {
+        "waste": [
+            "synthetic wastewater",
+            "acetic acid",
+            "propionic acid",
+            "butyric acid",
+            "isovaleric acid"
+        ],
+        "transforming_process": [
+            "anaerobic membrane distillation bioreactor"
+        ],
+        "transformed_resource": [
+            "propionic acid",
+            "butyric acid",
+            "isovaleric acid"
+        ],
+        "reference": "10.1016/j.scitotenv.2022.152993_chunk34"
+    },
+    {
+        "waste": [
+            "waste streams"
+        ],
+        "transforming_process": [
+            "pervaporation"
+        ],
+        "transformed_resource": [
+            "value-added chemicals",
+            "VFAs"
+        ],
+        "reference": "10.1016/j.scitotenv.2022.152993_chunk39"
+    },
+    {
+        "waste": [
+            "waste streams",
+            "VFAs compounds"
+        ],
+        "transforming_process": [
+            "forward osmosis process"
+        ],
+        "transformed_resource": [
+            "concentrated VFAs"
+        ],
+        "reference": "10.1016/j.scitotenv.2022.152993_chunk43"
+    },
+    {
+        "waste": [
+            "organic sludge",
+            "food waste",
+            "food waste slurry",
+            "excess sewage sludge",
+            "chicken manure",
+            "cow manure"
+        ],
+        "transforming_process": [
+            "microfiltration",
+            "membrane filtration",
+            "batch to continuous recovery"
+        ],
+        "transformed_resource": [
+            "volatile fatty acids"
+        ],
+        "reference": "10.1016/j.scitotenv.2022.152993_chunk50"
+    },
+    {
+        "waste": [
+            "cow manure",
+            "sewage sludge"
+        ],
+        "transforming_process": [
+            "immersed membrane bioreactor",
+            "ultrafiltration",
+            "microfiltration",
+            "nanofiltration",
+            "reverse osmosis"
+        ],
+        "transformed_resource": [
+            "volatile fatty acids",
+            "acetic acid",
+            "propionic acid"
+        ],
+        "reference": "10.1016/j.scitotenv.2022.152993_chunk51"
+    },
+    {
+        "waste": [
+            "xylose solution",
+            "biomass hydrolysate",
+            "pulp mill spent sulphite liquor"
+        ],
+        "transforming_process": [
+            "nanofiltration",
+            "reverse osmosis",
+            "sequential filtration"
+        ],
+        "transformed_resource": [
+            "acetic acid",
+            "volatile fatty acids"
+        ],
+        "reference": "10.1016/j.scitotenv.2022.152993_chunk53"
+    },
+    {
+        "waste": [
+            "liquid organic sludge",
+            "anaerobic digestion streams"
+        ],
+        "transforming_process": [
+            "VFA recovery",
+            "cross-flow microfiltration",
+            "pressure-driven membrane filtration"
+        ],
+        "transformed_resource": [
+            "volatile fatty acids",
+            "filtered water"
+        ],
+        "reference": "10.1016/j.scitotenv.2022.152993_chunk56"
+    }
+]

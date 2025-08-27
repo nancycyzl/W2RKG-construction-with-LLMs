@@ -1,0 +1,216 @@
+[
+    {
+        "waste": [
+            "household food waste",
+            "fruit and vegetable waste"
+        ],
+        "transforming_process": [
+            "valorizing"
+        ],
+        "transformed_resource": [
+            "bioactive compounds",
+            "value-added products"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk1"
+    },
+    {
+        "waste": [
+            "fruit and vegetable waste"
+        ],
+        "transforming_process": [
+            "yield bioactive compounds",
+            "waste valorization",
+            "green synthesis methods using biological substrates"
+        ],
+        "transformed_resource": [
+            "bioactive compounds",
+            "value-added products",
+            "nanomaterials"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk2"
+    },
+    {
+        "waste": [
+            "pomegranate",
+            "orange",
+            "apple"
+        ],
+        "transforming_process": [
+            "synthesizing nanomaterials",
+            "bio-reduction using phytochemicals"
+        ],
+        "transformed_resource": [
+            "CuO",
+            "Fe2O3",
+            "NiO",
+            "TiO2",
+            "Mn3O4",
+            "ZnO"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk3"
+    },
+    {
+        "waste": [
+            "fruit waste"
+        ],
+        "transforming_process": [
+            "synthesizing metal oxide nanoparticles"
+        ],
+        "transformed_resource": [
+            "active food packaging materials",
+            "edible coating",
+            "film formulation",
+            "bioactive compounds"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk6"
+    },
+    {
+        "waste": [
+            "lemon peel",
+            "fruits like oranges, lemons, and pineapples",
+            "Andrographis paniculata",
+            "bananas",
+            "berries"
+        ],
+        "transforming_process": [
+            "synthesis of nanoparticles",
+            "biosynthesis of nanoparticles",
+            "reduction of Zn(NO3)2 to ZnO NPs"
+        ],
+        "transformed_resource": [
+            "silver nanoparticles",
+            "ZnO NPs",
+            "biocompatible nanoparticles"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk11"
+    },
+    {
+        "waste": [
+            "banana peels",
+            "citrus peels"
+        ],
+        "transforming_process": [
+            "synthesizing metal-based nanoparticles",
+            "used as reducing agent"
+        ],
+        "transformed_resource": [
+            "alkaloids",
+            "vitamin C"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk12"
+    },
+    {
+        "waste": [
+            "citrus peels",
+            "fruit waste extracts"
+        ],
+        "transforming_process": [
+            "biosynthesis of nanoparticles",
+            "donating electrons to metal ions"
+        ],
+        "transformed_resource": [
+            "nanoparticles",
+            "metal oxide nanoparticles"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk13"
+    },
+    {
+        "waste": [
+            "fruit waste"
+        ],
+        "transforming_process": [
+            "green synthesis of nanomaterials",
+            "introduction of plant extracts into a solution",
+            "reduce and cap the metal salts"
+        ],
+        "transformed_resource": [
+            "metal oxide nanomaterials"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk16"
+    },
+    {
+        "waste": [
+            "fruit waste"
+        ],
+        "transforming_process": [
+            "biogenic synthesis",
+            "plant-mediated extraction"
+        ],
+        "transformed_resource": [
+            "metal oxide nanoparticles"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk19"
+    },
+    {
+        "waste": [
+            "fruits and their wastes"
+        ],
+        "transforming_process": [
+            "production of nanomaterials using plant extracts"
+        ],
+        "transformed_resource": [
+            "nanomaterials"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk25"
+    },
+    {
+        "waste": [
+            "orange peel waste",
+            "plump peel",
+            "Litsea cubeba fruits"
+        ],
+        "transforming_process": [
+            "synthesis of TiO2 NPs",
+            "synthesis of NiO NPs",
+            "synthesis of SnO2 NPs"
+        ],
+        "transformed_resource": [
+            "TiO2 NPs",
+            "NiO NPs",
+            "SnO2 NPs"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk33"
+    },
+    {
+        "waste": [
+            "farm waste"
+        ],
+        "transforming_process": [
+            "valorizing",
+            "traditional chemical sol-gel synthesis"
+        ],
+        "transformed_resource": [
+            "metal oxide nanoparticles"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk64"
+    },
+    {
+        "waste": [
+            "food waste",
+            "fruit waste"
+        ],
+        "transforming_process": [
+            "synthesis of valuable metal oxide nanoparticles",
+            "nanoparticle synthesis"
+        ],
+        "transformed_resource": [
+            "valuable metal oxide nanoparticles"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk73"
+    },
+    {
+        "waste": [
+            "fruit waste"
+        ],
+        "transforming_process": [
+            "nanoparticle synthesis"
+        ],
+        "transformed_resource": [
+            "metal oxide nanoparticles",
+            "additive materials",
+            "edible coatings",
+            "films"
+        ],
+        "reference": "10.1016/j.fbio.2024.104151_chunk74"
+    }
+]

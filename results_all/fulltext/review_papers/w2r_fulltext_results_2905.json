@@ -1,0 +1,150 @@
+[
+    {
+        "waste": [
+            "fruit and vegetable by-products"
+        ],
+        "transforming_process": [
+            "valorization"
+        ],
+        "transformed_resource": [
+            "valuable bioactive compounds",
+            "value-added compounds"
+        ],
+        "reference": "10.1016/j.tifs.2021.04.027_chunk1"
+    },
+    {
+        "waste": [
+            "eggplant by-products",
+            "peel",
+            "calyx"
+        ],
+        "transforming_process": [
+            "treatment",
+            "disposal"
+        ],
+        "transformed_resource": [
+            "anthocyanins",
+            "dietary fibers",
+            "pectin",
+            "cellulose",
+            "bioactive compounds"
+        ],
+        "reference": "10.1016/j.tifs.2021.04.027_chunk3"
+    },
+    {
+        "waste": [
+            "high amounts of phenolic compounds",
+            "leftovers"
+        ],
+        "transforming_process": [
+            "extraction",
+            "enzymatic hydrolysis",
+            "microbial fermentation"
+        ],
+        "transformed_resource": [
+            "pullulan"
+        ],
+        "reference": "10.1016/j.tifs.2021.04.027_chunk19"
+    },
+    {
+        "waste": [
+            "EB",
+            "pectin",
+            "phenolics"
+        ],
+        "transforming_process": [
+            "ultrasound-assisted extraction",
+            "microwave-assisted extraction"
+        ],
+        "transformed_resource": [
+            "pectic-oligosaccharides",
+            "gallic acid equivalent"
+        ],
+        "reference": "10.1016/j.tifs.2021.04.027_chunk46"
+    },
+    {
+        "waste": [
+            "by-products",
+            "EP",
+            "solid leftovers"
+        ],
+        "transforming_process": [
+            "SLE method",
+            "purification steps",
+            "enzymatic hydrolysis",
+            "fermentation process"
+        ],
+        "transformed_resource": [
+            "pectin",
+            "polyphenols",
+            "pullulan"
+        ],
+        "reference": "10.1016/j.tifs.2021.04.027_chunk49"
+    },
+    {
+        "waste": [
+            "leftovers",
+            "peel of eggplant"
+        ],
+        "transforming_process": [
+            "separation of phenolics and pectin",
+            "utilization as a carbon source for production of pullulan",
+            "extraction of phenolic compounds"
+        ],
+        "transformed_resource": [
+            "pullulan",
+            "colorant",
+            "antioxidant agent"
+        ],
+        "reference": "10.1016/j.tifs.2021.04.027_chunk50"
+    },
+    {
+        "waste": [
+            "bovine lactoferrin",
+            "EB"
+        ],
+        "transforming_process": [
+            "enzymatic hydrolysis",
+            "ultrafiltration",
+            "extraction"
+        ],
+        "transformed_resource": [
+            "lactoferrin hydrolysate",
+            "anthocyanins",
+            "pectin"
+        ],
+        "reference": "10.1016/j.tifs.2021.04.027_chunk62"
+    },
+    {
+        "waste": [
+            "EB"
+        ],
+        "transforming_process": [
+            "valorization",
+            "acquisition of high value bioactives"
+        ],
+        "transformed_resource": [
+            "high value bioactives"
+        ],
+        "reference": "10.1016/j.tifs.2021.04.027_chunk69"
+    },
+    {
+        "waste": [
+            "EB leftovers"
+        ],
+        "transforming_process": [
+            "conventional SLE technique",
+            "UAE",
+            "MAE",
+            "integrated valorization technique",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "anthocyanins",
+            "pectin",
+            "pullulan",
+            "EPE"
+        ],
+        "reference": "10.1016/j.tifs.2021.04.027_chunk71"
+    }
+]

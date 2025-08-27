@@ -1,0 +1,82 @@
+[
+    {
+        "waste": [
+            "carpet waste fibre",
+            "waste rubber fibres"
+        ],
+        "transforming_process": [
+            "soil reinforcement",
+            "adding rubber fibres"
+        ],
+        "transformed_resource": [
+            "improved mechanical performance",
+            "geotechnical properties of clay"
+        ],
+        "reference": "10.1016/j.jrmge.2018.08.013_chunk27"
+    },
+    {
+        "waste": [
+            "landfills",
+            "rubber particle crumbs",
+            "gypsum waste plasterboard",
+            "basanite"
+        ],
+        "transforming_process": [
+            "soil stabilisation",
+            "addition of rubber particle crumbs",
+            "using recycled basanite",
+            "stabilising clayey soil"
+        ],
+        "transformed_resource": [
+            "stabilised soil",
+            "durable soil",
+            "increased UCS of the soil"
+        ],
+        "reference": "10.1016/j.jrmge.2018.08.013_chunk31"
+    },
+    {
+        "waste": [
+            "fly ash"
+        ],
+        "transforming_process": [
+            "soil stabilisation"
+        ],
+        "transformed_resource": [
+            "stabilised soil"
+        ],
+        "reference": "10.1016/j.jrmge.2018.08.013_chunk52"
+    },
+    {
+        "waste": [
+            "waste material",
+            "waste products",
+            "waste tire rubbers"
+        ],
+        "transforming_process": [
+            "soil stabilisation",
+            "reuse of waste material",
+            "expansive soil-rubber technology"
+        ],
+        "transformed_resource": [
+            "improved engineering properties of the soil"
+        ],
+        "reference": "10.1016/j.jrmge.2018.08.013_chunk58"
+    },
+    {
+        "waste": [
+            "gypsum waste plasterboard",
+            "expansive clay"
+        ],
+        "transforming_process": [
+            "used recycled gypsum to improve soil",
+            "utilised low-carbon sodium silicate-based liquid",
+            "used nano modified coir"
+        ],
+        "transformed_resource": [
+            "stabilised soil",
+            "improved UCS",
+            "improved compressibility characteristics"
+        ],
+        "reference": "10.1016/j.jrmge.2018.08.013_chunk60"
+    }
+]

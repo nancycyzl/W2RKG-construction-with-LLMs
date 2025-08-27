@@ -1,0 +1,73 @@
+[
+    {
+        "waste": [
+            "organic waste",
+            "high-calorific waste",
+            "recyclables"
+        ],
+        "transforming_process": [
+            "repair",
+            "reuse",
+            "remanufacturing",
+            "separation processes",
+            "recycling",
+            "Organic Waste Valorization",
+            "anaerobic digestion",
+            "aerobic digestion",
+            "composting",
+            "Thermal Treatment",
+            "Advanced Thermal Treatment",
+            "incineration",
+            "refuse-derived fuel"
+        ],
+        "transformed_resource": [
+            "compost",
+            "biogas",
+            "recycled materials",
+            "refuse-derived fuel"
+        ],
+        "reference": "10.1016/j.wasman.2023.10.006_chunk23"
+    },
+    {
+        "waste": [
+            "MSW",
+            "organic waste"
+        ],
+        "transforming_process": [
+            "AD",
+            "composting",
+            "generic recycling",
+            "generic incineration"
+        ],
+        "transformed_resource": [
+            "fertilizers",
+            "generic recycled products",
+            "electricity",
+            "biogas",
+            "biofuels",
+            "alcohols",
+            "RDF",
+            "gasoline",
+            "diesel",
+            "hydrogen",
+            "heat",
+            "certain goods derived from recycled materials",
+            "products resulting from RRR"
+        ],
+        "reference": "10.1016/j.wasman.2023.10.006_chunk39"
+    },
+    {
+        "waste": [
+            "waste streams"
+        ],
+        "transforming_process": [
+            "thermal reactions",
+            "chemical reactions",
+            "RRR"
+        ],
+        "transformed_resource": [
+            "value-added products"
+        ],
+        "reference": "10.1016/j.wasman.2023.10.006_chunk51"
+    }
+]

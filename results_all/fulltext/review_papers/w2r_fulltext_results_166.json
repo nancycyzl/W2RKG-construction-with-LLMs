@@ -1,0 +1,355 @@
+[
+    {
+        "waste": [
+            "agro-industrial waste",
+            "food processing sector-generated waste"
+        ],
+        "transforming_process": [
+            "recycle",
+            "reprocess",
+            "extraction",
+            "dry rendering",
+            "wet rendering"
+        ],
+        "transformed_resource": [
+            "valuable products",
+            "bioactive compounds",
+            "antioxidants",
+            "pigments",
+            "flavors",
+            "proteins",
+            "pectin",
+            "essential oils",
+            "enzymes",
+            "gelatin",
+            "bioactive peptides",
+            "dietary fibers"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk1"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "OHAE"
+        ],
+        "transformed_resource": [
+            "bioactive compounds",
+            "terpenoids",
+            "alkaloids",
+            "nitrogen-containing compounds",
+            "organosulfur compounds",
+            "phenolics",
+            "phytochemicals",
+            "polyphenols",
+            "carotenoids"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk10"
+    },
+    {
+        "waste": [
+            "food waste",
+            "wine-making by-products"
+        ],
+        "transforming_process": [
+            "OHAE",
+            "conventional techniques"
+        ],
+        "transformed_resource": [
+            "anthocyanin",
+            "total phenolic content",
+            "ascorbic acid"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk11"
+    },
+    {
+        "waste": [
+            "wheat bran",
+            "rice bran"
+        ],
+        "transforming_process": [
+            "OHAE process",
+            "extraction"
+        ],
+        "transformed_resource": [
+            "BCs",
+            "extract",
+            "corn oil"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk13"
+    },
+    {
+        "waste": [
+            "grape skins' winemaking residues",
+            "bran"
+        ],
+        "transforming_process": [
+            "OHAE",
+            "ohmic heating pretreatments"
+        ],
+        "transformed_resource": [
+            "colorant powder",
+            "anthocyanins",
+            "TPC",
+            "soluble solids",
+            "red color of the extracted compounds"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk14"
+    },
+    {
+        "waste": [
+            "grape skin structures",
+            "olive pomace",
+            "industrial chestnut peel waste"
+        ],
+        "transforming_process": [
+            "internal heating",
+            "OHAE",
+            "conventional heating",
+            "RSM"
+        ],
+        "transformed_resource": [
+            "anthocyanins",
+            "phenolic compounds",
+            "BCs",
+            "polyphenols"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk15"
+    },
+    {
+        "waste": [
+            "industrial chestnut peel waste",
+            "tomato processing residues"
+        ],
+        "transforming_process": [
+            "OHAE",
+            "pretreatment",
+            "alcoholic extraction",
+            "comparative analysis with CH"
+        ],
+        "transformed_resource": [
+            "polyphenols",
+            "protein",
+            "fiber",
+            "fatty acids",
+            "ellagic acid"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk16"
+    },
+    {
+        "waste": [
+            "tomato processing wastes"
+        ],
+        "transforming_process": [
+            "OHAE"
+        ],
+        "transformed_resource": [
+            "liquid fraction",
+            "solid fraction"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk17"
+    },
+    {
+        "waste": [
+            "grapefruit waste",
+            "lemon waste",
+            "orange waste"
+        ],
+        "transforming_process": [
+            "OHAE"
+        ],
+        "transformed_resource": [
+            "pectin"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk18"
+    },
+    {
+        "waste": [
+            "grapefruit peel powder",
+            "lemon peel powder"
+        ],
+        "transforming_process": [
+            "pectin extraction using OHAE",
+            "pectin extraction using ohmic heating"
+        ],
+        "transformed_resource": [
+            "pectin"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk19"
+    },
+    {
+        "waste": [
+            "pomegranate peel"
+        ],
+        "transforming_process": [
+            "ohmic heating",
+            "extraction process"
+        ],
+        "transformed_resource": [
+            "pectin"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk20"
+    },
+    {
+        "waste": [
+            "waste of orange juice"
+        ],
+        "transforming_process": [
+            "OHAE process"
+        ],
+        "transformed_resource": [
+            "pectin",
+            "galacturonic acid"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk21"
+    },
+    {
+        "waste": [
+            "waste of orange juice",
+            "tomato waste"
+        ],
+        "transforming_process": [
+            "implementation of OHAE",
+            "extraction techniques",
+            "coupling with ultrasound technology"
+        ],
+        "transformed_resource": [
+            "pectin"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk22"
+    },
+    {
+        "waste": [
+            "carp viscera"
+        ],
+        "transforming_process": [
+            "OHAE"
+        ],
+        "transformed_resource": [
+            "oil"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk24"
+    },
+    {
+        "waste": [
+            "citrus waste"
+        ],
+        "transforming_process": [
+            "OHAE method",
+            "hydrodistillation"
+        ],
+        "transformed_resource": [
+            "pectin",
+            "essential oils"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk25"
+    },
+    {
+        "waste": [
+            "poultry slaughter waste"
+        ],
+        "transforming_process": [
+            "OHAE",
+            "subcritical water"
+        ],
+        "transformed_resource": [
+            "amino acids"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk27"
+    },
+    {
+        "waste": [
+            "rambutan peel"
+        ],
+        "transforming_process": [
+            "electrothermal pretreatment techniques",
+            "utilizing OHAE",
+            "using a water/ethanol mixture"
+        ],
+        "transformed_resource": [
+            "cellulose fibers"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk29"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "OHAE"
+        ],
+        "transformed_resource": [
+            "valuable compounds",
+            "\u03b1-cellulose"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk30"
+    },
+    {
+        "waste": [
+            "food waste",
+            "poultry waste",
+            "citrus by-products"
+        ],
+        "transforming_process": [
+            "utilizing food waste as an internal heat source",
+            "OHAE",
+            "pulsed electric field treatments"
+        ],
+        "transformed_resource": [
+            "protein",
+            "pectin"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk34"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "ohmic heating",
+            "automation",
+            "robotics",
+            "advanced technologies"
+        ],
+        "transformed_resource": [
+            "valuable products"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk35"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "valorization",
+            "green extraction",
+            "OHAE systems"
+        ],
+        "transformed_resource": [
+            "BCs",
+            "pectin",
+            "EOs",
+            "proteins",
+            "cellulose fibers"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk36"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "pre-treatment steps",
+            "subcritical water extraction",
+            "ultrasound technology",
+            "pulse electric field techniques"
+        ],
+        "transformed_resource": [
+            "conductivity",
+            "efficient extraction",
+            "renewable energy sources"
+        ],
+        "reference": "10.1016/j.fufo.2024.100365_chunk37"
+    }
+]

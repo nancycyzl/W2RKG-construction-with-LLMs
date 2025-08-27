@@ -1,0 +1,609 @@
+[
+    {
+        "waste": [
+            "food loss from industrial processing facilities",
+            "industrial food loss"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "separation",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "high-value products",
+            "biogas"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk1"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "onsite treatment",
+            "microbial fermentation"
+        ],
+        "transformed_resource": [
+            "lactic acid",
+            "polylactic acid (PLA)"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk7"
+    },
+    {
+        "waste": [
+            "food waste",
+            "potato peel waste",
+            "brine from pickling operations"
+        ],
+        "transforming_process": [
+            "conversion of potato peels to lactic acid",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "lactic acid"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk8"
+    },
+    {
+        "waste": [
+            "post-consumer food waste",
+            "potato peel waste",
+            "municipal sewage sludge",
+            "cafeteria food waste"
+        ],
+        "transforming_process": [
+            "enzymes to degrade long-chain carbohydrates",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "lactic acid"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk9"
+    },
+    {
+        "waste": [
+            "food-waste",
+            "municipal sewage sludge"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "enzymatic saccharification"
+        ],
+        "transformed_resource": [
+            "L-lactic acid",
+            "bioplastics"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk10"
+    },
+    {
+        "waste": [
+            "food waste",
+            "post-consumer food waste",
+            "industrial food waste",
+            "potato peel waste",
+            "carbohydrate-rich industrial waste",
+            "pickling brine",
+            "high-salt brine"
+        ],
+        "transforming_process": [
+            "enzymatic saccharification",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "lactic acid"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk11"
+    },
+    {
+        "waste": [
+            "brine",
+            "potato peel brines"
+        ],
+        "transforming_process": [
+            "recovery of lactic acid",
+            "electrodialysis",
+            "ultrafiltration"
+        ],
+        "transformed_resource": [
+            "lactic acid",
+            "salty solution"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk12"
+    },
+    {
+        "waste": [
+            "waste of reverse osmosis (RO) processes",
+            "brine solution",
+            "pickling brine"
+        ],
+        "transforming_process": [
+            "electrophoretic migration",
+            "crystallization of salt",
+            "anion exchange"
+        ],
+        "transformed_resource": [
+            "higher concentration salts",
+            "lactic acid"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk13"
+    },
+    {
+        "waste": [
+            "industrial food wastes",
+            "coffee grounds",
+            "soybean cakes",
+            "rapeseed cakes",
+            "potato peel waste"
+        ],
+        "transforming_process": [
+            "extraction",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "oils",
+            "FAME",
+            "lipids"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk15"
+    },
+    {
+        "waste": [
+            "lipids",
+            "pomegranate seeds",
+            "cellulose fraction of industrial food waste",
+            "citrus peels",
+            "pectin",
+            "D-limonene"
+        ],
+        "transforming_process": [
+            "extraction",
+            "fermentation",
+            "extraction with hot dilute acid"
+        ],
+        "transformed_resource": [
+            "concentrated lipids",
+            "ethanol",
+            "citrus oils",
+            "pectin"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk16"
+    },
+    {
+        "waste": [
+            "citrus-peel",
+            "industrial food waste",
+            "food wastes from baking operations",
+            "whey from cheese-making"
+        ],
+        "transforming_process": [
+            "extraction with hot dilute acid",
+            "precipitation with alcohol",
+            "acid pretreatment",
+            "steam pretreatment",
+            "fermentation to ethanol",
+            "acetone-butanol-ethanol (ABE) fermentation"
+        ],
+        "transformed_resource": [
+            "ethanol",
+            "pectin",
+            "D-limonene",
+            "readily degradable sugars",
+            "butanol"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk17"
+    },
+    {
+        "waste": [
+            "degradable sugars",
+            "waste from baking operations",
+            "whey from cheese-making",
+            "bakery waste",
+            "stale bread",
+            "inedible doughs",
+            "batter",
+            "household waste of baked products",
+            "bakery doughs",
+            "waste batter",
+            "cheese whey"
+        ],
+        "transforming_process": [
+            "using Clostridium beijerinckii NCIMB 8052",
+            "conversion to butanol"
+        ],
+        "transformed_resource": [
+            "ABE",
+            "butanol"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk18"
+    },
+    {
+        "waste": [
+            "cheese whey",
+            "food waste"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "simultaneous separation",
+            "pervaporation",
+            "adsorption"
+        ],
+        "transformed_resource": [
+            "butanol",
+            "acetone",
+            "ethanol",
+            "ABE"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk19"
+    },
+    {
+        "waste": [
+            "industrial food waste",
+            "citrus peels"
+        ],
+        "transforming_process": [
+            "producing biofuels",
+            "extracting lipids and carbohydrates",
+            "extraction of antioxidants"
+        ],
+        "transformed_resource": [
+            "biodiesel",
+            "bio-alcohol",
+            "antioxidants",
+            "phenolics",
+            "ethanol"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk20"
+    },
+    {
+        "waste": [
+            "citrus peel",
+            "pomegranate peels",
+            "pomegranate seeds"
+        ],
+        "transforming_process": [
+            "extraction via methanol",
+            "hot alkali treatment",
+            "drying",
+            "grinding",
+            "ultrasound-assisted solvent extraction",
+            "filtration",
+            "emulsification",
+            "spray drying"
+        ],
+        "transformed_resource": [
+            "antioxidants",
+            "pomegranate seed oil",
+            "high phenolic microcapsules",
+            "seed oil microcapsules"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk21"
+    },
+    {
+        "waste": [
+            "dry seed",
+            "peels",
+            "olive-mill waste waters",
+            "olive-mill waste",
+            "olive-mill waste solids"
+        ],
+        "transforming_process": [
+            "spray drying",
+            "processing",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "high phenolic microcapsules",
+            "encapsulated phenolics",
+            "olive paste spread",
+            "olive powder",
+            "cholesterol-lowering agent",
+            "food additive",
+            "cosmetic products"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk22"
+    },
+    {
+        "waste": [
+            "fermented solids",
+            "industrial food-waste processes",
+            "fish mass",
+            "head",
+            "tail",
+            "fins",
+            "entrails",
+            "frames"
+        ],
+        "transforming_process": [
+            "recombining",
+            "extraction",
+            "processing",
+            "enzymatic degradation",
+            "acid degradation"
+        ],
+        "transformed_resource": [
+            "spread",
+            "antioxidants",
+            "phenolics",
+            "fish silage",
+            "fish meal",
+            "fish oil"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk23"
+    },
+    {
+        "waste": [
+            "fish waste",
+            "mixed fish waste",
+            "waste of rainbow trout"
+        ],
+        "transforming_process": [
+            "separating bioactive peptides",
+            "enzymatically hydrolyzed",
+            "combining ED with ultrafiltration membranes"
+        ],
+        "transformed_resource": [
+            "bioactive peptides"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk24"
+    },
+    {
+        "waste": [
+            "fish-waste",
+            "industrial food waste"
+        ],
+        "transforming_process": [
+            "Electrodialysis",
+            "UFM",
+            "Anaerobic Digestion"
+        ],
+        "transformed_resource": [
+            "cationic peptides",
+            "anionic peptides",
+            "high-value applications"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk26"
+    },
+    {
+        "waste": [
+            "industrial food waste",
+            "anaerobic sludge",
+            "municipal solid waste",
+            "food wastes"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "single-stage digestion",
+            "two-stage digestion",
+            "hydrolysis",
+            "acidogenesis",
+            "acetogenesis",
+            "methanogenesis",
+            "wet anaerobic digestion",
+            "dry anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "hydrogen",
+            "methane"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk27"
+    },
+    {
+        "waste": [
+            "municipal food waste",
+            "organic material"
+        ],
+        "transforming_process": [
+            "acetogenesis",
+            "methanogenesis",
+            "anaerobic digestion (AD)"
+        ],
+        "transformed_resource": [
+            "methane",
+            "biogas"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk28"
+    },
+    {
+        "waste": [
+            "food waste",
+            "industrial waste",
+            "potato peels",
+            "potato peel residue"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "lactic acid fermentation"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "methane",
+            "methane for electricity and power generation"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk29"
+    },
+    {
+        "waste": [
+            "sludge",
+            "potato peels",
+            "potato waste"
+        ],
+        "transforming_process": [
+            "lactic acid fermentation",
+            "anaerobic digestion",
+            "two-stage anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "methane",
+            "biogas",
+            "hydrogen",
+            "energy"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk30"
+    },
+    {
+        "waste": [
+            "potato peels",
+            "cow manure",
+            "coffee grounds"
+        ],
+        "transforming_process": [
+            "co-digestion",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "hydrogen",
+            "methane",
+            "energy"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk31"
+    },
+    {
+        "waste": [
+            "coffee grounds",
+            "spent coffee"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "co-digestion"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "methane",
+            "energy"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk32"
+    },
+    {
+        "waste": [
+            "spent coffee grounds",
+            "municipal food waste",
+            "whey",
+            "marine algae Ulva",
+            "waste-activated sludge",
+            "pomegranate marc"
+        ],
+        "transforming_process": [
+            "co-digestion",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "methane",
+            "biogas"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk33"
+    },
+    {
+        "waste": [
+            "untreated pomegranate peel",
+            "untreated seeds",
+            "pomegranate marc",
+            "pomegranate seeds",
+            "citrus fruits"
+        ],
+        "transforming_process": [
+            "digestion",
+            "antioxidant extraction",
+            "methane production"
+        ],
+        "transformed_resource": [
+            "methane",
+            "biogas",
+            "antioxidant",
+            "phenolics",
+            "oils"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk34"
+    },
+    {
+        "waste": [
+            "fruit waste",
+            "citrus peels",
+            "pressings",
+            "rotting fruit",
+            "citrus wastewater"
+        ],
+        "transforming_process": [
+            "digestion",
+            "anaerobic digestion (AD)"
+        ],
+        "transformed_resource": [
+            "methane",
+            "biogas",
+            "energy"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk35"
+    },
+    {
+        "waste": [
+            "orange peels",
+            "excess wastewater",
+            "fish waste",
+            "strawberry waste"
+        ],
+        "transforming_process": [
+            "thermophilic anaerobic digestion",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "energy",
+            "methane",
+            "omega-3 acids",
+            "peptides"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk36"
+    },
+    {
+        "waste": [
+            "industrial food waste",
+            "food waste"
+        ],
+        "transforming_process": [
+            "recovering",
+            "upgrading to specialty products",
+            "methane production from anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "specialty products",
+            "methane"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk38"
+    },
+    {
+        "waste": [
+            "food waste",
+            "untreated food waste",
+            "unavoidable food waste",
+            "peels",
+            "husks",
+            "bones"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "composting",
+            "waste-to-energy conversion"
+        ],
+        "transformed_resource": [
+            "biogas"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk40"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "production of specialty products",
+            "utilization of high carbohydrate wastes",
+            "AD (Anaerobic Digestion)"
+        ],
+        "transformed_resource": [
+            "antioxidants",
+            "fuels",
+            "lactic acid",
+            "biogas"
+        ],
+        "reference": "10.1016/j.eng.2018.05.010_chunk41"
+    }
+]

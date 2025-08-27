@@ -1,0 +1,730 @@
+[
+    {
+        "waste": [
+            "post-harvest residues",
+            "residues from livestock production",
+            "slaughter waste",
+            "food processing waste"
+        ],
+        "transforming_process": [
+            "waste sorting",
+            "material recycling",
+            "substituting with residual biomass"
+        ],
+        "transformed_resource": [
+            "fertilizers",
+            "phosphorus",
+            "nitrogen"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk2"
+    },
+    {
+        "waste": [
+            "nutrients",
+            "by-products",
+            "bio-waste"
+        ],
+        "transforming_process": [
+            "use of by-products as secondary raw materials",
+            "production of sulfur-containing fertilizers",
+            "replacement of inorganic fertilizers"
+        ],
+        "transformed_resource": [
+            "fertilizers",
+            "phosphate fertilizers",
+            "inorganic fertilizers"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk3"
+    },
+    {
+        "waste": [
+            "human waste",
+            "P-rich wastes",
+            "wastewater"
+        ],
+        "transforming_process": [
+            "recovery of nutrients",
+            "recycling of phosphorus",
+            "optimization of P fertilization",
+            "collection of P-rich wastes",
+            "improvement of household sewer systems",
+            "application of biogenic wastewater treatment",
+            "recovery of mineral P from wastewater"
+        ],
+        "transformed_resource": [
+            "available nutrients",
+            "recovered phosphorus",
+            "mineral P"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk9"
+    },
+    {
+        "waste": [
+            "phosphate rock",
+            "slaughter wastes",
+            "municipal bio-wastes",
+            "agricultural bio-wastes",
+            "food wastes",
+            "animal waste"
+        ],
+        "transforming_process": [
+            "P extraction",
+            "controlled struvite precipitation",
+            "nutrient recovery"
+        ],
+        "transformed_resource": [
+            "phosphorus fertilizers"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk16"
+    },
+    {
+        "waste": [
+            "animal waste",
+            "wastewater from acidic air scrubbers",
+            "solid fraction of pig slurry",
+            "liquid digestate"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "nutrient recovery processes",
+            "composting",
+            "thermal treatment",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "energy",
+            "fermentation digestate",
+            "fertilizer for Lactuca sativa L.",
+            "N-S fertilizer",
+            "N-K fertilizer",
+            "concentrates from membrane filtration"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk17"
+    },
+    {
+        "waste": [
+            "animal manure",
+            "post-harvest residues",
+            "sewage sludge",
+            "sewage sludge ashes"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "bio-digestion",
+            "composition of fertilizer formulations",
+            "neutralization of post-solubilization digestates"
+        ],
+        "transformed_resource": [
+            "bio-energy",
+            "substitutes of fertilizers",
+            "fertilizer phosphorus",
+            "phosphorus"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk18"
+    },
+    {
+        "waste": [
+            "proteins",
+            "waste biomass",
+            "chemical fertilizers containing nitrogen"
+        ],
+        "transforming_process": [
+            "metabolize proteins",
+            "convert proteins into fuel and ammonia",
+            "nitrogen recovery from waste biomass",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "alcohols C4-C5",
+            "ammonia",
+            "nitrogen compounds"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk20"
+    },
+    {
+        "waste": [
+            "biomass particles",
+            "waste from daptomycin production",
+            "organic waste materials"
+        ],
+        "transforming_process": [
+            "composting",
+            "vermicomposting",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "nitrogen",
+            "compost",
+            "methane",
+            "carbon dioxide",
+            "digestate",
+            "energy",
+            "biogas"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk23"
+    },
+    {
+        "waste": [
+            "waste biomass"
+        ],
+        "transforming_process": [
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "digestate",
+            "organic fertilizer"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk25"
+    },
+    {
+        "waste": [
+            "digestate",
+            "ash",
+            "biomass",
+            "waste from biomass conversion"
+        ],
+        "transforming_process": [
+            "microbiological changes",
+            "production line processing",
+            "incineration",
+            "gasification",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "digestate suitable for fertilizing",
+            "multi-component fertilizer",
+            "P",
+            "K",
+            "Ca"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk26"
+    },
+    {
+        "waste": [
+            "ash from the incineration of biomass",
+            "organic waste",
+            "chemical fertilizers"
+        ],
+        "transforming_process": [
+            "incineration",
+            "addition to fertilizers",
+            "collection"
+        ],
+        "transformed_resource": [
+            "fertilizer for crops and forests",
+            "improved soil pH",
+            "available form of nutrients"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk27"
+    },
+    {
+        "waste": [
+            "wood ash",
+            "sewage sludge",
+            "ashes from coal combustion"
+        ],
+        "transforming_process": [
+            "combustion of biomass",
+            "selective collection of ashes"
+        ],
+        "transformed_resource": [
+            "nutrients for plant growth",
+            "agricultural purposes"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk28"
+    },
+    {
+        "waste": [
+            "plant biomasses",
+            "woody biomass",
+            "agricultural biomass",
+            "forest residues",
+            "agri-food residues",
+            "ashes",
+            "high-protein waste",
+            "feathers"
+        ],
+        "transforming_process": [
+            "combustion",
+            "pyrolysis",
+            "solubilization with acid"
+        ],
+        "transformed_resource": [
+            "ashes for fertilizing",
+            "neutralizing agent",
+            "fuels (gas, bio-oil)",
+            "adsorbents",
+            "soil additives",
+            "biochar"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk29"
+    },
+    {
+        "waste": [
+            "biomass",
+            "lignocellulosic materials",
+            "marine algae",
+            "freshwater algae",
+            "fermentative biomass of Escherichia coli"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "co-pyrolysis"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "gas",
+            "bio-oil",
+            "adsorbents",
+            "soil additives",
+            "phosphorus-rich fertilizer"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk30"
+    },
+    {
+        "waste": [
+            "agricultural waste",
+            "food waste",
+            "sewage sludge",
+            "forest residues",
+            "plant biomass",
+            "cereal biomass",
+            "animal manure",
+            "wood ash"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "thermochemical conversions"
+        ],
+        "transformed_resource": [
+            "bioactive compounds",
+            "phenolic compounds",
+            "vitamins",
+            "carotenoids",
+            "proteins"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk32"
+    },
+    {
+        "waste": [
+            "wood ash",
+            "ashes from incineration",
+            "sewage sludge"
+        ],
+        "transforming_process": [
+            "application of wood ash to fertilize peatland forests",
+            "co-granulation of plant ash with sewage sludge",
+            "co-incineration of fossil fuels and biomass"
+        ],
+        "transformed_resource": [
+            "fertilizer",
+            "nutrients for plants",
+            "strong alkali",
+            "neutralizing agent for acidic soils"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk33"
+    },
+    {
+        "waste": [
+            "fly ashes",
+            "agricultural waste",
+            "celery root fibers",
+            "pomace",
+            "agricultural residues",
+            "cereal straw",
+            "maize stalks",
+            "post-extraction residues"
+        ],
+        "transforming_process": [
+            "production of biodegradable polymers",
+            "combustion",
+            "enrichment with micronutrient ions",
+            "production of bio-based micronutrient fertilizers"
+        ],
+        "transformed_resource": [
+            "polylactic acid",
+            "PLA biocomposites",
+            "bio-based micronutrient fertilizers"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk34"
+    },
+    {
+        "waste": [
+            "animal manure",
+            "livestock manure",
+            "poultry litter"
+        ],
+        "transforming_process": [
+            "recovery for fertilizer",
+            "pre-processing"
+        ],
+        "transformed_resource": [
+            "fertilizer",
+            "macro and microelements for agriculture"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk35"
+    },
+    {
+        "waste": [
+            "poultry litter",
+            "manure from pigs",
+            "manure from cattle",
+            "sweet potatoes"
+        ],
+        "transforming_process": [
+            "processing for fertilizer production",
+            "thermal methods",
+            "microbiological methods",
+            "anaerobic co-digestion",
+            "mixing with plant materials"
+        ],
+        "transformed_resource": [
+            "fertilizer",
+            "biogas",
+            "bio-fertilizer",
+            "compost"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk36"
+    },
+    {
+        "waste": [
+            "manure"
+        ],
+        "transforming_process": [
+            "liquid/solid separation",
+            "evaporation",
+            "filtration",
+            "ammonia stripping",
+            "liming",
+            "biological treatment",
+            "phosphorus precipitation",
+            "anaerobic digestion",
+            "drying",
+            "pelletizing",
+            "incineration",
+            "composting",
+            "P-precipitation",
+            "nanofiltration",
+            "reverse osmosis",
+            "membrane distillation"
+        ],
+        "transformed_resource": [
+            "NH4SO4",
+            "NH4NO3",
+            "N concentrate",
+            "K concentrate",
+            "K fertilizer",
+            "struvite",
+            "Ca/Mg-phosphate",
+            "P-rich ashes"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk37"
+    },
+    {
+        "waste": [
+            "food waste",
+            "orange waste",
+            "other combustible municipal wastes",
+            "agricultural wastes",
+            "wheat straw"
+        ],
+        "transforming_process": [
+            "incineration",
+            "landfilling",
+            "organic fertilization",
+            "anaerobic digestion",
+            "aerobic composting",
+            "chemical hydrolysis"
+        ],
+        "transformed_resource": [
+            "valuable compounds",
+            "organic fertilizer",
+            "biofertilizers",
+            "soil"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk39"
+    },
+    {
+        "waste": [
+            "various agricultural wastes",
+            "spent coffee grounds",
+            "used coffee grounds",
+            "ash from biomass combustion",
+            "organic waste",
+            "mineral waste"
+        ],
+        "transforming_process": [
+            "returned to soil",
+            "valorized through appropriate management",
+            "composting",
+            "anaerobic digestion",
+            "pyrolysis",
+            "mixing"
+        ],
+        "transformed_resource": [
+            "valuable products for agriculture",
+            "fertilizer",
+            "organic fertilizer"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk40"
+    },
+    {
+        "waste": [
+            "food residues",
+            "nutrient-rich digestate",
+            "potassium-rich banana waste",
+            "sewage sludge",
+            "arsenic"
+        ],
+        "transforming_process": [
+            "high-temperature dynamic aerobic fermentation",
+            "aerobic digestion",
+            "reversed osmosis",
+            "slow pyrolysis",
+            "thermal plasma treatment"
+        ],
+        "transformed_resource": [
+            "organic fertilizers",
+            "concentrated nutrients",
+            "biochar"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk41"
+    },
+    {
+        "waste": [
+            "skin",
+            "fat",
+            "protein",
+            "blood",
+            "meat and bone meal",
+            "bones"
+        ],
+        "transforming_process": [
+            "recovery",
+            "ingredient production for animal feed",
+            "production of thermoplastic materials",
+            "production of thermosetting materials",
+            "use as coagulating agents",
+            "use as flocculating agents",
+            "solubilization in wet-process phosphoric acid"
+        ],
+        "transformed_resource": [
+            "animal feed",
+            "thermoplastic materials",
+            "thermosetting materials",
+            "coagulating agents",
+            "flocculating agents",
+            "phosphate fertilizers"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk42"
+    },
+    {
+        "waste": [
+            "slaughter waste",
+            "meat residue",
+            "wood",
+            "corn",
+            "fish meat",
+            "fish waste",
+            "keratin materials",
+            "feathers",
+            "wool"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "composting",
+            "hydrolysis",
+            "digestion with sulfuric acid",
+            "introduction into soil",
+            "hydrolysis with superheated water"
+        ],
+        "transformed_resource": [
+            "phosphate fertilizers",
+            "fertilizer material rich in nitrogen, phosphorus, and calcium",
+            "cocktail of amino acids",
+            "source of nitrogen",
+            "fertilizer material",
+            "valuable nutrients"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk43"
+    },
+    {
+        "waste": [
+            "ash from power plants",
+            "animal waste",
+            "agricultural residues",
+            "food residues",
+            "organic residues"
+        ],
+        "transforming_process": [
+            "incineration",
+            "anaerobic fermentation",
+            "composting",
+            "hydrolysis"
+        ],
+        "transformed_resource": [
+            "potassium",
+            "phosphorus",
+            "calcium",
+            "heat",
+            "electricity",
+            "fertilizers",
+            "glucose",
+            "amino acids"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk44"
+    },
+    {
+        "waste": [
+            "organic residues",
+            "food waste",
+            "sewage sludge"
+        ],
+        "transforming_process": [
+            "valorization",
+            "biological wastewater treatment"
+        ],
+        "transformed_resource": [
+            "glucose",
+            "amino acids",
+            "lactic acid",
+            "succinic acid",
+            "fatty acids",
+            "food supplements",
+            "polyhydroxyalkanoates",
+            "sorbents",
+            "polyols",
+            "polyurethane foam",
+            "carotenoids",
+            "phenolic antioxidants",
+            "bioenergy",
+            "biodiesel",
+            "bio-oil",
+            "biogas"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk45"
+    },
+    {
+        "waste": [
+            "sewage sludge",
+            "algae biomass",
+            "waste algae biomass"
+        ],
+        "transforming_process": [
+            "stabilization",
+            "removal of toxic compounds",
+            "removal of pathogens",
+            "removal of undesirable odor",
+            "thermal processes",
+            "chemical processes",
+            "dehydration"
+        ],
+        "transformed_resource": [
+            "ammonium sulfate",
+            "struvite",
+            "nutrients",
+            "carbon",
+            "fertilization",
+            "energy"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk46"
+    },
+    {
+        "waste": [
+            "sewage sludge",
+            "green waste"
+        ],
+        "transforming_process": [
+            "dehydration",
+            "stabilization",
+            "draining",
+            "centrifuges",
+            "drying",
+            "filter presses",
+            "anaerobic digestion",
+            "combustion",
+            "composting"
+        ],
+        "transformed_resource": [
+            "valuable nutrient components",
+            "compost",
+            "chemical fertilizers"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk47"
+    },
+    {
+        "waste": [
+            "sewage sludge"
+        ],
+        "transforming_process": [
+            "composting",
+            "anaerobic digestion",
+            "stabilization using earthworms",
+            "chemical methods",
+            "thermal methods",
+            "drying",
+            "incineration",
+            "pyrolysis",
+            "enhanced biological phosphorus removal",
+            "precipitation"
+        ],
+        "transformed_resource": [
+            "renewable energy",
+            "fertilizer",
+            "phosphate",
+            "struvite",
+            "raw materials"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk48"
+    },
+    {
+        "waste": [
+            "sewage sludge",
+            "fly ash"
+        ],
+        "transforming_process": [
+            "thermal processes",
+            "fertilization with sewage sludge"
+        ],
+        "transformed_resource": [
+            "soil amendment",
+            "liming agent",
+            "essential nutrients for plants"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk49"
+    },
+    {
+        "waste": [
+            "household waste"
+        ],
+        "transforming_process": [
+            "valorization of waste",
+            "development of new fertilizer technology"
+        ],
+        "transformed_resource": [
+            "energy",
+            "materials",
+            "good quality fertilizers"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk51"
+    },
+    {
+        "waste": [
+            "feathers",
+            "bone meal"
+        ],
+        "transforming_process": [
+            "utilization of feathers",
+            "conversion of bone meal to hydroxyapatite",
+            "wet phosphoric acid process"
+        ],
+        "transformed_resource": [
+            "macronutrient N",
+            "amino acids",
+            "bio-based raw materials"
+        ],
+        "reference": "10.1016/j.biortech.2019.122223_chunk57"
+    }
+]

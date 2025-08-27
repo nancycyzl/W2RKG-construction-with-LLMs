@@ -1,0 +1,105 @@
+[
+    {
+        "waste": [
+            "soybean meal",
+            "wastewaters",
+            "fermentation media"
+        ],
+        "transforming_process": [
+            "solid state fermentation"
+        ],
+        "transformed_resource": [
+            "\u03b3-PGA"
+        ],
+        "reference": "10.1016/j.biotechadv.2022.108049_chunk13"
+    },
+    {
+        "waste": [
+            "complex media",
+            "corn stalk",
+            "soybean meal"
+        ],
+        "transforming_process": [
+            "modification",
+            "solid state fermentation",
+            "traditional fermentation"
+        ],
+        "transformed_resource": [
+            "\u03b3-PGA",
+            "higher productivity"
+        ],
+        "reference": "10.1016/j.biotechadv.2022.108049_chunk32"
+    },
+    {
+        "waste": [
+            "algal by-products",
+            "algal waste",
+            "complex waste"
+        ],
+        "transforming_process": [
+            "co-fermentation",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "biomethane"
+        ],
+        "reference": "10.1016/j.biotechadv.2022.108049_chunk34"
+    },
+    {
+        "waste": [
+            "Ulva's membrane",
+            "macronutrients",
+            "algal waste",
+            "lignocellulosic waste"
+        ],
+        "transforming_process": [
+            "degradation",
+            "fermentation",
+            "biosynthesis"
+        ],
+        "transformed_resource": [
+            "value-added compounds",
+            "\u03b3-PGA",
+            "carbon",
+            "nitrogen"
+        ],
+        "reference": "10.1016/j.biotechadv.2022.108049_chunk36"
+    },
+    {
+        "waste": [
+            "costly defined media",
+            "complex media/waste streams",
+            "cane molasses",
+            "Mono Sodium Glutamate waste",
+            "Industrial waste glycerol",
+            "Dry mushroom residues",
+            "Mono Sodium Glutamate production residues"
+        ],
+        "transforming_process": [
+            "employing complex waste media as substrate for polymeric biosynthesis"
+        ],
+        "transformed_resource": [
+            "\u03b3-PGA"
+        ],
+        "reference": "10.1016/j.biotechadv.2022.108049_chunk63"
+    },
+    {
+        "waste": [
+            "wastewater",
+            "organic compounds",
+            "inorganic compounds"
+        ],
+        "transforming_process": [
+            "lyophilisation",
+            "coating/fixation",
+            "flocculation",
+            "microfiltration"
+        ],
+        "transformed_resource": [
+            "cryoprotective properties",
+            "protective properties",
+            "microfiltration membrane"
+        ],
+        "reference": "10.1016/j.biotechadv.2022.108049_chunk68"
+    }
+]

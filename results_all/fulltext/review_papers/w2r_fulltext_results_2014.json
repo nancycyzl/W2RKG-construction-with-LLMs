@@ -1,0 +1,386 @@
+[
+    {
+        "waste": [
+            "WAS"
+        ],
+        "transforming_process": [
+            "controlled breaking of the biological structures",
+            "less aggressive solubilization processes"
+        ],
+        "transformed_resource": [
+            "bio-based products",
+            "enzymes",
+            "bioplastics",
+            "proteins"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk2"
+    },
+    {
+        "waste": [
+            "WAS"
+        ],
+        "transforming_process": [
+            "valorisation",
+            "recovery"
+        ],
+        "transformed_resource": [
+            "proteins",
+            "enzymes",
+            "humic acids",
+            "lipids",
+            "short-chain fatty acids"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk3"
+    },
+    {
+        "waste": [
+            "WAS"
+        ],
+        "transforming_process": [
+            "solubilization"
+        ],
+        "transformed_resource": [
+            "complex stream",
+            "solid fraction"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk8"
+    },
+    {
+        "waste": [
+            "WAS",
+            "primary sludge",
+            "landfill leachate",
+            "cell cultures",
+            "complex aqueous streams from animal or vegetal sources"
+        ],
+        "transforming_process": [
+            "separation",
+            "purification",
+            "chromatography"
+        ],
+        "transformed_resource": [
+            "biocompounds",
+            "valuable products"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk11"
+    },
+    {
+        "waste": [
+            "WAS",
+            "urban residues",
+            "cell cultures",
+            "culture broths",
+            "synthetic solutions",
+            "food",
+            "animal-related industries"
+        ],
+        "transforming_process": [
+            "changing pH",
+            "salting-out",
+            "heating",
+            "phase partitioning",
+            "precipitation"
+        ],
+        "transformed_resource": [
+            "bulk proteins",
+            "enzymes",
+            "humic acids"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk13"
+    },
+    {
+        "waste": [
+            "waste activated sludge (WAS)",
+            "wastewater"
+        ],
+        "transforming_process": [
+            "precipitation",
+            "solubilization",
+            "membrane filtration",
+            "wet oxidation",
+            "thermal hydrolysis",
+            "ammonium sulphate precipitation",
+            "acetone precipitation",
+            "trichloroacetic acid precipitation"
+        ],
+        "transformed_resource": [
+            "struvite",
+            "phosphate",
+            "ammonium",
+            "soluble proteins",
+            "humic acids"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk14"
+    },
+    {
+        "waste": [
+            "unoptimized extraction methods",
+            "WAS"
+        ],
+        "transforming_process": [
+            "extraction methods",
+            "ethanol precipitation",
+            "alginate affinity precipitation"
+        ],
+        "transformed_resource": [
+            "alcohol dehydrogenase",
+            "total protein",
+            "proteins",
+            "enzyme"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk24"
+    },
+    {
+        "waste": [
+            "dried WAS",
+            "defatted corn flour"
+        ],
+        "transforming_process": [
+            "protein extraction with hot alkaline water",
+            "alkali treatment",
+            "acidic precipitation",
+            "TH pre-treatment",
+            "ammonium sulphate precipitation"
+        ],
+        "transformed_resource": [
+            "protein"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk27"
+    },
+    {
+        "waste": [
+            "primary and secondary sludges",
+            "cell cultures",
+            "synthetic broths",
+            "food-related sources",
+            "WAS",
+            "secondary sludge"
+        ],
+        "transforming_process": [
+            "membrane separation",
+            "dialysis",
+            "NF",
+            "RO",
+            "alkaline treatment"
+        ],
+        "transformed_resource": [
+            "nutrients",
+            "ammonia",
+            "struvite",
+            "humic acids",
+            "fertilizer"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk31"
+    },
+    {
+        "waste": [
+            "sludge",
+            "humic acids",
+            "proteins",
+            "polysaccharides",
+            "nucleic acids",
+            "fats"
+        ],
+        "transforming_process": [
+            "dewater sludge via alkaline treatment",
+            "membrane filtration",
+            "concentration of humic acid"
+        ],
+        "transformed_resource": [
+            "nutritional sludge humic fertilizer",
+            "concentrated humic acid"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk32"
+    },
+    {
+        "waste": [
+            "sewage sludge",
+            "volatile suspended solids"
+        ],
+        "transforming_process": [
+            "integrated process to recover proteins and humic acids",
+            "filtration"
+        ],
+        "transformed_resource": [
+            "proteins",
+            "humic acids"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk33"
+    },
+    {
+        "waste": [
+            "vegetal wastewater",
+            "animal wastewater",
+            "WAS",
+            "sludge"
+        ],
+        "transforming_process": [
+            "membrane filtration",
+            "purification step",
+            "fractionation",
+            "hydrolysis with proteases"
+        ],
+        "transformed_resource": [
+            "proteins",
+            "enzymes",
+            "fats",
+            "carbohydrates",
+            "humic acids",
+            "solutions concentrated in different species"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk39"
+    },
+    {
+        "waste": [
+            "waste activated sludge",
+            "primary sludge",
+            "secondary sludge",
+            "blended sludges"
+        ],
+        "transforming_process": [
+            "solvent extraction",
+            "centrifugation",
+            "sun drying",
+            "oven drying",
+            "pressure filtration",
+            "acidification",
+            "sub-critical water pre-treatment"
+        ],
+        "transformed_resource": [
+            "lipids"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk44"
+    },
+    {
+        "waste": [
+            "WAS",
+            "primary sludge"
+        ],
+        "transforming_process": [
+            "cellular lysis with ionic liquid",
+            "steam explosion",
+            "liquid biphasic flotation",
+            "extraction with n-hexane"
+        ],
+        "transformed_resource": [
+            "proteins",
+            "lipids"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk48"
+    },
+    {
+        "waste": [
+            "complex wastewaters",
+            "WAS",
+            "WAS hydrolysates"
+        ],
+        "transforming_process": [
+            "adsorption technology",
+            "adsorption",
+            "adsorption chromatography"
+        ],
+        "transformed_resource": [
+            "SCFAs",
+            "carbohydrates",
+            "proteins",
+            "valuable protein"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk55"
+    },
+    {
+        "waste": [
+            "WAS"
+        ],
+        "transforming_process": [
+            "batch adsorption"
+        ],
+        "transformed_resource": [
+            "SCFAs",
+            "propionic acid",
+            "acetic acid",
+            "butyric acid",
+            "lactic acid",
+            "succinic acid"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk59"
+    },
+    {
+        "waste": [
+            "waste activated sludge (WAS)"
+        ],
+        "transforming_process": [
+            "milling",
+            "solvent extraction",
+            "membrane filtration",
+            "precipitation"
+        ],
+        "transformed_resource": [
+            "biofuel",
+            "fertilizers",
+            "proteins",
+            "lipids",
+            "humic substances",
+            "inorganic compounds"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk61"
+    },
+    {
+        "waste": [
+            "WAS"
+        ],
+        "transforming_process": [
+            "adsorption chromatography",
+            "integrated process",
+            "membrane technology"
+        ],
+        "transformed_resource": [
+            "proteins",
+            "lipids",
+            "SCFAs",
+            "humic acids",
+            "carbohydrates"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk63"
+    },
+    {
+        "waste": [
+            "WAS"
+        ],
+        "transforming_process": [
+            "dewatering",
+            "S-L extraction",
+            "solubilisation",
+            "precipitation",
+            "adsorption chromatography",
+            "batch adsorption",
+            "membrane filtration",
+            "three-phase partitioning",
+            "liquid biphasic flotation"
+        ],
+        "transformed_resource": [
+            "lipids",
+            "bulk proteins",
+            "high-value proteins",
+            "SCFAs",
+            "humic acid fertilizer"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk64"
+    },
+    {
+        "waste": [
+            "WAS residue",
+            "waste streams"
+        ],
+        "transforming_process": [
+            "precipitation",
+            "batch adsorption",
+            "membrane filtration"
+        ],
+        "transformed_resource": [
+            "protein",
+            "SCFAs",
+            "humic acids"
+        ],
+        "reference": "10.1016/j.resconrec.2022.106327_chunk67"
+    }
+]

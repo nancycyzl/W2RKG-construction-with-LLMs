@@ -1,0 +1,207 @@
+[
+    {
+        "waste": [
+            "CO2",
+            "steel slag"
+        ],
+        "transforming_process": [
+            "slag carbonation",
+            "accelerated carbonation"
+        ],
+        "transformed_resource": [
+            "carbonate minerals"
+        ],
+        "reference": "10.1016/j.jcou.2024.102736_chunk3"
+    },
+    {
+        "waste": [
+            "steel slag"
+        ],
+        "transforming_process": [
+            "carbonation process",
+            "two-step reaction",
+            "direct carbonation"
+        ],
+        "transformed_resource": [
+            "carbonates"
+        ],
+        "reference": "10.1016/j.jcou.2024.102736_chunk10"
+    },
+    {
+        "waste": [
+            "slag",
+            "cold-rolling wastewater"
+        ],
+        "transforming_process": [
+            "carbonation"
+        ],
+        "transformed_resource": [
+            "carbon capture and storage material"
+        ],
+        "reference": "10.1016/j.jcou.2024.102736_chunk34"
+    },
+    {
+        "waste": [
+            "carbonated steel slag"
+        ],
+        "transforming_process": [
+            "accelerated carbonation"
+        ],
+        "transformed_resource": [
+            "carbonated slag",
+            "binder",
+            "aggregate",
+            "carbon negative concrete blocks"
+        ],
+        "reference": "10.1016/j.jcou.2024.102736_chunk47"
+    },
+    {
+        "waste": [
+            "CO 2 intensive ordinary Portland cement",
+            "steelmaking slag",
+            "steel slag"
+        ],
+        "transforming_process": [
+            "carbonation"
+        ],
+        "transformed_resource": [
+            "stable carbonates",
+            "aggregate",
+            "binder material"
+        ],
+        "reference": "10.1016/j.jcou.2024.102736_chunk48"
+    },
+    {
+        "waste": [
+            "steel slag",
+            "EAF slag"
+        ],
+        "transforming_process": [
+            "carbonation"
+        ],
+        "transformed_resource": [
+            "carbonated steel slag",
+            "aggregate in concrete"
+        ],
+        "reference": "10.1016/j.jcou.2024.102736_chunk49"
+    },
+    {
+        "waste": [
+            "natural aggregate",
+            "EAF slag",
+            "BOF slag powder",
+            "steel slag",
+            "natural aggregates",
+            "carbonated slag bricks"
+        ],
+        "transforming_process": [
+            "replacement in concrete mixes",
+            "carbonation process",
+            "subjected to carbonation",
+            "crushing and sieving"
+        ],
+        "transformed_resource": [
+            "rigid concrete",
+            "superior mechanical properties",
+            "CaCO3 product layer",
+            "fine aggregates",
+            "cement mortars"
+        ],
+        "reference": "10.1016/j.jcou.2024.102736_chunk50"
+    },
+    {
+        "waste": [
+            "slag",
+            "steel slag",
+            "carbonated EAF slag"
+        ],
+        "transforming_process": [
+            "used as a partial aggregate in cement mortars",
+            "used as aggregate in concrete",
+            "carbonation"
+        ],
+        "transformed_resource": [
+            "concrete",
+            "pervious concrete",
+            "radiation shielding applications"
+        ],
+        "reference": "10.1016/j.jcou.2024.102736_chunk51"
+    },
+    {
+        "waste": [
+            "carbonated EAF slag",
+            "steel slag"
+        ],
+        "transforming_process": [
+            "carbonation process"
+        ],
+        "transformed_resource": [
+            "cementitious material",
+            "binder"
+        ],
+        "reference": "10.1016/j.jcou.2024.102736_chunk52"
+    },
+    {
+        "waste": [
+            "steel slag",
+            "CO2"
+        ],
+        "transforming_process": [
+            "carbonation",
+            "batch process"
+        ],
+        "transformed_resource": [
+            "binder",
+            "carbon negative concrete blocks"
+        ],
+        "reference": "10.1016/j.jcou.2024.102736_chunk53"
+    },
+    {
+        "waste": [
+            "slag",
+            "steelmaking CO2 emissions",
+            "by-products from steelmaking",
+            "steel slag"
+        ],
+        "transforming_process": [
+            "carbonation curing",
+            "CO2 curing batch process",
+            "carbonation"
+        ],
+        "transformed_resource": [
+            "steel slag blocks",
+            "binder",
+            "ready mix concrete",
+            "cement replacement",
+            "CaCO3 particles"
+        ],
+        "reference": "10.1016/j.jcou.2024.102736_chunk54"
+    },
+    {
+        "waste": [
+            "steel slag"
+        ],
+        "transforming_process": [
+            "carbonation"
+        ],
+        "transformed_resource": [
+            "carbonated steel slag",
+            "durable binder material",
+            "aggregate",
+            "carbon negative aggregate product"
+        ],
+        "reference": "10.1016/j.jcou.2024.102736_chunk65"
+    },
+    {
+        "waste": [
+            "steel slag"
+        ],
+        "transforming_process": [
+            "carbonation"
+        ],
+        "transformed_resource": [
+            "carbonated steel slag"
+        ],
+        "reference": "10.1016/j.jcou.2024.102736_chunk66"
+    }
+]

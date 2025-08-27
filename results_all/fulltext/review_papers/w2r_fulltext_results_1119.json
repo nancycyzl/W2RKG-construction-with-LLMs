@@ -1,0 +1,805 @@
+[
+    {
+        "waste": [
+            "global food waste",
+            "food waste",
+            "solid and liquid wastes"
+        ],
+        "transforming_process": [
+            "transformed into commercial goods",
+            "utilised to yield energy",
+            "extraction of antioxidant"
+        ],
+        "transformed_resource": [
+            "energy",
+            "enzymes",
+            "biofuels",
+            "novel biodegradable materials"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk3"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "valorisation",
+            "recovery of valuable goods",
+            "use as biomass materials"
+        ],
+        "transformed_resource": [
+            "bio-based compounds",
+            "hard carbon",
+            "LIBs",
+            "LIS batteries"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk4"
+    },
+    {
+        "waste": [
+            "food wastes",
+            "fruit waste"
+        ],
+        "transforming_process": [
+            "valorisation"
+        ],
+        "transformed_resource": [
+            "value-added products",
+            "battery components"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk5"
+    },
+    {
+        "waste": [
+            "waste biomass",
+            "used batteries",
+            "LIB waste"
+        ],
+        "transforming_process": [
+            "conversion of waste biomass into battery electrodes",
+            "recovery of Li ion from used batteries using food waste material",
+            "hydrometallurgy",
+            "pyro/bio process"
+        ],
+        "transformed_resource": [
+            "carbon cathodes",
+            "anodes for LIBs",
+            "lithium",
+            "cobalt",
+            "other metals"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk8"
+    },
+    {
+        "waste": [
+            "discarded LiCoO2",
+            "fruit-based waste products",
+            "pulverised orange peel"
+        ],
+        "transforming_process": [
+            "leaching",
+            "acid-leaching",
+            "using fruit-wastes for treatment"
+        ],
+        "transformed_resource": [
+            "Co",
+            "Li",
+            "precious metals"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk10"
+    },
+    {
+        "waste": [
+            "fruit peel waste",
+            "LIBs black mass",
+            "spent LIBs",
+            "used LIBs powder"
+        ],
+        "transforming_process": [
+            "leaching",
+            "bioleaching"
+        ],
+        "transformed_resource": [
+            "Li",
+            "Co",
+            "Ni",
+            "Mn",
+            "Al",
+            "Cu",
+            "organic acids",
+            "gluconic acid"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk11"
+    },
+    {
+        "waste": [
+            "wasted LIBs",
+            "food waste"
+        ],
+        "transforming_process": [
+            "recovering metals",
+            "carbonization",
+            "pyrolysis",
+            "graphitization",
+            "decomposition"
+        ],
+        "transformed_resource": [
+            "metals",
+            "hard carbons",
+            "non-graphitizable carbons",
+            "graphitized carbons"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk12"
+    },
+    {
+        "waste": [
+            "food waste",
+            "coffee ground waste"
+        ],
+        "transforming_process": [
+            "decomposition",
+            "carbonization",
+            "synthesis of carbonaceous anode materials"
+        ],
+        "transformed_resource": [
+            "hard carbons",
+            "non-graphitizable carbons",
+            "carbon layers",
+            "anode materials"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk13"
+    },
+    {
+        "waste": [
+            "food waste",
+            "avocado seeds"
+        ],
+        "transforming_process": [
+            "synthesized anode material",
+            "utilising capacitance-driven processes"
+        ],
+        "transformed_resource": [
+            "anode materials",
+            "battery electrodes"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk14"
+    },
+    {
+        "waste": [
+            "waste biomass",
+            "avocado seeds",
+            "green tea waste"
+        ],
+        "transforming_process": [
+            "capacitance-driven processes",
+            "carbonised in air",
+            "producing spherical mesoporous activated carbon"
+        ],
+        "transformed_resource": [
+            "amorphous carbon",
+            "battery anodes",
+            "carbonaceous anode materials",
+            "spherical mesoporous activated carbon nanoparticles"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk15"
+    },
+    {
+        "waste": [
+            "biomass waste",
+            "pistachio shell"
+        ],
+        "transforming_process": [
+            "combination of KOH with hydrochloric acid",
+            "phosphoric acid treatment"
+        ],
+        "transformed_resource": [
+            "mesoporous activated carbon (SMAC) nanoparticles",
+            "activated carbon"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk16"
+    },
+    {
+        "waste": [
+            "nut wastes",
+            "coffee wastes",
+            "olive stones",
+            "cherry stones",
+            "apple trash",
+            "mushrooms",
+            "sweet potatoes",
+            "coconut oil",
+            "alga blooms",
+            "rice husk"
+        ],
+        "transforming_process": [
+            "synthesis of bioactive compounds",
+            "synthesis of biochar-derived adsorbents"
+        ],
+        "transformed_resource": [
+            "bioactive compounds",
+            "biochar-derived adsorbents"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk18"
+    },
+    {
+        "waste": [
+            "biomass waste",
+            "peanut shell",
+            "almond shell"
+        ],
+        "transforming_process": [
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "porous hard carbon",
+            "carbon materials"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk21"
+    },
+    {
+        "waste": [
+            "almond shells",
+            "rambutan peel"
+        ],
+        "transforming_process": [
+            "extraction of active carbons",
+            "synthesis of microporous carbon",
+            "phosphoric acid activation with sulphur"
+        ],
+        "transformed_resource": [
+            "active carbons",
+            "Li\u2013S composite electrode",
+            "ASC/S composite"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk22"
+    },
+    {
+        "waste": [
+            "rambutan peel"
+        ],
+        "transforming_process": [
+            "chemical activation",
+            "hydrothermal methods",
+            "hydrothermal pre-treatment"
+        ],
+        "transformed_resource": [
+            "porous carbon",
+            "hydrochar",
+            "carbon compounds"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk23"
+    },
+    {
+        "waste": [
+            "buckwheat hulls"
+        ],
+        "transforming_process": [
+            "carbonization process"
+        ],
+        "transformed_resource": [
+            "high-performance porous carbon"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk24"
+    },
+    {
+        "waste": [
+            "buckwheat hulls",
+            "orange peel"
+        ],
+        "transforming_process": [
+            "generating porous carbon materials",
+            "synthesis of hard carbon via H3PO4 treatment"
+        ],
+        "transformed_resource": [
+            "porous carbon materials",
+            "hard carbon"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk25"
+    },
+    {
+        "waste": [
+            "biowaste",
+            "palm fruit calyx sepals"
+        ],
+        "transforming_process": [
+            "carbonization process"
+        ],
+        "transformed_resource": [
+            "hard carbon anode"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk26"
+    },
+    {
+        "waste": [
+            "biomass",
+            "shaddock peel"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "alkali activation",
+            "carbamide-induced N-doping"
+        ],
+        "transformed_resource": [
+            "hard carbon",
+            "nitrogen-doped porous hard carbon"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk27"
+    },
+    {
+        "waste": [
+            "egg yolk"
+        ],
+        "transforming_process": [
+            "hydrothermal reaction",
+            "carbonization"
+        ],
+        "transformed_resource": [
+            "nitrogen-doped fluorescent carbon dots (N CDs)",
+            "anodes for LIBs"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk29"
+    },
+    {
+        "waste": [
+            "rambutan peels",
+            "banana peel waste"
+        ],
+        "transforming_process": [
+            "hydrothermal carbonization",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "hard carbons"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk30"
+    },
+    {
+        "waste": [
+            "Banana peel waste",
+            "fish wastes"
+        ],
+        "transforming_process": [
+            "bio-fertilizers use",
+            "carbonization process",
+            "catalyst in benzene oxidation"
+        ],
+        "transformed_resource": [
+            "bio-fertilizers",
+            "anode for LIBs",
+            "anode electrode"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk31"
+    },
+    {
+        "waste": [
+            "abandoned chicken eggshell"
+        ],
+        "transforming_process": [
+            "coating",
+            "hydrothermal method"
+        ],
+        "transformed_resource": [
+            "battery material",
+            "CaO NCM811 particles"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk33"
+    },
+    {
+        "waste": [
+            "onion waste",
+            "sunflower seed husks"
+        ],
+        "transforming_process": [
+            "hydrothermal method",
+            "annealing methods",
+            "physical carbonization",
+            "chemical activation"
+        ],
+        "transformed_resource": [
+            "Nitrogen (N)-doped carbon spheres",
+            "porous biomass carbon"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk35"
+    },
+    {
+        "waste": [
+            "rice husk"
+        ],
+        "transforming_process": [
+            "preparation of porous carbon materials",
+            "fabrication of hierarchical MoS2 microspheres"
+        ],
+        "transformed_resource": [
+            "graphitic structure carbon",
+            "hierarchical MoS2 microspheres"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk36"
+    },
+    {
+        "waste": [
+            "rice husk carbon",
+            "coffee powder"
+        ],
+        "transforming_process": [
+            "synergistic interaction with MoS 2",
+            "conversion to nitrogen-doped carbon"
+        ],
+        "transformed_resource": [
+            "MoS 2 @RHC composite",
+            "anode materials for Na/Li-ion batteries",
+            "N doped CGC porous carbons"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk37"
+    },
+    {
+        "waste": [
+            "biomass of dry palm spathe"
+        ],
+        "transforming_process": [
+            "producing N-doped carbon 2D nanosheets from the biomass"
+        ],
+        "transformed_resource": [
+            "N-doped carbon 2D nanosheets",
+            "energy storage systems",
+            "supercapacitors",
+            "Li-ion batteries"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk39"
+    },
+    {
+        "waste": [
+            "chicken feathers"
+        ],
+        "transforming_process": [
+            "develop a zinc sulphide doped chicken feather carbon composite through a two-step process"
+        ],
+        "transformed_resource": [
+            "zinc sulphide doped chicken feather carbon composite"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk40"
+    },
+    {
+        "waste": [
+            "discarded mango peels"
+        ],
+        "transforming_process": [
+            "carbonization process",
+            "hydrothermal method"
+        ],
+        "transformed_resource": [
+            "hard carbon anodes"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk41"
+    },
+    {
+        "waste": [
+            "avocado fruit shells",
+            "corncobs"
+        ],
+        "transforming_process": [
+            "carbonisation",
+            "activation with HNO3"
+        ],
+        "transformed_resource": [
+            "mesoporous carbon",
+            "CMC"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk43"
+    },
+    {
+        "waste": [
+            "corncobs"
+        ],
+        "transforming_process": [
+            "separation of cellulose",
+            "alkalization",
+            "carboxymethylation",
+            "purification"
+        ],
+        "transformed_resource": [
+            "Carboxymethyl cellulose (CMC)"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk44"
+    },
+    {
+        "waste": [
+            "expired milk powder"
+        ],
+        "transforming_process": [
+            "preparation of CMP at a low temperature in N2 atmosphere"
+        ],
+        "transformed_resource": [
+            "carbonized milk powder (CMP)",
+            "cathode for energy storage systems"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk45"
+    },
+    {
+        "waste": [
+            "peanut shells"
+        ],
+        "transforming_process": [
+            "chemical treatments",
+            "pyrolysis",
+            "acid treatment",
+            "washing"
+        ],
+        "transformed_resource": [
+            "sulphur cathode",
+            "carbonaceous materials",
+            "electrode carbon"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk46"
+    },
+    {
+        "waste": [
+            "biowaste",
+            "eggshell membrane"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "thermally assisted solid-state synthesis",
+            "thermally induced degradation"
+        ],
+        "transformed_resource": [
+            "low-cost carbon compounds",
+            "N-doped carbon",
+            "N-doped carbon coating on LiFePO4",
+            "ESM@LFP"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk47"
+    },
+    {
+        "waste": [
+            "rambutan peel waste"
+        ],
+        "transforming_process": [
+            "hydrothermal carbonization",
+            "KOH activation"
+        ],
+        "transformed_resource": [
+            "porous carbons",
+            "RPC/S composites"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk48"
+    },
+    {
+        "waste": [
+            "industrial wastes",
+            "household wastes",
+            "exchange resins",
+            "eggshells",
+            "brewing waste"
+        ],
+        "transforming_process": [
+            "pre-treatment",
+            "carbonization",
+            "actuation",
+            "heat treatment",
+            "washing"
+        ],
+        "transformed_resource": [
+            "activated carbon",
+            "Li-S cells"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk49"
+    },
+    {
+        "waste": [
+            "exchange resins",
+            "eggshells",
+            "brewing waste",
+            "durian shell"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "carbonization",
+            "KOH activation"
+        ],
+        "transformed_resource": [
+            "Li-S batteries",
+            "hierarchical porous carbon",
+            "DPC",
+            "DPC/S"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk50"
+    },
+    {
+        "waste": [
+            "wet biomass waste",
+            "solid residue from HTL of AD of sugarcane bagasse digestate"
+        ],
+        "transforming_process": [
+            "hydrothermal liquefaction",
+            "activation with KOH"
+        ],
+        "transformed_resource": [
+            "bio-crude",
+            "possible electrodes for LIBs",
+            "hard carbon",
+            "carbon with a high specific surface area carbon material"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk51"
+    },
+    {
+        "waste": [
+            "solid residue of AD digestate",
+            "Salacca peel"
+        ],
+        "transforming_process": [
+            "pre-carbonization",
+            "K2CO3 activation",
+            "HTL"
+        ],
+        "transformed_resource": [
+            "carbon with high specific surface area",
+            "porous carbon",
+            "composite materials for LIB electrodes",
+            "porous carbon/sulfur materials"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk52"
+    },
+    {
+        "waste": [
+            "sulphur",
+            "banana peels"
+        ],
+        "transforming_process": [
+            "melt diffusion technique",
+            "KOH activation method"
+        ],
+        "transformed_resource": [
+            "porous carbon/sulfur materials",
+            "porous carbon with hierarchical pore structures"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk53"
+    },
+    {
+        "waste": [
+            "biomass waste from mangosteen peel"
+        ],
+        "transforming_process": [
+            "KOH activation method"
+        ],
+        "transformed_resource": [
+            "porous carbon",
+            "hierarchical porous carbon"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk54"
+    },
+    {
+        "waste": [
+            "after-boiling waste from beer brewing"
+        ],
+        "transforming_process": [
+            "simple and non-activating pyrolysis",
+            "melt diffusion"
+        ],
+        "transformed_resource": [
+            "carbon material",
+            "sulfur\u2013carbon composite"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk55"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "processing of waste material",
+            "synthesis conditions",
+            "developing bio-mass-derived carbon material"
+        ],
+        "transformed_resource": [
+            "bio-mass-derived carbon material",
+            "hard carbons"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk56"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "development of bio-mass-derived carbon material",
+            "preparation procedures"
+        ],
+        "transformed_resource": [
+            "bio-mass-derived carbon material",
+            "hard carbon materials"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk57"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "fine tuning microstructure",
+            "pre-oxidation",
+            "carbonization",
+            "post-treatments"
+        ],
+        "transformed_resource": [
+            "hard carbons",
+            "food based hard carbon material"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk58"
+    },
+    {
+        "waste": [
+            "batteries",
+            "graphite",
+            "biomass"
+        ],
+        "transforming_process": [
+            "graphite recycling",
+            "anode recycling",
+            "regeneration technologies",
+            "hard carbon materials generation"
+        ],
+        "transformed_resource": [
+            "recycled graphite",
+            "hard carbon materials"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk63"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "FW burning",
+            "composting",
+            "using FW as feed for domesticated animals",
+            "dumping FW in landfills",
+            "efficient FW valorisation",
+            "application of integrated biorefinery models"
+        ],
+        "transformed_resource": [
+            "energy generation",
+            "carbon material",
+            "bioderived carbon",
+            "FW-based biofuel"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk65"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "carbonization"
+        ],
+        "transformed_resource": [
+            "hard carbons"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk68"
+    },
+    {
+        "waste": [
+            "food waste materials"
+        ],
+        "transforming_process": [
+            "large-scale synthesis",
+            "bulk production"
+        ],
+        "transformed_resource": [
+            "hard carbons"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk70"
+    },
+    {
+        "waste": [
+            "food waste materials"
+        ],
+        "transforming_process": [
+            "synthesis of various hard carbon compounds"
+        ],
+        "transformed_resource": [
+            "carbon materials",
+            "chemical resources"
+        ],
+        "reference": "10.1016/j.hazadv.2023.100317_chunk71"
+    }
+]

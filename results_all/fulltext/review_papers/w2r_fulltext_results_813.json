@@ -1,0 +1,104 @@
+[
+    {
+        "waste": [
+            "food waste",
+            "water",
+            "land",
+            "fertilizers",
+            "energy",
+            "greenhouse gas emissions"
+        ],
+        "transforming_process": [
+            "valorizing",
+            "recycling",
+            "anaerobic digestion",
+            "composting"
+        ],
+        "transformed_resource": [
+            "animal feed ingredients",
+            "energy",
+            "compost"
+        ],
+        "reference": "10.1016/j.jclepro.2023.138488_chunk1"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "valorization",
+            "reusing",
+            "recycling",
+            "composting",
+            "production of edible insects"
+        ],
+        "transformed_resource": [
+            "animal feed",
+            "high nutritional value product",
+            "raw materials"
+        ],
+        "reference": "10.1016/j.jclepro.2023.138488_chunk2"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "insect production"
+        ],
+        "transformed_resource": [
+            "animal feed"
+        ],
+        "reference": "10.1016/j.jclepro.2023.138488_chunk3"
+    },
+    {
+        "waste": [
+            "food surplus",
+            "food loss",
+            "food waste"
+        ],
+        "transforming_process": [
+            "food waste valorization"
+        ],
+        "transformed_resource": [
+            "animal feed"
+        ],
+        "reference": "10.1016/j.jclepro.2023.138488_chunk4"
+    },
+    {
+        "waste": [
+            "agricultural residues",
+            "food waste"
+        ],
+        "transforming_process": [
+            "produce animal feed ingredients",
+            "produce higher-valued products"
+        ],
+        "transformed_resource": [
+            "proteins",
+            "lipids",
+            "carbohydrates"
+        ],
+        "reference": "10.1016/j.jclepro.2023.138488_chunk43"
+    },
+    {
+        "waste": [
+            "tomato leaves",
+            "peels",
+            "seeds",
+            "grocery waste",
+            "rotten products",
+            "expired products"
+        ],
+        "transforming_process": [
+            "processing stages of tomatoes",
+            "using as feedstock"
+        ],
+        "transformed_resource": [
+            "animal feed",
+            "fertilizers",
+            "other non-food products"
+        ],
+        "reference": "10.1016/j.jclepro.2023.138488_chunk50"
+    }
+]

@@ -1,0 +1,295 @@
+[
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "catalytic thermal cracking",
+            "non-catalytic pyrolysis"
+        ],
+        "transformed_resource": [
+            "fuels",
+            "value-added chemicals"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk2"
+    },
+    {
+        "waste": [
+            "LDPE",
+            "HDPE",
+            "ABS",
+            "PC",
+            "PS",
+            "PTFE"
+        ],
+        "transforming_process": [
+            "cracking",
+            "catalytic pyrolysis",
+            "non-catalytic pyrolysis",
+            "co-feeding",
+            "catalysis",
+            "pre-treatment"
+        ],
+        "transformed_resource": [
+            "plastic-to-fuel",
+            "high-value chemicals"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk3"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "catalytic pyrolysis"
+        ],
+        "transformed_resource": [
+            "biofuels",
+            "chemicals",
+            "carbon black"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk5"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "catalyst development"
+        ],
+        "transformed_resource": [
+            "HDPE",
+            "polypropylene",
+            "carbon nanotube",
+            "biomass"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk16"
+    },
+    {
+        "waste": [
+            "plastic waste",
+            "waste plastics"
+        ],
+        "transforming_process": [
+            "thermal degradation",
+            "catalytic pyrolysis",
+            "pyrolysis",
+            "cracking",
+            "degradation",
+            "conversion"
+        ],
+        "transformed_resource": [
+            "ZnO nanoparticles",
+            "Z-scheme MoSe2/CdSe",
+            "Fe2O3/g-C3N4",
+            "Cerium-doped mesoporous TiO2 nanoparticles",
+            "nitrogen-doped graphene"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk26"
+    },
+    {
+        "waste": [
+            "waste plastics",
+            "polyethylene (PE)",
+            "HDPE",
+            "LDPE",
+            "LLDPE"
+        ],
+        "transforming_process": [
+            "thermal degradation",
+            "gasification",
+            "methane decomposition",
+            "mixed catalysis",
+            "dehydrogenation",
+            "aromatization"
+        ],
+        "transformed_resource": [
+            "high-value-added carbon nanomaterials (CNMs)",
+            "light hydrocarbons",
+            "aromatics"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk27"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "pyrolysis reaction"
+        ],
+        "transformed_resource": [
+            "non-precious active metals",
+            "magnesium oxide"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk32"
+    },
+    {
+        "waste": [
+            "CO2",
+            "agricultural wastes",
+            "plastic waste (PP)"
+        ],
+        "transforming_process": [
+            "chemisorb CO2",
+            "microwave pyrolysis",
+            "CNRs synthesis"
+        ],
+        "transformed_resource": [
+            "CaCO3",
+            "MgCO3",
+            "carbon nanorods (CNRs)"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk36"
+    },
+    {
+        "waste": [
+            "low density polyethylene",
+            "polypropylene"
+        ],
+        "transforming_process": [
+            "conversion using Mg material",
+            "designing and creating catalysts"
+        ],
+        "transformed_resource": [
+            "carbon nanotubes"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk37"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "catalytic deconstruction",
+            "microwave susceptors",
+            "quick and selective generation"
+        ],
+        "transformed_resource": [
+            "hydrogen",
+            "carbon nanoparticles"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk42"
+    },
+    {
+        "waste": [
+            "polyester fiber",
+            "soluble fibers",
+            "plastic materials",
+            "trash"
+        ],
+        "transforming_process": [
+            "catalytic pyrolysis"
+        ],
+        "transformed_resource": [
+            "high-value-added materials"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk45"
+    },
+    {
+        "waste": [
+            "liquid catalytic cracking waste catalysts",
+            "carbonaceous materials",
+            "plastics"
+        ],
+        "transforming_process": [
+            "recycling",
+            "pyrolysis",
+            "gasification"
+        ],
+        "transformed_resource": [
+            "cement",
+            "ceramic material additive",
+            "asphalt mixes",
+            "casting sand",
+            "steel"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk47"
+    },
+    {
+        "waste": [
+            "plastics",
+            "maize stover",
+            "LDPE"
+        ],
+        "transforming_process": [
+            "gasification",
+            "water gas shift process",
+            "co-pyrolysis",
+            "tandem catalytic bed"
+        ],
+        "transformed_resource": [
+            "hydrocarbons",
+            "value-added fuels",
+            "chemicals"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk48"
+    },
+    {
+        "waste": [
+            "biomass residuals",
+            "plastic waste",
+            "plastic",
+            "biomasses",
+            "plastic/biomass composites",
+            "waste plastics"
+        ],
+        "transforming_process": [
+            "tandem catalytic bed of CeO 2 and HZSM-5 materials",
+            "steam gasification",
+            "co-gasification",
+            "synthesized Ni/CeO 2 core\u2013shell catalysts"
+        ],
+        "transformed_resource": [
+            "value-added fuels",
+            "chemicals",
+            "gaseous products",
+            "H2",
+            "CO2",
+            "hydrogen-rich syngas"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk49"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "catalytic pyrolysis",
+            "converting plastic waste to liquid fuel"
+        ],
+        "transformed_resource": [
+            "liquid fuel"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk54"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "pyrolysis reaction",
+            "thermal cracking"
+        ],
+        "transformed_resource": [
+            "liquid fuels"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk59"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "catalytic pyrolysis"
+        ],
+        "transformed_resource": [
+            "valuable products",
+            "raw materials",
+            "energy materials"
+        ],
+        "reference": "10.1016/j.arabjc.2023.104717_chunk60"
+    }
+]

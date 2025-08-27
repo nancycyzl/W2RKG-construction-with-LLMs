@@ -1,0 +1,353 @@
+[
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "depolymerize plastic into monomers",
+            "directly transform plastic into high-value chemicals",
+            "pyrolysis",
+            "hydrogenolysis"
+        ],
+        "transformed_resource": [
+            "new polymer",
+            "chemicals",
+            "naphtha-containing paraffin",
+            "olefins",
+            "aromatics"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk4"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "molecules yielding molecular fragments",
+            "plastic waste valorization to liquid fuel",
+            "hydrogenolysis",
+            "photocatalysis",
+            "electrocatalysis"
+        ],
+        "transformed_resource": [
+            "naphtha-containing paraffin",
+            "olefins",
+            "aromatics",
+            "alkanes",
+            "liquid fuel"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk5"
+    },
+    {
+        "waste": [
+            "plastic waste",
+            "polymer compounds",
+            "polystyrene"
+        ],
+        "transforming_process": [
+            "photocatalysis",
+            "electrocatalysis",
+            "pyrolysis",
+            "hydrogenolysis"
+        ],
+        "transformed_resource": [
+            "monomers",
+            "valuable chemicals"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk6"
+    },
+    {
+        "waste": [
+            "plastics",
+            "poly (ethylene terephthalate) (PET)",
+            "hydrolyzed PET waste"
+        ],
+        "transforming_process": [
+            "converting plastics to valuable chemicals",
+            "hydrolysis",
+            "extracting electrons"
+        ],
+        "transformed_resource": [
+            "terephthalate",
+            "chemical fuels"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk7"
+    },
+    {
+        "waste": [
+            "plastics",
+            "waste plastic"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "hydrogenolysis",
+            "photocatalysis",
+            "electrocatalysis",
+            "plastic upcycling"
+        ],
+        "transformed_resource": [
+            "recycled plastics",
+            "upgraded recycling"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk8"
+    },
+    {
+        "waste": [
+            "polyethylene terephthalate (PET) waste",
+            "polyethylene (PE)",
+            "polypropylene (PP)"
+        ],
+        "transforming_process": [
+            "thermo-mechanical recycling",
+            "remelting",
+            "reprocessing",
+            "mechanical recycling"
+        ],
+        "transformed_resource": [
+            "lower-grade plastics"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk11"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "chemical recycling",
+            "glycolysis",
+            "pyrolysis",
+            "depolymerization",
+            "chemical upcycling"
+        ],
+        "transformed_resource": [
+            "chemical feedstocks",
+            "monomers",
+            "value-added chemicals",
+            "short-chain hydrocarbons",
+            "fuels",
+            "high-value products"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk12"
+    },
+    {
+        "waste": [
+            "plastic waste",
+            "discarded plastics"
+        ],
+        "transforming_process": [
+            "convert plastic waste into value-added chemicals",
+            "incineration of plastic waste with energy recovery",
+            "combustion to generate heat for electricity",
+            "mechanical and chemical recycling technologies"
+        ],
+        "transformed_resource": [
+            "short-chain hydrocarbon fuels",
+            "valuable oxygenates",
+            "heat for electricity"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk13"
+    },
+    {
+        "waste": [
+            "discarded plastics"
+        ],
+        "transforming_process": [
+            "depolymerization",
+            "polymerization"
+        ],
+        "transformed_resource": [
+            "monomers",
+            "valuable chemical feedstocks",
+            "higher-value polymers",
+            "new materials"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk15"
+    },
+    {
+        "waste": [
+            "plastics",
+            "polyethylene (PE)"
+        ],
+        "transforming_process": [
+            "integration of narrow bandgap materials with wider bandgap counterparts",
+            "creation of heterogeneous structures",
+            "construction of photocatalysts with vacancies",
+            "induction of strain",
+            "conversion of plastics into smaller molecules",
+            "production of hydroxyl radicals from water",
+            "attack of C\u2013C bonds in PE molecules"
+        ],
+        "transformed_resource": [
+            "carbon dioxide",
+            "acetic acid",
+            "certain organic acids",
+            "superoxide radicals",
+            "water"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk22"
+    },
+    {
+        "waste": [
+            "carbon dioxide",
+            "PS"
+        ],
+        "transforming_process": [
+            "C\u2013C bond coupling",
+            "HAT process",
+            "depolymerization",
+            "photoinduced ligand-to-metal charge transfer",
+            "\u03b2-scission"
+        ],
+        "transformed_resource": [
+            "acetic acid",
+            "benzoic acid"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk23"
+    },
+    {
+        "waste": [
+            "plastics",
+            "PET"
+        ],
+        "transforming_process": [
+            "electrocatalysis",
+            "upcycling"
+        ],
+        "transformed_resource": [
+            "potassium diformate",
+            "terephthalic acid"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk25"
+    },
+    {
+        "waste": [
+            "PET",
+            "ethylene glycol"
+        ],
+        "transforming_process": [
+            "initial breakdown under alkaline conditions",
+            "electro-driven cleavage of C\u2013C bond",
+            "transfer of formic acid into PET electrolyte",
+            "solidification via concentration and crystallization"
+        ],
+        "transformed_resource": [
+            "terephtalic acid",
+            "formate",
+            "potassium diformate"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk26"
+    },
+    {
+        "waste": [
+            "PET"
+        ],
+        "transforming_process": [
+            "hydrolysis",
+            "electrooxidation",
+            "depolymerizing"
+        ],
+        "transformed_resource": [
+            "terephthalate",
+            "formate",
+            "valuable fuels/chemicals"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk27"
+    },
+    {
+        "waste": [
+            "PET",
+            "plastics"
+        ],
+        "transforming_process": [
+            "depolymerizing",
+            "electrocatalytic oxidation",
+            "oxidized to glyoxal",
+            "transformed into glyoxylic acid",
+            "transformed into oxalic acid",
+            "electrocatalytic up-cycling",
+            "photoelectrochemical oxidation"
+        ],
+        "transformed_resource": [
+            "carbonates",
+            "ethylene glycol",
+            "glyoxal",
+            "glyoxylic acid",
+            "oxalic acid",
+            "glycolic acid"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk28"
+    },
+    {
+        "waste": [
+            "PE plastic"
+        ],
+        "transforming_process": [
+            "nitric acid-assisted strategy",
+            "tandem oxidative depolymerization",
+            "electrodecarboxylation",
+            "depolymerization",
+            "intramolecular recombination"
+        ],
+        "transformed_resource": [
+            "succinic acid",
+            "glutaric acid",
+            "alkenes",
+            "ethylene",
+            "propylene"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk29"
+    },
+    {
+        "waste": [
+            "plastics"
+        ],
+        "transforming_process": [
+            "mechanical recycling",
+            "incineration",
+            "chemical recycling",
+            "photocatalysis",
+            "electrocatalysis",
+            "pyrolysis",
+            "hydrogenolysis",
+            "catalytic processes"
+        ],
+        "transformed_resource": [
+            "valuable chemicals",
+            "fuels",
+            "materials",
+            "monomers",
+            "liquids",
+            "gasoline",
+            "higher-value products"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk31"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "photocatalysis",
+            "electrocatalysis",
+            "chemical upcycling"
+        ],
+        "transformed_resource": [
+            "valuable resources"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk32"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "chemical upcycling",
+            "pyrolysis",
+            "hydrogenolysis"
+        ],
+        "transformed_resource": [
+            "valuable chemicals"
+        ],
+        "reference": "10.1016/j.trac.2024.117631_chunk33"
+    }
+]

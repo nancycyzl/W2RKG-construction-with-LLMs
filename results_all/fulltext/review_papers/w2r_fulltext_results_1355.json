@@ -1,0 +1,514 @@
+[
+    {
+        "waste": [
+            "biowaste"
+        ],
+        "transforming_process": [
+            "valorization"
+        ],
+        "transformed_resource": [
+            "value-added chemicals",
+            "fuels",
+            "precursors for polymer",
+            "precursors for textile"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk2"
+    },
+    {
+        "waste": [
+            "food waste",
+            "bakery waste",
+            "bread waste",
+            "fruit waste",
+            "beverage waste"
+        ],
+        "transforming_process": [
+            "extraction of fermentable sugars"
+        ],
+        "transformed_resource": [
+            "fermentable sugars"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk5"
+    },
+    {
+        "waste": [
+            "bread waste"
+        ],
+        "transforming_process": [
+            "fermentative production",
+            "microbial processes"
+        ],
+        "transformed_resource": [
+            "ethanol",
+            "lactic acid",
+            "succinic acid",
+            "2,3-butanediol"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk6"
+    },
+    {
+        "waste": [
+            "bread waste"
+        ],
+        "transforming_process": [
+            "saccharification",
+            "hydrolysis",
+            "pretreatment",
+            "acid hydrolysis"
+        ],
+        "transformed_resource": [
+            "monomeric fermentable sugars",
+            "glucose"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk11"
+    },
+    {
+        "waste": [
+            "bread waste",
+            "insoluble starch granules",
+            "rotten potatoes"
+        ],
+        "transforming_process": [
+            "acid pretreatment",
+            "acid hydrolysis",
+            "steeping"
+        ],
+        "transformed_resource": [
+            "soluble starch",
+            "fermentable sugars",
+            "glucose",
+            "starch"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk12"
+    },
+    {
+        "waste": [
+            "starchy feedstocks",
+            "starch rich wastes"
+        ],
+        "transforming_process": [
+            "dilute acid pretreatment",
+            "hydrolysis",
+            "incubating the suspension at 60 \u2013 100 \u00b0C"
+        ],
+        "transformed_resource": [
+            "glucose"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk13"
+    },
+    {
+        "waste": [
+            "bread waste"
+        ],
+        "transforming_process": [
+            "gelatinization",
+            "liquefaction",
+            "saccharification"
+        ],
+        "transformed_resource": [
+            "glucose monomers",
+            "dextrins",
+            "oligosaccharides"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk14"
+    },
+    {
+        "waste": [
+            "bread flour",
+            "biowaste"
+        ],
+        "transforming_process": [
+            "enzymatic hydrolysis",
+            "simultaneous liquefaction and saccharification",
+            "traditional sequential liquefaction and saccharification"
+        ],
+        "transformed_resource": [
+            "glucose",
+            "fermentable sugars"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk15"
+    },
+    {
+        "waste": [
+            "bread waste",
+            "biowaste streams",
+            "municipal solid waste",
+            "sewage sludge"
+        ],
+        "transforming_process": [
+            "valorisation",
+            "recovery of sugars"
+        ],
+        "transformed_resource": [
+            "high value products",
+            "food grade sugars",
+            "nutrients"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk18"
+    },
+    {
+        "waste": [
+            "biowaste"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "enzymatic hydrolysis"
+        ],
+        "transformed_resource": [
+            "sugars",
+            "green products"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk20"
+    },
+    {
+        "waste": [
+            "biowaste (BW)"
+        ],
+        "transforming_process": [
+            "fermentative route",
+            "biological production"
+        ],
+        "transformed_resource": [
+            "succinic acid (SA)"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk21"
+    },
+    {
+        "waste": [
+            "biowaste (BW)"
+        ],
+        "transforming_process": [
+            "fermentative production",
+            "extraction",
+            "oxidative pathways",
+            "reductive pathways"
+        ],
+        "transformed_resource": [
+            "succinic acid (SA)",
+            "sugars",
+            "amino acids"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk22"
+    },
+    {
+        "waste": [
+            "bakery waste",
+            "BW",
+            "cake",
+            "pastry waste"
+        ],
+        "transforming_process": [
+            "extraction using glucoamylase",
+            "extraction using protease",
+            "solid state fermentation",
+            "bacterial fermentation"
+        ],
+        "transformed_resource": [
+            "sugars",
+            "amino acids",
+            "hydrolysate",
+            "SA"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk23"
+    },
+    {
+        "waste": [
+            "bread waste",
+            "bakery waste",
+            "crust of bread waste",
+            "lucerne green juice"
+        ],
+        "transforming_process": [
+            "fermentative routes",
+            "LA fermentation",
+            "hydrolysis"
+        ],
+        "transformed_resource": [
+            "lactic acid (LA)",
+            "polylactic acid (PLA)"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk25"
+    },
+    {
+        "waste": [
+            "BW",
+            "sugars present in BW"
+        ],
+        "transforming_process": [
+            "acid catalyzed hydrolysis",
+            "enzymatic hydrolysis",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "LA titers",
+            "LA"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk27"
+    },
+    {
+        "waste": [
+            "bread & bakery waste",
+            "bread residues",
+            "waste wheat bread"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "saccharification",
+            "valorisation"
+        ],
+        "transformed_resource": [
+            "bioethanol",
+            "ethanol"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk30"
+    },
+    {
+        "waste": [
+            "waste wheat bread",
+            "dry bread residues"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "hydrolysis using amylolytic enzymes",
+            "dilute hydrochloric acid hydrolysis",
+            "enzymatic hydrolysis",
+            "saccharification"
+        ],
+        "transformed_resource": [
+            "ethanol",
+            "glucose"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk31"
+    },
+    {
+        "waste": [
+            "biomass waste",
+            "residues from acidic/enzymatic hydrolysis",
+            "spent microbial biomass"
+        ],
+        "transforming_process": [
+            "acidic hydrolysis",
+            "enzymatic hydrolysis",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "glucose",
+            "ethanol",
+            "biochemical methanation potential"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk32"
+    },
+    {
+        "waste": [
+            "biogenic residues",
+            "1G/2G feedstocks",
+            "biomass waste (BW)"
+        ],
+        "transforming_process": [
+            "ethanol production",
+            "microbial biotechnology"
+        ],
+        "transformed_resource": [
+            "bioethanol",
+            "2,3-Butanediol (BDO)",
+            "valuable industrial products"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk33"
+    },
+    {
+        "waste": [
+            "bakery waste",
+            "BW"
+        ],
+        "transforming_process": [
+            "fermentative production",
+            "depolymerization via enzymatic route",
+            "batch fermentation",
+            "fed-batch fermentation"
+        ],
+        "transformed_resource": [
+            "acetoin",
+            "BDO"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk35"
+    },
+    {
+        "waste": [
+            "BW"
+        ],
+        "transforming_process": [
+            "hydrolysis using acid",
+            "hydrolysis using enzymatic routes"
+        ],
+        "transformed_resource": [
+            "glucose rich solution",
+            "BDO",
+            "acetoin"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk36"
+    },
+    {
+        "waste": [
+            "BW"
+        ],
+        "transforming_process": [
+            "hydrolysis",
+            "liquefaction",
+            "saccharification"
+        ],
+        "transformed_resource": [
+            "glucose slurry",
+            "glucose"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk37"
+    },
+    {
+        "waste": [
+            "BW",
+            "residues derived from enzymatic hydrolysis of BW"
+        ],
+        "transforming_process": [
+            "enzymatically depolymerized",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "glucose",
+            "syngas",
+            "paramylon"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk38"
+    },
+    {
+        "waste": [
+            "BW residues",
+            "bread waste"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "syngas"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk39"
+    },
+    {
+        "waste": [
+            "bread waste"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "incineration",
+            "valorisation"
+        ],
+        "transformed_resource": [
+            "chemicals",
+            "fuels",
+            "biogas",
+            "ethanol"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk45"
+    },
+    {
+        "waste": [
+            "bread waste"
+        ],
+        "transforming_process": [
+            "valorisation technologies",
+            "production facility for the treatment"
+        ],
+        "transformed_resource": [
+            "succinic acid",
+            "high purity succinic acid"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk46"
+    },
+    {
+        "waste": [
+            "solid waste biomass",
+            "BW waste",
+            "food waste"
+        ],
+        "transforming_process": [
+            "valorisation",
+            "manufacturing of high value added chemicals and fuels"
+        ],
+        "transformed_resource": [
+            "high purity SA",
+            "high value added chemicals",
+            "fuels"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk47"
+    },
+    {
+        "waste": [
+            "bread waste",
+            "spent grain"
+        ],
+        "transforming_process": [
+            "animal feed production",
+            "valorisation into chemicals",
+            "valorisation into fuels",
+            "production of ethanol"
+        ],
+        "transformed_resource": [
+            "animal feed",
+            "chemicals",
+            "fuels",
+            "ethanol"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk50"
+    },
+    {
+        "waste": [
+            "common waste",
+            "bread",
+            "BW",
+            "waste feedstocks"
+        ],
+        "transforming_process": [
+            "valorisation into ethanol",
+            "fermentation"
+        ],
+        "transformed_resource": [
+            "ethanol",
+            "DDGS",
+            "SA"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk51"
+    },
+    {
+        "waste": [
+            "heating oil",
+            "biomass",
+            "waste generated during the process"
+        ],
+        "transforming_process": [
+            "fermentative production",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "SA",
+            "ethanol",
+            "fish feed"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk52"
+    },
+    {
+        "waste": [
+            "food waste",
+            "bread waste"
+        ],
+        "transforming_process": [
+            "transform pathways",
+            "process optimization",
+            "process intensification"
+        ],
+        "transformed_resource": [
+            "chemical building blocks",
+            "fuels",
+            "chemicals"
+        ],
+        "reference": "10.1016/j.biortech.2022.128449_chunk57"
+    }
+]

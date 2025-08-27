@@ -1,0 +1,19 @@
+[
+    {
+        "waste": [
+            "sawdust",
+            "RHA",
+            "alstonia scholaris leaves",
+            "prosopis juliflora",
+            "jute",
+            "kapok fiber"
+        ],
+        "transforming_process": [
+            "bio-waste to absorbent materials"
+        ],
+        "transformed_resource": [
+            "eco-friendly absorbent materials"
+        ],
+        "reference": "10.1016/j.cej.2023.147506_chunk28"
+    }
+]

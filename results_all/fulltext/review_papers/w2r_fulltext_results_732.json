@@ -1,0 +1,129 @@
+[
+    {
+        "waste": [
+            "agro residue",
+            "lignocellulosic biomass",
+            "woody biomass",
+            "agricultural wastes",
+            "organic waste",
+            "municipal garbage"
+        ],
+        "transforming_process": [
+            "conversion to biochar",
+            "thermochemical conversion",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "biochar"
+        ],
+        "reference": "10.1016/j.rcradv.2023.200173_chunk1"
+    },
+    {
+        "waste": [
+            "agricultural waste",
+            "crop residue",
+            "crop waste"
+        ],
+        "transforming_process": [
+            "in-situ burning",
+            "thermochemical conversion"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "biofuel",
+            "chemical fertilizer"
+        ],
+        "reference": "10.1016/j.rcradv.2023.200173_chunk3"
+    },
+    {
+        "waste": [
+            "agricultural crop residues"
+        ],
+        "transforming_process": [
+            "converting agricultural crop residues into biochar"
+        ],
+        "transformed_resource": [
+            "biochar"
+        ],
+        "reference": "10.1016/j.rcradv.2023.200173_chunk5"
+    },
+    {
+        "waste": [
+            "agricultural waste",
+            "crop residues",
+            "straw"
+        ],
+        "transforming_process": [
+            "application of biochar",
+            "biochar amendments"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "carbon sequestration",
+            "carbon sink"
+        ],
+        "reference": "10.1016/j.rcradv.2023.200173_chunk22"
+    },
+    {
+        "waste": [
+            "agricultural crop residues",
+            "agricultural waste"
+        ],
+        "transforming_process": [
+            "harvesting of biomass",
+            "collection",
+            "handling",
+            "transportation",
+            "pretreatment"
+        ],
+        "transformed_resource": [
+            "biochar"
+        ],
+        "reference": "10.1016/j.rcradv.2023.200173_chunk32"
+    },
+    {
+        "waste": [
+            "agro waste"
+        ],
+        "transforming_process": [
+            "producing biochar"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "liquid biofuels",
+            "gaseous biofuels",
+            "thermal energy",
+            "activated carbon"
+        ],
+        "reference": "10.1016/j.rcradv.2023.200173_chunk37"
+    },
+    {
+        "waste": [
+            "crop residue",
+            "agricultural waste"
+        ],
+        "transforming_process": [
+            "burning",
+            "conversion of agricultural crop residues into biochar",
+            "biochar production from farm waste"
+        ],
+        "transformed_resource": [
+            "biochar"
+        ],
+        "reference": "10.1016/j.rcradv.2023.200173_chunk40"
+    },
+    {
+        "waste": [
+            "crop waste",
+            "farm waste"
+        ],
+        "transforming_process": [
+            "biochar production"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "fertile soil"
+        ],
+        "reference": "10.1016/j.rcradv.2023.200173_chunk41"
+    }
+]

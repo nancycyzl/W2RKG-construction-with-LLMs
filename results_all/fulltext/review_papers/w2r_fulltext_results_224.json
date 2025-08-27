@@ -1,0 +1,186 @@
+[
+    {
+        "waste": [
+            "agro-industrial by-products",
+            "lupin industry by-products"
+        ],
+        "transforming_process": [
+            "substitution of unsustainable synthetic ingredients",
+            "upcycling"
+        ],
+        "transformed_resource": [
+            "sustainable natural alternatives",
+            "sustainable ingredients in cosmetics"
+        ],
+        "reference": "10.1016/j.scp.2024.101477_chunk2"
+    },
+    {
+        "waste": [
+            "lupin by-products",
+            "soybean by-products"
+        ],
+        "transforming_process": [
+            "upcycling",
+            "extracting valuable substances"
+        ],
+        "transformed_resource": [
+            "new products with added value",
+            "bioactive compounds",
+            "lupin seeds"
+        ],
+        "reference": "10.1016/j.scp.2024.101477_chunk3"
+    },
+    {
+        "waste": [
+            "alkaloids"
+        ],
+        "transforming_process": [
+            "soaking",
+            "cooking",
+            "fermentation",
+            "germination",
+            "dry bean hydration",
+            "swollen bean cooking",
+            "boiled bean sweetening",
+            "salting"
+        ],
+        "transformed_resource": [
+            "safe consumption of lupin seeds"
+        ],
+        "reference": "10.1016/j.scp.2024.101477_chunk11"
+    },
+    {
+        "waste": [
+            "lupin wastewater",
+            "fiber-rich shells",
+            "lupin oil"
+        ],
+        "transforming_process": [
+            "debittering process"
+        ],
+        "transformed_resource": [
+            "topical products designed to repair and rejuvenate"
+        ],
+        "reference": "10.1016/j.scp.2024.101477_chunk12"
+    },
+    {
+        "waste": [
+            "lupin by-products"
+        ],
+        "transforming_process": [
+            "valorization",
+            "development of gels",
+            "encapsulation of bioactive substances"
+        ],
+        "transformed_resource": [
+            "topical products",
+            "anti-aging products",
+            "stable topical formulations",
+            "microcapsules"
+        ],
+        "reference": "10.1016/j.scp.2024.101477_chunk13"
+    },
+    {
+        "waste": [
+            "lupin seeds"
+        ],
+        "transforming_process": [
+            "industrial debittering process"
+        ],
+        "transformed_resource": [
+            "Quinolizidine alkaloids"
+        ],
+        "reference": "10.1016/j.scp.2024.101477_chunk15"
+    },
+    {
+        "waste": [
+            "L. albus wastewaters",
+            "L. luteus wastewaters"
+        ],
+        "transforming_process": [
+            "recovery from wastewaters"
+        ],
+        "transformed_resource": [
+            "lupanine",
+            "sparteine"
+        ],
+        "reference": "10.1016/j.scp.2024.101477_chunk18"
+    },
+    {
+        "waste": [
+            "L. luteus wastewaters"
+        ],
+        "transforming_process": [
+            "conversion of lupanine into a racemic mixture of L-(\u2212)-sparteine and D-(+)-sparteine"
+        ],
+        "transformed_resource": [
+            "L-(\u2212)-sparteine",
+            "D-(+)-sparteine",
+            "sparteine",
+            "lupinine"
+        ],
+        "reference": "10.1016/j.scp.2024.101477_chunk19"
+    },
+    {
+        "waste": [
+            "by-products from the agro-food industry",
+            "lupin by-products"
+        ],
+        "transforming_process": [
+            "development of topical formulations",
+            "incorporate bioactive substances"
+        ],
+        "transformed_resource": [
+            "bioactive substances",
+            "lupin peptides",
+            "lupeol"
+        ],
+        "reference": "10.1016/j.scp.2024.101477_chunk52"
+    },
+    {
+        "waste": [
+            "L. albus seed coatings",
+            "food waste"
+        ],
+        "transforming_process": [
+            "extraction of lupeol"
+        ],
+        "transformed_resource": [
+            "lupeol",
+            "CO\u2082llageneer\u00aeBio"
+        ],
+        "reference": "10.1016/j.scp.2024.101477_chunk58"
+    },
+    {
+        "waste": [
+            "lupin seeds",
+            "food by-products",
+            "lupin wastewater",
+            "fiber-rich shells",
+            "lupin oil"
+        ],
+        "transforming_process": [
+            "debittering process"
+        ],
+        "transformed_resource": [
+            "lupin wastewater",
+            "fiber-rich shells",
+            "lupin oil"
+        ],
+        "reference": "10.1016/j.scp.2024.101477_chunk59"
+    },
+    {
+        "waste": [
+            "lupin wastewater",
+            "fiber-rich shells",
+            "lupin oil"
+        ],
+        "transforming_process": [
+            "obtaining valuable cosmetic products"
+        ],
+        "transformed_resource": [
+            "cosmetic products containing bioactive compounds"
+        ],
+        "reference": "10.1016/j.scp.2024.101477_chunk60"
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "waste": [
+            "wastewater",
+            "biological residues",
+            "livestock wastewater"
+        ],
+        "transforming_process": [
+            "activated sludge processes",
+            "wastewater stabilisation ponds",
+            "anaerobic digesters",
+            "biorefinery approaches"
+        ],
+        "transformed_resource": [
+            "nutrient recovery",
+            "wastewater reclamation",
+            "high-value-added bioproducts",
+            "renewable carbon sources",
+            "nutrients"
+        ],
+        "reference": "10.1016/j.jenvman.2024.120258_chunk4"
+    },
+    {
+        "waste": [
+            "wastewater"
+        ],
+        "transforming_process": [
+            "wastewater treatment",
+            "optimising microalgal cultivation"
+        ],
+        "transformed_resource": [
+            "microalgal biomass",
+            "protein"
+        ],
+        "reference": "10.1016/j.jenvman.2024.120258_chunk11"
+    },
+    {
+        "waste": [
+            "livestock wastewater",
+            "emerging contaminants"
+        ],
+        "transforming_process": [
+            "membrane bioreactor combined with reverse osmosis",
+            "ozonation",
+            "membrane distillation",
+            "biosorption",
+            "biodegradation",
+            "photolysis"
+        ],
+        "transformed_resource": [
+            "value-added sustainable products",
+            "bioremediation"
+        ],
+        "reference": "10.1016/j.jenvman.2024.120258_chunk19"
+    },
+    {
+        "waste": [
+            "wastewater",
+            "nutrient-rich harvested biomass"
+        ],
+        "transforming_process": [
+            "biodegradation",
+            "photolysis",
+            "biological uptake by microalgae"
+        ],
+        "transformed_resource": [
+            "essential nutrients",
+            "fertilizers",
+            "supplements",
+            "microalgal biomass"
+        ],
+        "reference": "10.1016/j.jenvman.2024.120258_chunk20"
+    },
+    {
+        "waste": [
+            "cattle slaughterhouse wastewater",
+            "diluted wastewater"
+        ],
+        "transforming_process": [
+            "biodegradation",
+            "adsorption",
+            "assimilation"
+        ],
+        "transformed_resource": [
+            "simpler compounds",
+            "reduced turbidity",
+            "reduced organic pollutants"
+        ],
+        "reference": "10.1016/j.jenvman.2024.120258_chunk25"
+    },
+    {
+        "waste": [
+            "organic load of LW",
+            "digestate",
+            "anaerobically digested livestock wastewater (ADLW)",
+            "SW"
+        ],
+        "transforming_process": [
+            "Anaerobic digestion (AD)",
+            "microalgal electroactive wetland coupled with AD"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "energy",
+            "effluent"
+        ],
+        "reference": "10.1016/j.jenvman.2024.120258_chunk29"
+    },
+    {
+        "waste": [
+            "industrial residue",
+            "biomass ash",
+            "biomass wastes",
+            "effluent components",
+            "microorganisms"
+        ],
+        "transforming_process": [
+            "flocculation",
+            "microalgal culture",
+            "combustion",
+            "addition of ash",
+            "dilution"
+        ],
+        "transformed_resource": [
+            "flocculant/coagulant",
+            "coagulant",
+            "progressive precipitation",
+            "clarification",
+            "reduced contamination"
+        ],
+        "reference": "10.1016/j.jenvman.2024.120258_chunk42"
+    },
+    {
+        "waste": [
+            "wastewater",
+            "BOD",
+            "COD",
+            "NH 4 + \u2013N",
+            "NH 3",
+            "AS-treated SW",
+            "EC-treated SW"
+        ],
+        "transforming_process": [
+            "CWS",
+            "nitrification",
+            "microalgal-bacterial consortia"
+        ],
+        "transformed_resource": [
+            "bioenergy",
+            "nitrates",
+            "microalgal growth media"
+        ],
+        "reference": "10.1016/j.jenvman.2024.120258_chunk54"
+    }
+]

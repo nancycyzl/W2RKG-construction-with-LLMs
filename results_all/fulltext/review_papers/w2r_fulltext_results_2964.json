@@ -1,0 +1,356 @@
+[
+    {
+        "waste": [
+            "tires"
+        ],
+        "transforming_process": [
+            "Redesign",
+            "Repair",
+            "Reuse",
+            "Recycle",
+            "Recover"
+        ],
+        "transformed_resource": [
+            "rubber"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk1"
+    },
+    {
+        "waste": [
+            "petroleum-derived products",
+            "biomass products"
+        ],
+        "transforming_process": [
+            "production of renewable CB from biomass products",
+            "incomplete combustion",
+            "thermal decomposition of hydrocarbons"
+        ],
+        "transformed_resource": [
+            "renewable CB",
+            "rubber sources",
+            "fillers"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk19"
+    },
+    {
+        "waste": [
+            "birchwood",
+            "pine",
+            "wood oil"
+        ],
+        "transforming_process": [
+            "slow pyrolysis",
+            "high-temperature spray process"
+        ],
+        "transformed_resource": [
+            "renewable carbon black",
+            "biochar",
+            "green carbon black"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk20"
+    },
+    {
+        "waste": [
+            "eggshells",
+            "rice husk",
+            "chitin",
+            "coffee",
+            "cellulose",
+            "montmorillonite",
+            "kaolin",
+            "lignin",
+            "rice husk ash"
+        ],
+        "transforming_process": [
+            "substitution/modification of silica",
+            "preparing silica from rice husk ash"
+        ],
+        "transformed_resource": [
+            "RHA silica",
+            "energy-saving tires"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk22"
+    },
+    {
+        "waste": [
+            "rice husks",
+            "orange peels",
+            "carbon black",
+            "organoclays",
+            "graphite",
+            "graphene",
+            "graphene oxide",
+            "carbon nanotubes"
+        ],
+        "transforming_process": [
+            "silica production",
+            "oil extraction",
+            "weight reduction",
+            "substitution of fillers"
+        ],
+        "transformed_resource": [
+            "silica",
+            "orange oil",
+            "lightweight tires"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk25"
+    },
+    {
+        "waste": [
+            "worn tires"
+        ],
+        "transforming_process": [
+            "retreading"
+        ],
+        "transformed_resource": [
+            "retreaded tires"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk31"
+    },
+    {
+        "waste": [
+            "tires"
+        ],
+        "transforming_process": [
+            "retreading"
+        ],
+        "transformed_resource": [
+            "energy",
+            "material",
+            "natural resources"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk32"
+    },
+    {
+        "waste": [
+            "tire waste",
+            "scrap tires"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "gasification",
+            "incineration"
+        ],
+        "transformed_resource": [
+            "valuable chemical products",
+            "fuels",
+            "power"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk41"
+    },
+    {
+        "waste": [
+            "scrap tires",
+            "waste tires",
+            "toxic gases",
+            "ashes"
+        ],
+        "transforming_process": [
+            "volume reduction",
+            "net energy recovery",
+            "thermal treatments",
+            "pyrolysis",
+            "thermo-chemical decomposition"
+        ],
+        "transformed_resource": [
+            "low molecular weight products",
+            "valuable chemical compounds",
+            "additives",
+            "starting materials",
+            "value-added products"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk42"
+    },
+    {
+        "waste": [
+            "low grade CB",
+            "fly ash",
+            "coal",
+            "inorganic materials",
+            "zinc residues",
+            "silicates",
+            "iron oxide",
+            "sulfides",
+            "carbonates",
+            "sulfur-polluting compounds",
+            "tar",
+            "water",
+            "aromatic hydrocarbons",
+            "organic substances (oils)"
+        ],
+        "transforming_process": [
+            "processing of carbon fraction to produce activated carbon",
+            "removal of sulfur-polluting compounds",
+            "mixing with diesel oils and other petrochemical products"
+        ],
+        "transformed_resource": [
+            "activated carbon",
+            "recovered CB",
+            "recovered inorganic compounds",
+            "fillers",
+            "heavy fuel oil"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk43"
+    },
+    {
+        "waste": [
+            "scrap tires"
+        ],
+        "transforming_process": [
+            "pyrolysis process",
+            "indirectly fired rotary kiln",
+            "char handling",
+            "steel recovery",
+            "grinding and pelletizing circuit"
+        ],
+        "transformed_resource": [
+            "oil",
+            "non-condensable fuel gas",
+            "steel",
+            "commercial grade CB"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk45"
+    },
+    {
+        "waste": [
+            "tire waste"
+        ],
+        "transforming_process": [
+            "an indirectly fired rotary kiln",
+            "char handling",
+            "steel recovery",
+            "grinding",
+            "pelletizing circuit",
+            "oil condensing system",
+            "gas cleaning system",
+            "pyrolysis technologies",
+            "gasification"
+        ],
+        "transformed_resource": [
+            "CB product",
+            "synthesis gas",
+            "syngas",
+            "CO",
+            "H2",
+            "light hydrocarbons",
+            "CO2"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk46"
+    },
+    {
+        "waste": [
+            "tire components",
+            "postconsumer tires",
+            "industrial wastes"
+        ],
+        "transforming_process": [
+            "complete combustion",
+            "energy recovery",
+            "recycling",
+            "reprocessing"
+        ],
+        "transformed_resource": [
+            "iron oxide",
+            "sulfates",
+            "salts",
+            "metal oxides",
+            "supplementary non-fossil fuel",
+            "reprocessed materials"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk49"
+    },
+    {
+        "waste": [
+            "waste materials",
+            "scrap tires",
+            "whole tires",
+            "tread buffings",
+            "fabric",
+            "metal particles",
+            "worn tires"
+        ],
+        "transforming_process": [
+            "reprocessing",
+            "tire recycling",
+            "producing crumb",
+            "removing fabric and metal",
+            "sub-dividing process"
+        ],
+        "transformed_resource": [
+            "substances",
+            "materials",
+            "products",
+            "crumb",
+            "ground tire rubber (GTR)"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk50"
+    },
+    {
+        "waste": [
+            "tire waste"
+        ],
+        "transforming_process": [
+            "cutting",
+            "shearing",
+            "impact"
+        ],
+        "transformed_resource": [
+            "ground tire rubber"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk51"
+    },
+    {
+        "waste": [
+            "sludge",
+            "mercury (II)",
+            "heavy metals",
+            "organic solvents",
+            "toluene",
+            "benzene",
+            "ethylbenzene",
+            "o-xylene",
+            "vulcanized rubber"
+        ],
+        "transforming_process": [
+            "sludge treatment",
+            "reclaiming",
+            "devulcanization"
+        ],
+        "transformed_resource": [
+            "low modulus polymer material",
+            "original elastomers"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk57"
+    },
+    {
+        "waste": [
+            "vulcanized rubber"
+        ],
+        "transforming_process": [
+            "microwave devulcanization",
+            "ultrasonic devulcanization"
+        ],
+        "transformed_resource": [
+            "devulcanized material"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk59"
+    },
+    {
+        "waste": [
+            "used tires",
+            "end-of-life tires"
+        ],
+        "transforming_process": [
+            "retreading",
+            "repairing",
+            "energy recovery",
+            "material recovery"
+        ],
+        "transformed_resource": [
+            "renewable raw materials",
+            "economic growth",
+            "environmentally friendly uses"
+        ],
+        "reference": "10.1016/j.wasman.2021.03.025_chunk61"
+    }
+]

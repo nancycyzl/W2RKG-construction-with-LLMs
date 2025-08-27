@@ -1,0 +1,230 @@
+[
+    {
+        "waste": [
+            "CO2",
+            "formate",
+            "organic waste streams"
+        ],
+        "transforming_process": [
+            "bioconversion"
+        ],
+        "transformed_resource": [
+            "poly(3-hydroxybutyrate)",
+            "polyhydroxyalkanoates",
+            "substitutes to petroleum-based plastics"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk1"
+    },
+    {
+        "waste": [
+            "CO2",
+            "carbon-rich waste streams"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "PHA synthesis"
+        ],
+        "transformed_resource": [
+            "PHA"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk40"
+    },
+    {
+        "waste": [
+            "carbon-rich waste streams"
+        ],
+        "transforming_process": [
+            "utilization of carbon-rich waste streams as feedstocks"
+        ],
+        "transformed_resource": [
+            "PHA (Polyhydroxyalkanoates)"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk42"
+    },
+    {
+        "waste": [
+            "cheese whey",
+            "sugar-rich molasses",
+            "cellulose-rich agricultural crops",
+            "starch-rich agricultural crops",
+            "glycerol",
+            "CO2"
+        ],
+        "transforming_process": [
+            "uptake by microorganisms",
+            "bioconversion to PHA",
+            "valorization of CO2-rich waste streams"
+        ],
+        "transformed_resource": [
+            "PHA"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk43"
+    },
+    {
+        "waste": [
+            "glycerol",
+            "organic waste streams"
+        ],
+        "transforming_process": [
+            "growth of C. necator",
+            "biomass and PHA formation optimization"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "biomass"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk44"
+    },
+    {
+        "waste": [
+            "lipid-rich streams from slaughterhouses",
+            "saturated share of biodiesel (SFAE)",
+            "crude glycerol phase (CGP)"
+        ],
+        "transforming_process": [
+            "PHA accumulation",
+            "biomass and PHA formation"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "PHBV"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk45"
+    },
+    {
+        "waste": [
+            "sucrose-rich waste streams",
+            "cellulose-rich waste streams",
+            "starch-rich waste streams",
+            "cheese whey"
+        ],
+        "transforming_process": [
+            "growing the microorganisms on glucose",
+            "PHA accumulation using another inexpensive carbon source"
+        ],
+        "transformed_resource": [
+            "biomass",
+            "PHA"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk49"
+    },
+    {
+        "waste": [
+            "cheese whey",
+            "whey permeate",
+            "non-hydrolysed whey permeate",
+            "dairy waste",
+            "date seeds",
+            "grain crops",
+            "starch"
+        ],
+        "transforming_process": [
+            "recombinant strain construction",
+            "PHA production",
+            "hydrolysis of starch"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "monosaccharides",
+            "glucose"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk50"
+    },
+    {
+        "waste": [
+            "starchy residues",
+            "raw corn starch",
+            "broken rice",
+            "purple sweet potato waste",
+            "date seeds",
+            "date byproducts",
+            "date seed oil"
+        ],
+        "transforming_process": [
+            "hydrolysis",
+            "PHA production",
+            "bioconversion"
+        ],
+        "transformed_resource": [
+            "monosaccharides",
+            "PHA"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk51"
+    },
+    {
+        "waste": [
+            "molasses",
+            "sucrose"
+        ],
+        "transforming_process": [
+            "pretreatment with inulinase",
+            "sugar hydrolysis",
+            "acid treatment",
+            "enzymatic treatment"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "monomers",
+            "cell weights"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk53"
+    },
+    {
+        "waste": [
+            "crude sugarcane molasses",
+            "palm oil"
+        ],
+        "transforming_process": [
+            "pretreatment with active charcoal",
+            "PHA production using different organic carbon sources"
+        ],
+        "transformed_resource": [
+            "PHA content of 82.5% of CDW",
+            "high biomass production of 20.3 g/L CDM"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk56"
+    },
+    {
+        "waste": [
+            "carbon dioxide"
+        ],
+        "transforming_process": [
+            "consumption in chemolithotrophy",
+            "conversion into PHA"
+        ],
+        "transformed_resource": [
+            "PHA"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk58"
+    },
+    {
+        "waste": [
+            "CO 2"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "chemolithotrophic growth"
+        ],
+        "transformed_resource": [
+            "PHA",
+            "sucrose",
+            "lipochitooligosaccharides"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk59"
+    },
+    {
+        "waste": [
+            "waste streams"
+        ],
+        "transforming_process": [
+            "repurpose",
+            "heterotrophic growth",
+            "chemolithotrophic processes"
+        ],
+        "transformed_resource": [
+            "biotechnological applications",
+            "CO2 capture"
+        ],
+        "reference": "10.1016/j.biotechadv.2023.108264_chunk80"
+    }
+]

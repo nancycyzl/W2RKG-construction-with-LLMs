@@ -1,0 +1,57 @@
+[
+    {
+        "waste": [
+            "plastic waste",
+            "single use plastic commodities"
+        ],
+        "transforming_process": [
+            "landfill",
+            "recycling",
+            "mechanical recycling",
+            "sorting",
+            "washing",
+            "grinding",
+            "extrusion"
+        ],
+        "transformed_resource": [
+            "raw materials for reuse"
+        ],
+        "reference": "10.1016/j.tibtech.2021.02.008_chunk0"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "mechanical operations",
+            "chemical recycling",
+            "incineration",
+            "enzymatic conversion"
+        ],
+        "transformed_resource": [
+            "lower valued end products",
+            "small component molecules",
+            "heat energy"
+        ],
+        "reference": "10.1016/j.tibtech.2021.02.008_chunk1"
+    },
+    {
+        "waste": [
+            "hydrolyzable plastics",
+            "non-hydrolyzable plastics"
+        ],
+        "transforming_process": [
+            "enzyme biocatalysis",
+            "chemical recycling processes",
+            "depolymerization"
+        ],
+        "transformed_resource": [
+            "oligomers",
+            "monomers",
+            "raw materials",
+            "new plastic products",
+            "value-added chemicals"
+        ],
+        "reference": "10.1016/j.tibtech.2021.02.008_chunk2"
+    }
+]

@@ -1,0 +1,455 @@
+[
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "composting",
+            "anaerobic digestion",
+            "physical transformation",
+            "chemical transformation",
+            "biological transformation"
+        ],
+        "transformed_resource": [
+            "biofertilizers",
+            "soil amendments"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk2"
+    },
+    {
+        "waste": [
+            "food wastes",
+            "food waste",
+            "food wasted",
+            "by-products"
+        ],
+        "transforming_process": [
+            "dehydration",
+            "biochar production",
+            "chemical hydrolysis",
+            "processing steps",
+            "production of functional ingredients"
+        ],
+        "transformed_resource": [
+            "biofertilizers",
+            "soil amendments",
+            "new products",
+            "functional molecules"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk3"
+    },
+    {
+        "waste": [
+            "milling by-products",
+            "brewers' spent grain",
+            "wasted bread",
+            "miscellaneous plant wastes",
+            "outer fibrous materials",
+            "germs",
+            "steep solids",
+            "bran"
+        ],
+        "transforming_process": [
+            "sourdough fermentation",
+            "dry milling",
+            "pearling",
+            "wet milling"
+        ],
+        "transformed_resource": [
+            "added value",
+            "polished grains",
+            "starch",
+            "gluten"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk5"
+    },
+    {
+        "waste": [
+            "milling by-products",
+            "recycled bran",
+            "germ"
+        ],
+        "transforming_process": [
+            "milling",
+            "chemical extraction",
+            "physical extraction",
+            "purification procedures",
+            "sourdough fermentation"
+        ],
+        "transformed_resource": [
+            "food ingredients",
+            "dietary fibers",
+            "biological value"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk6"
+    },
+    {
+        "waste": [
+            "wheat bran",
+            "rye bran"
+        ],
+        "transforming_process": [
+            "sourdough fermentation",
+            "ad hoc fermentation",
+            "combination with enzymes"
+        ],
+        "transformed_resource": [
+            "soluble arabinoxylans",
+            "improved volume",
+            "improved texture"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk8"
+    },
+    {
+        "waste": [
+            "bran",
+            "wheat bran",
+            "whey permeate",
+            "agri-food by-product"
+        ],
+        "transforming_process": [
+            "recycled into the bread formula",
+            "spontaneous sourdough backslopping",
+            "solid-state fermentation",
+            "fermentation with Lacticaseibacillus rhamnosus and Saccharomyces cerevisiae"
+        ],
+        "transformed_resource": [
+            "improved volume and texture",
+            "increased extractability of arabinoxylans",
+            "increased soluble dietary fibers",
+            "increased free amino acids",
+            "decreased content of phytate",
+            "solubilization of fibers",
+            "increased level of free phenolic compounds"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk9"
+    },
+    {
+        "waste": [
+            "biogenic peptides",
+            "degraded antinutritional factors",
+            "trypsin inhibitors",
+            "phytic acid",
+            "nonfermented bran",
+            "rice bran",
+            "Lac. rhamnosus",
+            "S. cerevisiae"
+        ],
+        "transforming_process": [
+            "pre-fermentation",
+            "sourdough fermentation"
+        ],
+        "transformed_resource": [
+            "nutritional profile of bread",
+            "protein digestibility",
+            "ornithine",
+            "water-soluble extracts",
+            "anti-photoaging effect",
+            "decreased cytotoxicity"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk13"
+    },
+    {
+        "waste": [
+            "recycled bran",
+            "oat bran",
+            "rye brans",
+            "wheat brans"
+        ],
+        "transforming_process": [
+            "sourdough fermentation",
+            "fermentation with yeasts",
+            "enrichment with exopolysaccharides"
+        ],
+        "transformed_resource": [
+            "folate",
+            "exopolysaccharides"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk16"
+    },
+    {
+        "waste": [
+            "mycotoxin contamination",
+            "milling by-products",
+            "aflatoxins",
+            "fumonisins",
+            "ochratoxins",
+            "deoxynivalenol",
+            "zearalenone"
+        ],
+        "transforming_process": [
+            "decontamination",
+            "physical methods",
+            "chemical methods",
+            "biological methods",
+            "sourdough fermentation",
+            "adhesion to microbial cells",
+            "degradation into non-toxic metabolites"
+        ],
+        "transformed_resource": [
+            "non-toxic metabolites"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk22"
+    },
+    {
+        "waste": [
+            "brewer's spent grains"
+        ],
+        "transforming_process": [
+            "sourdough fermentation"
+        ],
+        "transformed_resource": [
+            "dextran",
+            "oligosaccharides",
+            "fermented BSG"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk25"
+    },
+    {
+        "waste": [
+            "wasted bread",
+            "industrial waste",
+            "substandard products",
+            "crust removal",
+            "unsold bread"
+        ],
+        "transforming_process": [
+            "sourdough fermentation",
+            "homogenization with water",
+            "hydrolysis with amylases"
+        ],
+        "transformed_resource": [
+            "culture medium",
+            "wasted bread medium",
+            "lactic acid bacteria"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk28"
+    },
+    {
+        "waste": [
+            "wasted bread",
+            "wasted bread crumbs"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "cultivation"
+        ],
+        "transformed_resource": [
+            "sourdough",
+            "bread-making ingredient",
+            "aroma and flavor enhancer",
+            "lactic acids",
+            "acetic acids"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk29"
+    },
+    {
+        "waste": [
+            "wasted bread"
+        ],
+        "transforming_process": [
+            "synthesize bioactive peptides",
+            "hydrolysis by microbial proteases",
+            "fermentation with Lv. brevis"
+        ],
+        "transformed_resource": [
+            "bioactive peptides",
+            "antifungal peptides"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk30"
+    },
+    {
+        "waste": [
+            "wasted bread"
+        ],
+        "transforming_process": [
+            "hydrolysis of gelatinized starch",
+            "sourdough fermentation"
+        ],
+        "transformed_resource": [
+            "dextran",
+            "\u03b2-glucan",
+            "GABA"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk31"
+    },
+    {
+        "waste": [
+            "wasted bread",
+            "wasted bread/bran slurry"
+        ],
+        "transforming_process": [
+            "fermentation",
+            "sourdough fermentations"
+        ],
+        "transformed_resource": [
+            "GABA-enriched bread",
+            "plant growth-promoting microorganisms",
+            "biocontrol agents"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk32"
+    },
+    {
+        "waste": [
+            "wasted bread"
+        ],
+        "transforming_process": [
+            "enzyme treatments",
+            "sourdough fermentation"
+        ],
+        "transformed_resource": [
+            "soil organic carbon",
+            "total nitrogen",
+            "organic acids",
+            "plant growth-promoting activity"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk33"
+    },
+    {
+        "waste": [
+            "bread crust",
+            "waste bread",
+            "miscellaneous plant wastes",
+            "fruit and vegetables hulling and peeling wastes",
+            "pomaces",
+            "food surplus"
+        ],
+        "transforming_process": [
+            "preliminary drying",
+            "fine milling",
+            "adding food-grade proteases",
+            "sourdough fermentation"
+        ],
+        "transformed_resource": [
+            "waste bread powder",
+            "slurry",
+            "waste bread sourdough"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk34"
+    },
+    {
+        "waste": [
+            "apple by-products",
+            "fruit by-products",
+            "vegetable by-products"
+        ],
+        "transforming_process": [
+            "fermentation of apple by-products with Weissella cibaria and S. cerevisiae"
+        ],
+        "transformed_resource": [
+            "enriched wheat bread",
+            "wheat dough stability",
+            "water absorption"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk36"
+    },
+    {
+        "waste": [
+            "apple by-products",
+            "apple pomace"
+        ],
+        "transforming_process": [
+            "sourdough fermentation",
+            "fortification with sourdough"
+        ],
+        "transformed_resource": [
+            "bio-accessible polyphenols",
+            "organic acids",
+            "fibers",
+            "higher microbial viability and growth",
+            "antimicrobial compounds"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk37"
+    },
+    {
+        "waste": [
+            "plant by-products",
+            "palm kernel cake",
+            "oat by-products"
+        ],
+        "transforming_process": [
+            "sourdough fermentation",
+            "solid-state fermentation"
+        ],
+        "transformed_resource": [
+            "antimicrobial peptides",
+            "fermented baked goods"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk38"
+    },
+    {
+        "waste": [
+            "agri-food by-products",
+            "date seeds",
+            "durum wheat flour"
+        ],
+        "transforming_process": [
+            "solid-state fermentation",
+            "recycling as ingredients",
+            "fermentation",
+            "microbial degradation"
+        ],
+        "transformed_resource": [
+            "microbial enzymes",
+            "date seed flour",
+            "sourdough bread",
+            "free phenolic compounds"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk39"
+    },
+    {
+        "waste": [
+            "defatted rapeseed press cake",
+            "plant by-products"
+        ],
+        "transforming_process": [
+            "microbial degradation of tannins",
+            "fermented with W. confusa",
+            "sourdough fermentation"
+        ],
+        "transformed_resource": [
+            "rapeseed proteins",
+            "sourdough bread",
+            "enriched free amino acid profile"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk40"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "sourdough fermentation",
+            "hydrolysis of inulin",
+            "hydrolysis of fructooligosaccharides",
+            "utilization of xylooligosaccharides",
+            "utilization of arabino-xylooligosaccharides"
+        ],
+        "transformed_resource": [
+            "phenolic compounds",
+            "metabolites from cellobiose",
+            "utilizable sugars from inulin and fructooligosaccharides",
+            "utilizable oligosaccharides"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk43"
+    },
+    {
+        "waste": [
+            "plant-derived food waste",
+            "by-products"
+        ],
+        "transforming_process": [
+            "fermentation with lactic acid bacteria",
+            "fermentation with yeasts",
+            "tailored fermentation"
+        ],
+        "transformed_resource": [
+            "improved nutritional features",
+            "improved functional features",
+            "improved in-vitro protein digestibility",
+            "increased antioxidant activity",
+            "improved textural properties"
+        ],
+        "reference": "10.1016/j.tifs.2024.104589_chunk44"
+    }
+]

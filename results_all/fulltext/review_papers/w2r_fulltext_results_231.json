@@ -1,0 +1,307 @@
+[
+    {
+        "waste": [
+            "butter",
+            "cheese",
+            "whey",
+            "strained high protein yogurt",
+            "sweet whey"
+        ],
+        "transforming_process": [
+            "separation technologies",
+            "membrane processes"
+        ],
+        "transformed_resource": [
+            "infant formula",
+            "sports nutrition",
+            "pharmaceuticals",
+            "minerals",
+            "essential amino acids"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk2"
+    },
+    {
+        "waste": [
+            "cheese whey",
+            "whey-derived side-streams",
+            "whey permeate"
+        ],
+        "transforming_process": [
+            "membrane filtration",
+            "valorization"
+        ],
+        "transformed_resource": [
+            "whey proteins",
+            "lactose powder",
+            "organic acids"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk4"
+    },
+    {
+        "waste": [
+            "whey lactose",
+            "dairy side-stream"
+        ],
+        "transforming_process": [
+            "valorization",
+            "conversion",
+            "biological recovery"
+        ],
+        "transformed_resource": [
+            "lactose powder",
+            "organic acids",
+            "alcohols",
+            "polymers",
+            "monosaccharides",
+            "galactooligosaccharides",
+            "lactulose",
+            "pigments",
+            "aroma compounds",
+            "lactose fatty acid esters",
+            "glucose/galactose syrup",
+            "bacterial cellulose",
+            "functional food additives"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk5"
+    },
+    {
+        "waste": [
+            "dairy side-streams",
+            "dairy wastewaters"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "phycoremediation"
+        ],
+        "transformed_resource": [
+            "value-added biomass",
+            "nutritious cultivation media",
+            "lactic acid",
+            "PHA/PHB",
+            "bacterial cellulose",
+            "bioethanol",
+            "Xanthan gum"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk6"
+    },
+    {
+        "waste": [
+            "municipal wastewater",
+            "agro-industrial wastewater",
+            "winery wastewater",
+            "dairy wastewater",
+            "dairy manure",
+            "piggery wastewater",
+            "soybean processing wastewater",
+            "leather wastewater",
+            "aquaculture wastewater"
+        ],
+        "transforming_process": [
+            "wastewater treatment using microalgae",
+            "photosynthetic activity"
+        ],
+        "transformed_resource": [
+            "microalgae biomass",
+            "nutrients"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk10"
+    },
+    {
+        "waste": [
+            "side-streams",
+            "organic carbon sources",
+            "dairy side-streams"
+        ],
+        "transforming_process": [
+            "valorizing as a feedstock",
+            "phycoremediation",
+            "conversion of nutrients and organic carbon loads"
+        ],
+        "transformed_resource": [
+            "microalgae biomass",
+            "valuable biomass"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk11"
+    },
+    {
+        "waste": [
+            "dairy processing effluents",
+            "dairy manure wastewater",
+            "cheese whey",
+            "preliminary treated effluents of dairy industry waste"
+        ],
+        "transforming_process": [
+            "using microalgae in advanced biological treatment",
+            "cultivating microalgae in dairy side-streams"
+        ],
+        "transformed_resource": [
+            "biomass as animal feed",
+            "efficient nitrogen removal",
+            "nutrients removal"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk13"
+    },
+    {
+        "waste": [
+            "dairy side-streams",
+            "wastewater"
+        ],
+        "transforming_process": [
+            "mixing",
+            "cultivation"
+        ],
+        "transformed_resource": [
+            "microalgae",
+            "nutrients"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk20"
+    },
+    {
+        "waste": [
+            "COD",
+            "NO3 2\u2212",
+            "PO4 \u2212",
+            "lactose",
+            "dairy side-streams",
+            "whey",
+            "whey permeate"
+        ],
+        "transforming_process": [
+            "optimization of macro and micronutrient composition",
+            "hydrolysis of lactose",
+            "conversion of lactose to GOSs",
+            "hydrolysis of lactose to monosaccharides"
+        ],
+        "transformed_resource": [
+            "microalgae",
+            "glucose",
+            "galactose",
+            "GOSs",
+            "monosaccharides"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk23"
+    },
+    {
+        "waste": [
+            "dairy wastewater"
+        ],
+        "transforming_process": [
+            "phycoremediation",
+            "pre-treatment"
+        ],
+        "transformed_resource": [
+            "biomass",
+            "reduced COD"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk27"
+    },
+    {
+        "waste": [
+            "ricotta cheese whey",
+            "reducing sugar",
+            "lactose"
+        ],
+        "transforming_process": [
+            "mixotrophic cultivation",
+            "lactose utilization"
+        ],
+        "transformed_resource": [
+            "biomass",
+            "C. vulgaris",
+            "COD removal"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk34"
+    },
+    {
+        "waste": [
+            "acid whey permeate",
+            "whey permeate",
+            "lactose",
+            "cheese whey"
+        ],
+        "transforming_process": [
+            "cultivated",
+            "valorization",
+            "phototrophic cultivation",
+            "mixotrophic growth",
+            "heterotrophic cultivation"
+        ],
+        "transformed_resource": [
+            "biomass",
+            "utilized lactose"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk39"
+    },
+    {
+        "waste": [
+            "dairy side-streams"
+        ],
+        "transforming_process": [
+            "sustainable cultivation of microalgae"
+        ],
+        "transformed_resource": [
+            "food",
+            "food ingredients",
+            "bio-active food ingredients",
+            "phenolic compounds",
+            "flavonoids",
+            "carotenoids",
+            "microalgal biomass"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk42"
+    },
+    {
+        "waste": [
+            "dairy side-streams",
+            "dairy wastewater"
+        ],
+        "transforming_process": [
+            "cultivation of microalgal species",
+            "filtration of suspended particles"
+        ],
+        "transformed_resource": [
+            "whole biomass",
+            "antioxidants",
+            "astaxanthin",
+            "lutein",
+            "zeaxanthin",
+            "\u03b2-carotene",
+            "polyphenols"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk43"
+    },
+    {
+        "waste": [
+            "synthetic dairy side-stream",
+            "fresh milk",
+            "cheese whey",
+            "milk fat",
+            "protein",
+            "carbohydrate"
+        ],
+        "transforming_process": [
+            "growth of Haematococcus pluvialis",
+            "mixotrophic cultivation"
+        ],
+        "transformed_resource": [
+            "biomass",
+            "astaxanthin"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk46"
+    },
+    {
+        "waste": [
+            "by-products from the dairy processing industry",
+            "dairy side-streams"
+        ],
+        "transforming_process": [
+            "mixotrophic cultivation of microalgae",
+            "biotechnology-centered treatment strategies"
+        ],
+        "transformed_resource": [
+            "high-value biomass",
+            "sustainable food ingredients"
+        ],
+        "reference": "10.1016/j.tifs.2024.104386_chunk50"
+    }
+]

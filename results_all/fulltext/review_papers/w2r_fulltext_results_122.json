@@ -1,0 +1,54 @@
+[
+    {
+        "waste": [
+            "seawater",
+            "river water",
+            "seawater desalination brine",
+            "wastewater",
+            "engineered solutions",
+            "hypersaline brines"
+        ],
+        "transforming_process": [
+            "salinity gradient energy recovery"
+        ],
+        "transformed_resource": [
+            "energy"
+        ],
+        "reference": "10.1016/j.coelec.2024.101477_chunk9"
+    },
+    {
+        "waste": [
+            "saline waste streams",
+            "seawater",
+            "effluent of a wastewater treatment plant",
+            "waste brine",
+            "RO brines",
+            "bitterns from saltworks"
+        ],
+        "transforming_process": [
+            "SGE-RED",
+            "seawater reverse osmosis (SWRO) desalination"
+        ],
+        "transformed_resource": [
+            "reclaimed water",
+            "net specific energy values",
+            "power density"
+        ],
+        "reference": "10.1016/j.coelec.2024.101477_chunk12"
+    },
+    {
+        "waste": [
+            "waste acids",
+            "acidic wastewater",
+            "alkaline wastewater"
+        ],
+        "transforming_process": [
+            "pH gradient energy recovery",
+            "electroneutralization energy (ENE) cell"
+        ],
+        "transformed_resource": [
+            "energy"
+        ],
+        "reference": "10.1016/j.coelec.2024.101477_chunk17"
+    }
+]

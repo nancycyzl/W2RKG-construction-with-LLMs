@@ -1,0 +1,552 @@
+[
+    {
+        "waste": [
+            "scales",
+            "fins",
+            "skins",
+            "viscera",
+            "head",
+            "bones",
+            "muscle-trimmings",
+            "bycaught fishes"
+        ],
+        "transforming_process": [
+            "processing operations",
+            "bycatching"
+        ],
+        "transformed_resource": [
+            "fish meal",
+            "fish oil"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk1"
+    },
+    {
+        "waste": [
+            "low-valued fish",
+            "fish processing waste",
+            "bycaught fish"
+        ],
+        "transforming_process": [
+            "produce fish meal",
+            "produce fish oil",
+            "produce fish enzymes",
+            "produce collagen",
+            "produce insulin",
+            "produce antimicrobial compounds",
+            "produce biopolymers"
+        ],
+        "transformed_resource": [
+            "fish meal",
+            "fish oil",
+            "fish enzymes",
+            "collagen",
+            "insulin",
+            "antimicrobial compounds",
+            "biopolymers"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk2"
+    },
+    {
+        "waste": [
+            "seafood processing waste",
+            "fish waste"
+        ],
+        "transforming_process": [
+            "biorefinery processes",
+            "recycling"
+        ],
+        "transformed_resource": [
+            "novel industrial bioproducts",
+            "industrially producible fish products"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk5"
+    },
+    {
+        "waste": [
+            "fish skin",
+            "shark scales",
+            "salmon skin",
+            "gut",
+            "visceral organs"
+        ],
+        "transforming_process": [
+            "sterilization",
+            "glycerolization",
+            "irradiation",
+            "mechanical cutting",
+            "aniline dyeing",
+            "chemical removal of scales"
+        ],
+        "transformed_resource": [
+            "fish skin bandage",
+            "leather",
+            "sand paper",
+            "fish enzymes"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk8"
+    },
+    {
+        "waste": [
+            "air bladders",
+            "swimming bladders"
+        ],
+        "transforming_process": [
+            "detached during dressing operation",
+            "preserved by salting",
+            "slit opened",
+            "thoroughly washed",
+            "air-dried",
+            "immersed in water",
+            "mechanically cut",
+            "pressed between hollow iron rollers",
+            "converted into thin strips",
+            "dried"
+        ],
+        "transformed_resource": [
+            "isinglass in leaf form",
+            "isinglass in book form"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk13"
+    },
+    {
+        "waste": [
+            "fish scales",
+            "chitin"
+        ],
+        "transforming_process": [
+            "deproteinization",
+            "demineralization",
+            "deacetylation"
+        ],
+        "transformed_resource": [
+            "chitin",
+            "chitosan",
+            "poultry feed"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk17"
+    },
+    {
+        "waste": [
+            "guinine deposit in scales of fishes",
+            "dried fish scales"
+        ],
+        "transforming_process": [
+            "scrubbing lustrous material from scales in a large agitator",
+            "sock scales in gasoline",
+            "using protein enzyme e.g. trypsin and benzol"
+        ],
+        "transformed_resource": [
+            "pearl essence",
+            "flocculating agent",
+            "biosorbents"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk19"
+    },
+    {
+        "waste": [
+            "fish scrap",
+            "trash fishes",
+            "waste meals"
+        ],
+        "transforming_process": [
+            "albumins production",
+            "cooking",
+            "press drying",
+            "milling",
+            "masking",
+            "water scrubbing",
+            "incineration"
+        ],
+        "transformed_resource": [
+            "food grade albumins",
+            "fish meal"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk23"
+    },
+    {
+        "waste": [
+            "fish scrap",
+            "waste meal"
+        ],
+        "transforming_process": [
+            "processing of fish",
+            "incineration"
+        ],
+        "transformed_resource": [
+            "fish meal",
+            "fish oil",
+            "biofuel",
+            "aquaculture feed",
+            "pig feed",
+            "poultry feed",
+            "nutraceutical products",
+            "cosmetics",
+            "cooking oil",
+            "margarine",
+            "lubricants"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk24"
+    },
+    {
+        "waste": [
+            "fish processing waste",
+            "fish bones"
+        ],
+        "transforming_process": [
+            "transesterification",
+            "wet pressing",
+            "solvent extraction",
+            "treatment with calcium carbonate",
+            "treatment with NaOH",
+            "washing",
+            "drying",
+            "pulverizing"
+        ],
+        "transformed_resource": [
+            "biofuel",
+            "fish oil",
+            "fish calcium powder",
+            "fishbone biochar"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk25"
+    },
+    {
+        "waste": [
+            "bones",
+            "fish scale",
+            "skin",
+            "chitin",
+            "chitosan",
+            "myofibrillar protein"
+        ],
+        "transforming_process": [
+            "pulverization",
+            "extraction"
+        ],
+        "transformed_resource": [
+            "fishbone biochar",
+            "collagen",
+            "gelatin",
+            "glue",
+            "biopolymer",
+            "biofilm",
+            "bioplastic",
+            "biopackaging products"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk26"
+    },
+    {
+        "waste": [
+            "backbone wastes",
+            "bone tissue",
+            "scales",
+            "fish skin"
+        ],
+        "transforming_process": [
+            "filtration",
+            "lyophilization",
+            "decalcification",
+            "pepsin digestion",
+            "demineralization using EDTA",
+            "dissolve in acetic acid",
+            "deep eutectic solvent extraction",
+            "supercritical fluid extraction",
+            "extrusion",
+            "ultrasound-assisted extraction",
+            "salt solubilization"
+        ],
+        "transformed_resource": [
+            "type I collagen",
+            "noncollagenous compounds",
+            "pepsin-soluble collagen",
+            "acid-soluble collagen",
+            "collagen type I",
+            "collagen type II",
+            "collagen type IX",
+            "collagen type XI"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk28"
+    },
+    {
+        "waste": [
+            "fish cartilage",
+            "fish fins",
+            "fish skins",
+            "fish bones",
+            "fish maws"
+        ],
+        "transforming_process": [
+            "acid and pepsin solubilization",
+            "salt solubilization",
+            "treatment with NaOH",
+            "treatment with H2SO4",
+            "treatment with citric acid",
+            "washing",
+            "soaking in distilled water",
+            "filtration"
+        ],
+        "transformed_resource": [
+            "collagen type I",
+            "collagen type II",
+            "collagen type IX",
+            "collagen type XI",
+            "gelatin"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk29"
+    },
+    {
+        "waste": [
+            "skin",
+            "bone",
+            "tilapia scale",
+            "croaker wastes",
+            "fish scale",
+            "chitin",
+            "chitosan",
+            "collagen",
+            "myofibrillar protein"
+        ],
+        "transforming_process": [
+            "filtration of obtained extract",
+            "vacuum oven drying",
+            "milling"
+        ],
+        "transformed_resource": [
+            "gelatin",
+            "biopolymer",
+            "biofilm",
+            "bioplastic",
+            "biopackaging"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk30"
+    },
+    {
+        "waste": [
+            "fish waste"
+        ],
+        "transforming_process": [
+            "processing",
+            "hydrolysis"
+        ],
+        "transformed_resource": [
+            "fish silage"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk33"
+    },
+    {
+        "waste": [
+            "fish waste"
+        ],
+        "transforming_process": [
+            "acid silage",
+            "fermented silage"
+        ],
+        "transformed_resource": [
+            "fish silage"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk34"
+    },
+    {
+        "waste": [
+            "fish waste",
+            "shrimp waste",
+            "filleting waste"
+        ],
+        "transforming_process": [
+            "fish silage technology",
+            "canning",
+            "grinding",
+            "mixing ingredients",
+            "coarsely mincing"
+        ],
+        "transformed_resource": [
+            "animal feed",
+            "pet food",
+            "wet feed"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk35"
+    },
+    {
+        "waste": [
+            "fish/filleting waste",
+            "shrimp waste",
+            "binding powder",
+            "vitamin mix"
+        ],
+        "transforming_process": [
+            "coarsely minced together",
+            "fed by hand",
+            "converted into stable solid",
+            "converted into liquid fertilizers",
+            "converted into compost",
+            "crushing"
+        ],
+        "transformed_resource": [
+            "wet feed",
+            "fish fertilizer",
+            "compost",
+            "biogas",
+            "hydrolyzed waste/fish hydrolysate",
+            "fish silage",
+            "fish solubles/fish emulsion",
+            "fish meal",
+            "fish powder",
+            "fish soluble nutrients"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk36"
+    },
+    {
+        "waste": [
+            "fish waste",
+            "cattle manure",
+            "vegetable waste"
+        ],
+        "transforming_process": [
+            "crushing",
+            "heating",
+            "centrifugation/pressing",
+            "liquid and solid separation",
+            "drying up the solids",
+            "biogas production through anaerobic co-digestion",
+            "composting"
+        ],
+        "transformed_resource": [
+            "fish silage",
+            "fishbone meal",
+            "fish meal",
+            "fish powder",
+            "fertilizers",
+            "compost",
+            "liquid fertilizer products",
+            "solid fertilizer products",
+            "fish compost"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk37"
+    },
+    {
+        "waste": [
+            "compost",
+            "wash water"
+        ],
+        "transforming_process": [
+            "composting operation",
+            "rinse water recovery"
+        ],
+        "transformed_resource": [
+            "compost",
+            "protein",
+            "lipid"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk38"
+    },
+    {
+        "waste": [
+            "wash water from fish processing plant",
+            "brown grease",
+            "fish waste"
+        ],
+        "transforming_process": [
+            "extraction of lipids",
+            "extraction of proteins",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "animal feed",
+            "oil",
+            "high-value specialty solvents",
+            "high cetane alkane-based fuels",
+            "fish protein concentrates",
+            "fish oil"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk39"
+    },
+    {
+        "waste": [
+            "fish waste",
+            "potato waste",
+            "tomato waste",
+            "citrus fruits waste",
+            "olive waste"
+        ],
+        "transforming_process": [
+            "conversion of waste into products",
+            "valorization pathways"
+        ],
+        "transformed_resource": [
+            "fish protein concentrates",
+            "fish oil",
+            "fish meal"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk40"
+    },
+    {
+        "waste": [
+            "fish waste",
+            "shellfish waste"
+        ],
+        "transforming_process": [
+            "valorization pathways"
+        ],
+        "transformed_resource": [
+            "medical products",
+            "pharmaceutical products",
+            "cosmeceuticals",
+            "food products",
+            "packaging",
+            "animal feed"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk41"
+    },
+    {
+        "waste": [
+            "salmon waste",
+            "fish waste",
+            "by-products of fish canning industry",
+            "by-products produced in mussel sector"
+        ],
+        "transforming_process": [
+            "further treatment of fish waste",
+            "conventional extraction",
+            "high hydrostatic pressure extraction",
+            "subcritical water extraction"
+        ],
+        "transformed_resource": [
+            "salmon feed",
+            "fish meal",
+            "\u03c9-3 lipids"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk44"
+    },
+    {
+        "waste": [
+            "shell waste",
+            "mussel organic by-product"
+        ],
+        "transforming_process": [
+            "valorization into calcium carbonate",
+            "valorization into p\u00e2t\u00e9"
+        ],
+        "transformed_resource": [
+            "calcium carbonate",
+            "p\u00e2t\u00e9"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk45"
+    },
+    {
+        "waste": [
+            "less demanded fishes",
+            "low-valued fishes",
+            "bycatch",
+            "trash fishes",
+            "fish processing wastes"
+        ],
+        "transforming_process": [
+            "producing non-food products",
+            "biorefinery approaches"
+        ],
+        "transformed_resource": [
+            "commercially important non-food products"
+        ],
+        "reference": "10.1016/j.heliyon.2023.e22673_chunk49"
+    }
+]

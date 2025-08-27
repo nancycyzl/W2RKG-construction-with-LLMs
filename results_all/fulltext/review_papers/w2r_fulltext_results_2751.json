@@ -1,0 +1,343 @@
+[
+    {
+        "waste": [
+            "waste"
+        ],
+        "transforming_process": [
+            "conversion",
+            "biorefinery",
+            "bioeconomy-oriented technology"
+        ],
+        "transformed_resource": [
+            "clean energy",
+            "higher-value byproducts"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk1"
+    },
+    {
+        "waste": [
+            "byproducts"
+        ],
+        "transforming_process": [
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "renewable biofuel",
+            "biomethane",
+            "carbon dioxide",
+            "digestate",
+            "organic fertilizer"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk2"
+    },
+    {
+        "waste": [
+            "cassava wastewater",
+            "agro-residues"
+        ],
+        "transforming_process": [
+            "treat cassava residues",
+            "biorefinery exploits"
+        ],
+        "transformed_resource": [
+            "biohydrogen",
+            "bioethanol",
+            "coagulant aid",
+            "pesticide"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk4"
+    },
+    {
+        "waste": [
+            "cassava waste",
+            "cassava wastewater"
+        ],
+        "transforming_process": [
+            "Anaerobic digestion",
+            "biorefinery processes"
+        ],
+        "transformed_resource": [
+            "biomethane",
+            "biofertilizer",
+            "heat",
+            "electricity",
+            "starch"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk5"
+    },
+    {
+        "waste": [
+            "cassava residues"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "co-digestion",
+            "pretreatment"
+        ],
+        "transformed_resource": [
+            "biogas"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk6"
+    },
+    {
+        "waste": [
+            "waste biomass",
+            "cassava residues"
+        ],
+        "transforming_process": [
+            "avoiding pollution by substituting fossil fuels",
+            "preventing methane escapes from manure",
+            "producing green fertilizer",
+            "storing carbon in soils"
+        ],
+        "transformed_resource": [
+            "clean and renewable energy",
+            "green fertilizer",
+            "cassava flour",
+            "tapioca",
+            "cassava starch"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk9"
+    },
+    {
+        "waste": [
+            "cassava residues",
+            "effluents",
+            "contaminants"
+        ],
+        "transforming_process": [
+            "biologically converted",
+            "controlled-release fertilizer development"
+        ],
+        "transformed_resource": [
+            "higher-value products",
+            "controlled-release fertilizer"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk13"
+    },
+    {
+        "waste": [
+            "cassava starch",
+            "bagasse",
+            "cassava residues",
+            "cassava bagasse",
+            "cassava stem",
+            "CW",
+            "easily degradable wastewaters"
+        ],
+        "transforming_process": [
+            "synthesis of metal-free electrocatalysts",
+            "thermal functionalization with sulfuric acid",
+            "fast hydrolysis using amylases",
+            "production of high-concentration bioethanol",
+            "biogas production from CW",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "controlled-release fertilizer",
+            "metal-free electrocatalysts",
+            "ethanol",
+            "bioethanol",
+            "biogas",
+            "hydrogen"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk14"
+    },
+    {
+        "waste": [
+            "cassava wastewater",
+            "cassava residues",
+            "organic matter"
+        ],
+        "transforming_process": [
+            "alkalization control",
+            "biogas production",
+            "bio-digestion"
+        ],
+        "transformed_resource": [
+            "calcium oxide",
+            "biofertilizer",
+            "biomethane",
+            "energy",
+            "bio-based products"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk15"
+    },
+    {
+        "waste": [
+            "food waste",
+            "municipal solid waste",
+            "livestock manure",
+            "wastewater streams",
+            "cassava wastewater"
+        ],
+        "transforming_process": [
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "biomethane"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk16"
+    },
+    {
+        "waste": [
+            "hydrogen sulfide",
+            "nitrogen",
+            "carbon dioxide",
+            "digestate"
+        ],
+        "transforming_process": [
+            "hydrolysis",
+            "acidogenesis",
+            "acetogenesis",
+            "methanogenesis"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "organic fertilizer"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk17"
+    },
+    {
+        "waste": [
+            "polymers",
+            "short-chain fatty acids",
+            "alcohols",
+            "gaseous by-products",
+            "undesirable oxygen"
+        ],
+        "transforming_process": [
+            "hydrolysis",
+            "acidogenesis",
+            "methanogenesis"
+        ],
+        "transformed_resource": [
+            "methane",
+            "acetic acid",
+            "hydrogen",
+            "carbon dioxide"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk18"
+    },
+    {
+        "waste": [
+            "cassava residues",
+            "food wastes"
+        ],
+        "transforming_process": [
+            "pretreatment",
+            "fermentation",
+            "hydrolysis",
+            "anaerobic digestion"
+        ],
+        "transformed_resource": [
+            "methane",
+            "biogas"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk32"
+    },
+    {
+        "waste": [
+            "cassava wastewater",
+            "lignocellulosic structure",
+            "high molecular weight carbohydrates"
+        ],
+        "transforming_process": [
+            "cogeneration",
+            "sequential treatments",
+            "photocatalytic degradation"
+        ],
+        "transformed_resource": [
+            "hydrogen",
+            "methane",
+            "biogas",
+            "reducing sugars"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk34"
+    },
+    {
+        "waste": [
+            "wastewater",
+            "inoculum (anaerobic seed sludge)",
+            "CW"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "sonication",
+            "OPTIMASH BG\u00ae (enzyme)",
+            "\u03b1-amylase",
+            "heat pretreatment",
+            "chemical pretreatment"
+        ],
+        "transformed_resource": [
+            "hydrogen",
+            "biohydrogen"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk35"
+    },
+    {
+        "waste": [
+            "vinasse",
+            "municipal solid waste",
+            "wastewater from UASB",
+            "sludge from anaerobic treatment",
+            "cattle manure",
+            "pig manure",
+            "poultry manure",
+            "rice parboiling waste",
+            "cassava"
+        ],
+        "transforming_process": [
+            "biogas production",
+            "anaerobic digestion",
+            "electricity generation",
+            "bus fleet fuel production",
+            "reducing CO2 emission",
+            "producing biogas",
+            "producing hydrogen-rich syngas"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "hydrogen-rich syngas",
+            "electricity",
+            "bus fleet fuel"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk39"
+    },
+    {
+        "waste": [
+            "cassava wastewater",
+            "undigested manure",
+            "chemical fertilizers"
+        ],
+        "transforming_process": [
+            "digestion",
+            "biogas output generation"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "digestate",
+            "organic fertilizer"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk40"
+    },
+    {
+        "waste": [
+            "digestate",
+            "organic wastes",
+            "cassava residues",
+            "cassava wastewater"
+        ],
+        "transforming_process": [
+            "biogas production"
+        ],
+        "transformed_resource": [
+            "energy",
+            "environmental gains",
+            "economic gains",
+            "social gains"
+        ],
+        "reference": "10.1016/j.clet.2021.100196_chunk46"
+    }
+]

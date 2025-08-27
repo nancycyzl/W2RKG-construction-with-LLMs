@@ -7,8 +7,8 @@ def get_abstract_results():
 
     # REPLACE WITH YOUR FILES
     w2r_results = [
-    'results_all/abstract/gpt-4o-mini_zero_code1/run_0/w2r_results.json',    # part one
-    'results_all/abstract/gpt-4o-mini_zero_code1_1/run_0/w2r_results.json'   # part two  
+    'results_all/abstract/gpt-4o-mini_zero_code1/run_0/w2r_results.json',    # part one, from index 0 to 4490
+    'results_all/abstract/gpt-4o-mini_zero_code1_1/run_0/w2r_results.json'   # part two, from index 4491 to end
     ]
 
     waste_list = []
@@ -39,8 +39,6 @@ def get_abstract_results():
 def get_fulltext_results():
     # REPLACE WITH YOUR FILES
     w2r_results = [
-#     'results_all/fulltext/gpt-4o-mini_zero_code1_chunk/w2r_fulltext_results.json',
-#     'results_all/fulltext//gpt-4o-mini_zero_code1_chunk_1/review_papers',   # this is a folder, start from row id 166, reference is doi only
     'results_all/fulltext/gpt-4o-mini_zero_code1_chunk_2/review_papers'     # this is a folder, reference is doi + chunk id
     ]
 

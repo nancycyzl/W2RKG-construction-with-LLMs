@@ -1,0 +1,269 @@
+[
+    {
+        "waste": [
+            "bio-wastes",
+            "biodegradable waste materials"
+        ],
+        "transforming_process": [
+            "green synthesis",
+            "synthesize"
+        ],
+        "transformed_resource": [
+            "metal nanoparticles",
+            "M/MO-NPs"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk7"
+    },
+    {
+        "waste": [
+            "bio-waste"
+        ],
+        "transforming_process": [
+            "synthesis of M/MO-NPs",
+            "bio-waste-mediated metallic NPs synthesis"
+        ],
+        "transformed_resource": [
+            "metallic NPs"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk8"
+    },
+    {
+        "waste": [
+            "fruit waste",
+            "vegetable waste",
+            "seeds",
+            "peels",
+            "orange fruit peel extract"
+        ],
+        "transforming_process": [
+            "synthesis of M/MO-NPs",
+            "synthesis of zinc oxide NPs"
+        ],
+        "transformed_resource": [
+            "zinc oxide NPs"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk10"
+    },
+    {
+        "waste": [
+            "fruit peel-based waste",
+            "waste corncob",
+            "aqueous extracts of waste corncob",
+            "aqueous extracts of A."
+        ],
+        "transforming_process": [
+            "synthesized using aqueous extracts",
+            "synthesized magnesium oxide NPs"
+        ],
+        "transformed_resource": [
+            "M/MO-NPs",
+            "gold NPs",
+            "silver NPs",
+            "magnesium oxide NPs"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk11"
+    },
+    {
+        "waste": [
+            "sugarcane bagasse"
+        ],
+        "transforming_process": [
+            "synthesis of silver NPs using sugarcane bagasse-derived cellulose",
+            "preparation of silver NPs through sugarcane bagasse extract"
+        ],
+        "transformed_resource": [
+            "silver nanoparticles",
+            "lead adsorbent"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk17"
+    },
+    {
+        "waste": [
+            "tea waste"
+        ],
+        "transforming_process": [
+            "utilization of tea waste in the removal of heavy metal ions",
+            "synthesis of iron NPs using tea-waste extract",
+            "synthesis of silver NPs through an aqueous extract of tea waste"
+        ],
+        "transformed_resource": [
+            "heavy metal ions removal",
+            "iron NPs",
+            "silver NPs"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk18"
+    },
+    {
+        "waste": [
+            "tea waste",
+            "sugarcane bagasse",
+            "chicken eggshell",
+            "poultry chicken feather"
+        ],
+        "transforming_process": [
+            "synthesis of silver NPs",
+            "utilized the waste eggshell to prepare silver NPs"
+        ],
+        "transformed_resource": [
+            "silver NPs"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk19"
+    },
+    {
+        "waste": [
+            "eggshell",
+            "chicken eggshell membrane"
+        ],
+        "transforming_process": [
+            "thermal-mediated approach",
+            "simple single-step synthesis"
+        ],
+        "transformed_resource": [
+            "silver nanoparticles",
+            "gold nanoparticles"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk20"
+    },
+    {
+        "waste": [
+            "eggs",
+            "nails",
+            "hair",
+            "wool",
+            "hoofs of mammals",
+            "avian feathers",
+            "poultry chicken feather waste"
+        ],
+        "transforming_process": [
+            "superheated water extraction"
+        ],
+        "transformed_resource": [
+            "keratin",
+            "silver nanoparticles"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk21"
+    },
+    {
+        "waste": [
+            "poultry chicken feather-based keratin",
+            "cow urine",
+            "cow dung"
+        ],
+        "transforming_process": [
+            "degradation by B. subtilis",
+            "reduction using disulfide reductase and keratinase"
+        ],
+        "transformed_resource": [
+            "gold nanoparticles"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk22"
+    },
+    {
+        "waste": [
+            "cow urine",
+            "Indian Khilar cow urine"
+        ],
+        "transforming_process": [
+            "synthesis via combustion method",
+            "synthesis of palladium NPs"
+        ],
+        "transformed_resource": [
+            "silver oxide NPs",
+            "palladium NPs"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk23"
+    },
+    {
+        "waste": [
+            "cow urine",
+            "fruit/vegetable peels",
+            "human hair",
+            "chicken eggshell",
+            "panchakavya"
+        ],
+        "transforming_process": [
+            "prepared silver NPs using panchakavya",
+            "synthesized copper NPs using panchakavya"
+        ],
+        "transformed_resource": [
+            "silver NPs",
+            "copper NPs"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk24"
+    },
+    {
+        "waste": [
+            "Panchakavya",
+            "Parthenium hysterophorus leaf extract"
+        ],
+        "transforming_process": [
+            "synthesis of copper NPs",
+            "synthesis of silver NPs"
+        ],
+        "transformed_resource": [
+            "copper NPs",
+            "silver NPs"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk58"
+    },
+    {
+        "waste": [
+            "Parthenium hysterophorus",
+            "Saccharum spontaneum"
+        ],
+        "transforming_process": [
+            "utilized to synthesize silver NPs"
+        ],
+        "transformed_resource": [
+            "silver NPs"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk59"
+    },
+    {
+        "waste": [
+            "silver ions",
+            "Mangifera indica seed"
+        ],
+        "transforming_process": [
+            "preparation of silver NPs"
+        ],
+        "transformed_resource": [
+            "silver NPs"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk60"
+    },
+    {
+        "waste": [
+            "coffee-based hydrochar",
+            "waste papers",
+            "coconut shell",
+            "coconut coir",
+            "peanut shell",
+            "agricultural weeds"
+        ],
+        "transforming_process": [
+            "bio-waste mediated metallic NPs synthesis",
+            "green synthesis of metallic NPs"
+        ],
+        "transformed_resource": [
+            "metallic NPs"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk61"
+    },
+    {
+        "waste": [
+            "bio-wastes",
+            "green materials",
+            "microbes",
+            "plants",
+            "various food sources"
+        ],
+        "transforming_process": [
+            "green synthesis"
+        ],
+        "transformed_resource": [
+            "M/MO-NPs"
+        ],
+        "reference": "10.1016/j.jddst.2022.103305_chunk63"
+    }
+]

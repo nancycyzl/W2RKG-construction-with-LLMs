@@ -1,0 +1,222 @@
+[
+    {
+        "waste": [
+            "fruit waste",
+            "vegetable waste"
+        ],
+        "transforming_process": [
+            "assisted extraction",
+            "pulsed electric field assisted extraction"
+        ],
+        "transformed_resource": [
+            "antioxidant-rich extracts",
+            "BCs-rich extracts",
+            "VOs"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328_chunk8"
+    },
+    {
+        "waste": [
+            "fruits waste",
+            "pomegranate waste",
+            "grape waste",
+            "citrus waste",
+            "apple waste",
+            "pomegranate peel"
+        ],
+        "transforming_process": [
+            "extracting antioxidants from fruit waste",
+            "utilizing fruit waste extracts in oil formulation",
+            "making juice from pomegranate",
+            "making syrup from pomegranate",
+            "making jams from pomegranate",
+            "making wine from pomegranate"
+        ],
+        "transformed_resource": [
+            "oil formulations with antioxidant extracts",
+            "juice",
+            "syrup",
+            "jams",
+            "wine"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328_chunk17"
+    },
+    {
+        "waste": [
+            "pomegranate peel"
+        ],
+        "transforming_process": [
+            "extraction of antioxidants"
+        ],
+        "transformed_resource": [
+            "bioactive phenolic compounds",
+            "flavonoid compounds",
+            "antioxidants",
+            "anthocyanins",
+            "gallotannins",
+            "hydroxycinnamic acids",
+            "hydroxybenzoic acids",
+            "hydrolyzable tannins",
+            "ellagitannins",
+            "gallagyl esters",
+            "complex polysaccharides"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328_chunk18"
+    },
+    {
+        "waste": [
+            "grape pomace"
+        ],
+        "transforming_process": [
+            "pressing grapes"
+        ],
+        "transformed_resource": [
+            "natural antioxidant"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328_chunk26"
+    },
+    {
+        "waste": [
+            "lyophilized Pinot Noir grape pomace extract",
+            "waste extract"
+        ],
+        "transforming_process": [
+            "heat exposure",
+            "inhibitory effect on thermo-oxidation"
+        ],
+        "transformed_resource": [
+            "natural additive",
+            "protection against thermo-oxidation"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328_chunk28"
+    },
+    {
+        "waste": [
+            "grape pomace powder",
+            "orange waste"
+        ],
+        "transforming_process": [
+            "enhancing antioxidant activity",
+            "testing as natural antioxidant",
+            "delay oxidation of oil"
+        ],
+        "transformed_resource": [
+            "antioxidant activity of sesame oil",
+            "oxidative stability of corn oil"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328_chunk30"
+    },
+    {
+        "waste": [
+            "orange peel extract"
+        ],
+        "transforming_process": [
+            "solvent extraction",
+            "formation of orange peel extract utilizing ethanol and triacetin"
+        ],
+        "transformed_resource": [
+            "antioxidant",
+            "natural antioxidant for enhancing the stability of edible oils"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328_chunk32"
+    },
+    {
+        "waste": [
+            "mango waste",
+            "peel",
+            "stone"
+        ],
+        "transforming_process": [
+            "industrial mango processing"
+        ],
+        "transformed_resource": [
+            "pectin",
+            "phenolic compounds",
+            "carotenoids",
+            "vitamins"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328_chunk34"
+    },
+    {
+        "waste": [
+            "pulp and skin extracts",
+            "apple pomace extract",
+            "waste extract"
+        ],
+        "transforming_process": [
+            "subcritical water extraction",
+            "incorporation in SBO during deep frying"
+        ],
+        "transformed_resource": [
+            "antioxidant properties",
+            "oxidative stability in canola oil",
+            "thermal stability in oils"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328_chunk39"
+    },
+    {
+        "waste": [
+            "vegetable waste",
+            "potato peels",
+            "onion waste",
+            "pumpkin waste",
+            "eggplant waste"
+        ],
+        "transforming_process": [
+            "extraction of vegetable waste extracts",
+            "inhibition of oxidative processes"
+        ],
+        "transformed_resource": [
+            "antioxidant-rich extracts",
+            "polyphenols",
+            "flavonoids"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328_chunk41"
+    },
+    {
+        "waste": [
+            "tomato peels",
+            "potato peel extract",
+            "vegetable waste extract"
+        ],
+        "transforming_process": [
+            "extraction",
+            "storage"
+        ],
+        "transformed_resource": [
+            "lycopene",
+            "antioxidant activity"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328_chunk43"
+    },
+    {
+        "waste": [
+            "waste extract",
+            "pumpkin peels"
+        ],
+        "transforming_process": [
+            "supercritical extraction",
+            "subcritical extraction"
+        ],
+        "transformed_resource": [
+            "pumpkin peel extract",
+            "canola oil"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328_chunk44"
+    },
+    {
+        "waste": [
+            "purple onion peel extract",
+            "vegetable waste extracts"
+        ],
+        "transforming_process": [
+            "addition of antioxidants",
+            "blending extracts"
+        ],
+        "transformed_resource": [
+            "blended extract enriched oil",
+            "purple onion peel extract enriched oil"
+        ],
+        "reference": "10.1016/j.fufo.2024.100328_chunk46"
+    }
+]

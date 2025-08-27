@@ -1,0 +1,131 @@
+[
+    {
+        "waste": [
+            "C. microcarpa fruit waste",
+            "fruit and vegetable peels"
+        ],
+        "transforming_process": [
+            "fermentation with Lactobacillus plantarum",
+            "preparation of hydrolysate",
+            "incubation"
+        ],
+        "transformed_resource": [
+            "lactic acid",
+            "calcium lactate",
+            "lactic acid crystals"
+        ],
+        "reference": "10.12911/22998993/74308"
+    },
+    {
+        "waste": [
+            "food waste"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "transesterification reaction"
+        ],
+        "transformed_resource": [
+            "maggot protein",
+            "maggot oil",
+            "organic fertilizers",
+            "biodiesel"
+        ],
+        "reference": "10.1016/j.wasman.2016.10.054"
+    },
+    {
+        "waste": [
+            "nutrient-rich wastewater",
+            "raw attapulgite (APT)"
+        ],
+        "transforming_process": [
+            "treatment by MgO modified APT",
+            "adsorption process"
+        ],
+        "transformed_resource": [
+            "struvite/attapulgite (MAP/APT)",
+            "Cd(II) ion removal"
+        ],
+        "reference": "10.1016/j.jhazmat.2017.01.025"
+    },
+    {
+        "waste": [
+            "furfural residue"
+        ],
+        "transforming_process": [
+            "hydrothermal carbonization"
+        ],
+        "transformed_resource": [
+            "biochar"
+        ],
+        "reference": "10.1002/slct.201602026"
+    },
+    {
+        "waste": [
+            "fly ash"
+        ],
+        "transforming_process": [
+            "hydrometallurgical methods",
+            "leaching"
+        ],
+        "transformed_resource": [
+            "germanium-rich fly ash",
+            "cement replacement"
+        ],
+        "reference": "10.1680/jensu.16.00060"
+    },
+    {
+        "waste": [
+            "brewer's spent grain",
+            "hot trub",
+            "residual brewer's yeast"
+        ],
+        "transforming_process": [
+            "cultivation of lactic acid bacteria",
+            "separation of solid and liquid fractions",
+            "determination of extracellular proteolytic activity",
+            "addition of fermentable sugar",
+            "ethanol precipitation"
+        ],
+        "transformed_resource": [
+            "proteolytic enzyme",
+            "proteolytic extract",
+            "precipitated protein"
+        ],
+        "reference": "10.17113/ftb.55.02.17.4378"
+    },
+    {
+        "waste": [
+            "bread waste"
+        ],
+        "transforming_process": [
+            "valorisation",
+            "synthesis",
+            "heating",
+            "glucose isomerisation",
+            "rehydration",
+            "polymerisation",
+            "starch hydrolysis",
+            "fructose dehydration"
+        ],
+        "transformed_resource": [
+            "hydroxymethylfurfural (HMF)",
+            "levulinic acid",
+            "humins"
+        ],
+        "reference": "10.1016/j.biortech.2017.08.170"
+    },
+    {
+        "waste": [
+            "oil palm wastes"
+        ],
+        "transforming_process": [
+            "activated carbon production",
+            "conventional furnace-heating",
+            "microwave-heating"
+        ],
+        "transformed_resource": [
+            "activated carbon"
+        ],
+        "reference": "10.1016/j.cej.2016.11.059"
+    }
+]

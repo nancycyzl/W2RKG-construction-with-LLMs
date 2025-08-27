@@ -1,0 +1,23 @@
+[
+    {
+        "waste": [
+            "treated wastewater",
+            "sewage sludge"
+        ],
+        "transforming_process": [
+            "crop irrigation",
+            "nutrient recovery",
+            "valorisation"
+        ],
+        "transformed_resource": [
+            "freshwater replacement",
+            "commercial fertilizers",
+            "fertilizers",
+            "soil conditioners",
+            "organic matter",
+            "minerals",
+            "nutrients"
+        ],
+        "reference": "10.1016/j.scitotenv.2023.168894_chunk3"
+    }
+]

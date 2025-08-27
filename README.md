@@ -7,8 +7,8 @@ W2RKG data in [`W2RKG`](W2RKG) folder of this repository.
 
 ### Dependencies
 
-Operating System: Windows 11
-CUDA version: 12.6
+Operating System: Windows 11 <br>
+CUDA version: 12.6 <br>
 GPU: NVIDIA GeForce RTX 4070
 
 Software:
@@ -30,14 +30,14 @@ scipy 1.11.4
 scikit-learn 1.1.3
 ```
 
-All software and packages can be installed within minutes.
+All softwares and packages can be installed within minutes.
 
 ### Extract W2R from abstracts
 
 Experiment with different models, prompts, and styles.
-- model: llama3.1, gpt-4o-mini
-- prompt: zero, few, cot
-- style: json, code1, code2
+- model: llama3.1, gpt-4o-mini, gpt-4o
+- prompt: zero, few
+- style: json, code
 
 Result automatically saved at "args.save_dir/{model}_{prompt}_{style}" (zero-shot) or "args.save_dir/{model}_{prompt}_{style}_k{shot_k}" (few-shot) folder.
 
@@ -59,13 +59,13 @@ For obtaining results for constructing the final database:
 python extract_W2R_compare.py --num -1 --model gpt-4o-mini --prompt zero --style code --save_dir --results_all/abstract
 ```
 
-Expected time to process 1 abstract: <1 second using local LLaMa 3.1 model, <0.2 second using OpenAI API.
+Expected time to process 1 abstract: <1 second using local LLaMa 3.1 model, <0.2 seconds using OpenAI API.
 
 ### Evaluation with ground-truth
 
 For each output (w2r_results.json), compare it with the ground-truth file and save metrics result.
 
-Results are saved at the same folder as w2r_results.json by default. There are three output files:
+Results are saved at the same folder as w2r_results.json by default. There are four output files:
 - **metrics.csv**  (store the micro/macro precision, recall, f1, and Jaccard)
 - **metrics_intermediate.json**  (store the TP, FP, FN, Jaccard for 50 papers as a dict)
 - **prediction_resolution.csv**  (store the mapping between predicted and ground-truth entities)
@@ -83,10 +83,14 @@ python evaluation_with_gt.py --model gpt-4o-mini --pr_folder extraction_evaluati
 
 ### Extract W2R from fulltext
 
-After settling on the best model-prompt-style, extract from fulltext.
+Preliminary:
+1. use `helpers/download_full_text.py` to download full-texts using your own Elsevier API key, saved to `full_text_papers` folder;
+2. use `helpers/full_text_processing.py` to pre-process the texts, saved to `full_text_papers_processed` folder.
+
+
+Extract from full-texts of available review papers.
 - model: llama3.1, gpt-4o-mini
-- method: full, chunk
-- style: json, code1 (no code2)
+- style: json, code
 
 Output:
 - **reivew_papars/w2r_fulltext_results_{rowID}.json**

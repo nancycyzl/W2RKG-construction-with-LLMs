@@ -1,0 +1,894 @@
+[
+    {
+        "waste": [
+            "crude oily sludge",
+            "oily sludge ash",
+            "petroleum sludge ash",
+            "petroleum oily sludge",
+            "petroleum waste sludge"
+        ],
+        "transforming_process": [
+            "syngas production",
+            "pyrolysis process",
+            "cement replacement",
+            "tile manufacturing",
+            "brick manufacturing"
+        ],
+        "transformed_resource": [
+            "roadbed material",
+            "solid heat carriers",
+            "ceramics"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk9"
+    },
+    {
+        "waste": [
+            "petroleum sludge",
+            "sludge from the petroleum sector"
+        ],
+        "transforming_process": [
+            "application in several industries",
+            "production of materials",
+            "cement clinker production"
+        ],
+        "transformed_resource": [
+            "kilned bricks",
+            "cement",
+            "asphalt-concrete mixtures"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk24"
+    },
+    {
+        "waste": [
+            "waste by-products",
+            "PIS"
+        ],
+        "transforming_process": [
+            "incorporating waste by-products into cement production",
+            "replacing gypsum during cement production"
+        ],
+        "transformed_resource": [
+            "sustainable cement",
+            "strength development",
+            "setting retarder"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk25"
+    },
+    {
+        "waste": [
+            "sewage sludge",
+            "bituminous coal",
+            "petroleum coke",
+            "petroleum sludge"
+        ],
+        "transforming_process": [
+            "thermal treatment"
+        ],
+        "transformed_resource": [
+            "petroleum sludge ash"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk27"
+    },
+    {
+        "waste": [
+            "petroleum sludge ash",
+            "fly ash"
+        ],
+        "transforming_process": [
+            "manufacturing geopolymer mortar"
+        ],
+        "transformed_resource": [
+            "geopolymer mortar"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk28"
+    },
+    {
+        "waste": [
+            "petroleum sludge",
+            "fly ash",
+            "vegetable oil"
+        ],
+        "transforming_process": [
+            "building block manufacturing",
+            "treatment with liquid mixture for binding"
+        ],
+        "transformed_resource": [
+            "petrovege block",
+            "geopolymer mortar"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk29"
+    },
+    {
+        "waste": [
+            "treated petroleum oily sludge",
+            "oily wastes",
+            "oil sludge",
+            "petroleum waste"
+        ],
+        "transforming_process": [
+            "recycling",
+            "adding carbonates",
+            "mixing with clay and NaHCO3",
+            "sintering"
+        ],
+        "transformed_resource": [
+            "red ceramic",
+            "bricks",
+            "aggregate",
+            "concrete formulations",
+            "ceramic product",
+            "lightweight aggregates"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk30"
+    },
+    {
+        "waste": [
+            "petroleum waste",
+            "oily sludge",
+            "petroleum waste sludge"
+        ],
+        "transforming_process": [
+            "treated with bentonite clay",
+            "incorporation in red ceramics production",
+            "combined with bauxite ore"
+        ],
+        "transformed_resource": [
+            "low-cost alternative for civil construction",
+            "ceramic pieces",
+            "qualitative refractory ceramics"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk31"
+    },
+    {
+        "waste": [
+            "petroleum industry waste",
+            "petroleum oily sludge",
+            "crude oily sludge"
+        ],
+        "transforming_process": [
+            "making clay aggregate",
+            "brick and tile fabrication",
+            "inclusion of petroleum oily sludge into clay bodies"
+        ],
+        "transformed_resource": [
+            "clay aggregate",
+            "bricks",
+            "tiles"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk33"
+    },
+    {
+        "waste": [
+            "oily waste",
+            "solid petroleum waste",
+            "petroleum waste"
+        ],
+        "transforming_process": [
+            "firing clayey body",
+            "burning porcelain stoneware tile",
+            "replacing kaolin with petroleum waste"
+        ],
+        "transformed_resource": [
+            "porcelain stoneware tiles",
+            "tile products"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk34"
+    },
+    {
+        "waste": [
+            "petroleum waste",
+            "petroleum oily sludge"
+        ],
+        "transforming_process": [
+            "manufacturing of vitrified floor tiles",
+            "firing process",
+            "densification process"
+        ],
+        "transformed_resource": [
+            "vitrified floor tiles",
+            "porcelain floor tiles"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk35"
+    },
+    {
+        "waste": [
+            "crude petroleum-containing wastes",
+            "heavy oily sludge",
+            "hazardous waste"
+        ],
+        "transforming_process": [
+            "employed as organic binders",
+            "leaching tests",
+            "modification via distillation",
+            "solidification",
+            "stabilization/solidification"
+        ],
+        "transformed_resource": [
+            "filtration-preventing shields",
+            "road surface structural beds",
+            "waterproofing interlayers",
+            "asphalt-like emulsion",
+            "industrial bitumen"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk36"
+    },
+    {
+        "waste": [
+            "oily sludge",
+            "phosphogypsum",
+            "conventional Portland cement",
+            "fly ash",
+            "silica fume",
+            "petroleum sludge"
+        ],
+        "transforming_process": [
+            "S/S process",
+            "industrial bitumen preparation"
+        ],
+        "transformed_resource": [
+            "roadbed material",
+            "solidified samples",
+            "paving layer mixes"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk37"
+    },
+    {
+        "waste": [
+            "sludge from the tank bottom",
+            "oily sludge"
+        ],
+        "transforming_process": [
+            "treated sludge employed as the binding medium",
+            "TPH biodegradation",
+            "leaching process"
+        ],
+        "transformed_resource": [
+            "binding medium",
+            "95% TPH removal",
+            "dust suppressor"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk38"
+    },
+    {
+        "waste": [
+            "oily sludge"
+        ],
+        "transforming_process": [
+            "mixing with bitumen",
+            "combining with styrene-butadiene-styrene polymer"
+        ],
+        "transformed_resource": [
+            "asphalt",
+            "cost-effective mixes"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk40"
+    },
+    {
+        "waste": [
+            "petroleum sludge"
+        ],
+        "transforming_process": [
+            "thermochemical processing of lignite with PIS",
+            "heating at 160\u00b0C for 5 hours"
+        ],
+        "transformed_resource": [
+            "plasticizer resin",
+            "polymer-bitumen binder"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk41"
+    },
+    {
+        "waste": [
+            "petroleum sludge",
+            "oily sludge",
+            "rubber tires"
+        ],
+        "transforming_process": [
+            "resin processing",
+            "modification of petroleum asphalt binder",
+            "asphalt cement manufacturing"
+        ],
+        "transformed_resource": [
+            "modified binders",
+            "asphalt concrete for road pavement covering"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk42"
+    },
+    {
+        "waste": [
+            "petroleum industry sludge",
+            "oily sludge"
+        ],
+        "transforming_process": [
+            "de-oiling treatment",
+            "conversion to activated carbon"
+        ],
+        "transformed_resource": [
+            "carbonaceous adsorbents",
+            "activated carbon"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk43"
+    },
+    {
+        "waste": [
+            "commercial asphalt",
+            "raw petroleum oily sludge",
+            "rice husk"
+        ],
+        "transforming_process": [
+            "de-oiling method",
+            "carbon skeleton formation"
+        ],
+        "transformed_resource": [
+            "micro-mesoporous enhanced AC material",
+            "AC products"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk44"
+    },
+    {
+        "waste": [
+            "rice husk",
+            "oily sludge"
+        ],
+        "transforming_process": [
+            "pyrolysis",
+            "activation"
+        ],
+        "transformed_resource": [
+            "porous carbonaceous adsorbents",
+            "activated carbonaceous adsorbents"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk45"
+    },
+    {
+        "waste": [
+            "oily sludge",
+            "sludge",
+            "saline water"
+        ],
+        "transforming_process": [
+            "extraction",
+            "activation with KOH",
+            "adsorption"
+        ],
+        "transformed_resource": [
+            "porous carbon",
+            "adsorbent"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk46"
+    },
+    {
+        "waste": [
+            "chemically treated sludge",
+            "untreated sludge",
+            "used sawdust",
+            "oily sludge"
+        ],
+        "transforming_process": [
+            "recycling",
+            "chemical activation",
+            "adsorption",
+            "regeneration"
+        ],
+        "transformed_resource": [
+            "adsorbent",
+            "S-AB-ZnCl2"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk47"
+    },
+    {
+        "waste": [
+            "petroleum sludge",
+            "Pyrene"
+        ],
+        "transforming_process": [
+            "incubation",
+            "bacterial isolation",
+            "degradation",
+            "overexpression of protein synthesis"
+        ],
+        "transformed_resource": [
+            "biosurfactants",
+            "bacterial biomass",
+            "2-carboxybenzaldehyde dehydrogenase",
+            "salicylate hydroxylase"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk50"
+    },
+    {
+        "waste": [
+            "Pyrene",
+            "oily-biological sludge"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "methanogenesis",
+            "hydrogen and acetate generation",
+            "hydrolysis and acidogenesis"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "bacterial biomass"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk51"
+    },
+    {
+        "waste": [
+            "sludge",
+            "oily-biological sludge",
+            "sugarcane bagasse",
+            "oily sludge"
+        ],
+        "transforming_process": [
+            "anaerobic digestion",
+            "gasification"
+        ],
+        "transformed_resource": [
+            "methane",
+            "hydrogen"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk52"
+    },
+    {
+        "waste": [
+            "oily-biological sludge",
+            "sugarcane bagasse"
+        ],
+        "transforming_process": [
+            "anaerobic co-digestion",
+            "bioremediation using effective microorganism technology"
+        ],
+        "transformed_resource": [
+            "biogas",
+            "methane"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk54"
+    },
+    {
+        "waste": [
+            "processed sludge",
+            "land-farmed oil sludge"
+        ],
+        "transforming_process": [
+            "combining with clean soil",
+            "using effective microorganism technology",
+            "landfarming",
+            "phytoremediation"
+        ],
+        "transformed_resource": [
+            "EM biofertilizer",
+            "acceptable soil conditions for growing jack beans",
+            "lowered TPHs"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk55"
+    },
+    {
+        "waste": [
+            "oily waste",
+            "petroleum sludge"
+        ],
+        "transforming_process": [
+            "landfarming",
+            "phytoremediation",
+            "recycling"
+        ],
+        "transformed_resource": [
+            "levan",
+            "tire rubbers"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk56"
+    },
+    {
+        "waste": [
+            "oil sludge"
+        ],
+        "transforming_process": [
+            "plasticization effect mechanism",
+            "thermal treatments"
+        ],
+        "transformed_resource": [
+            "rubber compounds",
+            "metal catalysts"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk57"
+    },
+    {
+        "waste": [
+            "oily sludge"
+        ],
+        "transforming_process": [
+            "thermal treatments",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "metal catalysts",
+            "biochar"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk58"
+    },
+    {
+        "waste": [
+            "oily sludge",
+            "PIS"
+        ],
+        "transforming_process": [
+            "processing oily sludge to yield conductive carbon\u2013clay composites"
+        ],
+        "transformed_resource": [
+            "conductive carbon\u2013clay composites",
+            "cathode material",
+            "sensors",
+            "catalysts",
+            "electronic devices"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk59"
+    },
+    {
+        "waste": [
+            "organic waste",
+            "biomass wastes"
+        ],
+        "transforming_process": [
+            "Dematerialization",
+            "Ecosystem rejuvenation and repair",
+            "Optimization",
+            "Exchange",
+            "Loop",
+            "Sharing",
+            "refining of crude oil"
+        ],
+        "transformed_resource": [
+            "biochemically extracted outputs",
+            "digital and virtual services",
+            "increased productivity",
+            "new technological advancements",
+            "services",
+            "business models",
+            "inputs in the economy"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk63"
+    },
+    {
+        "waste": [
+            "PIS",
+            "petroleum sludge",
+            "sludge"
+        ],
+        "transforming_process": [
+            "treatment of petroleum sludge",
+            "sustainable use of sludge"
+        ],
+        "transformed_resource": [
+            "secondary raw materials",
+            "beneficial resources",
+            "reusability in sustainable construction",
+            "wastewater treatment applications",
+            "gas generation"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk65"
+    },
+    {
+        "waste": [
+            "waste sludge",
+            "waste petroleum-activated sludge",
+            "activated petroleum waste sludge"
+        ],
+        "transforming_process": [
+            "catalytic ozonation",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "biochar",
+            "Biochar-WPS"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk68"
+    },
+    {
+        "waste": [
+            "petroleum tank bottom sludge",
+            "oily water solution"
+        ],
+        "transforming_process": [
+            "carbonized at 650\u00b0C",
+            "synthesized from petroleum sludge"
+        ],
+        "transformed_resource": [
+            "adsorbents",
+            "porous activated carbon"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk71"
+    },
+    {
+        "waste": [
+            "petroleum sludge",
+            "oily sludge",
+            "oil sludge ash",
+            "quartz sand"
+        ],
+        "transforming_process": [
+            "synthesis",
+            "pyrolysis",
+            "isomerization"
+        ],
+        "transformed_resource": [
+            "carbon",
+            "activated carbon",
+            "oil product"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk72"
+    },
+    {
+        "waste": [
+            "oil sludge",
+            "oil-contaminated sites",
+            "petroleum industry sludge"
+        ],
+        "transforming_process": [
+            "bioremediation",
+            "activation with carbon dioxide at a high temperature"
+        ],
+        "transformed_resource": [
+            "polyhydroxyalkanoate",
+            "M-1 filter material"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk73"
+    },
+    {
+        "waste": [
+            "industry sludge",
+            "oil-contaminated wastewater",
+            "petroleum sludge"
+        ],
+        "transforming_process": [
+            "activating the raw material with carbon dioxide at a high temperature",
+            "bed coalescence process",
+            "wax recovery employing a toluene/MEK mixture",
+            "de-crystallization",
+            "petroleum coke improvement"
+        ],
+        "transformed_resource": [
+            "filter media",
+            "wax",
+            "petroleum coke"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk74"
+    },
+    {
+        "waste": [
+            "petroleum coke",
+            "petroleum sludge"
+        ],
+        "transforming_process": [
+            "mixing"
+        ],
+        "transformed_resource": [
+            "petroleum coke\u2013sludge slurry"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk75"
+    },
+    {
+        "waste": [
+            "petroleum-contaminated sludge",
+            "nitriles"
+        ],
+        "transforming_process": [
+            "bioconversion",
+            "hydrolysis",
+            "optimization of the medium"
+        ],
+        "transformed_resource": [
+            "acrylic acid"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk80"
+    },
+    {
+        "waste": [
+            "petroleum sludge",
+            "petroleum hydrocarbons",
+            "petroleum compounds",
+            "petroleum hydrocarbon-rich sludge",
+            "crude oil"
+        ],
+        "transforming_process": [
+            "biodegradation",
+            "composting",
+            "bioremediation",
+            "metabolization"
+        ],
+        "transformed_resource": [
+            "cleaned petroleum sludge",
+            "reduced total petroleum hydrocarbons"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk82"
+    },
+    {
+        "waste": [
+            "heavy oily sludge",
+            "crude oil",
+            "oily sludge-polluted soil"
+        ],
+        "transforming_process": [
+            "two-step inoculation",
+            "bioremediation",
+            "composting",
+            "biostimulation"
+        ],
+        "transformed_resource": [
+            "biodegraded crude oil",
+            "improved soil physicochemical qualities",
+            "lowered TPH concentration"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk83"
+    },
+    {
+        "waste": [
+            "soil",
+            "polycyclic aromatic hydrocarbon (PAH)",
+            "TPH",
+            "oil refinery sludge"
+        ],
+        "transforming_process": [
+            "bioremediation",
+            "addition of manure",
+            "nutrient addition",
+            "bioaugmentation"
+        ],
+        "transformed_resource": [
+            "improved soil quality",
+            "increased nutrient elements",
+            "enhanced microbial communities",
+            "decreased toxicity",
+            "increased TPH degradation"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk84"
+    },
+    {
+        "waste": [
+            "petroleum sludge",
+            "sludge oil sample",
+            "asphalt tic fraction",
+            "asphaltene components"
+        ],
+        "transforming_process": [
+            "in vitro breakdown",
+            "degradation by bacterial strains",
+            "isolation of bacterial strains from sludge",
+            "degradation by Lysinibacillus fusiforme and Bacillus sp."
+        ],
+        "transformed_resource": [
+            "reduced fluoranthene",
+            "reduced asphaltene components"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk87"
+    },
+    {
+        "waste": [
+            "asphaltene components",
+            "refineries\u2019 oily sludge contaminants",
+            "petroleum compounds",
+            "oily sludge"
+        ],
+        "transforming_process": [
+            "degradation by Lysinibacillus fusiforme",
+            "degradation by Bacillus sp.",
+            "biodegradation using indigenous and exogenous bacteria",
+            "mixing exogenous bacteria with indigenous bacteria"
+        ],
+        "transformed_resource": [
+            "degraded asphaltene components",
+            "reduced surface tension of the broth",
+            "increased oily sludge biodegradation"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk88"
+    },
+    {
+        "waste": [
+            "petroleum sludge",
+            "TPH",
+            "oil sludge"
+        ],
+        "transforming_process": [
+            "bacterial degradation",
+            "biosurfactant production",
+            "crude/biosurfactant-suspension treatment"
+        ],
+        "transformed_resource": [
+            "biosurfactant",
+            "oil",
+            "residual TPH"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk90"
+    },
+    {
+        "waste": [
+            "harmful oily wastes",
+            "oil sludge",
+            "oil tank bottom sludge"
+        ],
+        "transforming_process": [
+            "reclaim oil",
+            "producing biosurfactants",
+            "oil sludge treatment"
+        ],
+        "transformed_resource": [
+            "biosurfactants",
+            "oil"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk92"
+    },
+    {
+        "waste": [
+            "bottom sludge",
+            "oil sludge",
+            "petroleum-contaminated soil"
+        ],
+        "transforming_process": [
+            "utilized to recover oil",
+            "isolation of biosurfactant-producing bacteria"
+        ],
+        "transformed_resource": [
+            "oil",
+            "biosurfactant"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk93"
+    },
+    {
+        "waste": [
+            "oily sludge",
+            "petroleum-contaminated soil"
+        ],
+        "transforming_process": [
+            "isolation of biosurfactant-producing bacteria",
+            "growth of bacterial isolates",
+            "treatment with fermentation broth",
+            "mixing culture medium with oily sludge"
+        ],
+        "transformed_resource": [
+            "biosurfactants",
+            "oil recovery"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk94"
+    },
+    {
+        "waste": [
+            "oily sludge"
+        ],
+        "transforming_process": [
+            "treatment by biosurfactant-producing bacteria",
+            "microbial cultivation for biosurfactant synthesis"
+        ],
+        "transformed_resource": [
+            "biosurfactant",
+            "reduced surface tension",
+            "oil recovery"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk95"
+    },
+    {
+        "waste": [
+            "PIS"
+        ],
+        "transforming_process": [
+            "treatment methods",
+            "reusability in sustainable construction",
+            "wastewater treatment applications",
+            "gas generation",
+            "effective microorganism (EM) biofertilizer production",
+            "levan production",
+            "manufacture rubber tires",
+            "metal catalysts synthesis",
+            "carbon\u2013clay composites production"
+        ],
+        "transformed_resource": [
+            "biomaterials for sustainable construction",
+            "treated wastewater",
+            "biogas",
+            "biofertilizer",
+            "levan",
+            "rubber tires",
+            "metal catalysts",
+            "carbon-clay composites"
+        ],
+        "reference": "10.1016/j.clcb.2022.100029_chunk97"
+    }
+]

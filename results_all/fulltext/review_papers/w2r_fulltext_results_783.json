@@ -1,0 +1,191 @@
+[
+    {
+        "waste": [
+            "cashew nutshell liquid"
+        ],
+        "transforming_process": [
+            "valorization",
+            "synthesis of value-added products"
+        ],
+        "transformed_resource": [
+            "diverse products",
+            "resins",
+            "nanomaterials",
+            "polymers"
+        ],
+        "reference": "10.1016/j.clwas.2023.100116_chunk3"
+    },
+    {
+        "waste": [
+            "cashew nutshells"
+        ],
+        "transforming_process": [
+            "resource recovery techniques",
+            "recycling"
+        ],
+        "transformed_resource": [
+            "cashew nutshell liquid",
+            "valorized products"
+        ],
+        "reference": "10.1016/j.clwas.2023.100116_chunk4"
+    },
+    {
+        "waste": [
+            "cashew apple",
+            "cashew nutshell",
+            "testa shell",
+            "CNSL"
+        ],
+        "transforming_process": [
+            "production of pulp",
+            "production of alcohol",
+            "production of juices",
+            "extraction of CNSL"
+        ],
+        "transformed_resource": [
+            "pulp",
+            "alcohol",
+            "juices",
+            "CNSL",
+            "edible kernel"
+        ],
+        "reference": "10.1016/j.clwas.2023.100116_chunk9"
+    },
+    {
+        "waste": [
+            "cashew nutshell",
+            "CNS",
+            "cashew shell"
+        ],
+        "transforming_process": [
+            "extraction",
+            "pre-treatment"
+        ],
+        "transformed_resource": [
+            "cashew shell oil",
+            "CNSL"
+        ],
+        "reference": "10.1016/j.clwas.2023.100116_chunk17"
+    },
+    {
+        "waste": [
+            "CNSL"
+        ],
+        "transforming_process": [
+            "valorization",
+            "production of azo compounds/dyes"
+        ],
+        "transformed_resource": [
+            "azo compounds/dyes",
+            "functional materials"
+        ],
+        "reference": "10.1016/j.clwas.2023.100116_chunk30"
+    },
+    {
+        "waste": [
+            "cashew nut shell",
+            "cashew nuts and their by-products"
+        ],
+        "transforming_process": [
+            "extraction of colourants and dyes",
+            "synthesis of azo compounds",
+            "chemical modification via diazotization and coupling"
+        ],
+        "transformed_resource": [
+            "natural colours",
+            "non-toxic colourants",
+            "novel azo compounds"
+        ],
+        "reference": "10.1016/j.clwas.2023.100116_chunk31"
+    },
+    {
+        "waste": [
+            "cashew nutshell liquid",
+            "CNSL",
+            "friction dust"
+        ],
+        "transforming_process": [
+            "synthesis of azo compounds and dyes",
+            "production of CNSL-based friction particles",
+            "combining resin, epoxy, graphite"
+        ],
+        "transformed_resource": [
+            "anthraquinones dyes",
+            "friction particles",
+            "composite frictional materials"
+        ],
+        "reference": "10.1016/j.clwas.2023.100116_chunk34"
+    },
+    {
+        "waste": [
+            "CNSL",
+            "wattle tannin"
+        ],
+        "transforming_process": [
+            "recycling",
+            "synthesis into medicines"
+        ],
+        "transformed_resource": [
+            "CNSL-based anti-termites",
+            "pharmaceuticals",
+            "CNSL-based extracts"
+        ],
+        "reference": "10.1016/j.clwas.2023.100116_chunk69"
+    },
+    {
+        "waste": [
+            "cashew nut waste materials",
+            "cashew nutshells"
+        ],
+        "transforming_process": [
+            "microwave synthesis",
+            "biorefinery platform"
+        ],
+        "transformed_resource": [
+            "CNSL derivatives",
+            "CNSL green diesel",
+            "biofuel",
+            "nanomaterials",
+            "polymers"
+        ],
+        "reference": "10.1016/j.clwas.2023.100116_chunk87"
+    },
+    {
+        "waste": [
+            "cashew nutshells"
+        ],
+        "transforming_process": [
+            "green diesel generation",
+            "valorization"
+        ],
+        "transformed_resource": [
+            "biofuel",
+            "variety of goods with added value"
+        ],
+        "reference": "10.1016/j.clwas.2023.100116_chunk88"
+    },
+    {
+        "waste": [
+            "cashew nutshells"
+        ],
+        "transforming_process": [
+            "valorization"
+        ],
+        "transformed_resource": [
+            "azo compounds",
+            "dyes",
+            "biodiesel",
+            "friction particles",
+            "insecticides",
+            "larvicides",
+            "anti-termite medications",
+            "resins",
+            "rubbers",
+            "surface coatings",
+            "foundry chemicals",
+            "adhesives",
+            "varnishes"
+        ],
+        "reference": "10.1016/j.clwas.2023.100116_chunk89"
+    }
+]
