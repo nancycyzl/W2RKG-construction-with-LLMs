@@ -1,2 +1,3 @@
-This folder stores extraction results for abstracts using extract_W2R_compare.py.
-set --repeat 5 will create sub-folder from run1 to run5.
+This folder stores extraction results for all abstracts using extract_W2R_compare.py.
+
+The results for the first 50 abstracts (which are used for extraction performance evaluation) are stored in a separate folder named "extraction_evaluation"

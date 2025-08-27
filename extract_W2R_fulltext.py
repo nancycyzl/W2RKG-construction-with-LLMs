@@ -1,20 +1,12 @@
 '''
-This script is to extract W2R from full-text of review papers
-Currently supports
-- models: llama3.1, gpt-4o-mini
-- method: full, chunk
-- style: json, code1 (no code2)
+This script is to extract W2R from full-text of review papers.
 '''
 
-import ollama
 import time
 import json
 import pandas as pd
 import argparse
-from openai import OpenAI
-import re
 import os
-import ast
 import tqdm
 import logging
 from langchain.text_splitter import RecursiveCharacterTextSplitter
@@ -194,7 +186,7 @@ def main(args):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--num', type=int, default=50, help='How many review papers to process (including fulltext unvailable papers). Set -1 to process all.')
+    parser.add_argument('--num', type=int, default=-1, help='How many review papers to process (including fulltext unvailable papers). Set -1 to process all.')
     parser.add_argument('--start_index', type=int, help='Start index for processing in the orignial csv file')
     parser.add_argument('--model', type=str, default='llama3.1',
                         choices=["llama3", "llama3.1", "gpt-3.5-turbo", "gpt-4o-mini"],
@@ -215,11 +207,11 @@ if __name__ == '__main__':
     parser.add_argument('--shot_ids', type=int, nargs='+', default=[], help='ids of shot examples')
     args = parser.parse_args()
 
-    # if save_dir is not provided, use the default format: save_dir/{model}_{prompt}_{style}_{method}
+    # if save_dir is not provided, use the default format: save_dir/{model}_{prompt}_{style}
     if args.save_dir:
         save_dir = args.save_dir
     else:
-        save_dir = os.path.join("result_all", "fulltext", args.model + "_" + args.prompt + "_" + args.style + "_" + args.method)
+        save_dir = os.path.join("result_all", "fulltext", args.model + "_" + args.prompt + "_" + args.style)
     args.save_dir = check_make_dir(save_dir, exist_ok=args.save_dir_rewrite)  
 
     # set logging file

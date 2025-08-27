@@ -56,7 +56,8 @@ def main(file=None, num=None):
 
     # download all as in csv file
     df = pd.read_csv(file)
-    doi_list = df["DOI"].tolist()  # some do not have DOI
+    df_review = df[df["Document Type"] == "Review"]
+    doi_list = df_review["DOI"].tolist()  # some do not have DOI
     if num:
         doi_list = doi_list[:num]  # try only a small portion, the successfully downloaded papers will be much less
 
@@ -80,4 +81,4 @@ def main(file=None, num=None):
 
 if __name__ == "__main__":
     csv_file = "scopus_waste2resource.csv"
-    main(file=csv_file, num=50)
+    main(file=csv_file)

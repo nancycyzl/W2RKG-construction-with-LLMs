@@ -1,5 +1,6 @@
 '''
-Input file should be one ground-truth file + one result file, all as json files
+This script is used to evaluate the extraction performance using the first 50 abstracts from the scopus_waste2resource.csv file.
+Input files include one ground-truth file (extraction_groundtruth.json) + one result file (w2r_results.json) / result folder (containing run_i/w2r_results.json)
 Output files:
 1. prediction_resolution.csv: match pr entities to the gt entities
 2. metrics_intermediate.json: record TP/FP/FN

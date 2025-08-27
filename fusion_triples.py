@@ -2,14 +2,8 @@ import json
 import logging
 import os
 import argparse
-import ollama
-import tqdm
-import re
-from openai import OpenAI
 import json
-import ast
 import os
-import sys
 import numpy as np
 from sklearn.cluster import AgglomerativeClustering
 from sentence_transformers import SentenceTransformer
@@ -170,7 +164,7 @@ def get_cluster_and_unified_names(unique_wastes, unique_resources, waste_cluster
             json.dump(waste_cluster_unified_names, waste_unified_file, indent=4)
 
     ## TEMP read cluster element
-    with open("result_all/after_fusion_v2/thre09_complete/resource_cluster_elements.json") as file:
+    with open("results_all/after_fusion_v2/thre09_complete/resource_cluster_elements.json") as file:
         resource_cluster_elements = json.load(file)
 
     resource_cluster_unified_names = {}
@@ -267,6 +261,54 @@ def fused_triples_post_processing(triples):
     return aggregated_triples
 
 
+def check_statics_after_fusion(base_folder):
+    # Read waste cluster files
+    with open(os.path.join(base_folder, 'waste_cluster_elements.json'), 'r') as f:
+        waste_names = json.load(f)
+
+    with open(os.path.join(base_folder, 'waste_cluster_unified_names.json'), 'r') as f:
+        waste_unified_names = json.load(f)
+
+    # Read resource cluster files
+    with open(os.path.join(base_folder, 'resource_cluster_elements.json'), 'r') as f:
+        resource_names = json.load(f)
+
+    with open(os.path.join(base_folder, 'resource_cluster_unified_names.json'), 'r') as f:
+        resource_unified_names = json.load(f)
+
+    # Count statistics
+    waste_cluster_count = len(waste_names)
+    waste_elements_count = sum(len(elements) for elements in waste_names.values())
+    waste_unified_names_count = sum(len(elements) for elements in waste_unified_names.values())
+
+    resource_cluster_count = len(resource_names)
+    resource_elements_count = sum(len(elements) for elements in resource_names.values())
+    resource_unified_names_count = sum(len(elements) for elements in resource_unified_names.values())
+
+    # count number of triples
+    with open(os.path.join(base_folder, 'fused_triples.json'), 'r') as f:
+        fused_triples = json.load(f)
+    fused_triples_count = len(fused_triples)
+
+    with open(os.path.join(base_folder, 'fused_triples_aggregated.json'), 'r') as f:
+        fused_triples_aggregated = json.load(f)
+    fused_triples_aggregated_count = len(fused_triples_aggregated)
+
+    # Print results
+    print("Waste Statistics:")
+    print(f"Number of waste clusters: {waste_cluster_count}")
+    print(f"Total number of waste elements: {waste_elements_count}")
+    print(f"Number of waste unified names: {waste_unified_names_count}")
+    print("\nResource Statistics:")
+    print(f"Number of resource clusters: {resource_cluster_count}")
+    print(f"Total number of resource elements: {resource_elements_count}")
+    print(f"Number of resource unified names: {resource_unified_names_count}")
+
+    print("\nFused Triples Statistics:")
+    print(f"Number of fused triples: {fused_triples_count}")
+    print(f"Number of aggregated fused triples: {fused_triples_aggregated_count}")
+
+
 def main(args):
     
     # Load and process data
@@ -347,12 +389,15 @@ def main(args):
     with open(os.path.join(args.save_path, "fused_triples_aggregated.json"), 'w') as file:
         json.dump(fused_triples, file, indent=4)
     logging.info("Number of fused triples after aggregation: {}".format(len(fused_triples)))
+
+    # check statistics
+    check_statics_after_fusion(args.save_path)
         
 
 if __name__ == '__main__':
     # Set up argument parser
     parser = argparse.ArgumentParser(description='Fuse all triples into a KG')
-    parser.add_argument('--input_file', type=str, default="result_all/before_fusion_v2/all_w2r_list.json", help='path for the w2r_results.json file')
+    parser.add_argument('--input_file', type=str, default="results_all/before_fusion_v2/all_w2r_list.json", help='path for the w2r_results.json file')
     parser.add_argument('--save_path', type=str, default='results_all/after_fusion_v2', help='Path to save the results')
     parser.add_argument('--waste_threshold', type=float, default=0.8, help='Similarity threshold for waste')
     parser.add_argument('--resource_threshold', type=float, default=0.8, help='Similarity threshold for resource')

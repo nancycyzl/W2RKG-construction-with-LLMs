@@ -1,0 +1,386 @@
+[
+    {
+        "waste": [
+            "plastic",
+            "synthetic polymers",
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "biodegradation",
+            "recycling"
+        ],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cec.2024.100077_chunk0"
+    },
+    {
+        "waste": [
+            "plastics",
+            "polyethylene (PE)",
+            "polystyrene (PS)",
+            "polypropylene (PP)",
+            "polyvinyl chloride (PVC)",
+            "polyurethane (PUR)",
+            "polyethylene terephthalate (PET)"
+        ],
+        "transforming_process": [
+            "physical technologies",
+            "chemical technologies",
+            "microorganisms",
+            "enzymes",
+            "downcycling"
+        ],
+        "transformed_resource": [
+            "lower-quality plastic products"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk1"
+    },
+    {
+        "waste": [
+            "polyethylene (PE)",
+            "polystyrene (PS)",
+            "polypropylene (PP)",
+            "polyvinyl chloride (PVC)",
+            "polyurethane (PUR)",
+            "polyethylene terephthalate (PET)"
+        ],
+        "transforming_process": [
+            "upcycling",
+            "biotechnological upcycling",
+            "plastic recycling techniques",
+            "recycling with improvements"
+        ],
+        "transformed_resource": [
+            "recyclable end products",
+            "new products with added value"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk2"
+    },
+    {
+        "waste": [
+            "plastic waste",
+            "polypropylene (PP)"
+        ],
+        "transforming_process": [
+            "biotechnological upcycling",
+            "pyrolysis-based bioconversion process",
+            "biocatalysis",
+            "biological processes"
+        ],
+        "transformed_resource": [
+            "value-added fatty acids"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk3"
+    },
+    {
+        "waste": [
+            "plastic",
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "biotechnology",
+            "depolymerization",
+            "biotechnological approaches to plastic degradation",
+            "synthetic biology applications",
+            "depolymerize waste plastic"
+        ],
+        "transformed_resource": [
+            "high-quality compounds",
+            "feedstock for the production of high-quality compounds"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk4"
+    },
+    {
+        "waste": [
+            "polyesters",
+            "synthetic polymers",
+            "natural polymers"
+        ],
+        "transforming_process": [
+            "biodegradation",
+            "enzymatic degradation",
+            "chemical or physical plastics pre-treatments"
+        ],
+        "transformed_resource": [
+            "monomers",
+            "CO 2 ",
+            "H 2 O",
+            "CH 4 ",
+            "N 2 "
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk6"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cec.2024.100077_chunk7"
+    },
+    {
+        "waste": [
+            "plastic"
+        ],
+        "transforming_process": [
+            "hydrolytic cleavage",
+            "enzymes interaction with polymers",
+            "adhesion of enzymes to plastic surface via hydrophobic interactions"
+        ],
+        "transformed_resource": [
+            "monomers or dimers",
+            "carbon"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk9"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cec.2024.100077_chunk12"
+    },
+    {
+        "waste": [
+            "plastics",
+            "polyolefins",
+            "PET"
+        ],
+        "transforming_process": [
+            "whole-cell biocatalysis",
+            "wild-type or recombinant microorganisms secretion of plastic-degrading enzymes",
+            "biodegradation enzymes expression with bioinformatics analysis and standard whole-cell method"
+        ],
+        "transformed_resource": [
+            "plastic fragmentation",
+            "polymer decomposition",
+            "putative PET-degrading enzyme identification"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk13"
+    },
+    {
+        "waste": [
+            "plastics"
+        ],
+        "transforming_process": [
+            "UV radiation",
+            "thermal processing",
+            "chemical processes",
+            "biodegradation",
+            "plasma treatment",
+            "gamma irradiation",
+            "oxidation of polymers",
+            "microorganism-pretreated plastics"
+        ],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cec.2024.100077_chunk17"
+    },
+    {
+        "waste": [
+            "PET",
+            "polyfuranoate",
+            "semicrystalline PET",
+            "mono(2-hydroxyethyl) terephthalate"
+        ],
+        "transforming_process": [
+            "computational approach",
+            "IsPETase enzyme modification",
+            "MHETase enzyme chimera",
+            "resynthesizing PET from monomers",
+            "biocatalytic recycling",
+            "synthetic biology modification"
+        ],
+        "transformed_resource": [
+            "terephthalic acid",
+            "ethylene glycol",
+            "thermostable PET depolymerization"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk20"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cec.2024.100077_chunk21"
+    },
+    {
+        "waste": [
+            "PET",
+            "poly(ethylene furanoate) (PEF)",
+            "plastic substrates"
+        ],
+        "transforming_process": [
+            "PETase mutation",
+            "enzymatic degradation",
+            "altering hydrophobicity and opening size of the active site"
+        ],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cec.2024.100077_chunk28"
+    },
+    {
+        "waste": [
+            "PETase",
+            "plastic"
+        ],
+        "transforming_process": [
+            "modifying surface characteristics to improve enzyme interaction with substrates",
+            "fusing binding accessories to an enzyme surface",
+            "altering hydrophobicity and opening size of the active site"
+        ],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cec.2024.100077_chunk29"
+    },
+    {
+        "waste": [
+            "plastic",
+            "intermediates",
+            "products"
+        ],
+        "transforming_process": [
+            "lowering effects of product inhibition",
+            "catalytic promiscuity in the enzyme",
+            "producing versatile biocatalysts",
+            "changing architecture of an active site",
+            "fusion with additional enzyme"
+        ],
+        "transformed_resource": [
+            "improved PET degradation",
+            "mono (2-hydroxyethyl) terephthalate (MHET)",
+            "enzymes with improved functionalities",
+            "biocatalysts"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk31"
+    },
+    {
+        "waste": [
+            "plastic",
+            "polymers",
+            "PAs",
+            "PUs"
+        ],
+        "transforming_process": [
+            "degradation process",
+            "depolymerization",
+            "fusing a plastic-degrading enzyme with another"
+        ],
+        "transformed_resource": [
+            "clean water molecules",
+            "hydrolytic activity",
+            "bifunctional biocatalysts"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk32"
+    },
+    {
+        "waste": [
+            "plastic",
+            "PET"
+        ],
+        "transforming_process": [
+            "biodegradation",
+            "hydrolases",
+            "metabolic engineering",
+            "synthetic biology",
+            "PET biotransformation"
+        ],
+        "transformed_resource": [
+            "PET monomers",
+            "terephthalic acid",
+            "ingredients in animal feed",
+            "medications",
+            "cosmetics",
+            "fragrances"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk34"
+    },
+    {
+        "waste": [
+            "PET",
+            "petrochemical PET bottles"
+        ],
+        "transforming_process": [
+            "biodegradation",
+            "modified Escherichia coli strain",
+            "one-pot depolymerization of PET by LCC and subsequent biotransformation using a modified E. coli"
+        ],
+        "transformed_resource": [
+            "terephthalic acid",
+            "vanillin",
+            "animal feed",
+            "medications",
+            "cosmetics",
+            "fragrances",
+            "PET bottles",
+            "aromatic chemicals (gallic acid, pyrogallol, catechol, muconic acid, and vanillic acid)"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk35"
+    },
+    {
+        "waste": [
+            "post-consumer PET waste",
+            "HDPE",
+            "LDPE",
+            "PVC",
+            "PS",
+            "PP"
+        ],
+        "transforming_process": [
+            "biological recycling",
+            "chemical depolymerization",
+            "enzyme cascade reaction",
+            "pyrolysis"
+        ],
+        "transformed_resource": [
+            "vanillin",
+            "mandelic acid",
+            "styrene",
+            "alkenes",
+            "branched-chain fatty alcohols"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk36"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cec.2024.100077_chunk37"
+    },
+    {
+        "waste": [],
+        "transforming_process": [],
+        "transformed_resource": [],
+        "reference": "10.1016/j.cec.2024.100077_chunk38"
+    },
+    {
+        "waste": [
+            "plastic waste",
+            "man-made polymers"
+        ],
+        "transforming_process": [
+            "enzyme biocatalysts",
+            "enzymatic degradation",
+            "chemical recycling methods",
+            "biocatalytic degradation",
+            "protein engineering"
+        ],
+        "transformed_resource": [
+            "useful compounds",
+            "novel biocatalysts",
+            "plastic-degrading enzymes",
+            "functional plastic depolymerization products"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk39"
+    },
+    {
+        "waste": [
+            "plastic waste"
+        ],
+        "transforming_process": [
+            "degrading",
+            "valorizing",
+            "monetizing",
+            "systems metabolic engineering",
+            "identifying microorganisms and enzymes"
+        ],
+        "transformed_resource": [
+            "biodiverse products",
+            "value-added chemicals"
+        ],
+        "reference": "10.1016/j.cec.2024.100077_chunk41"
+    }
+]

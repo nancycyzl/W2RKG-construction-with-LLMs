@@ -1,0 +1,791 @@
+Argument num: -1
+Argument start_index: None
+Argument model: llama3.1
+Argument model_relatedness: llama3.1
+Argument prompt: zero
+Argument style: code
+Argument temperature: 1
+Argument chunk_size: 1000
+Argument save_dir: result_all\fulltext\llama3.1_zero_code_2
+Argument save_dir_rewrite: False
+Argument shot_k: 2
+Argument shot_ids: []
+-----------------------------------------------------------------
+Processing row 9: full_text_papers_processed\10.1016_j.rser.2024.114535.txt
+Processing row 11: full_text_papers_processed\10.1016_j.trac.2024.117772.txt
+Processing row 15: full_text_papers_processed\10.1016_j.indcrop.2024.118452.txt
+Processing row 26: full_text_papers_processed\10.1016_j.envres.2024.119218.txt
+Processing row 29: full_text_papers_processed\10.1016_j.jaap.2024.106567.txt
+Processing row 33: full_text_papers_processed\10.1016_j.fufo.2024.100328.txt
+Processing row 55: full_text_papers_processed\10.1016_j.scitotenv.2024.172863.txt
+Processing row 56: full_text_papers_processed\10.1007_s44246-024-00123-2.txt
+Processing row 62: full_text_papers_processed\10.1016_j.tifs.2024.104589.txt
+Processing row 65: full_text_papers_processed\10.1016_j.nut.2024.112452.txt
+Processing row 66: full_text_papers_processed\10.1016_j.indcrop.2024.118399.txt
+Processing row 68: full_text_papers_processed\10.1016_j.jclepro.2024.142457.txt
+Processing row 82: full_text_papers_processed\10.1016_j.jobe.2024.109114.txt
+Processing row 85: full_text_papers_processed\10.1016_j.mseb.2024.117414.txt
+Processing row 98: full_text_papers_processed\10.1016_j.scitotenv.2024.173561.txt
+Processing row 100: full_text_papers_processed\10.1016_j.cej.2024.151124.txt
+Processing row 115: full_text_papers_processed\10.1016_j.seppur.2024.126271.txt
+Processing row 122: full_text_papers_processed\10.1016_j.coelec.2024.101477.txt
+Processing row 125: full_text_papers_processed\10.1016_j.cogsc.2024.100922.txt
+Processing row 130: full_text_papers_processed\10.1007_s11356-024-33534-0.txt
+Processing row 137: full_text_papers_processed\10.3390_fermentation10050258.txt
+Processing row 140: full_text_papers_processed\10.3390_su16093772.txt
+Processing row 141: full_text_papers_processed\10.1016_j.envres.2024.118326.txt
+Processing row 142: full_text_papers_processed\10.4491_eer.2023.256.txt
+Processing row 143: full_text_papers_processed\10.1016_j.tifs.2024.104413.txt
+Processing row 148: full_text_papers_processed\10.1016_j.tifs.2024.104424.txt
+Processing row 149: full_text_papers_processed\10.1016_j.tifs.2024.104517.txt
+Processing row 150: full_text_papers_processed\10.3390_en17092099.txt
+Processing row 152: full_text_papers_processed\10.1002_jsfa.13451.txt
+Processing row 155: full_text_papers_processed\10.3390_su16093617.txt
+Processing row 157: full_text_papers_processed\10.3390_foods13111713.txt
+Processing row 165: full_text_papers_processed\10.3390_pr12051006.txt
+Processing row 166: full_text_papers_processed\10.1016_j.fufo.2024.100365.txt
+Processing row 167: full_text_papers_processed\10.1016_j.biteb.2024.101823.txt
+Processing row 177: full_text_papers_processed\10.1016_j.jenvman.2024.120989.txt
+Processing row 181: full_text_papers_processed\10.1016_j.biotechadv.2024.108340.txt
+Processing row 184: full_text_papers_processed\10.1016_j.fbio.2024.104151.txt
+Processing row 194: full_text_papers_processed\10.1177_0734242X231188664.txt
+Processing row 201: full_text_papers_processed\10.1016_j.jece.2024.111971.txt
+Processing row 203: full_text_papers_processed\10.1016_j.indcrop.2024.118236.txt
+Processing row 204: full_text_papers_processed\10.3390_su16083362.txt
+Processing row 205: full_text_papers_processed\10.1016_j.psep.2024.01.100.txt
+Processing row 210: full_text_papers_processed\10.1016_j.clwas.2023.100127.txt
+Processing row 214: full_text_papers_processed\10.1039_d3gc05177c.txt
+Processing row 218: full_text_papers_processed\10.1039_d4gc00745j.txt
+Processing row 224: full_text_papers_processed\10.1016_j.scp.2024.101477.txt
+Processing row 226: full_text_papers_processed\10.3390_fib12040031.txt
+Processing row 231: full_text_papers_processed\10.1016_j.tifs.2024.104386.txt
+Processing row 233: full_text_papers_processed\10.1002_marc.202300647.txt
+Processing row 234: full_text_papers_processed\10.3390_md22040153.txt
+Processing row 237: full_text_papers_processed\10.3390_pr12040805.txt
+Processing row 239: full_text_papers_processed\10.1016_j.jece.2024.112448.txt
+Processing row 242: full_text_papers_processed\10.1002_fsn3.4011.txt
+Processing row 246: full_text_papers_processed\10.1016_j.eti.2024.103573.txt
+Processing row 250: full_text_papers_processed\10.1002_adem.202400049.txt
+Processing row 254: full_text_papers_processed\10.1007_s43393-023-00216-w.txt
+Processing row 256: full_text_papers_processed\10.1007_s13399-022-03001-2.txt
+Processing row 258: full_text_papers_processed\10.1016_j.scitotenv.2024.171087.txt
+Processing row 268: full_text_papers_processed\10.1016_j.trac.2024.117631.txt
+Processing row 274: full_text_papers_processed\10.1007_s11947-023-03171-5.txt
+Processing row 277: full_text_papers_processed\10.1007_s10098-023-02520-4.txt
+Processing row 279: full_text_papers_processed\10.3390_horticulturae10040342.txt
+Processing row 280: full_text_papers_processed\10.1021_acs.est.3c08331.txt
+Processing row 289: full_text_papers_processed\10.3390_molecules29071589.txt
+Processing row 293: full_text_papers_processed\10.1016_j.jclepro.2024.141286.txt
+Processing row 296: full_text_papers_processed\10.1007_s10570-024-05825-9.txt
+Processing row 304: full_text_papers_processed\10.3390_biomass4010006.txt
+Processing row 307: full_text_papers_processed\10.1016_j.gaost.2023.12.002.txt
+Processing row 308: full_text_papers_processed\10.1016_j.jcou.2024.102736.txt
+Processing row 310: full_text_papers_processed\10.1016_j.oceram.2024.100537.txt
+Processing row 314: full_text_papers_processed\10.1007_s11356-024-32468-x.txt
+Processing row 317: full_text_papers_processed\10.1039_d4fb00012a.txt
+Processing row 318: full_text_papers_processed\10.1016_j.mtsust.2023.100630.txt
+Processing row 321: full_text_papers_processed\10.1016_j.jenvman.2024.120258.txt
+Processing row 327: full_text_papers_processed\10.1007_s11157-023-09678-9.txt
+Processing row 328: full_text_papers_processed\10.1016_j.wasman.2023.10.006.txt
+Processing row 330: full_text_papers_processed\10.1016_j.scitotenv.2023.168674.txt
+Processing row 343: full_text_papers_processed\10.1007_s13399-022-02981-5.txt
+Processing row 345: full_text_papers_processed\10.1016_j.scitotenv.2023.169823.txt
+Processing row 353: full_text_papers_processed\10.3390_foods13060950.txt
+Processing row 366: full_text_papers_processed\10.1007_s11581-023-05349-5.txt
+Processing row 367: full_text_papers_processed\10.1007_s11157-024-09684-5.txt
+Processing row 370: full_text_papers_processed\10.1016_j.cec.2024.100077.txt
+File found, processing...
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: 1  Introduction  In the modern world, plastics and synthetic polymers have been integrated into every aspect of our daily lives (  Potnuri et al., 2022b ). Every piece of synthetic plastic ever created still exists in some form on Earth, which now constitutes a major environmental issue ( Geyer et al., 2017 ). The adaptability and convenient qualities of synthetic polymers have led to their widespread use. However, there is an urgent need for new, sustainable methods to combat plastic pollution, given that current methods have proven ineffective against the accumulation of plastic waste ( Sridevi et al., 2022 ). Plastic biodegradation has emerged as an environmentally sound and long-term solution that also facilitates recycling ( Potnuri et al., 2022c ; Sangiorgio et al., 2021 ). Despite the problems surrounding the disposal of plastics, they offer opportunities to reshape their role in the context of circular usage and recycling. Additionally, they are an essential and replaceable
+Extracted: {'waste': ['plastic', 'synthetic polymers', 'plastic waste'], 'transforming_process': ['biodegradation', 'recycling'], 'transformed_resource': []}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: the problems surrounding the disposal of plastics, they offer opportunities to reshape their role in the context of circular usage and recycling. Additionally, they are an essential and replaceable material in many industries, which amplifies the need for new, sustainable methods to reduce plastic pollution (  Sridevi et al., 2022 ). Research is now shifting toward environmentally friendly methods involving physical and chemical technologies, which are mainstays of plastic waste recycling ( Evangelopoulos et al., 2019 ; Suriapparao et al., 2022b ). Recycled plastics undergo a physical or chemical transformation, resulting in generally lower-quality plastic products, or downcycling (  Kiran Naik et al., 2021 ; Potnuri et al., 2023b ). However, microorganisms and enzymes are able to break down a wide range of common synthetic polymers, such as polyethylene (PE), polystyrene (PS), polypropylene (PP), polyvinyl chloride (PVC), polyurethane (PUR), and polyethylene terephthalate (PET) (
+Extracted: {'waste': ['plastics', 'polyethylene (PE)', 'polystyrene (PS)', 'polypropylene (PP)', 'polyvinyl chloride (PVC)', 'polyurethane (PUR)', 'polyethylene terephthalate (PET)'], 'transforming_process': ['physical technologies', 'chemical technologies', 'microorganisms', 'enzymes', 'downcycling'], 'transformed_resource': ['lower-quality plastic products']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: down a wide range of common synthetic polymers, such as polyethylene (PE), polystyrene (PS), polypropylene (PP), polyvinyl chloride (PVC), polyurethane (PUR), and polyethylene terephthalate (PET) ( Hamzah et al., 2024 ; Mistry et al., 2023 ; Potnuri et al., 2023a ; Sangiorgio et al., 2021 ), which also results in recyclable end products ( Potnuri et al., 2022c ; Sangiorgio et al., 2021 ). In Table 1  , we have summarized some procedural aspects of various plastic recycling techniques. Biotechnological upcycling is regarded as a more profitable and more effective method to address global plastic disposal problems. Upcycling is a concept that combines recycling with improvements to existing items to create new products with added value. To upcycle plastics, valuable components must be retrieved from plastic waste (  Potnuri et al., 2022b ; Sagong et al., 2021 ; Suriapparao et al., 2022a ). Fig. 1  depicts the development of waste plastic recycling routes based on biological recycling.
+Extracted: {'waste': ['polyethylene (PE)', 'polystyrene (PS)', 'polypropylene (PP)', 'polyvinyl chloride (PVC)', 'polyurethane (PUR)', 'polyethylene terephthalate (PET)'], 'transforming_process': ['upcycling', 'biotechnological upcycling', 'plastic recycling techniques', 'recycling with improvements'], 'transformed_resource': ['recyclable end products', 'new products with added value']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: from plastic waste (  Potnuri et al., 2022b ; Sagong et al., 2021 ; Suriapparao et al., 2022a ). Fig. 1  depicts the development of waste plastic recycling routes based on biological recycling. This review focuses mainly on biotechnological upcycling, as biocatalysis normally operates under accessible conditions with environmentally friendly procedures (i.e., ambient temperature, near-neutral pH range, and atmospheric pressure), thus limiting greenhouse gas emissions and energy consumption ( Onda et al., 2020 ; Potnuri et al., 2023c ). Production of value-added fatty acids from polypropylene (PP) via a pyrolysis-based bioconversion process has been reported by Mihreteab et al. (2019) and Hamzah et al. (2022) . Recent research has identified specific microorganisms and enzymes capable of breaking down the most common types of plastic, which can operate in conjunction with biological processes to recycle the plastic. Here, we attempt to develop a biotechnology strategy for
+Extracted: {'waste': ['plastic waste', 'polypropylene (PP)'], 'transforming_process': ['biotechnological upcycling', 'pyrolysis-based bioconversion process', 'biocatalysis', 'biological processes'], 'transformed_resource': ['value-added fatty acids']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: capable of breaking down the most common types of plastic, which can operate in conjunction with biological processes to recycle the plastic. Here, we attempt to develop a biotechnology strategy for depolymerization, along with biotechnological approaches to plastic degradation and synthetic biology applications that could depolymerize waste plastic and use the small depolymerization products as feedstock for the production of high-quality compounds ( Blank et al., 2020 ; Potnuri et al., 2023b ). Such a strategy would help reduce plastic waste, improve recycling systems, and advance the circular economy. The yearly and overall numbers of papers published on plastic biodegradation and valorization from 2013 to 2023 are presented in  Fig. 2  . The number of publications was extracted from Science Direct (1057), Web of Science (68), and the Wiley Online Library (339). These publications include review articles, research articles, encyclopedias, book chapters, conference abstracts,
+Extracted: {'waste': ['plastic', 'plastic waste'], 'transforming_process': ['biotechnology', 'depolymerization', 'biotechnological approaches to plastic degradation', 'synthetic biology applications', 'depolymerize waste plastic'], 'transformed_resource': ['high-quality compounds', 'feedstock for the production of high-quality compounds']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: (  Wang et al., 2020 ). A wide range of microorganisms, including fungi and bacteria, have been identified as capable of degrading polyesters via a variety of enzymes produced by these organisms. Microorganisms can contribute to the biodegradation of both synthetic and natural polymers. Microorganisms are primarily responsible for the size reduction of polymers as they colonize the plastic surface, converting it to monomers that can be ingested by the cells. Within these cells, additional processes with these monomeric units occur via enzymatic degradation, employing the monomers as carbon source to support growth. The process can be altered by via chemical or physical plastics pre-treatments, such as heating, cooling, freezing, thawing, and chemical degradation, and prior to bacterial action to divide the polymer into monomeric components. During enzymatic degradation, the monomers are mineralized and metabolic products including CO 2 , H 2 O, CH 4 , and N 2 , are released. These
+Extracted: {'waste': ['polyesters', 'synthetic polymers', 'natural polymers'], 'transforming_process': ['biodegradation', 'enzymatic degradation', 'chemical or physical plastics pre-treatments'], 'transformed_resource': ['monomers', 'CO 2 ', 'H 2 O', 'CH 4 ', 'N 2 ']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: action to divide the polymer into monomeric components. During enzymatic degradation, the monomers are mineralized and metabolic products including CO 2 , H 2 O, CH 4 , and N 2 , are released. These products can play a key role in removing hazardous plastics from the environment. One of these gases, methane, is an important component of biogas, which can be burned to generate electricity and heat, or used in the synthesis of various organic acids ( Arutchelvi et al., 2008 ). Enzymes are biological catalysts that participate in reactions by acting on specific substrates, accelerating their conversion into valuable products. The propensity for plastic to deteriorate, which harms our environment, has brought attention to the ability of microbes to break down such materials. The initial breakdown of plastics is primarily carried out by microbial enzymes (extracellular or intracellular), which facilitate the disintegration of polymer chains within the cell. Several enzymes capable of
+Extracted: {'waste': [], 'transforming_process': [], 'transformed_resource': []}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: into smaller pieces. Every plastic found in the environment is hydrophobic by nature. The initial phase in the interaction between enzymes and polymers is adhesion of the extra-cellular microbial enzymes to the plastic surface via hydrophobic interactions. The active region of several hydrolases contains a hydrophobic cleft that accepts hydrophobic groups from the polymer, expanding the accessibility of the enzyme to the polymer (  Wilkes & Aristilde, 2017 ). In the second stage, the active site of the enzyme takes part in the hydrolytic cleavage of the long polymer chains into smaller monomers or dimers, which can be consumed by the microbial organism and used as a source of carbon. Fig. 4  presents a diagrammatic illustration of this process.   3  Biotechnological developments in plastic degradation  To mitigate plastic pollution, considerable research has been conducted recently in the area of plastic biodegradation. This section aims to highlight the numerous recent advancements
+Extracted: {'waste': ['plastic'], 'transforming_process': ['hydrolytic cleavage', 'enzymes interaction with polymers', 'adhesion of enzymes to plastic surface via hydrophobic interactions'], 'transformed_resource': ['monomers or dimers', 'carbon']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: biodegradation of diverse polymers.   3.2  Use of recombinant enzymes and cell-free methods  Plastics can be enzymatically degraded using either a cell-free method or conventional whole-cell biocatalysis. Fermentation of microbes is a typical first step in plastic biodegradation experiments under optimal conditions (e.g., pH, nutrient supplementation, and temperature). Following whole-cell biocatalysis, plastic samples are incubated with microbial strains at high cell densities in the biodegradation medium. However, following the initial fermentation stage, the microbial cells used in the cell-free process must be disrupted. Plastic samples can be hatched with crude cell lysate for biodegradation tests or undergo further purification to obtain pure proteins for plastic biodegradation. In conventional whole-cell biocatalysis, wild-type or recombinant microorganisms secrete plastic-degrading enzymes that cause polymer fragmentation. Using the whole-cell approach, the presence of oxygen,
+Extracted: {'waste': [], 'transforming_process': [], 'transformed_resource': []}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: whole-cell biocatalysis, wild-type or recombinant microorganisms secrete plastic-degrading enzymes that cause polymer fragmentation. Using the whole-cell approach, the presence of oxygen, operational temperature, and pH are critical parameters for ensuring the survival and proliferation of microorganisms that express the enzymes needed for decomposition of plastics (  Samak et al., 2020 ). Whole-cell biocatalysis has been recommended for use in biodegradation of polyolefins, which have carbon backbone topologies ( Ren & Zimmermann, 2017 ). Because the biodegradation enzymes for these polymers have not yet been discovered, bioinformatics analysis along with the use of wild-type strains in the standard whole-cell method can help identify the putative enzymes responsible for efficient biodegradation of such polymers. As an example, an unexplored PET-degrading enzyme, PETase, was discovered through whole-genome and RNA sequencing of  Ideonella sakaiensis 201-F6 following its initial
+Extracted: {'waste': ['plastics', 'polyolefins', 'PET'], 'transforming_process': ['whole-cell biocatalysis', 'wild-type or recombinant microorganisms secretion of plastic-degrading enzymes', 'biodegradation enzymes expression with bioinformatics analysis and standard whole-cell method'], 'transformed_resource': ['plastic fragmentation', 'polymer decomposition', 'putative PET-degrading enzyme identification']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: plastics have been pre-treated with UV radiation, thermal processing, or chemical processes to make them more susceptible to biodegradation. Their extreme hydrophobicity, which arises from their hydrocarbon chain structures, inhibits microorganism activity during biodegradation. Therefore, the biodegradation procedure, which entails the incubation of microorganism-pretreated plastics, is enhanced up by the oxidation of polymers due to abiotic pre-treatment effects (  Mohanan et al., 2020 ). New pre-treatment techniques such as plasma treatment ( Gómez-Méndez et al., 2018 ) and gamma irradiation ( Sheik et al., 2015 ) have been investigated for their ability to speed up the overall plastic biodegradation process. Functional groups (such as carboxyl, ester, and carbonyl) can also be synthesized within the polymer chain during plastic pre-treatment. Several studies have also noted changes in the surface morphologies of polymers following pre-treatment, where pre-treated plastics were
+Extracted: {'waste': ['plastics'], 'transforming_process': ['UV radiation', 'thermal processing', 'chemical processes', 'biodegradation', 'plasma treatment', 'gamma irradiation', 'oxidation of polymers', 'microorganism-pretreated plastics'], 'transformed_resource': []}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: for improved PET and polyfuranoate (PEF) degradation ( Austin et al., 2018 ). A computational approach was employed to increase the melting temperature of IsPETase by 31 °C, which produced a 300-fold increase in the breakdown of semicrystalline PET ( Cui et al., 2021 ). A chimera of the I.sakainesis two-enzyme system that includes IsPETase and the downstream MHETase enzyme, which cleaves mono(2-hydroxyethyl) terephthalate into terephthalic acid and ethylene glycol, has been shown to accelerate the breakdown of PET ( Knott et al., 2020 ). To increase its thermostability and PET depolymerization, Tournier et al. (2020) resynthesized PET from its monomers by altering the PETase isolated from composted leaf-branch material. This “proof-of-concept” design highlights the potential of biocatalytic recycling for a sustainable plastic economy. In order to achieve specific objectives, synthetic biology attempts to modify or redesign existing biological systems. This procedure can be streamlined
+Extracted: {'waste': ['PET', 'polyfuranoate', 'semicrystalline PET', 'mono(2-hydroxyethyl) terephthalate'], 'transforming_process': ['computational approach', 'IsPETase enzyme modification', 'MHETase enzyme chimera', 'resynthesizing PET from monomers', 'biocatalytic recycling', 'synthetic biology modification'], 'transformed_resource': ['terephthalic acid', 'ethylene glycol', 'thermostable PET depolymerization']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: recycling for a sustainable plastic economy. In order to achieve specific objectives, synthetic biology attempts to modify or redesign existing biological systems. This procedure can be streamlined using computational biology, which facilitates the theoretical design step by using environmental sequence data (  El Karoui et al., 2019 ). Microalgae have been genetically engineered ( Moog et al., 2019 ) to release PDEs, which break down plastic and mediate polyethylene terephthalate (PET) degradation. The biocatalytic upcycling of PET to polyhydroxyalkanoates (PHAs) was demonstrated by Tiso et al. (2022) via enzymatic breakdown of PET in stages followed by PHA production utilizing the liberated monomers in a modified Pseudomonas species. Synthetic biology represents a promising area for innovation that could eventually provide environmentally friendly waste management methods. Enhancing the catalytic activity of plastic-degrading enzymes by protein engineering techniques is an emerging
+Extracted: {'waste': [], 'transforming_process': [], 'transformed_resource': []}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: affinity of the substrate because of a reduced ability to bind. Narrowing the active site has actually proved helpful in some situations. According to the study of Austin et al. (2018) , PET was more effectively degraded when the PETase active site was narrowed by the S238F and W159H mutations. Similarly, the new alternative poly(ethylene furanoate) (PEF) was also degraded because S238F creates a stacking interaction and W159H allows the substrate to sit deeper within the active site cleft ( Austin et al., 2018 ). Another potential engineering target is the hydrophobicity of the substrate binding groove in the active site ( Fig. 7 ). Due to a higher affinity, improving hydrophobicity may be advantageous for binding to plastic substrates and the efficiency of degradation, as shown with PETase ( Ma et al., 2018 ). Furthermore, enzyme catalytic activity may be enhanced by altering the hydrophobicity and opening size of the active site.   4.3  Strengthening the interaction between the
+Extracted: {'waste': ['PET', 'poly(ethylene furanoate) (PEF)', 'plastic substrates'], 'transforming_process': ['PETase mutation', 'enzymatic degradation', 'altering hydrophobicity and opening size of the active site'], 'transformed_resource': []}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: PETase ( Ma et al., 2018 ). Furthermore, enzyme catalytic activity may be enhanced by altering the hydrophobicity and opening size of the active site.   4.3  Strengthening the interaction between the substrate and the enzyme surface  Increased biocatalytic efficacy of plastic-degrading enzymes has been achieved by modifying the surface characteristics to improve the enzyme interaction with substrates, because the substrate binding process is controlled by electrostatic and hydrophobic interactions between the substrate molecules and amino acid residues on the enzyme surface (  Ribitsch et al., 2017 ). Consequently, it is it is common practice to modify these surface properties ( Fig. 8 ). Enhanced substrate interaction can be produced by fusing the binding accessories to an enzyme surface ( Fig. 8 ). This strategy was inspiring by the finding that many enzymes involved in the breakdown of natural biopolymers include a second binding domain devoted to the adherence of polymer
+Extracted: {'waste': ['PETase', 'plastic'], 'transforming_process': ['modifying surface characteristics to improve enzyme interaction with substrates', 'fusing binding accessories to an enzyme surface', 'altering hydrophobicity and opening size of the active site'], 'transformed_resource': []}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: 4.4  Refining additional enzyme functionalities  Efforts to improve plastic-degrading enzymes have been conducted in other areas, including lowering the effects of product inhibition, allowing for catalytic promiscuity in the enzyme, and producing versatile biocatalysts (  Fig. 9 ). First, enzyme activity can be inhibited by intermediates or products of plastic degradation ( Gro\u03b2 et al., 2017 ), and this inhibition can be minimized by changing the architecture of an active site. For example, the G62A mutation in the substrate binding groove of TfCut2 resulted in a 5.5-fold decrease in the binding constant for the inhibitory hydrolysis product, mono (2-hydroxyethyl) terephthalate (MHET), thus resulting in improved PET degradation ( Ren et al., 2016 ). Additionally, fusion with an additional enzyme that can break down the intermediate molecules has been shown to reduce product inhibition ( Barth et al., 2016 ). Enabling catalytic promiscuity can increase the capacity of
+Extracted: {'waste': ['plastic', 'intermediates', 'products'], 'transforming_process': ['lowering effects of product inhibition', 'catalytic promiscuity in the enzyme', 'producing versatile biocatalysts', 'changing architecture of an active site', 'fusion with additional enzyme'], 'transformed_resource': ['improved PET degradation', 'mono (2-hydroxyethyl) terephthalate (MHET)', 'enzymes with improved functionalities', 'biocatalysts']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: an additional enzyme that can break down the intermediate molecules has been shown to reduce product inhibition ( Barth et al., 2016 ). Enabling catalytic promiscuity can increase the capacity of plastic-degrading enzymes to employ a wide variety of plastic substrates, which can speed up the degradation process. This is especially useful for polymers with few known enzymes capable of efficiently degrading them (such as PAs and PUs) ( Chen et al., 2020 ). Recent ground-breaking research showed that synthesized PAs can be depolymerized by a cutinase called Thc_Cut1, in which the promiscuous amidase activity was enhanced ( Biundo et al., 2019 ). Residues that may prevent water molecules from interacting with the transition state were chosen for mutation, resulting in a 6–15-fold increase in hydrolytic activity ( Biundo et al., 2019 ). In addition, bifunctional biocatalysts for increased depolymerization efficiency have been created by fusing a plastic-degrading enzyme with another
+Extracted: {'waste': ['plastic', 'polymers', 'PAs', 'PUs'], 'transforming_process': ['degradation process', 'depolymerization', 'fusing a plastic-degrading enzyme with another'], 'transformed_resource': ['clean water molecules', 'hydrolytic activity', 'bifunctional biocatalysts']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: we discuss opportunities to turn materials produced from the biodegradation of plastic into value-added materials, which will aid in scaling up plastic biodegradation and yielding economic benefits. Research in this context has focused on finding new uses for plastic biodegradation products to advance the circular plastics economy. Although the low cost of producing PET has hindered incentives for PET recycling (  Del Mar Castro López et al., 2014 ), PET hydrolases have recently been discovered and engineered, offering new perspectives and the possibility of PET biotransformation and valorization. By combining metabolic engineering and synthetic biology, hydrolyzed PET monomers can be transformed into valuable substances that reduce the cost of recycling PET. These PET monomers can potentially find uses as ingredients in animal feed, medications, cosmetics, and fragrances ( Fig. 10  ). Terephthalic acid generated as a result of PET biodegradation has been utilized in the production of
+Extracted: {'waste': ['plastic', 'PET'], 'transforming_process': ['biodegradation', 'hydrolases', 'metabolic engineering', 'synthetic biology', 'PET biotransformation'], 'transformed_resource': ['PET monomers', 'terephthalic acid', 'ingredients in animal feed', 'medications', 'cosmetics', 'fragrances']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: find uses as ingredients in animal feed, medications, cosmetics, and fragrances ( Fig. 10  ). Terephthalic acid generated as a result of PET biodegradation has been utilized in the production of PET bottles that exhibit comparable mechanical and physical characteristics to petrochemical PET bottles ( Tournier et al., 2020 ). Aromatic chemicals (such as gallic acid, pyrogallol, catechol, muconic acid, and vanillic acid) have been biologically synthesized from terephthalic acid by use of a modified Escherichia coli strain ( Kim et al., 2019 ) ( Table 4  ). Furthermore, biotransformation of terephthalic acid into vanillin, which is a crucial ingredient in the food, cosmetics, and pharmaceutical sectors, has been accomplished via one-pot depolymerization of PET by LCC and subsequent biotransformation into vanillin utilizing a modified E. coli, marking the first demonstration of biological recycling of post-consumer PET waste into a high-value industrial chemical ( Sadler & Wallace, 2021
+Extracted: {'waste': ['PET', 'petrochemical PET bottles'], 'transforming_process': ['biodegradation', 'modified Escherichia coli strain', 'one-pot depolymerization of PET by LCC and subsequent biotransformation using a modified E. coli'], 'transformed_resource': ['terephthalic acid', 'vanillin', 'animal feed', 'medications', 'cosmetics', 'fragrances', 'PET bottles', 'aromatic chemicals (gallic acid, pyrogallol, catechol, muconic acid, and vanillic acid)']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: into vanillin utilizing a modified E. coli, marking the first demonstration of biological recycling of post-consumer PET waste into a high-value industrial chemical ( Sadler & Wallace, 2021 ). While the complete biodegradation of other synthetic polymers (such as HDPE, LDPE, PVC, PS and PP) has not yet been documented, efforts have already been made to monetize the monomers and shorter chain molecules produced by chemical depolymerization of plastics. Styrene, a PS monomer, has been bio-transformed into mandelic acid by a 4-step enzyme cascade reaction, which yields up to 70%. This biological synthesis of mandelic acid not only decreases the use of harmful cyanide material, which is traditionally necessary for mandelic acid production, but it also promotes the cyclical economy of the plastics industry and offers an ecologically friendly and sustainable production method. Additionally, alkenes and branched-chain fatty alcohols created from pyrolysis of PP can be converted into
+Extracted: {'waste': ['post-consumer PET waste', 'HDPE', 'LDPE', 'PVC', 'PS', 'PP'], 'transforming_process': ['biological recycling', 'chemical depolymerization', 'enzyme cascade reaction', 'pyrolysis'], 'transformed_resource': ['vanillin', 'mandelic acid', 'styrene', 'alkenes', 'branched-chain fatty alcohols']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: the plastics industry and offers an ecologically friendly and sustainable production method. Additionally, alkenes and branched-chain fatty alcohols created from pyrolysis of PP can be converted into value-added fatty acids through fermentation with  Yarrowia lipolytica strain 78–003 ( Mihreteab et al., 2019 ). These studies demonstrate that valuable degradation byproducts are possible, and serve to encourage further research into successful plastic degradation. An area of positive development is the ongoing effort to establish long-term strategies for managing plastic waste and in turn, to discover fresh, nonfossil-based polymers such as polyhydroxyalkanoates (PHAs).  Sangiorgio et al. (2021) investigated Tenebrio molitor (TM) as a beneficial organism for plastic degradation and the biological recovery of new biopolymers (e.g., PHA) from plastic-producing microbes, utilizing its highly diversified gut microbiota. However, management of plastic waste using TM entails certain concerns.
+Extracted: {'waste': [], 'transforming_process': [], 'transformed_resource': []}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: recovery of new biopolymers (e.g., PHA) from plastic-producing microbes, utilizing its highly diversified gut microbiota. However, management of plastic waste using TM entails certain concerns. Plastic-degrading bacteria are known to be present in the microbiota of TM. Improved TM-based plastic breakdown is achieved through co-feeding with food waste as a dietary energy source, thus increasing the worth of these low-value materials through a circular economy approach. A TM bioreactor would be an acceptable substitute to conventional PHA recovery methods, and would provide the benefits of producing highly pure PHA, protein biomass, and rearing waste that could be used to produce fertilizers, chitin/chitosan, biochar, and biodiesel. In summary, eco-friendly waste management relies on the efficient breakdown of man-made polymers and the transformation of waste materials into useful compounds.   6  Conclusions  Enzyme biocatalysts present an environmentally friendly option for managing
+Extracted: {'waste': [], 'transforming_process': [], 'transformed_resource': []}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: efficient breakdown of man-made polymers and the transformation of waste materials into useful compounds.   6  Conclusions  Enzyme biocatalysts present an environmentally friendly option for managing and recycling plastic waste. It is possible to incorporate enzyme-mediated biocatalytic degradation into existing plastic recycling frameworks, complementing or potentially replacing current chemical recycling methods. Modifying the active sites of enzymes is one potential strategy for improving the stability of plastic-degrading enzymes, allowing them to function in a broader range of environments. Additionally, engineering a single functional system suitable for more than two types of plastics broadens the spectrum of plastic degradability within a single test. New opportunities to obtain novel biocatalysts with ideal properties for efficient and cost-effective plastic depolymerization have emerged as a result of the rapid advancements in synthetic biology and protein engineering, which
+Extracted: {'waste': ['plastic waste', 'man-made polymers'], 'transforming_process': ['enzyme biocatalysts', 'enzymatic degradation', 'chemical recycling methods', 'biocatalytic degradation', 'protein engineering'], 'transformed_resource': ['useful compounds', 'novel biocatalysts', 'plastic-degrading enzymes', 'functional plastic depolymerization products']}
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+Chunk: Bio-upcycling is increasingly recognized as a viable solution to the problem of plastic waste. However, its commercialization has not yet fully materialized, despite ongoing efforts to identify microorganisms and enzymes capable of degrading and valorizing plastic waste. Further investigation into multi-enzyme or multi-microbial strategies is necessary to overcome these challenges; systems metabolic engineering is critical for creating strains of microbes with enhanced capabilities for degrading and monetizing plastic.
+Extracted: {'waste': ['plastic waste'], 'transforming_process': ['degrading', 'valorizing', 'monetizing', 'systems metabolic engineering', 'identifying microorganisms and enzymes'], 'transformed_resource': ['biodiverse products', 'value-added chemicals']}
+Total 42 chunks
+Total 24 chunks has relatedness
+Converted 24 w2r to json
+Processed 10.1016/j.cec.2024.100077, time in seconds: 43.132930755615234
+Processing row 373: full_text_papers_processed\10.3390_fermentation10030126.txt
+Processing row 378: full_text_papers_processed\10.1016_j.scitotenv.2023.168894.txt
+Processing row 380: full_text_papers_processed\10.1007_s13399-022-03011-0.txt
+Processing row 381: full_text_papers_processed\10.1002_cssc.202300990.txt
+Processing row 389: full_text_papers_processed\10.12034_j.issn.1009-606X.223195.txt
+Processing row 391: full_text_papers_processed\10.1007_s10669-023-09925-y.txt
+Processing row 393: full_text_papers_processed\10.1007_s11356-023-27193-w.txt
+Processing row 397: full_text_papers_processed\10.1016_j.envres.2023.117879.txt
+Processing row 398: full_text_papers_processed\10.1007_s11367-023-02272-9.txt
+Processing row 406: full_text_papers_processed\10.3390_jcs8020041.txt
+Processing row 411: full_text_papers_processed\10.1007_s10668-024-04726-y.txt
+Processing row 412: full_text_papers_processed\10.3390_su16031073.txt
+Processing row 418: full_text_papers_processed\10.1007_s11157-024-09687-2.txt
+Processing row 419: full_text_papers_processed\10.1002_cben.202300024.txt
+Processing row 420: full_text_papers_processed\10.1016_j.scitotenv.2023.168277.txt
+Processing row 429: full_text_papers_processed\10.1016_j.scitotenv.2023.167897.txt
+Processing row 430: full_text_papers_processed\10.1021_acs.est.3c06774.txt
+Processing row 436: full_text_papers_processed\10.1007_s10532-024-10082-5.txt
+Processing row 437: full_text_papers_processed\10.1016_j.biortech.2023.130258.txt
+Processing row 440: full_text_papers_processed\10.1007_s11846-024-00779-5.txt
+Processing row 447: full_text_papers_processed\10.1016_j.scitotenv.2023.168199.txt
+Processing row 481: full_text_papers_processed\10.1016_j.jenvman.2024.120052.txt
+Processing row 488: full_text_papers_processed\10.1007_s40974-023-00312-6.txt
+Processing row 490: full_text_papers_processed\10.1021_acssuschemeng.3c04264.txt
+Processing row 496: full_text_papers_processed\10.1111_ijfs.16737.txt
+Processing row 499: full_text_papers_processed\10.1016_j.heliyon.2024.e24732.txt
+Processing row 514: full_text_papers_processed\10.1016_j.crbiot.2024.100225.txt
+Processing row 517: full_text_papers_processed\10.1007_s11157-024-09688-1.txt
+Processing row 520: full_text_papers_processed\10.1007_s12649-024-02432-4.txt
+Processing row 521: full_text_papers_processed\10.1007_s10311-024-01742-2.txt
+Processing row 523: full_text_papers_processed\10.1007_s10705-024-10340-1.txt
+Processing row 534: full_text_papers_processed\10.3390_fermentation10010023.txt
+Processing row 555: full_text_papers_processed\10.1002_ep.14399.txt
+Processing row 560: full_text_papers_processed\10.1007_s10668-024-04760-w.txt
+Processing row 563: full_text_papers_processed\10.3389_fsufs.2024.1334801.txt
+Processing row 570: full_text_papers_processed\10.1007_s13399-024-05626-x.txt
+Processing row 571: full_text_papers_processed\10.3390_catal14010040.txt
+Processing row 573: full_text_papers_processed\10.1093_femsre_fuad062.txt
+Processing row 578: full_text_papers_processed\10.1007_s13399-024-05410-x.txt
+Processing row 588: full_text_papers_processed\10.3390_nu16020259.txt
+Processing row 589: full_text_papers_processed\10.3390_su16020706.txt
+Processing row 593: full_text_papers_processed\10.55815_424209.txt
+Processing row 603: full_text_papers_processed\10.1016_j.tgchem.2023.100013.txt
+Processing row 604: full_text_papers_processed\10.1016_j.jece.2023.111555.txt
+Processing row 605: full_text_papers_processed\10.26656_fr.2017.7(6).127.txt
+Processing row 606: full_text_papers_processed\10.1016_j.tifs.2023.104168.txt
+Processing row 609: full_text_papers_processed\10.26538_tjnpr_v7i12.3.txt
+Processing row 618: full_text_papers_processed\10.1186_s40643-023-00702-y.txt
+Processing row 620: full_text_papers_processed\10.1016_j.tifs.2023.104287.txt
+Processing row 626: full_text_papers_processed\10.1016_j.cej.2023.147506.txt
+Processing row 637: full_text_papers_processed\10.1080_07388551.2022.2157701.txt
+Processing row 640: full_text_papers_processed\10.1016_j.envpol.2023.122717.txt
+Processing row 642: full_text_papers_processed\10.1016_j.tifs.2023.104316.txt
+Processing row 643: full_text_papers_processed\10.1016_j.jclepro.2023.140258.txt
+Processing row 645: full_text_papers_processed\10.1016_j.biortech.2023.129829.txt
+Processing row 649: full_text_papers_processed\10.1016_j.ese.2023.100287.txt
+Processing row 667: full_text_papers_processed\10.1039_d3fb00156c.txt
+Processing row 677: full_text_papers_processed\10.1016_j.heliyon.2023.e22673.txt
+Processing row 694: full_text_papers_processed\10.1007_s13399-022-02477-2.txt
+Processing row 700: full_text_papers_processed\10.1016_j.scitotenv.2023.166244.txt
+Processing row 706: full_text_papers_processed\10.1016_j.jenvman.2023.118585.txt
+Processing row 707: full_text_papers_processed\10.1016_j.scp.2023.101200.txt
+Processing row 720: full_text_papers_processed\10.1007_s10311-023-01643-w.txt
+Processing row 727: full_text_papers_processed\10.1016_j.biotechadv.2023.108264.txt
+Processing row 730: full_text_papers_processed\10.1080_21655979.2023.2184480.txt
+Processing row 732: full_text_papers_processed\10.1016_j.rcradv.2023.200173.txt
+Processing row 739: full_text_papers_processed\10.1007_s12155-022-10563-6.txt
+Processing row 745: full_text_papers_processed\10.1016_j.jobe.2023.107695.txt
+Processing row 749: full_text_papers_processed\10.3390_app132212315.txt
+Processing row 751: full_text_papers_processed\10.1016_j.seppur.2023.124631.txt
+Processing row 760: full_text_papers_processed\10.1007_s13399-023-04103-1.txt
+Processing row 764: full_text_papers_processed\10.1016_j.envpol.2023.122591.txt
+Processing row 768: full_text_papers_processed\10.1007_s10311-023-01638-7.txt
+Processing row 769: full_text_papers_processed\10.4491_eer.2023.054.txt
+Processing row 783: full_text_papers_processed\10.1016_j.clwas.2023.100116.txt
+Processing row 786: full_text_papers_processed\10.1016_j.envres.2023.117180.txt
+Processing row 798: full_text_papers_processed\10.1016_j.fuel.2023.128935.txt
+Processing row 813: full_text_papers_processed\10.1016_j.jclepro.2023.138488.txt
+Processing row 825: full_text_papers_processed\10.1007_s13762-023-04901-0.txt
+Processing row 827: full_text_papers_processed\10.1002_jctb.7475.txt
+Processing row 830: full_text_papers_processed\10.1016_j.cej.2023.145261.txt
+Processing row 840: full_text_papers_processed\10.1002_fsn3.3546.txt
+Processing row 846: full_text_papers_processed\10.1016_j.nanoso.2023.101050.txt
+Processing row 847: full_text_papers_processed\10.1016_j.jclepro.2023.138295.txt
+Processing row 848: full_text_papers_processed\10.1016_j.enconman.2023.117392.txt
+Processing row 851: full_text_papers_processed\10.1002_cctc.202300648.txt
+Processing row 861: full_text_papers_processed\10.1016_j.scitotenv.2023.165072.txt
+Processing row 875: full_text_papers_processed\10.3390_ijms242015181.txt
+Processing row 876: full_text_papers_processed\10.1016_j.jclepro.2023.138708.txt
+Processing row 880: full_text_papers_processed\10.3390_foods12193646.txt
+Processing row 881: full_text_papers_processed\10.1016_j.jclepro.2023.138524.txt
+Processing row 889: full_text_papers_processed\10.1002_jsfa.12686.txt
+Processing row 890: full_text_papers_processed\10.1007_s13762-023-04845-5.txt
+Processing row 899: full_text_papers_processed\10.1016_j.scitotenv.2023.164795.txt
+Processing row 936: full_text_papers_processed\10.1002_sae2.12062.txt
+Processing row 937: full_text_papers_processed\10.3390_agronomy13092245.txt
+Processing row 949: full_text_papers_processed\10.1002_tqem.22040.txt
+Processing row 950: full_text_papers_processed\10.1016_j.trac.2023.117189.txt
+Processing row 953: full_text_papers_processed\10.3390_molecules28176390.txt
+Processing row 968: full_text_papers_processed\10.1515_psr-2021-0063.txt
+Processing row 988: full_text_papers_processed\10.3390_recycling8040061.txt
+Processing row 993: full_text_papers_processed\10.1016_j.cec.2023.100050.txt
+Processing row 998: full_text_papers_processed\10.1016_j.biortech.2023.129238.txt
+Processing row 1009: full_text_papers_processed\10.1002_jctb.7388.txt
+Processing row 1014: full_text_papers_processed\10.3390_min13060724.txt
+Processing row 1018: full_text_papers_processed\10.1039_d3se00500c.txt
+Processing row 1023: full_text_papers_processed\10.1016_j.scp.2023.101106.txt
+Processing row 1028: full_text_papers_processed\10.1007_s13399-021-01736-y.txt
+Processing row 1039: full_text_papers_processed\10.1007_s11814-023-1494-z.txt
+Processing row 1048: full_text_papers_processed\10.1016_j.tifs.2023.05.004.txt
+Processing row 1053: full_text_papers_processed\10.1016_j.scitotenv.2023.163829.txt
+Processing row 1056: full_text_papers_processed\10.1002_star.202200203.txt
+Processing row 1069: full_text_papers_processed\10.1016_j.conbuildmat.2023.131695.txt
+Processing row 1070: full_text_papers_processed\10.1007_s10661-023-11339-x.txt
+Processing row 1071: full_text_papers_processed\10.1016_j.jenvman.2023.117896.txt
+Processing row 1072: full_text_papers_processed\10.1007_s13399-021-01906-y.txt
+Processing row 1079: full_text_papers_processed\10.17268_sci.agropecu.2023.029.txt
+Processing row 1093: full_text_papers_processed\10.1021_acs.jafc.2c09095.txt
+Processing row 1095: full_text_papers_processed\10.1016_j.indcrop.2023.116639.txt
+Processing row 1096: full_text_papers_processed\10.1016_j.cogsc.2023.100832.txt
+Processing row 1098: full_text_papers_processed\10.1016_j.scitotenv.2023.163158.txt
+Processing row 1102: full_text_papers_processed\10.3390_pr11051580.txt
+Processing row 1104: full_text_papers_processed\10.3390_molecules28104205.txt
+Processing row 1107: full_text_papers_processed\10.3390_su15108343.txt
+Processing row 1118: full_text_papers_processed\10.1016_j.envres.2023.115558.txt
+Processing row 1119: full_text_papers_processed\10.1016_j.hazadv.2023.100317.txt
+Processing row 1125: full_text_papers_processed\10.1016_j.biotechadv.2023.108123.txt
+Processing row 1134: full_text_papers_processed\10.1016_j.earscirev.2023.104421.txt
+Processing row 1139: full_text_papers_processed\10.1016_j.arabjc.2023.104717.txt
+Processing row 1142: full_text_papers_processed\10.1016_j.jenvman.2023.117410.txt
+Processing row 1143: full_text_papers_processed\10.1016_j.coesh.2023.100470.txt
+Processing row 1154: full_text_papers_processed\10.1016_j.scitotenv.2023.162001.txt
+Processing row 1155: full_text_papers_processed\10.1016_j.envpol.2023.121363.txt
+Processing row 1165: full_text_papers_processed\10.56042_ijct.v30i3.66028.txt
+Processing row 1168: full_text_papers_processed\10.1016_j.micromeso.2023.112520.txt
+Processing row 1171: full_text_papers_processed\10.1002_fsn3.3322.txt
+Processing row 1182: full_text_papers_processed\10.1016_j.jenvman.2023.117508.txt
+Processing row 1184: full_text_papers_processed\10.1111_raq.12760.txt
+Processing row 1185: full_text_papers_processed\10.3390_ijms24097696.txt
+Processing row 1188: full_text_papers_processed\10.1016_j.ijbiomac.2023.123733.txt
+Processing row 1190: full_text_papers_processed\10.3390_metabo13050634.txt
+Processing row 1193: full_text_papers_processed\10.1016_j.biortech.2023.128952.txt
+Processing row 1194: full_text_papers_processed\10.1016_j.jenvman.2023.117382.txt
+Processing row 1195: full_text_papers_processed\10.1016_j.scitotenv.2023.162119.txt
+Processing row 1199: full_text_papers_processed\10.3390_metabo13050624.txt
+Processing row 1219: full_text_papers_processed\10.3390_ma16062458.txt
+Processing row 1224: full_text_papers_processed\10.3390_environments10030044.txt
+Processing row 1235: full_text_papers_processed\10.1016_j.jclepro.2023.136283.txt
+Processing row 1238: full_text_papers_processed\10.1111_ijfs.16297.txt
+Processing row 1241: full_text_papers_processed\10.1021_acs.est.2c07588.txt
+Processing row 1244: full_text_papers_processed\10.1016_j.scitotenv.2022.161136.txt
+Processing row 1248: full_text_papers_processed\10.1016_j.clet.2023.100629.txt
+Processing row 1250: full_text_papers_processed\10.1111_ijfs.16168.txt
+Processing row 1264: full_text_papers_processed\10.1016_j.biortech.2023.128793.txt
+Processing row 1269: full_text_papers_processed\10.1016_j.biortech.2023.128772.txt
+Processing row 1270: full_text_papers_processed\10.1007_s11814-023-1398-y.txt
+Processing row 1273: full_text_papers_processed\10.1021_acsenvironau.2c00050.txt
+Processing row 1279: full_text_papers_processed\10.3390_ma16072602.txt
+Processing row 1282: full_text_papers_processed\10.3390_nu15061322.txt
+Processing row 1286: full_text_papers_processed\10.1007_s13399-021-01467-0.txt
+Processing row 1297: full_text_papers_processed\10.3390_pr11041167.txt
+Processing row 1299: full_text_papers_processed\10.3390_fermentation9030274.txt
+Processing row 1300: full_text_papers_processed\10.3390_foods12030556.txt
+Processing row 1302: full_text_papers_processed\10.1016_j.resconrec.2022.106840.txt
+Processing row 1308: full_text_papers_processed\10.1007_s11783-023-1623-2.txt
+Processing row 1313: full_text_papers_processed\10.2166_wpt.2023.011.txt
+Processing row 1315: full_text_papers_processed\10.3390_chemengineering7010011.txt
+Processing row 1317: full_text_papers_processed\10.3390_ijerph20032318.txt
+Processing row 1322: full_text_papers_processed\10.1016_j.jece.2022.109113.txt
+Processing row 1326: full_text_papers_processed\10.1016_j.cogsc.2022.100747.txt
+Processing row 1331: full_text_papers_processed\10.3390_en16031074.txt
+Processing row 1334: full_text_papers_processed\10.1007_s11356-022-24849-x.txt
+Processing row 1336: full_text_papers_processed\10.3390_recycling8010020.txt
+Processing row 1350: full_text_papers_processed\10.1016_j.jenvman.2022.117001.txt
+Processing row 1353: full_text_papers_processed\10.3390_bioengineering10020152.txt
+Processing row 1355: full_text_papers_processed\10.1016_j.biortech.2022.128449.txt
+Processing row 1357: full_text_papers_processed\10.1016_j.scitotenv.2022.160722.txt
+Processing row 1360: full_text_papers_processed\10.1007_s12649-022-01934-3.txt
+Processing row 1369: full_text_papers_processed\10.1016_j.biortech.2022.128323.txt
+Processing row 1372: full_text_papers_processed\10.1111_1462-2920.16284.txt
+Processing row 1382: full_text_papers_processed\10.3390_en16041671.txt
+Processing row 1385: full_text_papers_processed\10.1007_s40726-022-00240-9.txt
+Processing row 1388: full_text_papers_processed\10.1016_j.biteb.2023.101345.txt
+Processing row 1392: full_text_papers_processed\10.1016_j.biortech.2022.128487.txt
+Processing row 1401: full_text_papers_processed\10.1080_07388551.2023.2284644.txt
+Processing row 1414: full_text_papers_processed\10.1016_j.cej.2022.139218.txt
+Processing row 1425: full_text_papers_processed\10.38212_2224-6614.3479.txt
+Processing row 1426: full_text_papers_processed\10.25130_tjes.30.1.10.txt
+Processing row 1442: full_text_papers_processed\10.1080_07388551.2023.2254930.txt
+Processing row 1449: full_text_papers_processed\10.1080_87559129.2023.2274485.txt
+Processing row 1476: full_text_papers_processed\10.3389_fagro.2023.1293555.txt
+Processing row 1491: full_text_papers_processed\10.1007_s13399-023-04967-3.txt
+Processing row 1505: full_text_papers_processed\10.1080_10408398.2023.2184322.txt
+Processing row 1506: full_text_papers_processed\10.3389_fceng.2023.1129783.txt
+Processing row 1516: full_text_papers_processed\10.1007_s11356-023-28890-2.txt
+Processing row 1528: full_text_papers_processed\10.31083_j.fbe1503017.txt
+Processing row 1529: full_text_papers_processed\10.1080_10643389.2023.2206781.txt
+Processing row 1530: full_text_papers_processed\10.1080_07388551.2023.2241112.txt
+Processing row 1556: full_text_papers_processed\10.1007_s13399-023-04521-1.txt
+Processing row 1560: full_text_papers_processed\10.3389_fagro.2023.1214012.txt
+Processing row 1582: full_text_papers_processed\10.1093_jimb_kuad011.txt
+Processing row 1587: full_text_papers_processed\10.1007_s11947-023-03192-0.txt
+Processing row 1597: full_text_papers_processed\10.2298_HEMIND220804007M.txt
+Processing row 1607: full_text_papers_processed\10.1016_j.envpol.2022.120667.txt
+Processing row 1619: full_text_papers_processed\10.3390_jcs7010008.txt
+Processing row 1620: full_text_papers_processed\10.1080_10408398.2021.1952923.txt
+Processing row 1625: full_text_papers_processed\10.1016_j.clcb.2022.100030.txt
+Processing row 1629: full_text_papers_processed\10.3390_fermentation9010073.txt
+Processing row 1647: full_text_papers_processed\10.3390_cosmetics9060139.txt
+Processing row 1649: full_text_papers_processed\10.1080_07388551.2021.2004989.txt
+Processing row 1653: full_text_papers_processed\10.1016_j.scitotenv.2022.157955.txt
+Processing row 1658: full_text_papers_processed\10.1016_j.clcb.2022.100029.txt
+Processing row 1662: full_text_papers_processed\10.1080_10408398.2022.2031092.txt
+Processing row 1668: full_text_papers_processed\10.32604_jrm.2022.023449.txt
+Processing row 1674: full_text_papers_processed\10.3390_su15021492.txt
+Processing row 1698: full_text_papers_processed\10.3390_fermentation9010013.txt
+Processing row 1705: full_text_papers_processed\10.1016_j.cogsc.2022.100685.txt
+Processing row 1707: full_text_papers_processed\10.1007_s10924-022-02574-3.txt
+Processing row 1716: full_text_papers_processed\10.1016_j.biortech.2022.128204.txt
+Processing row 1720: full_text_papers_processed\10.1002_cite.202200079.txt
+Processing row 1723: full_text_papers_processed\10.3390_md20120782.txt
+Processing row 1737: full_text_papers_processed\10.1016_j.jenvman.2022.116181.txt
+Processing row 1738: full_text_papers_processed\10.1016_j.tibtech.2022.09.013.txt
+Processing row 1746: full_text_papers_processed\10.1016_j.cogsc.2022.100699.txt
+Processing row 1749: full_text_papers_processed\10.1016_j.biortech.2022.128034.txt
+Processing row 1755: full_text_papers_processed\10.1016_j.biortech.2022.127869.txt
+Processing row 1758: full_text_papers_processed\10.1016_j.cogsc.2022.100695.txt
+Processing row 1759: full_text_papers_processed\10.3390_mining2040034.txt
+Processing row 1765: full_text_papers_processed\10.1016_j.cogsc.2022.100714.txt
+Processing row 1773: full_text_papers_processed\10.1016_j.jics.2022.100761.txt
+Processing row 1779: full_text_papers_processed\10.3390_ijms232113049.txt
+Processing row 1780: full_text_papers_processed\10.3390_polym14245519.txt
+Processing row 1783: full_text_papers_processed\10.1016_j.biotechadv.2022.108049.txt
+Processing row 1788: full_text_papers_processed\10.3390_bioengineering9110618.txt
+Processing row 1791: full_text_papers_processed\10.3390_en15239033.txt
+Processing row 1792: full_text_papers_processed\10.1016_j.rser.2022.112966.txt
+Processing row 1800: full_text_papers_processed\10.1007_s11356-022-22500-3.txt
+Processing row 1809: full_text_papers_processed\10.3390_su141912035.txt
+Processing row 1814: full_text_papers_processed\10.1002_admt.202101471.txt
+Processing row 1825: full_text_papers_processed\10.1016_j.jhazmat.2022.129437.txt
+Processing row 1831: full_text_papers_processed\10.1016_j.biortech.2022.127870.txt
+Processing row 1834: full_text_papers_processed\10.3390_molecules27196606.txt
+Processing row 1838: full_text_papers_processed\10.3389_fchem.2022.912411.txt
+Processing row 1843: full_text_papers_processed\10.1002_eom2.12259.txt
+Processing row 1851: full_text_papers_processed\10.3390_pr10101959.txt
+Processing row 1852: full_text_papers_processed\10.1016_j.resconrec.2022.106497.txt
+Processing row 1854: full_text_papers_processed\10.1016_j.tifs.2022.08.016.txt
+Processing row 1860: full_text_papers_processed\10.1016_j.biotechadv.2022.107987.txt
+Processing row 1865: full_text_papers_processed\10.1016_j.fbio.2022.101877.txt
+Processing row 1874: full_text_papers_processed\10.1016_j.biortech.2022.127738.txt
+Processing row 1878: full_text_papers_processed\10.1016_j.jenvman.2022.115519.txt
+Processing row 1891: full_text_papers_processed\10.3390_polym14193939.txt
+Processing row 1895: full_text_papers_processed\10.1515_cppm-2020-0119.txt
+Processing row 1903: full_text_papers_processed\10.1021_acscatal.2c02775.txt
+Processing row 1904: full_text_papers_processed\10.1016_j.resconrec.2022.106354.txt
+Processing row 1915: full_text_papers_processed\10.1016_j.biortech.2022.127592.txt
+Processing row 1925: full_text_papers_processed\10.3389_fenrg.2022.903775.txt
+Processing row 1926: full_text_papers_processed\10.3390_foods11162454.txt
+Processing row 1936: full_text_papers_processed\10.1016_j.biortech.2022.127566.txt
+Processing row 1937: full_text_papers_processed\10.1016_j.biortech.2022.127609.txt
+Processing row 1973: full_text_papers_processed\10.3390_su141710759.txt
+Processing row 1979: full_text_papers_processed\10.1007_s11356-022-22222-6.txt
+Processing row 1983: full_text_papers_processed\10.1557_s43581-022-00036-w.txt
+Processing row 1985: full_text_papers_processed\10.3390_jmmp6040069.txt
+Processing row 1988: full_text_papers_processed\10.1007_s00253-022-12085-9.txt
+Processing row 1994: full_text_papers_processed\10.1016_j.scitotenv.2022.155113.txt
+Processing row 1996: full_text_papers_processed\10.3390_app12189216.txt
+Processing row 2000: full_text_papers_processed\10.3390_antiox11061197.txt
+Processing row 2006: full_text_papers_processed\10.1016_j.jenvman.2022.115096.txt
+Processing row 2007: full_text_papers_processed\10.1016_j.biortech.2022.127247.txt
+Processing row 2008: full_text_papers_processed\10.1016_j.scitotenv.2022.153781.txt
+Processing row 2011: full_text_papers_processed\10.1039_d2gc01668k.txt
+Processing row 2012: full_text_papers_processed\10.1016_j.conbuildmat.2022.127703.txt
+Processing row 2014: full_text_papers_processed\10.1016_j.resconrec.2022.106327.txt
+Processing row 2020: full_text_papers_processed\10.1016_j.psep.2022.04.024.txt
+Processing row 2022: full_text_papers_processed\10.1007_s11157-022-09619-y.txt
+Processing row 2027: full_text_papers_processed\10.1016_j.biteb.2022.101070.txt
+Processing row 2029: full_text_papers_processed\10.1007_s40726-022-00213-y.txt
+Processing row 2039: full_text_papers_processed\10.3390_fermentation8070325.txt
+Processing row 2041: full_text_papers_processed\10.1016_j.fbio.2022.101699.txt
+Processing row 2052: full_text_papers_processed\10.1007_s10965-022-03078-3.txt
+Processing row 2055: full_text_papers_processed\10.1016_j.psep.2022.06.027.txt
+Processing row 2058: full_text_papers_processed\10.3390_en15114168.txt
+Processing row 2059: full_text_papers_processed\10.3390_ma15124215.txt
+Processing row 2069: full_text_papers_processed\10.1007_s40974-022-00248-3.txt
+Processing row 2071: full_text_papers_processed\10.3389_fpls.2022.938480.txt
+Processing row 2073: full_text_papers_processed\10.3390_ijerph19116681.txt
+Processing row 2074: full_text_papers_processed\10.1016_j.joei.2022.05.003.txt
+Processing row 2082: full_text_papers_processed\10.1002_cben.202100048.txt
+Processing row 2090: full_text_papers_processed\10.3390_en15114105.txt
+Processing row 2103: full_text_papers_processed\10.1016_j.scitotenv.2022.153370.txt
+Processing row 2105: full_text_papers_processed\10.3390_en15093381.txt
+Processing row 2109: full_text_papers_processed\10.1016_j.scitotenv.2022.153284.txt
+Processing row 2116: full_text_papers_processed\10.1007_s12155-021-10318-9.txt
+Processing row 2126: full_text_papers_processed\10.1002_cssc.202102628.txt
+Processing row 2138: full_text_papers_processed\10.3389_fnut.2022.875697.txt
+Processing row 2143: full_text_papers_processed\10.1016_j.scitotenv.2022.152993.txt
+Processing row 2148: full_text_papers_processed\10.3390_polym14091726.txt
+Processing row 2151: full_text_papers_processed\10.1016_j.jddst.2022.103305.txt
+Processing row 2154: full_text_papers_processed\10.1016_j.cogsc.2022.100605.txt
+Processing row 2160: full_text_papers_processed\10.3390_catal12050570.txt
+Processing row 2166: full_text_papers_processed\10.1016_j.envres.2021.112179.txt
+Processing row 2173: full_text_papers_processed\10.1016_j.biortech.2022.127064.txt
+Processing row 2185: full_text_papers_processed\10.3390_resources11050048.txt
+Processing row 2193: full_text_papers_processed\10.3390_ijerph19106041.txt
+Processing row 2196: full_text_papers_processed\10.1016_j.biortech.2022.127083.txt
+Processing row 2222: full_text_papers_processed\10.3390_su14052830.txt
+Processing row 2230: full_text_papers_processed\10.1093_jimb_kuab056.txt
+Processing row 2239: full_text_papers_processed\10.1007_s11356-021-17974-6.txt
+Processing row 2248: full_text_papers_processed\10.2174_1573401317666210913095237.txt
+Processing row 2255: full_text_papers_processed\10.3390_en15062234.txt
+Processing row 2260: full_text_papers_processed\10.1016_j.resconrec.2021.106021.txt
+Processing row 2264: full_text_papers_processed\10.1016_j.wasman.2021.12.025.txt
+Processing row 2267: full_text_papers_processed\10.1016_j.jenvman.2021.114198.txt
+Processing row 2275: full_text_papers_processed\10.1016_j.jclepro.2021.130213.txt
+Processing row 2280: full_text_papers_processed\10.1039_d1gc03436g.txt
+Processing row 2291: full_text_papers_processed\10.3390_ma15062030.txt
+Processing row 2293: full_text_papers_processed\10.1016_j.cogsc.2021.100585.txt
+Processing row 2300: full_text_papers_processed\10.1007_s10311-021-01311-x.txt
+Processing row 2305: full_text_papers_processed\10.1016_j.jenvman.2021.114088.txt
+Processing row 2308: full_text_papers_processed\10.3390_catal12020186.txt
+Processing row 2309: full_text_papers_processed\10.1016_j.resconrec.2021.105955.txt
+Processing row 2325: full_text_papers_processed\10.1016_j.scitotenv.2021.150070.txt
+Processing row 2329: full_text_papers_processed\10.1016_j.clet.2022.100420.txt
+Processing row 2368: full_text_papers_processed\10.3390_su14031661.txt
+Processing row 2388: full_text_papers_processed\10.1016_j.scitotenv.2021.150312.txt
+Processing row 2396: full_text_papers_processed\10.1016_j.biortech.2021.126628.txt
+Processing row 2398: full_text_papers_processed\10.1016_j.biteb.2022.100985.txt
+Processing row 2413: full_text_papers_processed\10.1139_er-2021-0033.txt
+Processing row 2414: full_text_papers_processed\10.1002_app.52974.txt
+Processing row 2450: full_text_papers_processed\10.1007_s11356-022-21794-7.txt
+Processing row 2500: full_text_papers_processed\10.1016_j.scitotenv.2021.149765.txt
+Processing row 2518: full_text_papers_processed\10.1111_raq.12610.txt
+Processing row 2523: full_text_papers_processed\10.1016_j.chemosphere.2021.131623.txt
+Processing row 2529: full_text_papers_processed\10.1016_j.biteb.2021.100834.txt
+Processing row 2532: full_text_papers_processed\10.1080_07388551.2021.2002805.txt
+Processing row 2533: full_text_papers_processed\10.1016_j.biortech.2021.126128.txt
+Processing row 2534: full_text_papers_processed\10.1007_s43393-021-00042-y.txt
+Processing row 2535: full_text_papers_processed\10.1080_10643389.2020.1864957.txt
+Processing row 2539: full_text_papers_processed\10.1080_10643389.2021.1966254.txt
+Processing row 2547: full_text_papers_processed\10.3390_en14237928.txt
+Processing row 2556: full_text_papers_processed\10.1016_j.biombioe.2021.106314.txt
+Processing row 2575: full_text_papers_processed\10.1080_10408398.2020.1830364.txt
+Processing row 2577: full_text_papers_processed\10.1080_10643389.2021.1957342.txt
+Processing row 2582: full_text_papers_processed\10.1016_j.tibtech.2021.02.008.txt
+Processing row 2588: full_text_papers_processed\10.1080_07388551.2021.1931016.txt
+Processing row 2593: full_text_papers_processed\10.1080_17597269.2021.2016105.txt
+Processing row 2595: full_text_papers_processed\10.1016_j.biortech.2021.126059.txt
+Processing row 2596: full_text_papers_processed\10.3390_app112311097.txt
+Processing row 2610: full_text_papers_processed\10.1007_s10570-021-04234-6.txt
+Processing row 2612: full_text_papers_processed\10.3389_fmars.2021.723333.txt
+Processing row 2618: full_text_papers_processed\10.1016_j.powtec.2021.08.035.txt
+Processing row 2624: full_text_papers_processed\10.1016_j.biortech.2021.125950.txt
+Processing row 2627: full_text_papers_processed\10.1007_s10098-021-02181-1.txt
+Processing row 2629: full_text_papers_processed\10.1016_j.biopha.2021.112191.txt
+Processing row 2632: full_text_papers_processed\10.1016_j.xinn.2021.100180.txt
+Processing row 2646: full_text_papers_processed\10.1007_s12649-021-01461-7.txt
+Processing row 2647: full_text_papers_processed\10.1016_j.foodchem.2021.130141.txt
+Processing row 2654: full_text_papers_processed\10.1016_j.biortech.2021.125933.txt
+Processing row 2659: full_text_papers_processed\10.1007_s10068-021-00984-y.txt
+Processing row 2664: full_text_papers_processed\10.1016_j.tifs.2021.10.002.txt
+Processing row 2667: full_text_papers_processed\10.1016_j.chemosphere.2021.131136.txt
+Processing row 2690: full_text_papers_processed\10.1177_09673911211059880.txt
+Processing row 2691: full_text_papers_processed\10.1016_j.biortech.2021.125915.txt
+Processing row 2694: full_text_papers_processed\10.1002_cssc.202101173.txt
+Processing row 2695: full_text_papers_processed\10.1002_elsc.202100025.txt
+Processing row 2698: full_text_papers_processed\10.1021_acsnano.1c07571.txt
+Processing row 2723: full_text_papers_processed\10.1007_s43393-021-00039-7.txt
+Processing row 2726: full_text_papers_processed\10.1002_cssc.202101631.txt
+Processing row 2729: full_text_papers_processed\10.3390_nu13093283.txt
+Processing row 2736: full_text_papers_processed\10.1016_j.foodchem.2021.129912.txt
+Processing row 2739: full_text_papers_processed\10.1016_j.jclepro.2021.128593.txt
+Processing row 2748: full_text_papers_processed\10.1002_cssc.202100652.txt
+Processing row 2750: full_text_papers_processed\10.1093_femsyr_foab047.txt
+Processing row 2751: full_text_papers_processed\10.1016_j.clet.2021.100196.txt
+Processing row 2753: full_text_papers_processed\10.22507_PML.V16N1A1.txt
+Processing row 2759: full_text_papers_processed\10.1002_cssc.202101252.txt
+Processing row 2767: full_text_papers_processed\10.3390_polym13203503.txt
+Processing row 2770: full_text_papers_processed\10.1002_cssc.202100904.txt
+Processing row 2772: full_text_papers_processed\10.53365_efood.k_144603.txt
+Processing row 2778: full_text_papers_processed\10.1016_j.biortech.2021.125514.txt
+Processing row 2779: full_text_papers_processed\10.3390_fermentation7030136.txt
+Processing row 2784: full_text_papers_processed\10.1111_ijfs.15168.txt
+Processing row 2786: full_text_papers_processed\10.3390_ijerph18189466.txt
+Processing row 2797: full_text_papers_processed\10.1016_j.rser.2021.111343.txt
+Processing row 2801: full_text_papers_processed\10.1007_s13762-020-03036-w.txt
+Processing row 2809: full_text_papers_processed\10.3390_molecules26154515.txt
+Processing row 2811: full_text_papers_processed\10.1515_reveh-2020-0084.txt
+Processing row 2814: full_text_papers_processed\10.1016_j.biortech.2021.125181.txt
+Processing row 2818: full_text_papers_processed\10.3390_molecules26165062.txt
+Processing row 2819: full_text_papers_processed\10.1016_j.scitotenv.2021.146590.txt
+Processing row 2835: full_text_papers_processed\10.1016_j.jece.2021.105434.txt
+Processing row 2844: full_text_papers_processed\10.3390_polym13142337.txt
+Processing row 2851: full_text_papers_processed\10.1016_j.jclepro.2021.127180.txt
+Processing row 2853: full_text_papers_processed\10.1016_j.watres.2021.117186.txt
+Processing row 2857: full_text_papers_processed\10.1039_d1re00035g.txt
+Processing row 2858: full_text_papers_processed\10.1016_j.chemosphere.2021.130557.txt
+Processing row 2864: full_text_papers_processed\10.1016_j.jclepro.2021.127143.txt
+Processing row 2866: full_text_papers_processed\10.3390_ma14164456.txt
+Processing row 2867: full_text_papers_processed\10.1016_j.scitotenv.2021.145610.txt
+Processing row 2876: full_text_papers_processed\10.1016_j.cej.2021.129300.txt
+Processing row 2877: full_text_papers_processed\10.1016_j.eti.2021.101797.txt
+Processing row 2885: full_text_papers_processed\10.1007_s00203-021-02234-5.txt
+Processing row 2889: full_text_papers_processed\10.3390_su13137269.txt
+Processing row 2892: full_text_papers_processed\10.1016_j.isci.2021.102805.txt
+Processing row 2905: full_text_papers_processed\10.1016_j.tifs.2021.04.027.txt
+Processing row 2906: full_text_papers_processed\10.1016_j.coesh.2021.100253.txt
+Processing row 2908: full_text_papers_processed\10.3390_resources10040034.txt
+Processing row 2921: full_text_papers_processed\10.3390_su13126726.txt
+Processing row 2925: full_text_papers_processed\10.1016_j.jclepro.2021.126407.txt
+Processing row 2941: full_text_papers_processed\10.1016_j.resconrec.2021.105466.txt
+Processing row 2958: full_text_papers_processed\10.1016_j.jclepro.2021.126920.txt
+Processing row 2964: full_text_papers_processed\10.1016_j.wasman.2021.03.025.txt
+Processing row 2967: full_text_papers_processed\10.3389_fsufs.2021.654313.txt
+Processing row 2972: full_text_papers_processed\10.3390_jof7060427.txt
+Processing row 2974: full_text_papers_processed\10.1016_j.fuel.2021.120533.txt
+Processing row 2990: full_text_papers_processed\10.3390_polym13111727.txt
+Processing row 2996: full_text_papers_processed\10.1016_j.tifs.2021.03.002.txt
+Processing row 3007: full_text_papers_processed\10.1007_s40726-020-00172-2.txt
+Processing row 3012: full_text_papers_processed\10.1016_j.biortech.2020.124603.txt
+Processing row 3018: full_text_papers_processed\10.1016_j.micromeso.2021.111029.txt
+Processing row 3019: full_text_papers_processed\10.1016_j.biortech.2021.124739.txt
+Processing row 3026: full_text_papers_processed\10.1007_s11157-020-09560-y.txt
+Processing row 3029: full_text_papers_processed\10.1007_s12649-020-01108-z.txt
+Processing row 3033: full_text_papers_processed\10.1016_j.biortech.2020.124612.txt
+Processing row 3042: full_text_papers_processed\10.1016_j.biortech.2020.124538.txt
+Processing row 3043: full_text_papers_processed\10.1016_j.jclepro.2020.125646.txt
+Processing row 3050: full_text_papers_processed\10.3390_polym13050713.txt
+Processing row 3053: full_text_papers_processed\10.1016_j.biortech.2021.124686.txt
+Processing row 3057: full_text_papers_processed\10.1016_j.biortech.2021.124684.txt
+Processing row 3058: full_text_papers_processed\10.1016_j.ifset.2021.102601.txt
+Processing row 3059: full_text_papers_processed\10.1016_j.tifs.2021.01.008.txt
+Processing row 3065: full_text_papers_processed\10.1016_j.envpol.2020.115985.txt
+Processing row 3067: full_text_papers_processed\10.1039_d0gc04092d.txt
+Processing row 3085: full_text_papers_processed\10.1016_j.jclepro.2020.125747.txt
+Processing row 3089: full_text_papers_processed\10.1016_j.tifs.2021.01.059.txt
+Processing row 3092: full_text_papers_processed\10.1016_j.ultsonch.2020.105455.txt
+Processing row 3097: full_text_papers_processed\10.1016_j.seppur.2020.117666.txt
+Processing row 3098: full_text_papers_processed\10.3390_catal11020278.txt
+Processing row 3140: full_text_papers_processed\10.1016_j.supflu.2020.105121.txt
+Processing row 3157: full_text_papers_processed\10.1016_j.wasman.2020.11.031.txt
+Processing row 3201: full_text_papers_processed\10.1039_d0gc02627a.txt
+Processing row 3202: full_text_papers_processed\10.21577_1984-6835.20210017.txt
+Processing row 3204: full_text_papers_processed\10.3390_molecules26020495.txt
+Processing row 3213: full_text_papers_processed\10.1016_j.jenvman.2020.111417.txt
+Processing row 3214: full_text_papers_processed\10.3390_su13010234.txt
+Processing row 3222: full_text_papers_processed\10.3390_molecules26020515.txt
+Processing row 3226: full_text_papers_processed\10.1016_j.jenvman.2020.111211.txt
+Processing row 3238: full_text_papers_processed\10.1080_10408398.2020.1798352.txt
+Processing row 3255: full_text_papers_processed\10.3390_molecules26092632.txt
+Processing row 3263: full_text_papers_processed\10.1080_21655979.2021.1982321.txt
+Processing row 3264: full_text_papers_processed\10.1080_07388551.2021.1873240.txt
+Processing row 3280: full_text_papers_processed\10.2478_rtuect-2021-0050.txt
+Processing row 3288: full_text_papers_processed\10.1016_j.biortech.2020.124299.txt
+Processing row 3297: full_text_papers_processed\10.3390_pr9010161.txt
+Processing row 3300: full_text_papers_processed\10.1111_jfbc.13475.txt
+Processing row 3311: full_text_papers_processed\10.1016_j.cogsc.2020.100385.txt
+Processing row 3313: full_text_papers_processed\10.1016_j.wasman.2020.07.050.txt
+Processing row 3323: full_text_papers_processed\10.1016_j.rineng.2020.100181.txt
+Processing row 3330: full_text_papers_processed\10.1016_j.wasman.2020.09.010.txt
+Processing row 3335: full_text_papers_processed\10.1016_j.pecs.2020.100873.txt
+Processing row 3345: full_text_papers_processed\10.1002_cssc.202001905.txt
+Processing row 3356: full_text_papers_processed\10.3390_molecules25225264.txt
+Processing row 3360: full_text_papers_processed\10.1016_j.scp.2020.100326.txt
+Processing row 3372: full_text_papers_processed\10.1007_s11101-020-09663-y.txt
+Processing row 3373: full_text_papers_processed\10.1016_j.coche.2020.08.006.txt
+Processing row 3381: full_text_papers_processed\10.1016_j.foodchem.2020.127306.txt
+Processing row 3395: full_text_papers_processed\10.1016_j.crfs.2020.07.004.txt
+Processing row 3396: full_text_papers_processed\10.3390_biom10121669.txt
+Processing row 3399: full_text_papers_processed\10.1016_j.cogsc.2020.100357.txt
+Processing row 3400: full_text_papers_processed\10.1016_j.cogsc.2020.01.001.txt
+Processing row 3401: full_text_papers_processed\10.1039_d0gc00353k.txt
+Processing row 3412: full_text_papers_processed\10.1016_j.jenvman.2020.110510.txt
+Processing row 3416: full_text_papers_processed\10.1007_s11367-020-01792-y.txt
+Processing row 3438: full_text_papers_processed\10.1016_j.jclepro.2020.121129.txt
+Processing row 3440: full_text_papers_processed\10.1016_j.heliyon.2020.e04891.txt
+Processing row 3446: full_text_papers_processed\10.1016_j.conbuildmat.2020.119146.txt
+Processing row 3448: full_text_papers_processed\10.1016_j.copbio.2019.08.013.txt
+Processing row 3467: full_text_papers_processed\10.1177_0734242X20916828.txt
+Processing row 3472: full_text_papers_processed\10.1016_j.biteb.2020.100524.txt
+Processing row 3475: full_text_papers_processed\10.1016_j.biortech.2020.123613.txt
+Processing row 3488: full_text_papers_processed\10.1002_cssc.202000987.txt
+Processing row 3497: full_text_papers_processed\10.3390_foods9070918.txt
+Processing row 3505: full_text_papers_processed\10.1016_j.biortech.2020.122929.txt
+Processing row 3506: full_text_papers_processed\10.1016_j.cogsc.2020.03.007.txt
+Processing row 3525: full_text_papers_processed\10.1016_j.biortech.2020.122748.txt
+Processing row 3531: full_text_papers_processed\10.1016_j.jclepro.2019.119937.txt
+Processing row 3543: full_text_papers_processed\10.1039_d0fo00937g.txt
+Processing row 3549: full_text_papers_processed\10.1051_ject_202052135.txt
+Processing row 3567: full_text_papers_processed\10.1016_j.pecs.2019.100819.txt
+Processing row 3570: full_text_papers_processed\10.3389_fbioe.2020.00222.txt
+Processing row 3578: full_text_papers_processed\10.1016_j.biortech.2020.122964.txt
+Processing row 3581: full_text_papers_processed\10.1016_j.biortech.2019.122632.txt
+Processing row 3594: full_text_papers_processed\10.1016_j.biortech.2020.123019.txt
+Processing row 3597: full_text_papers_processed\10.1016_j.jclepro.2019.119373.txt
+Processing row 3644: full_text_papers_processed\10.3389_fsufs.2020.00018.txt
+Processing row 3676: full_text_papers_processed\10.3390_molecules25030510.txt
+Processing row 3688: full_text_papers_processed\10.1007_s41061-019-0264-1.txt
+Processing row 3689: full_text_papers_processed\10.3389_fchem.2020.00132.txt
+Processing row 3695: full_text_papers_processed\10.1016_j.bios.2019.111922.txt
+Processing row 3704: full_text_papers_processed\10.1016_j.cogsc.2019.06.002.txt
+Processing row 3721: full_text_papers_processed\10.1002_bit.27180.txt
+Processing row 3724: full_text_papers_processed\10.15302_J-FASE-2019287.txt
+Processing row 3739: full_text_papers_processed\10.1016_j.biortech.2019.122223.txt
+Processing row 3741: full_text_papers_processed\10.1016_j.desal.2019.114187.txt
+Processing row 3742: full_text_papers_processed\10.1016_j.jes.2019.05.018.txt
+Processing row 3783: full_text_papers_processed\10.1002_ep.13298.txt
+Processing row 3811: full_text_papers_processed\10.1002_cssc.201901426.txt
+Processing row 3819: full_text_papers_processed\10.3390_su11133604.txt
+Processing row 3830: full_text_papers_processed\10.1039_c8cs00543e.txt
+Processing row 3854: full_text_papers_processed\10.1016_j.envint.2019.03.076.txt
+Processing row 3860: full_text_papers_processed\10.3390_microorganisms7080229.txt
+Processing row 3870: full_text_papers_processed\10.1016_j.biortech.2019.121878.txt
+Processing row 3890: full_text_papers_processed\10.1016_j.micromeso.2019.06.009.txt
+Processing row 3906: full_text_papers_processed\10.1007_s13205-019-1568-0.txt
+Processing row 3915: full_text_papers_processed\10.1016_j.watres.2018.10.092.txt
+Processing row 3937: full_text_papers_processed\10.1016_j.jclepro.2019.02.258.txt
+Processing row 3938: full_text_papers_processed\10.1016_j.jenvman.2018.12.041.txt
+Processing row 3946: full_text_papers_processed\10.1016_j.jclepro.2018.11.230.txt
+Processing row 3954: full_text_papers_processed\10.1002_cssc.201802418.txt
+Processing row 3955: full_text_papers_processed\10.1111_ijfs.13850.txt
+Processing row 3961: full_text_papers_processed\10.1016_j.biortech.2019.02.105.txt
+Processing row 3962: full_text_papers_processed\10.1016_j.jrmge.2018.08.013.txt
+Processing row 3966: full_text_papers_processed\10.1016_j.jclepro.2018.10.058.txt
+Processing row 3968: full_text_papers_processed\10.1016_j.tifs.2018.03.005.txt
+Processing row 3970: full_text_papers_processed\10.1111_raq.12225.txt
+Processing row 3975: full_text_papers_processed\10.1016_j.wasman.2019.04.030.txt
+Processing row 3992: full_text_papers_processed\10.1016_j.jclepro.2018.09.164.txt
+Processing row 4022: full_text_papers_processed\10.18461_ijfsd.v10i2.19.txt
+Processing row 4031: full_text_papers_processed\10.1016_j.biotechadv.2018.11.012.txt
+Processing row 4043: full_text_papers_processed\10.2174_2213275912666181127124147.txt
+Processing row 4088: full_text_papers_processed\10.3390_molecules24101853.txt
+Processing row 4100: full_text_papers_processed\10.1021_acs.jafc.8b02667.txt
+Processing row 4108: full_text_papers_processed\10.1016_j.jclepro.2018.06.262.txt
+Processing row 4137: full_text_papers_processed\10.1016_j.eng.2018.05.010.txt
+Processing row 4175: full_text_papers_processed\10.1016_j.watres.2018.06.051.txt
+Processing row 4212: full_text_papers_processed\10.1016_j.nbt.2017.06.006.txt
+Processing row 4226: full_text_papers_processed\10.1016_j.tifs.2018.02.014.txt
+Processing row 4238: full_text_papers_processed\10.1016_j.wasman.2017.10.042.txt
+Processing row 4251: full_text_papers_processed\10.1016_j.wasman.2017.11.011.txt
+Processing row 4254: full_text_papers_processed\10.3390_fermentation4020033.txt
+Processing row 4283: full_text_papers_processed\10.1007_s12649-017-0003-1.txt
+Processing row 4285: full_text_papers_processed\10.1016_j.cogsc.2017.11.003.txt
+Processing row 4292: full_text_papers_processed\10.1007_s11947-018-2088-3.txt
+Processing row 4295: full_text_papers_processed\10.3280_RISS2018-001014.txt
+Processing row 4304: full_text_papers_processed\10.1021_acssuschemeng.7b02276.txt
+Processing row 4317: full_text_papers_processed\10.1016_j.cogsc.2017.07.008.txt
+Processing row 4323: full_text_papers_processed\10.1016_j.jcou.2017.07.003.txt
+Processing row 4326: full_text_papers_processed\10.1016_j.tifs.2017.02.013.txt
+Processing row 4329: full_text_papers_processed\10.1016_j.biortech.2017.06.076.txt
+Processing row 4334: full_text_papers_processed\10.1016_j.biortech.2017.06.163.txt
+Processing row 4338: full_text_papers_processed\10.3390_min7090168.txt
+Processing row 4347: full_text_papers_processed\10.1007_s11157-017-9430-5.txt
+Processing row 4362: full_text_papers_processed\10.1016_j.cogsc.2017.07.007.txt
+Processing row 4366: full_text_papers_processed\10.3390_fermentation3040054.txt
+Processing row 4372: full_text_papers_processed\10.1002_bbb.1812.txt
+Processing row 4375: full_text_papers_processed\10.1016_j.biortech.2017.09.106.txt
+Processing row 4376: full_text_papers_processed\10.2174_1874836801711010334.txt
+Processing row 4379: full_text_papers_processed\10.1007_s12649-016-9674-2.txt
+Processing row 4381: full_text_papers_processed\10.1007_s41061-017-0175-y.txt
+Processing row 4385: full_text_papers_processed\10.1016_j.jclepro.2017.08.138.txt
+Processing row 4402: full_text_papers_processed\10.1016_j.biortech.2017.04.026.txt
+Processing row 4406: full_text_papers_processed\10.1016_j.rser.2016.09.115.txt
+Processing row 4414: full_text_papers_processed\10.1007_s41061-017-0133-8.txt
+Processing row 4416: full_text_papers_processed\10.1016_j.rser.2017.02.007.txt
+Processing row 4417: full_text_papers_processed\10.1016_j.desal.2017.02.023.txt
+Processing row 4423: full_text_papers_processed\10.1007_s12649-016-9642-x.txt
+Processing row 4462: full_text_papers_processed\10.3109_07388551.2015.1100584.txt
+Processing row 4466: full_text_papers_processed\10.3390_su9020224.txt
+Processing row 4475: full_text_papers_processed\10.1007_s41061-017-0122-y.txt
+Processing row 4479: full_text_papers_processed\nan.txt
+Processing row 4498: full_text_papers_processed\10.1016_j.cej.2016.11.059.txt
+-----------------------------------------------------------------
+Fulltext available: 1 / 655
+Successfully extracted: 24
+Total time: 43.132930755615234, averaged time: 1.7972054481506348 seconds

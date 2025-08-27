@@ -1,20 +1,16 @@
 '''
 Extract from paper ABSTRACT using scopus_waste2resource.csv
-Usage: python extract_W2R_compare.py --num 50 --model gpt-4o-mini --prompt zero --save_dir experiment_model_compare
+Usage: python extract_W2R_compare.py --num 50 --model gpt-4o-mini --prompt zero --save_dir result
 Parameters:
 -- model: llama3.1, gpt-4o-mini
 -- prompt: zero, few
 -- style: json, code
-   1. json: output the result in json format
-   2. code: output the result in code format (eg. w2r["waste"]=["waste1", "waste2"])
 '''
 
-import ollama
 import time
 import json
 import pandas as pd
 import argparse
-from openai import OpenAI
 import re
 import os
 import ast
@@ -231,7 +227,7 @@ if __name__ == '__main__':
     parser.add_argument('--style', type=str, default='json', choices=['json', 'code'],
                         help='Style of the extraction: json or code')
     parser.add_argument('--temperature', type=float, default=1, help='temperature setting for the llm')
-    parser.add_argument('--save_dir', type=str, default='result', help='root directory to save results.')
+    parser.add_argument('--save_dir', type=str, default='results_all/abstract', help='root directory to save results.')
     parser.add_argument('--save_dir_rewrite', action='store_true',
                         help='whether to rewrite result files or increment folder name')
     parser.add_argument('--shot_k', type=int, default=2, help='number of examples for few-shot')

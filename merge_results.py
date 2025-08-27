@@ -1,7 +1,4 @@
 from utils import *
-import tqdm
-import json
-import numpy as np
 import random
 
 
@@ -10,8 +7,8 @@ def get_abstract_results():
 
     # REPLACE WITH YOUR FILES
     w2r_results = [
-    'result_all/abstract/gpt-4o-mini_zero_code1/run_0/w2r_results.json',    # part one
-    'result_all/abstract/gpt-4o-mini_zero_code1_1/run_0/w2r_results.json'   # part two  
+    'results_all/abstract/gpt-4o-mini_zero_code1/run_0/w2r_results.json',    # part one
+    'results_all/abstract/gpt-4o-mini_zero_code1_1/run_0/w2r_results.json'   # part two  
     ]
 
     waste_list = []
@@ -42,9 +39,9 @@ def get_abstract_results():
 def get_fulltext_results():
     # REPLACE WITH YOUR FILES
     w2r_results = [
-#     'result_all/fulltext/gpt-4o-mini_zero_code1_chunk/w2r_fulltext_results.json',
-#     'result_all/fulltext//gpt-4o-mini_zero_code1_chunk_1/review_papers',   # this is a folder, start from row id 166, reference is doi only
-    'result_all/fulltext/gpt-4o-mini_zero_code1_chunk_2/review_papers'     # this is a folder, reference is doi + chunk id
+#     'results_all/fulltext/gpt-4o-mini_zero_code1_chunk/w2r_fulltext_results.json',
+#     'results_all/fulltext//gpt-4o-mini_zero_code1_chunk_1/review_papers',   # this is a folder, start from row id 166, reference is doi only
+    'results_all/fulltext/gpt-4o-mini_zero_code1_chunk_2/review_papers'     # this is a folder, reference is doi + chunk id
     ]
 
     files = []
@@ -104,54 +101,5 @@ def combine_results(save_folder):
     print("number of triples: ", w2r_triple_count_abstract + w2r_triple_count_fulltext)
 
 
-def check_statics_after_fusion(base_folder):
-    # Read waste cluster files
-    with open(os.path.join(base_folder, 'waste_cluster_elements.json'), 'r') as f:
-        waste_names = json.load(f)
-
-    with open(os.path.join(base_folder, 'waste_cluster_unified_names.json'), 'r') as f:
-        waste_unified_names = json.load(f)
-
-    # Read resource cluster files
-    with open(os.path.join(base_folder, 'resource_cluster_elements.json'), 'r') as f:
-        resource_names = json.load(f)
-
-    with open(os.path.join(base_folder, 'resource_cluster_unified_names.json'), 'r') as f:
-        resource_unified_names = json.load(f)
-
-    # Count statistics
-    waste_cluster_count = len(waste_names)
-    waste_elements_count = sum(len(elements) for elements in waste_names.values())
-    waste_unified_names_count = sum(len(elements) for elements in waste_unified_names.values())
-
-    resource_cluster_count = len(resource_names)
-    resource_elements_count = sum(len(elements) for elements in resource_names.values())
-    resource_unified_names_count = sum(len(elements) for elements in resource_unified_names.values())
-
-    # count number of triples
-    with open(os.path.join(base_folder, 'fused_triples.json'), 'r') as f:
-        fused_triples = json.load(f)
-    fused_triples_count = len(fused_triples)
-
-    with open(os.path.join(base_folder, 'fused_triples_aggregated.json'), 'r') as f:
-        fused_triples_aggregated = json.load(f)
-    fused_triples_aggregated_count = len(fused_triples_aggregated)
-
-    # Print results
-    print("Waste Statistics:")
-    print(f"Number of waste clusters: {waste_cluster_count}")
-    print(f"Total number of waste elements: {waste_elements_count}")
-    print(f"Number of waste unified names: {waste_unified_names_count}")
-    print("\nResource Statistics:")
-    print(f"Number of resource clusters: {resource_cluster_count}")
-    print(f"Total number of resource elements: {resource_elements_count}")
-    print(f"Number of resource unified names: {resource_unified_names_count}")
-
-    print("\nFused Triples Statistics:")
-    print(f"Number of fused triples: {fused_triples_count}")
-    print(f"Number of aggregated fused triples: {fused_triples_aggregated_count}")
-
-
 if __name__ == "__main__":
-    # combine_results(save_folder="result_all/before_fusion_v2")
-    check_statics_after_fusion(base_folder='result_all/after_fusion_v2/thre09_complete')
+    combine_results(save_folder="results_all/before_fusion_v2")

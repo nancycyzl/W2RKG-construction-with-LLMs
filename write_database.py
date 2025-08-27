@@ -1,7 +1,7 @@
 '''
 Step 5: write to database
 Input:
-- step4 w2r_canonicalized_results.json
+- step4 fused_triples_aggregated.json
 Output:
 - to Neo4j
 '''
@@ -58,7 +58,7 @@ def main():
     #     }
     # ]
 
-    w2r_data = read_json("result_all/after_fusion_v2/thre08_complete/fused_triples_aggregated.json")
+    w2r_data = read_json("results_all/after_fusion_v2/thre08_complete/fused_triples_aggregated.json")
 
     # write to database
     db.create_waste_to_resource(w2r_data)
