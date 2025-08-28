@@ -151,3 +151,8 @@ and `finetune_llama/extraction_llama_finetune_codestyle.ipynb` (code-style)
 contain codes for model fine-tuning and inference.
 
 The fine-tuned LoRa weights can be accessed via this [GDrive link](https://drive.google.com/drive/folders/12yNoSqhExA3EG_Tusa-xfU1Dwm4L_Dvy?usp=sharing).
+
+
+### W2RKG application in identifying symbiotic opportunties
+
+See this [GitHub repository](https://github.com/nancycyzl/W2RKG_application).
