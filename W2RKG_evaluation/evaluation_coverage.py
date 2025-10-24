@@ -33,10 +33,14 @@ import argparse
 import logging
 import pandas as pd
 import numpy as np
-from utils import prompt_llm
 from collections import Counter
 import matplotlib.pyplot as plt
 import seaborn as sns
+
+import sys
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from utils import prompt_llm
 
 
 def get_NACE_sector():
@@ -105,10 +109,10 @@ def save_confusion_matrix(confusion_matrix, save_folder, filename_wo_extension, 
     # plt.title("Confusion Matrix", fontsize=16)
     plt.xlabel("Receiving Sector", fontsize=16)
     plt.ylabel("Providing Sector", fontsize=16)
-    plt.savefig(os.path.join(save_folder, filename_wo_extension + ".png"), dpi=300, bbox_inches='tight')
+    plt.savefig(os.path.join(save_folder, filename_wo_extension + ".svg"), format='svg', bbox_inches='tight')
 
 
-def assess_maestri(require_return=False, save_folder="compare_Maestri"):
+def assess_maestri(require_return=False, save_folder="W2RKG_evaluation/compare_maestri_results"):
 
     maestri_df = pd.read_excel("data/Maestri.xlsx", header=[0, 1, 2])  # Read first 3 rows as headers
     maestri_df.columns = ['_'.join(map(str, col)).strip() for col in maestri_df.columns]
@@ -366,7 +370,7 @@ def assess_w2rkg_llm(model, save_folder):
     # read file and check statistics
     waste_list = []
     resource_list = []
-    with open("result_all/after_fusion_v2/thre08_complete/fused_triples_aggregated.json") as file:
+    with open("results_all/after_fusion_v2/thre08_complete/fused_triples_aggregated.json") as file:
         data = json.load(file)
     for w2r in data:
         waste_list.append(w2r["waste"])
@@ -430,7 +434,7 @@ def plot_num_of_entities(save_folder):
     maestri_resource_num = len(list(set(resource_list)))
 
     # W2RKG
-    with open("result_all/after_fusion_v2/thre08_complete/fused_triples_aggregated.json") as file:
+    with open("results_all/after_fusion_v2/thre08_complete/fused_triples_aggregated.json") as file:
         data = json.load(file)
     waste_list = []
     resource_list = []
@@ -465,7 +469,7 @@ def plot_num_of_entities(save_folder):
     plt.ylabel("Number of unique entities")
     # plt.title("Number of unique entities in Maestri and W2RKG")
     plt.legend()
-    plt.savefig(os.path.join(save_folder, "num_of_entities.png"), dpi=300, bbox_inches='tight')
+    plt.savefig(os.path.join(save_folder, "num_of_entities.svg"), format='svg', bbox_inches='tight')
 
 
 def plot_cm_from_csv(save_folder):
@@ -497,7 +501,7 @@ if __name__ == "__main__":
     parser.add_argument('--plot_num_of_entities', action='store_true', help='Plot number of entities')
     parser.add_argument('--plot_cm_from_csv', action='store_true', help='Plot confusion matrices from CSV')
     parser.add_argument('--model', default='llama3.1', choices=['llama3.1', 'gpt-4o-mini'], help='Model to use (default: llama3.1)')
-    parser.add_argument('--folder', default='compare_Maestri', help='Output folder (default: compare_Maestri)')
+    parser.add_argument('--folder', default='W2RKG_evaluation/compare_maestri_results', help='Output folder (default: compare_maestri_results)')
     args = parser.parse_args()
     
     if args.assess_maestri:
